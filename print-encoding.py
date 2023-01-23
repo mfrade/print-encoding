@@ -20,7 +20,8 @@ Range = namedtuple('Range', ['begin', 'end', 'description', 'order'])
 #########
 def process_arguments():
     parser = argparse.ArgumentParser(description='A script to print characters to and from unicode.')
-    parser.add_argument('-l', '--list', action='store_true', help='Print list of Unicode blocks"')
+    parser.add_argument('-l', '--list', action='store_true', help='Print list of Unicode blocks')
+    parser.add_argument('-r', '--redownload', action='store_true', help='Re-downloads the Blocks.txt file with the unicode characters ranges')
     parser.add_argument('-b', '--block', type=int, help='Print all characters inside a specific Unicode BLOCK')
     parser.add_argument('-u', '--unicode', type=str, help='Print UNICODE character in decimal, UTF-32BE, UTF-8 and UTF-16LE')
     parser.add_argument('-d', '--decimal', type=int, help='Print DECIMAL character in UTF-32BE, UTF-8 and UTF-16LE')
@@ -29,17 +30,18 @@ def process_arguments():
 
 
 #########
-def download_file(filename, url):
-    if not os.path.exists(filename):
-        print(f"Downloading file from:", url)
-        try:
-            urllib.request.urlretrieve(url, filename)
-        except URLError as e:
-            print(f'Error: {e.reason}')
-        except HTTPError as e:
-            print(f'Error: {e.code} {e.reason}')
-        except ContentTooShortError as e:
-            print(f'Error: {e}')
+def download_file(filename):
+    url = "https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
+
+    print(f"Downloading file from:", url)
+    try:
+        urllib.request.urlretrieve(url, filename)
+    except URLError as e:
+        print(f'Error: {e.reason}')
+    except HTTPError as e:
+        print(f'Error: {e.code} {e.reason}')
+    except ContentTooShortError as e:
+        print(f'Error: {e}')
 
 
 #########
@@ -71,10 +73,9 @@ def read_file(filename):
 
 
 #########
-def read_unicode_blocks_file():
-    filename="Blocks.txt"
-    url="https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
-    download_file(filename, url)
+def read_unicode_blocks_file(filename):
+    if not os.path.exists(filename):
+        download_file(filename)
     ranges = read_file(filename)
     return ranges
 
@@ -181,11 +182,19 @@ def get_range_description(ranges: List[Range], D: int) -> None:
 # Main
 ##################
 
+# Blocks.txt file location
+home = os.path.expanduser("~")
+basedir = home + "/.local/share/"
+filename = basedir + "Unicode-Blocks.txt"
+
 args = process_arguments()
-ranges = read_unicode_blocks_file()
+ranges = read_unicode_blocks_file(filename)
 
 if args.list:
     print_unicode_blocks(ranges)
+
+if args.redownload:
+    download_file(filename)
 
 if args.block:
     print_unicode_block_n(ranges, args.block)
