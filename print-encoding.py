@@ -143,6 +143,10 @@ def print_unicode_block_n(ranges, block):
         print(f"{block} out of range")
         exit(-1)
 
+    if ((block >= 150) and (block <= 152)):
+        print(f"Block {block} contains surrogate codes, there are no characters in this block. To learn more read: https://en.wikipedia.org/wiki/UTF-16")
+        exit(0)
+
     print_header_top()
     for i in range(ranges[block-1].begin, ranges[block-1].end+1):
         print_encodings(ranges, i)
