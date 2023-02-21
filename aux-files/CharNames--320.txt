@@ -1,0 +1,42 @@
+184065,dram (apothecary symbol ʒ) | cjk ideograph
+184068,ounce (apothecary symbol ℥) | cjk ideograph
+184342,manage, control; thousandth part of tael | cjk ideograph
+185218,a kind of edible mushroom | cjk ideograph
+188950,None
+188951,None
+188952,None
+188953,None
+188954,None
+188955,None
+188956,None
+188957,None
+188958,None
+188959,None
+188960,None
+188961,None
+188962,None
+188963,None
+188964,None
+188965,None
+188966,None
+188967,None
+188968,None
+188969,None
+188970,None
+188971,None
+188972,None
+188973,None
+188974,None
+188975,None
+188977,None
+188978,None
+188979,None
+188980,None
+188981,None
+188982,None
+188983,None
+188984,None
+188985,None
+188986,None
+188988,None
+188989,None

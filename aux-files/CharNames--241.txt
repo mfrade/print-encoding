@@ -1,0 +1,57 @@
+72384,pau cin hau letter pa
+72385,pau cin hau letter ka
+72386,pau cin hau letter la
+72387,pau cin hau letter ma
+72388,pau cin hau letter da
+72389,pau cin hau letter za
+72390,pau cin hau letter va
+72391,pau cin hau letter nga
+72392,pau cin hau letter ha
+72393,pau cin hau letter ga
+72394,pau cin hau letter kha
+72395,pau cin hau letter sa
+72396,pau cin hau letter ba
+72397,pau cin hau letter ca
+72398,pau cin hau letter ta
+72399,pau cin hau letter tha
+72400,pau cin hau letter na
+72401,pau cin hau letter pha
+72402,pau cin hau letter ra
+72403,pau cin hau letter fa
+72404,pau cin hau letter cha
+72405,pau cin hau letter a
+72406,pau cin hau letter e
+72407,pau cin hau letter i
+72408,pau cin hau letter o
+72409,pau cin hau letter u
+72410,pau cin hau letter ua
+72411,pau cin hau letter ia
+72412,pau cin hau letter final p
+72413,pau cin hau letter final k
+72414,pau cin hau letter final t
+72415,pau cin hau letter final m
+72416,pau cin hau letter final n
+72417,pau cin hau letter final l
+72418,pau cin hau letter final w
+72419,pau cin hau letter final ng
+72420,pau cin hau letter final y
+72421,pau cin hau rising tone long
+72422,pau cin hau rising tone
+72423,pau cin hau sandhi glottal stop
+72424,pau cin hau rising tone long final
+72425,pau cin hau rising tone final
+72426,pau cin hau sandhi glottal stop final
+72427,pau cin hau sandhi tone long
+72428,pau cin hau sandhi tone
+72429,pau cin hau sandhi tone long final
+72430,pau cin hau sandhi tone final
+72431,pau cin hau mid-level tone
+72432,pau cin hau glottal stop variant
+72433,pau cin hau mid-level tone long final
+72434,pau cin hau mid-level tone final
+72435,pau cin hau low-falling tone long
+72436,pau cin hau low-falling tone
+72437,pau cin hau glottal stop
+72438,pau cin hau low-falling tone long final
+72439,pau cin hau low-falling tone final
+72440,pau cin hau glottal stop final

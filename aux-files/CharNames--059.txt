@@ -1,0 +1,124 @@
+6912,balinese sign ulu ricem
+6913,balinese sign ulu candra
+6914,balinese sign cecek
+6915,balinese sign surang
+6916,balinese sign bisah
+6917,balinese letter akara
+6918,balinese letter akara tedung
+6919,balinese letter ikara
+6920,balinese letter ikara tedung
+6921,balinese letter ukara
+6922,balinese letter ukara tedung
+6923,balinese letter ra repa
+6924,balinese letter ra repa tedung
+6925,balinese letter la lenga
+6926,balinese letter la lenga tedung
+6927,balinese letter ekara
+6928,balinese letter aikara
+6929,balinese letter okara
+6930,balinese letter okara tedung
+6931,balinese letter ka
+6932,balinese letter ka mahaprana
+6933,balinese letter ga
+6934,balinese letter ga gora
+6935,balinese letter nga
+6936,balinese letter ca
+6937,balinese letter ca laca
+6938,balinese letter ja
+6939,balinese letter ja jera
+6940,balinese letter nya
+6941,balinese letter ta latik
+6942,balinese letter ta murda mahaprana
+6943,balinese letter da murda alpaprana
+6944,balinese letter da murda mahaprana
+6945,balinese letter na rambat
+6946,balinese letter ta
+6947,balinese letter ta tawa
+6948,balinese letter da
+6949,balinese letter da madu
+6950,balinese letter na
+6951,balinese letter pa
+6952,balinese letter pa kapal
+6953,balinese letter ba
+6954,balinese letter ba kembang
+6955,balinese letter ma
+6956,balinese letter ya
+6957,balinese letter ra
+6958,balinese letter la
+6959,balinese letter wa
+6960,balinese letter sa saga
+6961,balinese letter sa sapa
+6962,balinese letter sa
+6963,balinese letter ha
+6964,balinese sign rerekan
+6965,balinese vowel sign tedung
+6966,balinese vowel sign ulu
+6967,balinese vowel sign ulu sari
+6968,balinese vowel sign suku
+6969,balinese vowel sign suku ilut
+6970,balinese vowel sign ra repa
+6971,balinese vowel sign ra repa tedung
+6972,balinese vowel sign la lenga
+6973,balinese vowel sign la lenga tedung
+6974,balinese vowel sign taling
+6975,balinese vowel sign taling repa
+6976,balinese vowel sign taling tedung
+6977,balinese vowel sign taling repa tedung
+6978,balinese vowel sign pepet
+6979,balinese vowel sign pepet tedung
+6980,balinese adeg adeg
+6981,balinese letter kaf sasak
+6982,balinese letter khot sasak
+6983,balinese letter tzir sasak
+6984,balinese letter ef sasak
+6985,balinese letter ve sasak
+6986,balinese letter zal sasak
+6987,balinese letter asyura sasak
+6988,balinese letter archaic jnya
+6992,balinese digit zero
+6993,balinese digit one
+6994,balinese digit two
+6995,balinese digit three
+6996,balinese digit four
+6997,balinese digit five
+6998,balinese digit six
+6999,balinese digit seven
+7000,balinese digit eight
+7001,balinese digit nine
+7002,balinese panti
+7003,balinese pamada
+7004,balinese windu
+7005,balinese carik pamungkah
+7006,balinese carik siki
+7007,balinese carik pareren
+7008,balinese pameneng
+7009,balinese musical symbol dong
+7010,balinese musical symbol deng
+7011,balinese musical symbol dung
+7012,balinese musical symbol dang
+7013,balinese musical symbol dang surang
+7014,balinese musical symbol ding
+7015,balinese musical symbol daeng
+7016,balinese musical symbol deung
+7017,balinese musical symbol daing
+7018,balinese musical symbol dang gede
+7019,balinese musical symbol combining tegeh
+7020,balinese musical symbol combining endep
+7021,balinese musical symbol combining kempul
+7022,balinese musical symbol combining kempli
+7023,balinese musical symbol combining jegogan
+7024,balinese musical symbol combining kempul with jegogan
+7025,balinese musical symbol combining kempli with jegogan
+7026,balinese musical symbol combining bende
+7027,balinese musical symbol combining gong
+7028,balinese musical symbol right-hand open dug
+7029,balinese musical symbol right-hand open dag
+7030,balinese musical symbol right-hand closed tuk
+7031,balinese musical symbol right-hand closed tak
+7032,balinese musical symbol left-hand open pang
+7033,balinese musical symbol left-hand open pung
+7034,balinese musical symbol left-hand closed plak
+7035,balinese musical symbol left-hand closed pluk
+7036,balinese musical symbol left-hand open ping
+7037,balinese panti lantang
+7038,balinese pamada lantang

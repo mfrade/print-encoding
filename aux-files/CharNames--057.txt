@@ -1,0 +1,127 @@
+6688,tai tham letter high ka
+6689,tai tham letter high kha
+6690,tai tham letter high kxa
+6691,tai tham letter low ka
+6692,tai tham letter low kxa
+6693,tai tham letter low kha
+6694,tai tham letter nga
+6695,tai tham letter high ca
+6696,tai tham letter high cha
+6697,tai tham letter low ca
+6698,tai tham letter low sa
+6699,tai tham letter low cha
+6700,tai tham letter nya
+6701,tai tham letter rata
+6702,tai tham letter high ratha
+6703,tai tham letter da
+6704,tai tham letter low ratha
+6705,tai tham letter rana
+6706,tai tham letter high ta
+6707,tai tham letter high tha
+6708,tai tham letter low ta
+6709,tai tham letter low tha
+6710,tai tham letter na
+6711,tai tham letter ba
+6712,tai tham letter high pa
+6713,tai tham letter high pha
+6714,tai tham letter high fa
+6715,tai tham letter low pa
+6716,tai tham letter low fa
+6717,tai tham letter low pha
+6718,tai tham letter ma
+6719,tai tham letter low ya
+6720,tai tham letter high ya
+6721,tai tham letter ra
+6722,tai tham letter rue
+6723,tai tham letter la
+6724,tai tham letter lue
+6725,tai tham letter wa
+6726,tai tham letter high sha
+6727,tai tham letter high ssa
+6728,tai tham letter high sa
+6729,tai tham letter high ha
+6730,tai tham letter lla
+6731,tai tham letter a
+6732,tai tham letter low ha
+6733,tai tham letter i
+6734,tai tham letter ii
+6735,tai tham letter u
+6736,tai tham letter uu
+6737,tai tham letter ee
+6738,tai tham letter oo
+6739,tai tham letter lae
+6740,tai tham letter great sa
+6741,tai tham consonant sign medial ra
+6742,tai tham consonant sign medial la
+6743,tai tham consonant sign la tang lai
+6744,tai tham sign mai kang lai
+6745,tai tham consonant sign final nga
+6746,tai tham consonant sign low pa
+6747,tai tham consonant sign high ratha or low pa
+6748,tai tham consonant sign ma
+6749,tai tham consonant sign ba
+6750,tai tham consonant sign sa
+6752,tai tham sign sakot
+6753,tai tham vowel sign a
+6754,tai tham vowel sign mai sat
+6755,tai tham vowel sign aa
+6756,tai tham vowel sign tall aa
+6757,tai tham vowel sign i
+6758,tai tham vowel sign ii
+6759,tai tham vowel sign ue
+6760,tai tham vowel sign uue
+6761,tai tham vowel sign u
+6762,tai tham vowel sign uu
+6763,tai tham vowel sign o
+6764,tai tham vowel sign oa below
+6765,tai tham vowel sign oy
+6766,tai tham vowel sign e
+6767,tai tham vowel sign ae
+6768,tai tham vowel sign oo
+6769,tai tham vowel sign ai
+6770,tai tham vowel sign tham ai
+6771,tai tham vowel sign oa above
+6772,tai tham sign mai kang
+6773,tai tham sign tone-1
+6774,tai tham sign tone-2
+6775,tai tham sign khuen tone-3
+6776,tai tham sign khuen tone-4
+6777,tai tham sign khuen tone-5
+6778,tai tham sign ra haam
+6779,tai tham sign mai sam
+6780,tai tham sign khuen-lue karan
+6783,tai tham combining cryptogrammic dot
+6784,tai tham hora digit zero
+6785,tai tham hora digit one
+6786,tai tham hora digit two
+6787,tai tham hora digit three
+6788,tai tham hora digit four
+6789,tai tham hora digit five
+6790,tai tham hora digit six
+6791,tai tham hora digit seven
+6792,tai tham hora digit eight
+6793,tai tham hora digit nine
+6800,tai tham tham digit zero
+6801,tai tham tham digit one
+6802,tai tham tham digit two
+6803,tai tham tham digit three
+6804,tai tham tham digit four
+6805,tai tham tham digit five
+6806,tai tham tham digit six
+6807,tai tham tham digit seven
+6808,tai tham tham digit eight
+6809,tai tham tham digit nine
+6816,tai tham sign wiang
+6817,tai tham sign wiangwaak
+6818,tai tham sign sawan
+6819,tai tham sign keow
+6820,tai tham sign hoy
+6821,tai tham sign dokmai
+6822,tai tham sign reversed rotated rana
+6823,tai tham sign mai yamok
+6824,tai tham sign kaan
+6825,tai tham sign kaankuu
+6826,tai tham sign satkaan
+6827,tai tham sign satkaankuu
+6828,tai tham sign hang
+6829,tai tham sign caang

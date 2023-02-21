@@ -1,0 +1,96 @@
+917505,language tag
+917536,tag space
+917537,tag exclamation mark
+917538,tag quotation mark
+917539,tag number sign
+917540,tag dollar sign
+917541,tag percent sign
+917542,tag ampersand
+917543,tag apostrophe
+917544,tag left parenthesis
+917545,tag right parenthesis
+917546,tag asterisk
+917547,tag plus sign
+917548,tag comma
+917549,tag hyphen-minus
+917550,tag full stop
+917551,tag solidus
+917552,tag digit zero
+917553,tag digit one
+917554,tag digit two
+917555,tag digit three
+917556,tag digit four
+917557,tag digit five
+917558,tag digit six
+917559,tag digit seven
+917560,tag digit eight
+917561,tag digit nine
+917562,tag colon
+917563,tag semicolon
+917564,tag less-than sign
+917565,tag equals sign
+917566,tag greater-than sign
+917567,tag question mark
+917568,tag commercial at
+917569,tag latin capital letter a
+917570,tag latin capital letter b
+917571,tag latin capital letter c
+917572,tag latin capital letter d
+917573,tag latin capital letter e
+917574,tag latin capital letter f
+917575,tag latin capital letter g
+917576,tag latin capital letter h
+917577,tag latin capital letter i
+917578,tag latin capital letter j
+917579,tag latin capital letter k
+917580,tag latin capital letter l
+917581,tag latin capital letter m
+917582,tag latin capital letter n
+917583,tag latin capital letter o
+917584,tag latin capital letter p
+917585,tag latin capital letter q
+917586,tag latin capital letter r
+917587,tag latin capital letter s
+917588,tag latin capital letter t
+917589,tag latin capital letter u
+917590,tag latin capital letter v
+917591,tag latin capital letter w
+917592,tag latin capital letter x
+917593,tag latin capital letter y
+917594,tag latin capital letter z
+917595,tag left square bracket
+917596,tag reverse solidus
+917597,tag right square bracket
+917598,tag circumflex accent
+917599,tag low line
+917600,tag grave accent
+917601,tag latin small letter a
+917602,tag latin small letter b
+917603,tag latin small letter c
+917604,tag latin small letter d
+917605,tag latin small letter e
+917606,tag latin small letter f
+917607,tag latin small letter g
+917608,tag latin small letter h
+917609,tag latin small letter i
+917610,tag latin small letter j
+917611,tag latin small letter k
+917612,tag latin small letter l
+917613,tag latin small letter m
+917614,tag latin small letter n
+917615,tag latin small letter o
+917616,tag latin small letter p
+917617,tag latin small letter q
+917618,tag latin small letter r
+917619,tag latin small letter s
+917620,tag latin small letter t
+917621,tag latin small letter u
+917622,tag latin small letter v
+917623,tag latin small letter w
+917624,tag latin small letter x
+917625,tag latin small letter y
+917626,tag latin small letter z
+917627,tag left curly bracket
+917628,tag vertical line
+917629,tag right curly bracket
+917630,tag tilde

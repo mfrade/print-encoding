@@ -1,0 +1,46 @@
+66000,phaistos disc sign pedestrian
+66001,phaistos disc sign plumed head
+66002,phaistos disc sign tattooed head
+66003,phaistos disc sign captive
+66004,phaistos disc sign child
+66005,phaistos disc sign woman
+66006,phaistos disc sign helmet
+66007,phaistos disc sign gauntlet
+66008,phaistos disc sign tiara
+66009,phaistos disc sign arrow
+66010,phaistos disc sign bow
+66011,phaistos disc sign shield
+66012,phaistos disc sign club
+66013,phaistos disc sign manacles
+66014,phaistos disc sign mattock
+66015,phaistos disc sign saw
+66016,phaistos disc sign lid
+66017,phaistos disc sign boomerang
+66018,phaistos disc sign carpentry plane
+66019,phaistos disc sign dolium
+66020,phaistos disc sign comb
+66021,phaistos disc sign sling
+66022,phaistos disc sign column
+66023,phaistos disc sign beehive
+66024,phaistos disc sign ship
+66025,phaistos disc sign horn
+66026,phaistos disc sign hide
+66027,phaistos disc sign bulls leg
+66028,phaistos disc sign cat
+66029,phaistos disc sign ram
+66030,phaistos disc sign eagle
+66031,phaistos disc sign dove
+66032,phaistos disc sign tunny
+66033,phaistos disc sign bee
+66034,phaistos disc sign plane tree
+66035,phaistos disc sign vine
+66036,phaistos disc sign papyrus
+66037,phaistos disc sign rosette
+66038,phaistos disc sign lily
+66039,phaistos disc sign ox back
+66040,phaistos disc sign flute
+66041,phaistos disc sign grater
+66042,phaistos disc sign strainer
+66043,phaistos disc sign small axe
+66044,phaistos disc sign wavy band
+66045,phaistos disc sign combining oblique stroke

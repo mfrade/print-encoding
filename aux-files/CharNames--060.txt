@@ -1,0 +1,63 @@
+7040,sundanese sign panyecek
+7041,sundanese sign panglayar
+7042,sundanese sign pangwisad
+7043,sundanese letter a
+7044,sundanese letter i
+7045,sundanese letter u
+7046,sundanese letter ae
+7047,sundanese letter o
+7048,sundanese letter e
+7049,sundanese letter eu
+7050,sundanese letter ka
+7051,sundanese letter qa
+7052,sundanese letter ga
+7053,sundanese letter nga
+7054,sundanese letter ca
+7055,sundanese letter ja
+7056,sundanese letter za
+7057,sundanese letter nya
+7058,sundanese letter ta
+7059,sundanese letter da
+7060,sundanese letter na
+7061,sundanese letter pa
+7062,sundanese letter fa
+7063,sundanese letter va
+7064,sundanese letter ba
+7065,sundanese letter ma
+7066,sundanese letter ya
+7067,sundanese letter ra
+7068,sundanese letter la
+7069,sundanese letter wa
+7070,sundanese letter sa
+7071,sundanese letter xa
+7072,sundanese letter ha
+7073,sundanese consonant sign pamingkal
+7074,sundanese consonant sign panyakra
+7075,sundanese consonant sign panyiku
+7076,sundanese vowel sign panghulu
+7077,sundanese vowel sign panyuku
+7078,sundanese vowel sign panaelaeng
+7079,sundanese vowel sign panolong
+7080,sundanese vowel sign pamepet
+7081,sundanese vowel sign paneuleung
+7082,sundanese sign pamaaeh
+7083,sundanese sign virama
+7084,sundanese consonant sign pasangan ma
+7085,sundanese consonant sign pasangan wa
+7086,sundanese letter kha
+7087,sundanese letter sya
+7088,sundanese digit zero
+7089,sundanese digit one
+7090,sundanese digit two
+7091,sundanese digit three
+7092,sundanese digit four
+7093,sundanese digit five
+7094,sundanese digit six
+7095,sundanese digit seven
+7096,sundanese digit eight
+7097,sundanese digit nine
+7098,sundanese avagraha
+7099,sundanese letter reu
+7100,sundanese letter leu
+7101,sundanese letter bha
+7102,sundanese letter final k

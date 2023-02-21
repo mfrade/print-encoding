@@ -1,0 +1,111 @@
+768,combining grave accent
+769,combining acute accent
+770,combining circumflex accent
+771,combining tilde
+772,combining macron
+773,combining overline
+774,combining breve
+775,combining dot above
+776,combining diaeresis
+777,combining hook above
+778,combining ring above
+779,combining double acute accent
+780,combining caron
+781,combining vertical line above
+782,combining double vertical line above
+783,combining double grave accent
+784,combining candrabindu
+785,combining inverted breve
+786,combining turned comma above
+787,combining comma above
+788,combining reversed comma above
+789,combining comma above right
+790,combining grave accent below
+791,combining acute accent below
+792,combining left tack below
+793,combining right tack below
+794,combining left angle above
+795,combining horn
+796,combining left half ring below
+797,combining up tack below
+798,combining down tack below
+799,combining plus sign below
+800,combining minus sign below
+801,combining palatalized hook below
+802,combining retroflex hook below
+803,combining dot below
+804,combining diaeresis below
+805,combining ring below
+806,combining comma below
+807,combining cedilla
+808,combining ogonek
+809,combining vertical line below
+810,combining bridge below
+811,combining inverted double arch below
+812,combining caron below
+813,combining circumflex accent below
+814,combining breve below
+815,combining inverted breve below
+816,combining tilde below
+817,combining macron below
+818,combining low line
+819,combining double low line
+820,combining tilde overlay
+821,combining short stroke overlay
+822,combining long stroke overlay
+823,combining short solidus overlay
+824,combining long solidus overlay
+825,combining right half ring below
+826,combining inverted bridge below
+827,combining square below
+828,combining seagull below
+829,combining x above
+830,combining vertical tilde
+831,combining double overline
+832,combining grave tone mark
+833,combining acute tone mark
+834,combining greek perispomeni
+835,combining greek koronis
+836,combining greek dialytika tonos
+837,combining greek ypogegrammeni
+838,combining bridge above
+839,combining equals sign below
+840,combining double vertical line below
+841,combining left angle below
+842,combining not tilde above
+843,combining homothetic above
+844,combining almost equal to above
+845,combining left right arrow below
+846,combining upwards arrow below
+847,combining grapheme joiner
+848,combining right arrowhead above
+849,combining left half ring above
+850,combining fermata
+851,combining x below
+852,combining left arrowhead below
+853,combining right arrowhead below
+854,combining right arrowhead and up arrowhead below
+855,combining right half ring above
+856,combining dot above right
+857,combining asterisk below
+858,combining double ring below
+859,combining zigzag above
+860,combining double breve below
+861,combining double breve
+862,combining double macron
+863,combining double macron below
+864,combining double tilde
+865,combining double inverted breve
+866,combining double rightwards arrow below
+867,combining latin small letter a
+868,combining latin small letter e
+869,combining latin small letter i
+870,combining latin small letter o
+871,combining latin small letter u
+872,combining latin small letter c
+873,combining latin small letter d
+874,combining latin small letter h
+875,combining latin small letter m
+876,combining latin small letter r
+877,combining latin small letter t
+878,combining latin small letter v

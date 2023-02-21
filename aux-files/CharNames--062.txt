@@ -1,0 +1,73 @@
+7168,lepcha letter ka
+7169,lepcha letter kla
+7170,lepcha letter kha
+7171,lepcha letter ga
+7172,lepcha letter gla
+7173,lepcha letter nga
+7174,lepcha letter ca
+7175,lepcha letter cha
+7176,lepcha letter ja
+7177,lepcha letter nya
+7178,lepcha letter ta
+7179,lepcha letter tha
+7180,lepcha letter da
+7181,lepcha letter na
+7182,lepcha letter pa
+7183,lepcha letter pla
+7184,lepcha letter pha
+7185,lepcha letter fa
+7186,lepcha letter fla
+7187,lepcha letter ba
+7188,lepcha letter bla
+7189,lepcha letter ma
+7190,lepcha letter mla
+7191,lepcha letter tsa
+7192,lepcha letter tsha
+7193,lepcha letter dza
+7194,lepcha letter ya
+7195,lepcha letter ra
+7196,lepcha letter la
+7197,lepcha letter ha
+7198,lepcha letter hla
+7199,lepcha letter va
+7200,lepcha letter sa
+7201,lepcha letter sha
+7202,lepcha letter wa
+7203,lepcha letter a
+7204,lepcha subjoined letter ya
+7205,lepcha subjoined letter ra
+7206,lepcha vowel sign aa
+7207,lepcha vowel sign i
+7208,lepcha vowel sign o
+7209,lepcha vowel sign oo
+7210,lepcha vowel sign u
+7211,lepcha vowel sign uu
+7212,lepcha vowel sign e
+7213,lepcha consonant sign k
+7214,lepcha consonant sign m
+7215,lepcha consonant sign l
+7216,lepcha consonant sign n
+7217,lepcha consonant sign p
+7218,lepcha consonant sign r
+7219,lepcha consonant sign t
+7220,lepcha consonant sign nyin-do
+7221,lepcha consonant sign kang
+7222,lepcha sign ran
+7223,lepcha sign nukta
+7227,lepcha punctuation ta-rol
+7228,lepcha punctuation nyet thyoom ta-rol
+7229,lepcha punctuation cer-wa
+7230,lepcha punctuation tshook cer-wa
+7231,lepcha punctuation tshook
+7232,lepcha digit zero
+7233,lepcha digit one
+7234,lepcha digit two
+7235,lepcha digit three
+7236,lepcha digit four
+7237,lepcha digit five
+7238,lepcha digit six
+7239,lepcha digit seven
+7240,lepcha digit eight
+7241,lepcha digit nine
+7245,lepcha letter tta
+7246,lepcha letter ttha

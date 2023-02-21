@@ -1,0 +1,57 @@
+64256,latin small ligature ff
+64257,latin small ligature fi
+64258,latin small ligature fl
+64259,latin small ligature ffi
+64260,latin small ligature ffl
+64261,latin small ligature long s t
+64262,latin small ligature st
+64275,armenian small ligature men now
+64276,armenian small ligature men ech
+64277,armenian small ligature men ini
+64278,armenian small ligature vew now
+64279,armenian small ligature men xeh
+64285,hebrew letter yod with hiriq
+64286,hebrew point judeo-spanish varika
+64287,hebrew ligature yiddish yod yod patah
+64288,hebrew letter alternative ayin
+64289,hebrew letter wide alef
+64290,hebrew letter wide dalet
+64291,hebrew letter wide he
+64292,hebrew letter wide kaf
+64293,hebrew letter wide lamed
+64294,hebrew letter wide final mem
+64295,hebrew letter wide resh
+64296,hebrew letter wide tav
+64297,hebrew letter alternative plus sign
+64298,hebrew letter shin with shin dot
+64299,hebrew letter shin with sin dot
+64300,hebrew letter shin with dagesh and shin dot
+64301,hebrew letter shin with dagesh and sin dot
+64302,hebrew letter alef with patah
+64303,hebrew letter alef with qamats
+64304,hebrew letter alef with mapiq
+64305,hebrew letter bet with dagesh
+64306,hebrew letter gimel with dagesh
+64307,hebrew letter dalet with dagesh
+64308,hebrew letter he with mapiq
+64309,hebrew letter vav with dagesh
+64310,hebrew letter zayin with dagesh
+64312,hebrew letter tet with dagesh
+64313,hebrew letter yod with dagesh
+64314,hebrew letter final kaf with dagesh
+64315,hebrew letter kaf with dagesh
+64316,hebrew letter lamed with dagesh
+64318,hebrew letter mem with dagesh
+64320,hebrew letter nun with dagesh
+64321,hebrew letter samekh with dagesh
+64323,hebrew letter final pe with dagesh
+64324,hebrew letter pe with dagesh
+64326,hebrew letter tsadi with dagesh
+64327,hebrew letter qof with dagesh
+64328,hebrew letter resh with dagesh
+64329,hebrew letter shin with dagesh
+64330,hebrew letter tav with dagesh
+64331,hebrew letter vav with holam
+64332,hebrew letter bet with rafe
+64333,hebrew letter kaf with rafe
+64334,hebrew letter pe with rafe

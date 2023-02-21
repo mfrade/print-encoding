@@ -1,0 +1,90 @@
+1329,armenian capital letter ayb
+1330,armenian capital letter ben
+1331,armenian capital letter gim
+1332,armenian capital letter da
+1333,armenian capital letter ech
+1334,armenian capital letter za
+1335,armenian capital letter eh
+1336,armenian capital letter et
+1337,armenian capital letter to
+1338,armenian capital letter zhe
+1339,armenian capital letter ini
+1340,armenian capital letter liwn
+1341,armenian capital letter xeh
+1342,armenian capital letter ca
+1343,armenian capital letter ken
+1344,armenian capital letter ho
+1345,armenian capital letter ja
+1346,armenian capital letter ghad
+1347,armenian capital letter cheh
+1348,armenian capital letter men
+1349,armenian capital letter yi
+1350,armenian capital letter now
+1351,armenian capital letter sha
+1352,armenian capital letter vo
+1353,armenian capital letter cha
+1354,armenian capital letter peh
+1355,armenian capital letter jheh
+1356,armenian capital letter ra
+1357,armenian capital letter seh
+1358,armenian capital letter vew
+1359,armenian capital letter tiwn
+1360,armenian capital letter reh
+1361,armenian capital letter co
+1362,armenian capital letter yiwn
+1363,armenian capital letter piwr
+1364,armenian capital letter keh
+1365,armenian capital letter oh
+1366,armenian capital letter feh
+1369,armenian modifier letter left half ring
+1370,armenian apostrophe
+1371,armenian emphasis mark
+1372,armenian exclamation mark
+1373,armenian comma
+1374,armenian question mark
+1375,armenian abbreviation mark
+1376,armenian small letter turned ayb
+1377,armenian small letter ayb
+1378,armenian small letter ben
+1379,armenian small letter gim
+1380,armenian small letter da
+1381,armenian small letter ech
+1382,armenian small letter za
+1383,armenian small letter eh
+1384,armenian small letter et
+1385,armenian small letter to
+1386,armenian small letter zhe
+1387,armenian small letter ini
+1388,armenian small letter liwn
+1389,armenian small letter xeh
+1390,armenian small letter ca
+1391,armenian small letter ken
+1392,armenian small letter ho
+1393,armenian small letter ja
+1394,armenian small letter ghad
+1395,armenian small letter cheh
+1396,armenian small letter men
+1397,armenian small letter yi
+1398,armenian small letter now
+1399,armenian small letter sha
+1400,armenian small letter vo
+1401,armenian small letter cha
+1402,armenian small letter peh
+1403,armenian small letter jheh
+1404,armenian small letter ra
+1405,armenian small letter seh
+1406,armenian small letter vew
+1407,armenian small letter tiwn
+1408,armenian small letter reh
+1409,armenian small letter co
+1410,armenian small letter yiwn
+1411,armenian small letter piwr
+1412,armenian small letter keh
+1413,armenian small letter oh
+1414,armenian small letter feh
+1415,armenian small ligature ech yiwn
+1416,armenian small letter yi with stroke
+1417,armenian full stop
+1418,armenian hyphen
+1421,right-facing armenian eternity sign
+1422,left-facing armenian eternity sign

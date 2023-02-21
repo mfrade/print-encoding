@@ -1,0 +1,127 @@
+10496,rightwards two-headed arrow with vertical stroke
+10497,rightwards two-headed arrow with double vertical stroke
+10498,leftwards double arrow with vertical stroke
+10499,rightwards double arrow with vertical stroke
+10500,left right double arrow with vertical stroke
+10501,rightwards two-headed arrow from bar
+10502,leftwards double arrow from bar
+10503,rightwards double arrow from bar
+10504,downwards arrow with horizontal stroke
+10505,upwards arrow with horizontal stroke
+10506,upwards triple arrow
+10507,downwards triple arrow
+10508,leftwards double dash arrow
+10509,rightwards double dash arrow
+10510,leftwards triple dash arrow
+10511,rightwards triple dash arrow
+10512,rightwards two-headed triple dash arrow
+10513,rightwards arrow with dotted stem
+10514,upwards arrow to bar
+10515,downwards arrow to bar
+10516,rightwards arrow with tail with vertical stroke
+10517,rightwards arrow with tail with double vertical stroke
+10518,rightwards two-headed arrow with tail
+10519,rightwards two-headed arrow with tail with vertical stroke
+10520,rightwards two-headed arrow with tail with double vertical stroke
+10521,leftwards arrow-tail
+10522,rightwards arrow-tail
+10523,leftwards double arrow-tail
+10524,rightwards double arrow-tail
+10525,leftwards arrow to black diamond
+10526,rightwards arrow to black diamond
+10527,leftwards arrow from bar to black diamond
+10528,rightwards arrow from bar to black diamond
+10529,north west and south east arrow
+10530,north east and south west arrow
+10531,north west arrow with hook
+10532,north east arrow with hook
+10533,south east arrow with hook
+10534,south west arrow with hook
+10535,north west arrow and north east arrow
+10536,north east arrow and south east arrow
+10537,south east arrow and south west arrow
+10538,south west arrow and north west arrow
+10539,rising diagonal crossing falling diagonal
+10540,falling diagonal crossing rising diagonal
+10541,south east arrow crossing north east arrow
+10542,north east arrow crossing south east arrow
+10543,falling diagonal crossing north east arrow
+10544,rising diagonal crossing south east arrow
+10545,north east arrow crossing north west arrow
+10546,north west arrow crossing north east arrow
+10547,wave arrow pointing directly right
+10548,arrow pointing rightwards then curving upwards
+10549,arrow pointing rightwards then curving downwards
+10550,arrow pointing downwards then curving leftwards
+10551,arrow pointing downwards then curving rightwards
+10552,right-side arc clockwise arrow
+10553,left-side arc anticlockwise arrow
+10554,top arc anticlockwise arrow
+10555,bottom arc anticlockwise arrow
+10556,top arc clockwise arrow with minus
+10557,top arc anticlockwise arrow with plus
+10558,lower right semicircular clockwise arrow
+10559,lower left semicircular anticlockwise arrow
+10560,anticlockwise closed circle arrow
+10561,clockwise closed circle arrow
+10562,rightwards arrow above short leftwards arrow
+10563,leftwards arrow above short rightwards arrow
+10564,short rightwards arrow above leftwards arrow
+10565,rightwards arrow with plus below
+10566,leftwards arrow with plus below
+10567,rightwards arrow through x
+10568,left right arrow through small circle
+10569,upwards two-headed arrow from small circle
+10570,left barb up right barb down harpoon
+10571,left barb down right barb up harpoon
+10572,up barb right down barb left harpoon
+10573,up barb left down barb right harpoon
+10574,left barb up right barb up harpoon
+10575,up barb right down barb right harpoon
+10576,left barb down right barb down harpoon
+10577,up barb left down barb left harpoon
+10578,leftwards harpoon with barb up to bar
+10579,rightwards harpoon with barb up to bar
+10580,upwards harpoon with barb right to bar
+10581,downwards harpoon with barb right to bar
+10582,leftwards harpoon with barb down to bar
+10583,rightwards harpoon with barb down to bar
+10584,upwards harpoon with barb left to bar
+10585,downwards harpoon with barb left to bar
+10586,leftwards harpoon with barb up from bar
+10587,rightwards harpoon with barb up from bar
+10588,upwards harpoon with barb right from bar
+10589,downwards harpoon with barb right from bar
+10590,leftwards harpoon with barb down from bar
+10591,rightwards harpoon with barb down from bar
+10592,upwards harpoon with barb left from bar
+10593,downwards harpoon with barb left from bar
+10594,leftwards harpoon with barb up above leftwards harpoon with barb down
+10595,upwards harpoon with barb left beside upwards harpoon with barb right
+10596,rightwards harpoon with barb up above rightwards harpoon with barb down
+10597,downwards harpoon with barb left beside downwards harpoon with barb right
+10598,leftwards harpoon with barb up above rightwards harpoon with barb up
+10599,leftwards harpoon with barb down above rightwards harpoon with barb down
+10600,rightwards harpoon with barb up above leftwards harpoon with barb up
+10601,rightwards harpoon with barb down above leftwards harpoon with barb down
+10602,leftwards harpoon with barb up above long dash
+10603,leftwards harpoon with barb down below long dash
+10604,rightwards harpoon with barb up above long dash
+10605,rightwards harpoon with barb down below long dash
+10606,upwards harpoon with barb left beside downwards harpoon with barb right
+10607,downwards harpoon with barb left beside upwards harpoon with barb right
+10608,right double arrow with rounded head
+10609,equals sign above rightwards arrow
+10610,tilde operator above rightwards arrow
+10611,leftwards arrow above tilde operator
+10612,rightwards arrow above tilde operator
+10613,rightwards arrow above almost equal to
+10614,less-than above leftwards arrow
+10615,leftwards arrow through less-than
+10616,greater-than above rightwards arrow
+10617,subset above rightwards arrow
+10618,leftwards arrow through subset
+10619,superset above leftwards arrow
+10620,left fish tail
+10621,right fish tail
+10622,up fish tail

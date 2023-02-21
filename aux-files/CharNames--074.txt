@@ -1,0 +1,44 @@
+8304,superscript zero
+8305,superscript latin small letter i
+8306,<reserved>
+8307,<reserved>
+8308,superscript four
+8309,superscript five
+8310,superscript six
+8311,superscript seven
+8312,superscript eight
+8313,superscript nine
+8314,superscript plus sign
+8315,superscript minus
+8316,superscript equals sign
+8317,superscript left parenthesis
+8318,superscript right parenthesis
+8319,superscript latin small letter n
+8320,subscript zero
+8321,subscript one
+8322,subscript two
+8323,subscript three
+8324,subscript four
+8325,subscript five
+8326,subscript six
+8327,subscript seven
+8328,subscript eight
+8329,subscript nine
+8330,subscript plus sign
+8331,subscript minus
+8332,subscript equals sign
+8333,subscript left parenthesis
+8334,subscript right parenthesis
+8336,latin subscript small letter a
+8337,latin subscript small letter e
+8338,latin subscript small letter o
+8339,latin subscript small letter x
+8340,latin subscript small letter schwa
+8341,latin subscript small letter h
+8342,latin subscript small letter k
+8343,latin subscript small letter l
+8344,latin subscript small letter m
+8345,latin subscript small letter n
+8346,latin subscript small letter p
+8347,latin subscript small letter s
+8348,latin subscript small letter t

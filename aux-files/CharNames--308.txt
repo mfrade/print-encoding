@@ -1,0 +1,117 @@
+128640,rocket
+128641,helicopter
+128642,steam locomotive
+128643,railway car
+128644,high-speed train
+128645,high-speed train with bullet nose
+128646,train
+128647,metro
+128648,light rail
+128649,station
+128650,tram
+128651,tram car
+128652,bus
+128653,oncoming bus
+128654,trolleybus
+128655,bus stop
+128656,minibus
+128657,ambulance
+128658,fire engine
+128659,police car
+128660,oncoming police car
+128661,taxi
+128662,oncoming taxi
+128663,automobile
+128664,oncoming automobile
+128665,recreational vehicle
+128666,delivery truck
+128667,articulated lorry
+128668,tractor
+128669,monorail
+128670,mountain railway
+128671,suspension railway
+128672,mountain cableway
+128673,aerial tramway
+128674,ship
+128675,rowboat
+128676,speedboat
+128677,horizontal traffic light
+128678,vertical traffic light
+128679,construction sign
+128680,police cars revolving light
+128681,triangular flag on post
+128682,door
+128683,no entry sign
+128684,smoking symbol
+128685,no smoking symbol
+128686,put litter in its place symbol
+128687,do not litter symbol
+128688,potable water symbol
+128689,non-potable water symbol
+128690,bicycle
+128691,no bicycles
+128692,bicyclist
+128693,mountain bicyclist
+128694,pedestrian
+128695,no pedestrians
+128696,children crossing
+128697,mens symbol
+128698,womens symbol
+128699,restroom
+128700,baby symbol
+128701,toilet
+128702,water closet
+128703,shower
+128704,bath
+128705,bathtub
+128706,passport control
+128707,customs
+128708,baggage claim
+128709,left luggage
+128710,triangle with rounded corners
+128711,prohibited sign
+128712,circled information source
+128713,boys symbol
+128714,girls symbol
+128715,couch and lamp
+128716,sleeping accommodation
+128717,shopping bags
+128718,bellhop bell
+128719,bed
+128720,place of worship
+128721,octagonal sign
+128722,shopping trolley
+128723,stupa
+128724,pagoda
+128725,hindu temple
+128726,hut
+128727,elevator
+128733,playground slide
+128734,wheel
+128735,ring buoy
+128736,hammer and wrench
+128737,shield
+128738,oil drum
+128739,motorway
+128740,railway track
+128741,motor boat
+128742,up-pointing military airplane
+128743,up-pointing airplane
+128744,up-pointing small airplane
+128745,small airplane
+128746,northeast-pointing airplane
+128747,airplane departure
+128748,airplane arriving
+128752,satellite
+128753,oncoming fire engine
+128754,diesel locomotive
+128755,passenger ship
+128756,scooter
+128757,motor scooter
+128758,canoe
+128759,sled
+128760,flying saucer
+128761,skateboard
+128762,auto rickshaw
+128763,pickup truck
+128764,roller skate

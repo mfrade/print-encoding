@@ -1,0 +1,79 @@
+66560,deseret capital letter long i
+66561,deseret capital letter long e
+66562,deseret capital letter long a
+66563,deseret capital letter long ah
+66564,deseret capital letter long o
+66565,deseret capital letter long oo
+66566,deseret capital letter short i
+66567,deseret capital letter short e
+66568,deseret capital letter short a
+66569,deseret capital letter short ah
+66570,deseret capital letter short o
+66571,deseret capital letter short oo
+66572,deseret capital letter ay
+66573,deseret capital letter ow
+66574,deseret capital letter wu
+66575,deseret capital letter yee
+66576,deseret capital letter h
+66577,deseret capital letter pee
+66578,deseret capital letter bee
+66579,deseret capital letter tee
+66580,deseret capital letter dee
+66581,deseret capital letter chee
+66582,deseret capital letter jee
+66583,deseret capital letter kay
+66584,deseret capital letter gay
+66585,deseret capital letter ef
+66586,deseret capital letter vee
+66587,deseret capital letter eth
+66588,deseret capital letter thee
+66589,deseret capital letter es
+66590,deseret capital letter zee
+66591,deseret capital letter esh
+66592,deseret capital letter zhee
+66593,deseret capital letter er
+66594,deseret capital letter el
+66595,deseret capital letter em
+66596,deseret capital letter en
+66597,deseret capital letter eng
+66598,deseret capital letter oi
+66599,deseret capital letter ew
+66600,deseret small letter long i
+66601,deseret small letter long e
+66602,deseret small letter long a
+66603,deseret small letter long ah
+66604,deseret small letter long o
+66605,deseret small letter long oo
+66606,deseret small letter short i
+66607,deseret small letter short e
+66608,deseret small letter short a
+66609,deseret small letter short ah
+66610,deseret small letter short o
+66611,deseret small letter short oo
+66612,deseret small letter ay
+66613,deseret small letter ow
+66614,deseret small letter wu
+66615,deseret small letter yee
+66616,deseret small letter h
+66617,deseret small letter pee
+66618,deseret small letter bee
+66619,deseret small letter tee
+66620,deseret small letter dee
+66621,deseret small letter chee
+66622,deseret small letter jee
+66623,deseret small letter kay
+66624,deseret small letter gay
+66625,deseret small letter ef
+66626,deseret small letter vee
+66627,deseret small letter eth
+66628,deseret small letter thee
+66629,deseret small letter es
+66630,deseret small letter zee
+66631,deseret small letter esh
+66632,deseret small letter zhee
+66633,deseret small letter er
+66634,deseret small letter el
+66635,deseret small letter em
+66636,deseret small letter en
+66637,deseret small letter eng
+66638,deseret small letter oi

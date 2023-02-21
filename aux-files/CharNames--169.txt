@@ -1,0 +1,14 @@
+65936,roman sextans sign
+65937,roman uncia sign
+65938,roman semuncia sign
+65939,roman sextula sign
+65940,roman dimidia sextula sign
+65941,roman siliqua sign
+65942,roman denarius sign
+65943,roman quinarius sign
+65944,roman sestertius sign
+65945,roman dupondius sign
+65946,roman as sign
+65947,roman centurial sign
+65948,ascia symbol
+65952,greek symbol tau rho

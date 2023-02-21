@@ -1,0 +1,10 @@
+65040,presentation form for vertical comma
+65041,presentation form for vertical ideographic comma
+65042,presentation form for vertical ideographic full stop
+65043,presentation form for vertical colon
+65044,presentation form for vertical semicolon
+65045,presentation form for vertical exclamation mark
+65046,presentation form for vertical question mark
+65047,presentation form for vertical left white lenticular bracket
+65048,presentation form for vertical right white lenticular brakcet
+65049,presentation form for vertical horizontal ellipsis

@@ -1,0 +1,252 @@
+11008,north east white arrow
+11009,north west white arrow
+11010,south east white arrow
+11011,south west white arrow
+11012,left right white arrow
+11013,leftwards black arrow
+11014,upwards black arrow
+11015,downwards black arrow
+11016,north east black arrow
+11017,north west black arrow
+11018,south east black arrow
+11019,south west black arrow
+11020,left right black arrow
+11021,up down black arrow
+11022,rightwards arrow with tip downwards
+11023,rightwards arrow with tip upwards
+11024,leftwards arrow with tip downwards
+11025,leftwards arrow with tip upwards
+11026,square with top half black
+11027,square with bottom half black
+11028,square with upper right diagonal half black
+11029,square with lower left diagonal half black
+11030,diamond with left half black
+11031,diamond with right half black
+11032,diamond with top half black
+11033,diamond with bottom half black
+11034,dotted square
+11035,black large square
+11036,white large square
+11037,black very small square
+11038,white very small square
+11039,black pentagon
+11040,white pentagon
+11041,white hexagon
+11042,black hexagon
+11043,horizontal black hexagon
+11044,black large circle
+11045,black medium diamond
+11046,white medium diamond
+11047,black medium lozenge
+11048,white medium lozenge
+11049,black small diamond
+11050,black small lozenge
+11051,white small lozenge
+11052,black horizontal ellipse
+11053,white horizontal ellipse
+11054,black vertical ellipse
+11055,white vertical ellipse
+11056,left arrow with small circle
+11057,three leftwards arrows
+11058,left arrow with circled plus
+11059,long leftwards squiggle arrow
+11060,leftwards two-headed arrow with vertical stroke
+11061,leftwards two-headed arrow with double vertical stroke
+11062,leftwards two-headed arrow from bar
+11063,leftwards two-headed triple dash arrow
+11064,leftwards arrow with dotted stem
+11065,leftwards arrow with tail with vertical stroke
+11066,leftwards arrow with tail with double vertical stroke
+11067,leftwards two-headed arrow with tail
+11068,leftwards two-headed arrow with tail with vertical stroke
+11069,leftwards two-headed arrow with tail with double vertical stroke
+11070,leftwards arrow through x
+11071,wave arrow pointing directly left
+11072,equals sign above leftwards arrow
+11073,reverse tilde operator above leftwards arrow
+11074,leftwards arrow above reverse almost equal to
+11075,rightwards arrow through greater-than
+11076,rightwards arrow through superset
+11077,leftwards quadruple arrow
+11078,rightwards quadruple arrow
+11079,reverse tilde operator above rightwards arrow
+11080,rightwards arrow above reverse almost equal to
+11081,tilde operator above leftwards arrow
+11082,leftwards arrow above almost equal to
+11083,leftwards arrow above reverse tilde operator
+11084,rightwards arrow above reverse tilde operator
+11085,downwards triangle-headed zigzag arrow
+11086,short slanted north arrow
+11087,short backslanted south arrow
+11088,white medium star
+11089,black small star
+11090,white small star
+11091,black right-pointing pentagon
+11092,white right-pointing pentagon
+11093,heavy large circle
+11094,heavy oval with oval inside
+11095,heavy circle with circle inside
+11096,heavy circle
+11097,heavy circled saltire
+11098,slanted north arrow with hooked head
+11099,backslanted south arrow with hooked tail
+11100,slanted north arrow with horizontal tail
+11101,backslanted south arrow with horizontal tail
+11102,bent arrow pointing downwards then north east
+11103,short bent arrow pointing downwards then north east
+11104,leftwards triangle-headed arrow
+11105,upwards triangle-headed arrow
+11106,rightwards triangle-headed arrow
+11107,downwards triangle-headed arrow
+11108,left right triangle-headed arrow
+11109,up down triangle-headed arrow
+11110,north west triangle-headed arrow
+11111,north east triangle-headed arrow
+11112,south east triangle-headed arrow
+11113,south west triangle-headed arrow
+11114,leftwards triangle-headed dashed arrow
+11115,upwards triangle-headed dashed arrow
+11116,rightwards triangle-headed dashed arrow
+11117,downwards triangle-headed dashed arrow
+11118,clockwise triangle-headed open circle arrow
+11119,anticlockwise triangle-headed open circle arrow
+11120,leftwards triangle-headed arrow to bar
+11121,upwards triangle-headed arrow to bar
+11122,rightwards triangle-headed arrow to bar
+11123,downwards triangle-headed arrow to bar
+11126,north west triangle-headed arrow to bar
+11127,north east triangle-headed arrow to bar
+11128,south east triangle-headed arrow to bar
+11129,south west triangle-headed arrow to bar
+11130,leftwards triangle-headed arrow with double horizontal stroke
+11131,upwards triangle-headed arrow with double horizontal stroke
+11132,rightwards triangle-headed arrow with double horizontal stroke
+11133,downwards triangle-headed arrow with double horizontal stroke
+11134,horizontal tab key
+11135,vertical tab key
+11136,leftwards triangle-headed arrow over rightwards triangle-headed arrow
+11137,upwards triangle-headed arrow leftwards of downwards triangle-headed arrow
+11138,rightwards triangle-headed arrow over leftwards triangle-headed arrow
+11139,downwards triangle-headed arrow leftwards of upwards triangle-headed arrow
+11140,leftwards triangle-headed paired arrows
+11141,upwards triangle-headed paired arrows
+11142,rightwards triangle-headed paired arrows
+11143,downwards triangle-headed paired arrows
+11144,leftwards black circled white arrow
+11145,upwards black circled white arrow
+11146,rightwards black circled white arrow
+11147,downwards black circled white arrow
+11148,anticlockwise triangle-headed right u-shaped arrow
+11149,anticlockwise triangle-headed bottom u-shaped arrow
+11150,anticlockwise triangle-headed left u-shaped arrow
+11151,anticlockwise triangle-headed top u-shaped arrow
+11152,return left
+11153,return right
+11154,newline left
+11155,newline right
+11156,four corner arrows circling anticlockwise
+11157,rightwards black arrow
+11159,symbol for type a electronics
+11160,three-d top-lighted leftwards equilateral arrowhead
+11161,three-d right-lighted upwards equilateral arrowhead
+11162,three-d top-lighted rightwards equilateral arrowhead
+11163,three-d left-lighted downwards equilateral arrowhead
+11164,black leftwards equilateral arrowhead
+11165,black upwards equilateral arrowhead
+11166,black rightwards equilateral arrowhead
+11167,black downwards equilateral arrowhead
+11168,downwards triangle-headed arrow with long tip leftwards
+11169,downwards triangle-headed arrow with long tip rightwards
+11170,upwards triangle-headed arrow with long tip leftwards
+11171,upwards triangle-headed arrow with long tip rightwards
+11172,leftwards triangle-headed arrow with long tip upwards
+11173,rightwards triangle-headed arrow with long tip upwards
+11174,leftwards triangle-headed arrow with long tip downwards
+11175,rightwards triangle-headed arrow with long tip downwards
+11176,black curved downwards and leftwards arrow
+11177,black curved downwards and rightwards arrow
+11178,black curved upwards and leftwards arrow
+11179,black curved upwards and rightwards arrow
+11180,black curved leftwards and upwards arrow
+11181,black curved rightwards and upwards arrow
+11182,black curved leftwards and downwards arrow
+11183,black curved rightwards and downwards arrow
+11184,ribbon arrow down left
+11185,ribbon arrow down right
+11186,ribbon arrow up left
+11187,ribbon arrow up right
+11188,ribbon arrow left up
+11189,ribbon arrow right up
+11190,ribbon arrow left down
+11191,ribbon arrow right down
+11192,upwards white arrow from bar with horizontal bar
+11193,up arrowhead in a rectangle box
+11194,overlapping white squares
+11195,overlapping white and black squares
+11196,overlapping black squares
+11197,ballot box with light x
+11198,circled x
+11199,circled bold x
+11200,black square centred
+11201,black diamond centred
+11202,turned black pentagon
+11203,horizontal black octagon
+11204,black octagon
+11205,black medium up-pointing triangle centred
+11206,black medium down-pointing triangle centred
+11207,black medium left-pointing triangle centred
+11208,black medium right-pointing triangle centred
+11209,neptune form two
+11210,top half black circle
+11211,bottom half black circle
+11212,light four pointed black cusp
+11213,rotated light four pointed black cusp
+11214,white four pointed cusp
+11215,rotated white four pointed cusp
+11216,square position indicator
+11217,uncertainty sign
+11218,group mark
+11219,pluto form two
+11220,pluto form three
+11221,pluto form four
+11222,pluto form five
+11223,transpluto
+11224,proserpina
+11225,astraea
+11226,hygiea
+11227,pholus
+11228,nessus
+11229,white moon selena
+11230,black diamond on cross
+11231,true light moon arta
+11232,cupido
+11233,hades
+11234,zeus
+11235,kronos
+11236,apollon
+11237,admetos
+11238,vulcanus
+11239,poseidon
+11240,left half black star
+11241,right half black star
+11242,star with left half black
+11243,star with right half black
+11244,leftwards two-headed arrow with triangle arrowheads
+11245,upwards two-headed arrow with triangle arrowheads
+11246,rightwards two-headed arrow with triangle arrowheads
+11247,downwards two-headed arrow with triangle arrowheads
+11248,eris form one
+11249,eris form two
+11250,sedna
+11251,russian astrological symbol vigintile
+11252,russian astrological symbol novile
+11253,russian astrological symbol quintile
+11254,russian astrological symbol binovile
+11255,russian astrological symbol sentagon
+11256,russian astrological symbol tredecile
+11257,equals sign with infinity below
+11258,united symbol
+11259,separated symbol
+11260,doubled symbol
+11261,passed symbol
+11262,reversed right angle

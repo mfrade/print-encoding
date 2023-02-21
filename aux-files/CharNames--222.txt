@@ -1,0 +1,20 @@
+70113,sinhala archaic digit one
+70114,sinhala archaic digit two
+70115,sinhala archaic digit three
+70116,sinhala archaic digit four
+70117,sinhala archaic digit five
+70118,sinhala archaic digit six
+70119,sinhala archaic digit seven
+70120,sinhala archaic digit eight
+70121,sinhala archaic digit nine
+70122,sinhala archaic number ten
+70123,sinhala archaic number twenty
+70124,sinhala archaic number thirty
+70125,sinhala archaic number forty
+70126,sinhala archaic number fifty
+70127,sinhala archaic number sixty
+70128,sinhala archaic number seventy
+70129,sinhala archaic number eighty
+70130,sinhala archaic number ninety
+70131,sinhala archaic number one hundred
+70132,sinhala archaic number one thousand

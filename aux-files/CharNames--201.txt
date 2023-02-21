@@ -1,0 +1,60 @@
+68352,avestan letter a
+68353,avestan letter aa
+68354,avestan letter ao
+68355,avestan letter aao
+68356,avestan letter an
+68357,avestan letter aan
+68358,avestan letter ae
+68359,avestan letter aee
+68360,avestan letter e
+68361,avestan letter ee
+68362,avestan letter o
+68363,avestan letter oo
+68364,avestan letter i
+68365,avestan letter ii
+68366,avestan letter u
+68367,avestan letter uu
+68368,avestan letter ke
+68369,avestan letter xe
+68370,avestan letter xye
+68371,avestan letter xve
+68372,avestan letter ge
+68373,avestan letter gge
+68374,avestan letter ghe
+68375,avestan letter ce
+68376,avestan letter je
+68377,avestan letter te
+68378,avestan letter the
+68379,avestan letter de
+68380,avestan letter dhe
+68381,avestan letter tte
+68382,avestan letter pe
+68383,avestan letter fe
+68384,avestan letter be
+68385,avestan letter bhe
+68386,avestan letter nge
+68387,avestan letter ngye
+68388,avestan letter ngve
+68389,avestan letter ne
+68390,avestan letter nye
+68391,avestan letter nne
+68392,avestan letter me
+68393,avestan letter hme
+68394,avestan letter yye
+68395,avestan letter ye
+68396,avestan letter ve
+68397,avestan letter re
+68398,avestan letter le
+68399,avestan letter se
+68400,avestan letter ze
+68401,avestan letter she
+68402,avestan letter zhe
+68403,avestan letter shye
+68404,avestan letter sshe
+68405,avestan letter he
+68409,avestan abbreviation mark
+68410,tiny two dots over one dot punctuation
+68411,small two dots over one dot punctuation
+68412,large two dots over one dot punctuation
+68413,large one dot over two dots punctuation
+68414,large two rings over one ring punctuation

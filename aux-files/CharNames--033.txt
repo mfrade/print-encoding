@@ -1,0 +1,87 @@
+3585,thai character ko kai
+3586,thai character kho khai
+3587,thai character kho khuat
+3588,thai character kho khwai
+3589,thai character kho khon
+3590,thai character kho rakhang
+3591,thai character ngo ngu
+3592,thai character cho chan
+3593,thai character cho ching
+3594,thai character cho chang
+3595,thai character so so
+3596,thai character cho choe
+3597,thai character yo ying
+3598,thai character do chada
+3599,thai character to patak
+3600,thai character tho than
+3601,thai character tho nangmontho
+3602,thai character tho phuthao
+3603,thai character no nen
+3604,thai character do dek
+3605,thai character to tao
+3606,thai character tho thung
+3607,thai character tho thahan
+3608,thai character tho thong
+3609,thai character no nu
+3610,thai character bo baimai
+3611,thai character po pla
+3612,thai character pho phung
+3613,thai character fo fa
+3614,thai character pho phan
+3615,thai character fo fan
+3616,thai character pho samphao
+3617,thai character mo ma
+3618,thai character yo yak
+3619,thai character ro rua
+3620,thai character ru
+3621,thai character lo ling
+3622,thai character lu
+3623,thai character wo waen
+3624,thai character so sala
+3625,thai character so rusi
+3626,thai character so sua
+3627,thai character ho hip
+3628,thai character lo chula
+3629,thai character o ang
+3630,thai character ho nokhuk
+3631,thai character paiyannoi
+3632,thai character sara a
+3633,thai character mai han-akat
+3634,thai character sara aa
+3635,thai character sara am
+3636,thai character sara i
+3637,thai character sara ii
+3638,thai character sara ue
+3639,thai character sara uee
+3640,thai character sara u
+3641,thai character sara uu
+3642,thai character phinthu
+3647,thai currency symbol baht
+3648,thai character sara e
+3649,thai character sara ae
+3650,thai character sara o
+3651,thai character sara ai maimuan
+3652,thai character sara ai maimalai
+3653,thai character lakkhangyao
+3654,thai character maiyamok
+3655,thai character maitaikhu
+3656,thai character mai ek
+3657,thai character mai tho
+3658,thai character mai tri
+3659,thai character mai chattawa
+3660,thai character thanthakhat
+3661,thai character nikhahit
+3662,thai character yamakkan
+3663,thai character fongman
+3664,thai digit zero
+3665,thai digit one
+3666,thai digit two
+3667,thai digit three
+3668,thai digit four
+3669,thai digit five
+3670,thai digit six
+3671,thai digit seven
+3672,thai digit eight
+3673,thai digit nine
+3674,thai character angkhankhu
+3675,thai character khomut

@@ -1,0 +1,255 @@
+13056,square apaato
+13057,square aruhua
+13058,square anpea
+13059,square aaru
+13060,square iningu
+13061,square inti
+13062,square uon
+13063,square esukuudo
+13064,square eekaa
+13065,square onsu
+13066,square oomu
+13067,square kairi
+13068,square karatto
+13069,square karorii
+13070,square garon
+13071,square ganma
+13072,square giga
+13073,square ginii
+13074,square kyurii
+13075,square girudaa
+13076,square kiro
+13077,square kiroguramu
+13078,square kiromeetoru
+13079,square kirowatto
+13080,square guramu
+13081,square guramuton
+13082,square kuruzeiro
+13083,square kuroone
+13084,square keesu
+13085,square koruna
+13086,square koopo
+13087,square saikuru
+13088,square santiimu
+13089,square siringu
+13090,square senti
+13091,square sento
+13092,square daasu
+13093,square desi
+13094,square doru
+13095,square ton
+13096,square nano
+13097,square notto
+13098,square haitu
+13099,square paasento
+13100,square paatu
+13101,square baareru
+13102,square piasutoru
+13103,square pikuru
+13104,square piko
+13105,square biru
+13106,square huaraddo
+13107,square huiito
+13108,square bussyeru
+13109,square huran
+13110,square hekutaaru
+13111,square peso
+13112,square penihi
+13113,square herutu
+13114,square pensu
+13115,square peezi
+13116,square beeta
+13117,square pointo
+13118,square boruto
+13119,square hon
+13120,square pondo
+13121,square hooru
+13122,square hoon
+13123,square maikuro
+13124,square mairu
+13125,square mahha
+13126,square maruku
+13127,square mansyon
+13128,square mikuron
+13129,square miri
+13130,square miribaaru
+13131,square mega
+13132,square megaton
+13133,square meetoru
+13134,square yaado
+13135,square yaaru
+13136,square yuan
+13137,square rittoru
+13138,square rira
+13139,square rupii
+13140,square ruuburu
+13141,square remu
+13142,square rentogen
+13143,square watto
+13144,ideographic telegraph symbol for hour zero
+13145,ideographic telegraph symbol for hour one
+13146,ideographic telegraph symbol for hour two
+13147,ideographic telegraph symbol for hour three
+13148,ideographic telegraph symbol for hour four
+13149,ideographic telegraph symbol for hour five
+13150,ideographic telegraph symbol for hour six
+13151,ideographic telegraph symbol for hour seven
+13152,ideographic telegraph symbol for hour eight
+13153,ideographic telegraph symbol for hour nine
+13154,ideographic telegraph symbol for hour ten
+13155,ideographic telegraph symbol for hour eleven
+13156,ideographic telegraph symbol for hour twelve
+13157,ideographic telegraph symbol for hour thirteen
+13158,ideographic telegraph symbol for hour fourteen
+13159,ideographic telegraph symbol for hour fifteen
+13160,ideographic telegraph symbol for hour sixteen
+13161,ideographic telegraph symbol for hour seventeen
+13162,ideographic telegraph symbol for hour eighteen
+13163,ideographic telegraph symbol for hour nineteen
+13164,ideographic telegraph symbol for hour twenty
+13165,ideographic telegraph symbol for hour twenty-one
+13166,ideographic telegraph symbol for hour twenty-two
+13167,ideographic telegraph symbol for hour twenty-three
+13168,ideographic telegraph symbol for hour twenty-four
+13169,square hpa
+13170,square da
+13171,square au
+13172,square bar
+13173,square ov
+13174,square pc
+13175,square dm
+13176,square dm squared
+13177,square dm cubed
+13178,square iu
+13179,square era name heisei
+13180,square era name syouwa
+13181,square era name taisyou
+13182,square era name meizi
+13183,square corporation
+13184,square pa amps
+13185,square na
+13186,square mu a
+13187,square ma
+13188,square ka
+13189,square kb
+13190,square mb
+13191,square gb
+13192,square cal
+13193,square kcal
+13194,square pf
+13195,square nf
+13196,square mu f
+13197,square mu g
+13198,square mg
+13199,square kg
+13200,square hz
+13201,square khz
+13202,square mhz
+13203,square ghz
+13204,square thz
+13205,square mu l
+13206,square ml
+13207,square dl
+13208,square kl
+13209,square fm
+13210,square nm
+13211,square mu m
+13212,square mm
+13213,square cm
+13214,square km
+13215,square mm squared
+13216,square cm squared
+13217,square m squared
+13218,square km squared
+13219,square mm cubed
+13220,square cm cubed
+13221,square m cubed
+13222,square km cubed
+13223,square m over s
+13224,square m over s squared
+13225,square pa
+13226,square kpa
+13227,square mpa
+13228,square gpa
+13229,square rad
+13230,square rad over s
+13231,square rad over s squared
+13232,square ps
+13233,square ns
+13234,square mu s
+13235,square ms
+13236,square pv
+13237,square nv
+13238,square mu v
+13239,square mv
+13240,square kv
+13241,square mv mega
+13242,square pw
+13243,square nw
+13244,square mu w
+13245,square mw
+13246,square kw
+13247,square mw mega
+13248,square k ohm
+13249,square m ohm
+13250,square am
+13251,square bq
+13252,square cc
+13253,square cd
+13254,square c over kg
+13255,square co
+13256,square db
+13257,square gy
+13258,square ha
+13259,square hp
+13260,square in
+13261,square kk
+13262,square km capital
+13263,square kt
+13264,square lm
+13265,square ln
+13266,square log
+13267,square lx
+13268,square mb small
+13269,square mil
+13270,square mol
+13271,square ph
+13272,square pm
+13273,square ppm
+13274,square pr
+13275,square sr
+13276,square sv
+13277,square wb
+13278,square v over m
+13279,square a over m
+13280,ideographic telegraph symbol for day one
+13281,ideographic telegraph symbol for day two
+13282,ideographic telegraph symbol for day three
+13283,ideographic telegraph symbol for day four
+13284,ideographic telegraph symbol for day five
+13285,ideographic telegraph symbol for day six
+13286,ideographic telegraph symbol for day seven
+13287,ideographic telegraph symbol for day eight
+13288,ideographic telegraph symbol for day nine
+13289,ideographic telegraph symbol for day ten
+13290,ideographic telegraph symbol for day eleven
+13291,ideographic telegraph symbol for day twelve
+13292,ideographic telegraph symbol for day thirteen
+13293,ideographic telegraph symbol for day fourteen
+13294,ideographic telegraph symbol for day fifteen
+13295,ideographic telegraph symbol for day sixteen
+13296,ideographic telegraph symbol for day seventeen
+13297,ideographic telegraph symbol for day eighteen
+13298,ideographic telegraph symbol for day nineteen
+13299,ideographic telegraph symbol for day twenty
+13300,ideographic telegraph symbol for day twenty-one
+13301,ideographic telegraph symbol for day twenty-two
+13302,ideographic telegraph symbol for day twenty-three
+13303,ideographic telegraph symbol for day twenty-four
+13304,ideographic telegraph symbol for day twenty-five
+13305,ideographic telegraph symbol for day twenty-six
+13306,ideographic telegraph symbol for day twenty-seven
+13307,ideographic telegraph symbol for day twenty-eight
+13308,ideographic telegraph symbol for day twenty-nine
+13309,ideographic telegraph symbol for day thirty
+13310,ideographic telegraph symbol for day thirty-one

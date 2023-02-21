@@ -1,0 +1,31 @@
+65072,presentation form for vertical two dot leader
+65073,presentation form for vertical em dash
+65074,presentation form for vertical en dash
+65075,presentation form for vertical low line
+65076,presentation form for vertical wavy low line
+65077,presentation form for vertical left parenthesis
+65078,presentation form for vertical right parenthesis
+65079,presentation form for vertical left curly bracket
+65080,presentation form for vertical right curly bracket
+65081,presentation form for vertical left tortoise shell bracket
+65082,presentation form for vertical right tortoise shell bracket
+65083,presentation form for vertical left black lenticular bracket
+65084,presentation form for vertical right black lenticular bracket
+65085,presentation form for vertical left double angle bracket
+65086,presentation form for vertical right double angle bracket
+65087,presentation form for vertical left angle bracket
+65088,presentation form for vertical right angle bracket
+65089,presentation form for vertical left corner bracket
+65090,presentation form for vertical right corner bracket
+65091,presentation form for vertical left white corner bracket
+65092,presentation form for vertical right white corner bracket
+65093,sesame dot
+65094,white sesame dot
+65095,presentation form for vertical left square bracket
+65096,presentation form for vertical right square bracket
+65097,dashed overline
+65098,centreline overline
+65099,wavy overline
+65100,double wavy overline
+65101,dashed low line
+65102,centreline low line

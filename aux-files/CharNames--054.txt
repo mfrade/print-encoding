@@ -1,0 +1,82 @@
+6528,new tai lue letter high qa
+6529,new tai lue letter low qa
+6530,new tai lue letter high ka
+6531,new tai lue letter high xa
+6532,new tai lue letter high nga
+6533,new tai lue letter low ka
+6534,new tai lue letter low xa
+6535,new tai lue letter low nga
+6536,new tai lue letter high tsa
+6537,new tai lue letter high sa
+6538,new tai lue letter high ya
+6539,new tai lue letter low tsa
+6540,new tai lue letter low sa
+6541,new tai lue letter low ya
+6542,new tai lue letter high ta
+6543,new tai lue letter high tha
+6544,new tai lue letter high na
+6545,new tai lue letter low ta
+6546,new tai lue letter low tha
+6547,new tai lue letter low na
+6548,new tai lue letter high pa
+6549,new tai lue letter high pha
+6550,new tai lue letter high ma
+6551,new tai lue letter low pa
+6552,new tai lue letter low pha
+6553,new tai lue letter low ma
+6554,new tai lue letter high fa
+6555,new tai lue letter high va
+6556,new tai lue letter high la
+6557,new tai lue letter low fa
+6558,new tai lue letter low va
+6559,new tai lue letter low la
+6560,new tai lue letter high ha
+6561,new tai lue letter high da
+6562,new tai lue letter high ba
+6563,new tai lue letter low ha
+6564,new tai lue letter low da
+6565,new tai lue letter low ba
+6566,new tai lue letter high kva
+6567,new tai lue letter high xva
+6568,new tai lue letter low kva
+6569,new tai lue letter low xva
+6570,new tai lue letter high sua
+6571,new tai lue letter low sua
+6576,new tai lue vowel sign vowel shortener
+6577,new tai lue vowel sign aa
+6578,new tai lue vowel sign ii
+6579,new tai lue vowel sign u
+6580,new tai lue vowel sign uu
+6581,new tai lue vowel sign e
+6582,new tai lue vowel sign ae
+6583,new tai lue vowel sign o
+6584,new tai lue vowel sign oa
+6585,new tai lue vowel sign ue
+6586,new tai lue vowel sign ay
+6587,new tai lue vowel sign aay
+6588,new tai lue vowel sign uy
+6589,new tai lue vowel sign oy
+6590,new tai lue vowel sign oay
+6591,new tai lue vowel sign uey
+6592,new tai lue vowel sign iy
+6593,new tai lue letter final v
+6594,new tai lue letter final ng
+6595,new tai lue letter final n
+6596,new tai lue letter final m
+6597,new tai lue letter final k
+6598,new tai lue letter final d
+6599,new tai lue letter final b
+6600,new tai lue tone mark-1
+6601,new tai lue tone mark-2
+6608,new tai lue digit zero
+6609,new tai lue digit one
+6610,new tai lue digit two
+6611,new tai lue digit three
+6612,new tai lue digit four
+6613,new tai lue digit five
+6614,new tai lue digit six
+6615,new tai lue digit seven
+6616,new tai lue digit eight
+6617,new tai lue digit nine
+6618,new tai lue tham digit one
+6622,new tai lue sign lae

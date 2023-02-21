@@ -1,0 +1,47 @@
+1872,arabic letter beh with three dots horizontally below
+1873,arabic letter beh with dot below and three dots above
+1874,arabic letter beh with three dots pointing upwards below
+1875,arabic letter beh with three dots pointing upwards below and two dots above
+1876,arabic letter beh with two dots below and dot above
+1877,arabic letter beh with inverted small v below
+1878,arabic letter beh with small v
+1879,arabic letter hah with two dots above
+1880,arabic letter hah with three dots pointing upwards below
+1881,arabic letter dal with two dots vertically below and small tah
+1882,arabic letter dal with inverted small v below
+1883,arabic letter reh with stroke
+1884,arabic letter seen with four dots above
+1885,arabic letter ain with two dots above
+1886,arabic letter ain with three dots pointing downwards above
+1887,arabic letter ain with two dots vertically above
+1888,arabic letter feh with two dots below
+1889,arabic letter feh with three dots pointing upwards below
+1890,arabic letter keheh with dot above
+1891,arabic letter keheh with three dots above
+1892,arabic letter keheh with three dots pointing upwards below
+1893,arabic letter meem with dot above
+1894,arabic letter meem with dot below
+1895,arabic letter noon with two dots below
+1896,arabic letter noon with small tah
+1897,arabic letter noon with small v
+1898,arabic letter lam with bar
+1899,arabic letter reh with two dots vertically above
+1900,arabic letter reh with hamza above
+1901,arabic letter seen with two dots vertically above
+1902,arabic letter hah with small arabic letter tah below
+1903,arabic letter hah with small arabic letter tah and two dots
+1904,arabic letter seen with small arabic letter tah and two dots
+1905,arabic letter reh with small arabic letter tah and two dots
+1906,arabic letter hah with small arabic letter tah above
+1907,arabic letter alef with extended arabic-indic digit two above
+1908,arabic letter alef with extended arabic-indic digit three above
+1909,arabic letter farsi yeh with extended arabic-indic digit two above
+1910,arabic letter farsi yeh with extended arabic-indic digit three above
+1911,arabic letter farsi yeh with extended arabic-indic digit four below
+1912,arabic letter waw with extended arabic-indic digit two above
+1913,arabic letter waw with extended arabic-indic digit three above
+1914,arabic letter yeh barree with extended arabic-indic digit two above
+1915,arabic letter yeh barree with extended arabic-indic digit three above
+1916,arabic letter hah with extended arabic-indic digit four below
+1917,arabic letter seen with extended arabic-indic digit four above
+1918,arabic letter seen with inverted v

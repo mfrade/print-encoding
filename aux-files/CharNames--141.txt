@@ -1,0 +1,31 @@
+43616,myanmar letter khamti ga
+43617,myanmar letter khamti ca
+43618,myanmar letter khamti cha
+43619,myanmar letter khamti ja
+43620,myanmar letter khamti jha
+43621,myanmar letter khamti nya
+43622,myanmar letter khamti tta
+43623,myanmar letter khamti ttha
+43624,myanmar letter khamti dda
+43625,myanmar letter khamti ddha
+43626,myanmar letter khamti dha
+43627,myanmar letter khamti na
+43628,myanmar letter khamti sa
+43629,myanmar letter khamti ha
+43630,myanmar letter khamti hha
+43631,myanmar letter khamti fa
+43632,myanmar modifier letter khamti reduplication
+43633,myanmar letter khamti xa
+43634,myanmar letter khamti za
+43635,myanmar letter khamti ra
+43636,myanmar logogram khamti oay
+43637,myanmar logogram khamti qn
+43638,myanmar logogram khamti hm
+43639,myanmar symbol aiton exclamation
+43640,myanmar symbol aiton one
+43641,myanmar symbol aiton two
+43642,myanmar letter aiton ra
+43643,myanmar sign pao karen tone
+43644,myanmar sign tai laing tone-2
+43645,myanmar sign tai laing tone-5
+43646,myanmar letter shwe palaung cha

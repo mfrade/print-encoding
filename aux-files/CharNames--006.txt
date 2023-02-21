@@ -1,0 +1,79 @@
+688,modifier letter small h
+689,modifier letter small h with hook
+690,modifier letter small j
+691,modifier letter small r
+692,modifier letter small turned r
+693,modifier letter small turned r with hook
+694,modifier letter small capital inverted r
+695,modifier letter small w
+696,modifier letter small y
+697,modifier letter prime
+698,modifier letter double prime
+699,modifier letter turned comma
+700,modifier letter apostrophe
+701,modifier letter reversed comma
+702,modifier letter right half ring
+703,modifier letter left half ring
+704,modifier letter glottal stop
+705,modifier letter reversed glottal stop
+706,modifier letter left arrowhead
+707,modifier letter right arrowhead
+708,modifier letter up arrowhead
+709,modifier letter down arrowhead
+710,modifier letter circumflex accent
+711,caron
+712,modifier letter vertical line
+713,modifier letter macron
+714,modifier letter acute accent
+715,modifier letter grave accent
+716,modifier letter low vertical line
+717,modifier letter low macron
+718,modifier letter low grave accent
+719,modifier letter low acute accent
+720,modifier letter triangular colon
+721,modifier letter half triangular colon
+722,modifier letter centred right half ring
+723,modifier letter centred left half ring
+724,modifier letter up tack
+725,modifier letter down tack
+726,modifier letter plus sign
+727,modifier letter minus sign
+728,breve
+729,dot above
+730,ring above
+731,ogonek
+732,small tilde
+733,double acute accent
+734,modifier letter rhotic hook
+735,modifier letter cross accent
+736,modifier letter small gamma
+737,modifier letter small l
+738,modifier letter small s
+739,modifier letter small x
+740,modifier letter small reversed glottal stop
+741,modifier letter extra-high tone bar
+742,modifier letter high tone bar
+743,modifier letter mid tone bar
+744,modifier letter low tone bar
+745,modifier letter extra-low tone bar
+746,modifier letter yin departing tone mark
+747,modifier letter yang departing tone mark
+748,modifier letter voicing
+749,modifier letter unaspirated
+750,modifier letter double apostrophe
+751,modifier letter low down arrowhead
+752,modifier letter low up arrowhead
+753,modifier letter low left arrowhead
+754,modifier letter low right arrowhead
+755,modifier letter low ring
+756,modifier letter middle grave accent
+757,modifier letter middle double grave accent
+758,modifier letter middle double acute accent
+759,modifier letter low tilde
+760,modifier letter raised colon
+761,modifier letter begin high tone
+762,modifier letter end high tone
+763,modifier letter begin low tone
+764,modifier letter end low tone
+765,modifier letter shelf
+766,modifier letter open shelf

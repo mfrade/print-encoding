@@ -1,0 +1,114 @@
+6016,khmer letter ka
+6017,khmer letter kha
+6018,khmer letter ko
+6019,khmer letter kho
+6020,khmer letter ngo
+6021,khmer letter ca
+6022,khmer letter cha
+6023,khmer letter co
+6024,khmer letter cho
+6025,khmer letter nyo
+6026,khmer letter da
+6027,khmer letter ttha
+6028,khmer letter do
+6029,khmer letter ttho
+6030,khmer letter nno
+6031,khmer letter ta
+6032,khmer letter tha
+6033,khmer letter to
+6034,khmer letter tho
+6035,khmer letter no
+6036,khmer letter ba
+6037,khmer letter pha
+6038,khmer letter po
+6039,khmer letter pho
+6040,khmer letter mo
+6041,khmer letter yo
+6042,khmer letter ro
+6043,khmer letter lo
+6044,khmer letter vo
+6045,khmer letter sha
+6046,khmer letter sso
+6047,khmer letter sa
+6048,khmer letter ha
+6049,khmer letter la
+6050,khmer letter qa
+6051,khmer independent vowel qaq
+6052,khmer independent vowel qaa
+6053,khmer independent vowel qi
+6054,khmer independent vowel qii
+6055,khmer independent vowel qu
+6056,khmer independent vowel quk
+6057,khmer independent vowel quu
+6058,khmer independent vowel quuv
+6059,khmer independent vowel ry
+6060,khmer independent vowel ryy
+6061,khmer independent vowel ly
+6062,khmer independent vowel lyy
+6063,khmer independent vowel qe
+6064,khmer independent vowel qai
+6065,khmer independent vowel qoo type one
+6066,khmer independent vowel qoo type two
+6067,khmer independent vowel qau
+6068,khmer vowel inherent aq
+6069,khmer vowel inherent aa
+6070,khmer vowel sign aa
+6071,khmer vowel sign i
+6072,khmer vowel sign ii
+6073,khmer vowel sign y
+6074,khmer vowel sign yy
+6075,khmer vowel sign u
+6076,khmer vowel sign uu
+6077,khmer vowel sign ua
+6078,khmer vowel sign oe
+6079,khmer vowel sign ya
+6080,khmer vowel sign ie
+6081,khmer vowel sign e
+6082,khmer vowel sign ae
+6083,khmer vowel sign ai
+6084,khmer vowel sign oo
+6085,khmer vowel sign au
+6086,khmer sign nikahit
+6087,khmer sign reahmuk
+6088,khmer sign yuukaleapintu
+6089,khmer sign muusikatoan
+6090,khmer sign triisap
+6091,khmer sign bantoc
+6092,khmer sign robat
+6093,khmer sign toandakhiat
+6094,khmer sign kakabat
+6095,khmer sign ahsda
+6096,khmer sign samyok sannya
+6097,khmer sign viriam
+6098,khmer sign coeng
+6099,khmer sign bathamasat
+6100,khmer sign khan
+6101,khmer sign bariyoosan
+6102,khmer sign camnuc pii kuuh
+6103,khmer sign lek too
+6104,khmer sign beyyal
+6105,khmer sign phnaek muan
+6106,khmer sign koomuut
+6107,khmer currency symbol riel
+6108,khmer sign avakrahasanya
+6109,khmer sign atthacan
+6112,khmer digit zero
+6113,khmer digit one
+6114,khmer digit two
+6115,khmer digit three
+6116,khmer digit four
+6117,khmer digit five
+6118,khmer digit six
+6119,khmer digit seven
+6120,khmer digit eight
+6121,khmer digit nine
+6128,khmer symbol lek attak son
+6129,khmer symbol lek attak muoy
+6130,khmer symbol lek attak pii
+6131,khmer symbol lek attak bei
+6132,khmer symbol lek attak buon
+6133,khmer symbol lek attak pram
+6134,khmer symbol lek attak pram-muoy
+6135,khmer symbol lek attak pram-pii
+6136,khmer symbol lek attak pram-bei
+6137,khmer symbol lek attak pram-buon

@@ -1,0 +1,72 @@
+72192,zanabazar square letter a
+72193,zanabazar square vowel sign i
+72194,zanabazar square vowel sign ue
+72195,zanabazar square vowel sign u
+72196,zanabazar square vowel sign e
+72197,zanabazar square vowel sign oe
+72198,zanabazar square vowel sign o
+72199,zanabazar square vowel sign ai
+72200,zanabazar square vowel sign au
+72201,zanabazar square vowel sign reversed i
+72202,zanabazar square vowel length mark
+72203,zanabazar square letter ka
+72204,zanabazar square letter kha
+72205,zanabazar square letter ga
+72206,zanabazar square letter gha
+72207,zanabazar square letter nga
+72208,zanabazar square letter ca
+72209,zanabazar square letter cha
+72210,zanabazar square letter ja
+72211,zanabazar square letter nya
+72212,zanabazar square letter tta
+72213,zanabazar square letter ttha
+72214,zanabazar square letter dda
+72215,zanabazar square letter ddha
+72216,zanabazar square letter nna
+72217,zanabazar square letter ta
+72218,zanabazar square letter tha
+72219,zanabazar square letter da
+72220,zanabazar square letter dha
+72221,zanabazar square letter na
+72222,zanabazar square letter pa
+72223,zanabazar square letter pha
+72224,zanabazar square letter ba
+72225,zanabazar square letter bha
+72226,zanabazar square letter ma
+72227,zanabazar square letter tsa
+72228,zanabazar square letter tsha
+72229,zanabazar square letter dza
+72230,zanabazar square letter dzha
+72231,zanabazar square letter zha
+72232,zanabazar square letter za
+72233,zanabazar square letter -a
+72234,zanabazar square letter ya
+72235,zanabazar square letter ra
+72236,zanabazar square letter la
+72237,zanabazar square letter va
+72238,zanabazar square letter sha
+72239,zanabazar square letter ssa
+72240,zanabazar square letter sa
+72241,zanabazar square letter ha
+72242,zanabazar square letter kssa
+72243,zanabazar square final consonant mark
+72244,zanabazar square sign virama
+72245,zanabazar square sign candrabindu
+72246,zanabazar square sign candrabindu with ornament
+72247,zanabazar square sign candra with ornament
+72248,zanabazar square sign anusvara
+72249,zanabazar square sign visarga
+72250,zanabazar square cluster-initial letter ra
+72251,zanabazar square cluster-final letter ya
+72252,zanabazar square cluster-final letter ra
+72253,zanabazar square cluster-final letter la
+72254,zanabazar square cluster-final letter va
+72255,zanabazar square initial head mark
+72256,zanabazar square closing head mark
+72257,zanabazar square mark tsheg
+72258,zanabazar square mark shad
+72259,zanabazar square mark double shad
+72260,zanabazar square mark long tsheg
+72261,zanabazar square initial double-lined head mark
+72262,zanabazar square closing double-lined head mark
+72263,zanabazar square subjoiner

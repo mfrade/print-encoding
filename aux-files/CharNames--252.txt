@@ -1,0 +1,116 @@
+74752,cuneiform numeric sign two ash
+74753,cuneiform numeric sign three ash
+74754,cuneiform numeric sign four ash
+74755,cuneiform numeric sign five ash
+74756,cuneiform numeric sign six ash
+74757,cuneiform numeric sign seven ash
+74758,cuneiform numeric sign eight ash
+74759,cuneiform numeric sign nine ash
+74760,cuneiform numeric sign three dish
+74761,cuneiform numeric sign four dish
+74762,cuneiform numeric sign five dish
+74763,cuneiform numeric sign six dish
+74764,cuneiform numeric sign seven dish
+74765,cuneiform numeric sign eight dish
+74766,cuneiform numeric sign nine dish
+74767,cuneiform numeric sign four u
+74768,cuneiform numeric sign five u
+74769,cuneiform numeric sign six u
+74770,cuneiform numeric sign seven u
+74771,cuneiform numeric sign eight u
+74772,cuneiform numeric sign nine u
+74773,cuneiform numeric sign one gesh2
+74774,cuneiform numeric sign two gesh2
+74775,cuneiform numeric sign three gesh2
+74776,cuneiform numeric sign four gesh2
+74777,cuneiform numeric sign five gesh2
+74778,cuneiform numeric sign six gesh2
+74779,cuneiform numeric sign seven gesh2
+74780,cuneiform numeric sign eight gesh2
+74781,cuneiform numeric sign nine gesh2
+74782,cuneiform numeric sign one geshu
+74783,cuneiform numeric sign two geshu
+74784,cuneiform numeric sign three geshu
+74785,cuneiform numeric sign four geshu
+74786,cuneiform numeric sign five geshu
+74787,cuneiform numeric sign two shar2
+74788,cuneiform numeric sign three shar2
+74789,cuneiform numeric sign three shar2 variant form
+74790,cuneiform numeric sign four shar2
+74791,cuneiform numeric sign five shar2
+74792,cuneiform numeric sign six shar2
+74793,cuneiform numeric sign seven shar2
+74794,cuneiform numeric sign eight shar2
+74795,cuneiform numeric sign nine shar2
+74796,cuneiform numeric sign one sharu
+74797,cuneiform numeric sign two sharu
+74798,cuneiform numeric sign three sharu
+74799,cuneiform numeric sign three sharu variant form
+74800,cuneiform numeric sign four sharu
+74801,cuneiform numeric sign five sharu
+74802,cuneiform numeric sign shar2 times gal plus dish
+74803,cuneiform numeric sign shar2 times gal plus min
+74804,cuneiform numeric sign one buru
+74805,cuneiform numeric sign two buru
+74806,cuneiform numeric sign three buru
+74807,cuneiform numeric sign three buru variant form
+74808,cuneiform numeric sign four buru
+74809,cuneiform numeric sign five buru
+74810,cuneiform numeric sign three variant form esh16
+74811,cuneiform numeric sign three variant form esh21
+74812,cuneiform numeric sign four variant form limmu
+74813,cuneiform numeric sign four variant form limmu4
+74814,cuneiform numeric sign four variant form limmu a
+74815,cuneiform numeric sign four variant form limmu b
+74816,cuneiform numeric sign six variant form ash9
+74817,cuneiform numeric sign seven variant form imin3
+74818,cuneiform numeric sign seven variant form imin a
+74819,cuneiform numeric sign seven variant form imin b
+74820,cuneiform numeric sign eight variant form ussu
+74821,cuneiform numeric sign eight variant form ussu3
+74822,cuneiform numeric sign nine variant form ilimmu
+74823,cuneiform numeric sign nine variant form ilimmu3
+74824,cuneiform numeric sign nine variant form ilimmu4
+74825,cuneiform numeric sign nine variant form ilimmu a
+74826,cuneiform numeric sign two ash tenu
+74827,cuneiform numeric sign three ash tenu
+74828,cuneiform numeric sign four ash tenu
+74829,cuneiform numeric sign five ash tenu
+74830,cuneiform numeric sign six ash tenu
+74831,cuneiform numeric sign one ban2
+74832,cuneiform numeric sign two ban2
+74833,cuneiform numeric sign three ban2
+74834,cuneiform numeric sign four ban2
+74835,cuneiform numeric sign four ban2 variant form
+74836,cuneiform numeric sign five ban2
+74837,cuneiform numeric sign five ban2 variant form
+74838,cuneiform numeric sign nigidamin
+74839,cuneiform numeric sign nigidaesh
+74840,cuneiform numeric sign one eshe3
+74841,cuneiform numeric sign two eshe3
+74842,cuneiform numeric sign one third dish
+74843,cuneiform numeric sign two thirds dish
+74844,cuneiform numeric sign five sixths dish
+74845,cuneiform numeric sign one third variant form a
+74846,cuneiform numeric sign two thirds variant form a
+74847,cuneiform numeric sign one eighth ash
+74848,cuneiform numeric sign one quarter ash
+74849,cuneiform numeric sign old assyrian one sixth
+74850,cuneiform numeric sign old assyrian one quarter
+74851,cuneiform numeric sign one quarter gur
+74852,cuneiform numeric sign one half gur
+74853,cuneiform numeric sign elamite one third
+74854,cuneiform numeric sign elamite two thirds
+74855,cuneiform numeric sign elamite forty
+74856,cuneiform numeric sign elamite fifty
+74857,cuneiform numeric sign four u variant form
+74858,cuneiform numeric sign five u variant form
+74859,cuneiform numeric sign six u variant form
+74860,cuneiform numeric sign seven u variant form
+74861,cuneiform numeric sign eight u variant form
+74862,cuneiform numeric sign nine u variant form
+74864,cuneiform punctuation sign old assyrian word divider
+74865,cuneiform punctuation sign vertical colon
+74866,cuneiform punctuation sign diagonal colon
+74867,cuneiform punctuation sign diagonal tricolon
+74868,cuneiform punctuation sign diagonal quadcolon

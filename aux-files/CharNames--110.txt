@@ -1,0 +1,95 @@
+12448,katakana-hiragana double hyphen
+12449,katakana letter small a
+12450,katakana letter a
+12451,katakana letter small i
+12452,katakana letter i
+12453,katakana letter small u
+12454,katakana letter u
+12455,katakana letter small e
+12456,katakana letter e
+12457,katakana letter small o
+12458,katakana letter o
+12459,katakana letter ka
+12460,katakana letter ga
+12461,katakana letter ki
+12462,katakana letter gi
+12463,katakana letter ku
+12464,katakana letter gu
+12465,katakana letter ke
+12466,katakana letter ge
+12467,katakana letter ko
+12468,katakana letter go
+12469,katakana letter sa
+12470,katakana letter za
+12471,katakana letter si
+12472,katakana letter zi
+12473,katakana letter su
+12474,katakana letter zu
+12475,katakana letter se
+12476,katakana letter ze
+12477,katakana letter so
+12478,katakana letter zo
+12479,katakana letter ta
+12480,katakana letter da
+12481,katakana letter ti
+12482,katakana letter di
+12483,katakana letter small tu
+12484,katakana letter tu
+12485,katakana letter du
+12486,katakana letter te
+12487,katakana letter de
+12488,katakana letter to
+12489,katakana letter do
+12490,katakana letter na
+12491,katakana letter ni
+12492,katakana letter nu
+12493,katakana letter ne
+12494,katakana letter no
+12495,katakana letter ha
+12496,katakana letter ba
+12497,katakana letter pa
+12498,katakana letter hi
+12499,katakana letter bi
+12500,katakana letter pi
+12501,katakana letter hu
+12502,katakana letter bu
+12503,katakana letter pu
+12504,katakana letter he
+12505,katakana letter be
+12506,katakana letter pe
+12507,katakana letter ho
+12508,katakana letter bo
+12509,katakana letter po
+12510,katakana letter ma
+12511,katakana letter mi
+12512,katakana letter mu
+12513,katakana letter me
+12514,katakana letter mo
+12515,katakana letter small ya
+12516,katakana letter ya
+12517,katakana letter small yu
+12518,katakana letter yu
+12519,katakana letter small yo
+12520,katakana letter yo
+12521,katakana letter ra
+12522,katakana letter ri
+12523,katakana letter ru
+12524,katakana letter re
+12525,katakana letter ro
+12526,katakana letter small wa
+12527,katakana letter wa
+12528,katakana letter wi
+12529,katakana letter we
+12530,katakana letter wo
+12531,katakana letter n
+12532,katakana letter vu
+12533,katakana letter small ka
+12534,katakana letter small ke
+12535,katakana letter va
+12536,katakana letter vi
+12537,katakana letter ve
+12538,katakana letter vo
+12539,katakana middle dot
+12540,katakana-hiragana prolonged sound mark
+12541,katakana iteration mark
+12542,katakana voiced iteration mark

@@ -1,0 +1,31 @@
+69216,rumi digit one
+69217,rumi digit two
+69218,rumi digit three
+69219,rumi digit four
+69220,rumi digit five
+69221,rumi digit six
+69222,rumi digit seven
+69223,rumi digit eight
+69224,rumi digit nine
+69225,rumi number ten
+69226,rumi number twenty
+69227,rumi number thirty
+69228,rumi number forty
+69229,rumi number fifty
+69230,rumi number sixty
+69231,rumi number seventy
+69232,rumi number eighty
+69233,rumi number ninety
+69234,rumi number one hundred
+69235,rumi number two hundred
+69236,rumi number three hundred
+69237,rumi number four hundred
+69238,rumi number five hundred
+69239,rumi number six hundred
+69240,rumi number seven hundred
+69241,rumi number eight hundred
+69242,rumi number nine hundred
+69243,rumi fraction one half
+69244,rumi fraction one quarter
+69245,rumi fraction one third
+69246,rumi fraction two thirds

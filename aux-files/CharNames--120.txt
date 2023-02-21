@@ -1,0 +1,63 @@
+19904,hexagram for the creative heaven
+19905,hexagram for the receptive earth
+19906,hexagram for difficulty at the beginning
+19907,hexagram for youthful folly
+19908,hexagram for waiting
+19909,hexagram for conflict
+19910,hexagram for the army
+19911,hexagram for holding together
+19912,hexagram for small taming
+19913,hexagram for treading
+19914,hexagram for peace
+19915,hexagram for standstill
+19916,hexagram for fellowship
+19917,hexagram for great possession
+19918,hexagram for modesty
+19919,hexagram for enthusiasm
+19920,hexagram for following
+19921,hexagram for work on the decayed
+19922,hexagram for approach
+19923,hexagram for contemplation
+19924,hexagram for biting through
+19925,hexagram for grace
+19926,hexagram for splitting apart
+19927,hexagram for return
+19928,hexagram for innocence
+19929,hexagram for great taming
+19930,hexagram for mouth corners
+19931,hexagram for great preponderance
+19932,hexagram for the abysmal water
+19933,hexagram for the clinging fire
+19934,hexagram for influence
+19935,hexagram for duration
+19936,hexagram for retreat
+19937,hexagram for great power
+19938,hexagram for progress
+19939,hexagram for darkening of the light
+19940,hexagram for the family
+19941,hexagram for opposition
+19942,hexagram for obstruction
+19943,hexagram for deliverance
+19944,hexagram for decrease
+19945,hexagram for increase
+19946,hexagram for breakthrough
+19947,hexagram for coming to meet
+19948,hexagram for gathering together
+19949,hexagram for pushing upward
+19950,hexagram for oppression
+19951,hexagram for the well
+19952,hexagram for revolution
+19953,hexagram for the cauldron
+19954,hexagram for the arousing thunder
+19955,hexagram for the keeping still mountain
+19956,hexagram for development
+19957,hexagram for the marrying maiden
+19958,hexagram for abundance
+19959,hexagram for the wanderer
+19960,hexagram for the gentle wind
+19961,hexagram for the joyous lake
+19962,hexagram for dispersion
+19963,hexagram for limitation
+19964,hexagram for inner truth
+19965,hexagram for small preponderance
+19966,hexagram for after completion

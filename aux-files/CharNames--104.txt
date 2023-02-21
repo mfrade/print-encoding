@@ -1,0 +1,94 @@
+11776,right angle substitution marker
+11777,right angle dotted substitution marker
+11778,left substitution bracket
+11779,right substitution bracket
+11780,left dotted substitution bracket
+11781,right dotted substitution bracket
+11782,raised interpolation marker
+11783,raised dotted interpolation marker
+11784,dotted transposition marker
+11785,left transposition bracket
+11786,right transposition bracket
+11787,raised square
+11788,left raised omission bracket
+11789,right raised omission bracket
+11790,editorial coronis
+11791,paragraphos
+11792,forked paragraphos
+11793,reversed forked paragraphos
+11794,hypodiastole
+11795,dotted obelos
+11796,downwards ancora
+11797,upwards ancora
+11798,dotted right-pointing angle
+11799,double oblique hyphen
+11800,inverted interrobang
+11801,palm branch
+11802,hyphen with diaeresis
+11803,tilde with ring above
+11804,left low paraphrase bracket
+11805,right low paraphrase bracket
+11806,tilde with dot above
+11807,tilde with dot below
+11808,left vertical bar with quill
+11809,right vertical bar with quill
+11810,top left half bracket
+11811,top right half bracket
+11812,bottom left half bracket
+11813,bottom right half bracket
+11814,left sideways u bracket
+11815,right sideways u bracket
+11816,left double parenthesis
+11817,right double parenthesis
+11818,two dots over one dot punctuation
+11819,one dot over two dots punctuation
+11820,squared four dot punctuation
+11821,five dot mark
+11822,reversed question mark
+11823,vertical tilde
+11824,ring point
+11825,word separator middle dot
+11826,turned comma
+11827,raised dot
+11828,raised comma
+11829,turned semicolon
+11830,dagger with left guard
+11831,dagger with right guard
+11832,turned dagger
+11833,top half section sign
+11834,two-em dash
+11835,three-em dash
+11836,stenographic full stop
+11837,vertical six dots
+11838,wiggly vertical line
+11839,capitulum
+11840,double hyphen
+11841,reversed comma
+11842,double low-reversed-9 quotation mark
+11843,dash with left upturn
+11844,double suspension mark
+11845,inverted low kavyka
+11846,inverted low kavyka with kavyka above
+11847,low kavyka
+11848,low kavyka with dot
+11849,double stacked comma
+11850,dotted solidus
+11851,triple dagger
+11852,medieval comma
+11853,paragraphus mark
+11854,punctus elevatus mark
+11855,cornish verse divider
+11856,cross patty with right crossbar
+11857,cross patty with left crossbar
+11858,tironian sign capital et
+11859,medieval exclamation mark
+11860,medieval question mark
+11861,left square bracket with stroke
+11862,right square bracket with stroke
+11863,left square bracket with double stroke
+11864,right square bracket with double stroke
+11865,top half left parenthesis
+11866,top half right parenthesis
+11867,bottom half left parenthesis
+11868,bottom half right parenthesis
+11869,oblique hyphen

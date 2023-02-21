@@ -1,0 +1,35 @@
+110848,hentaigana letter re-3
+110849,hentaigana letter re-4
+110850,hentaigana letter ro-1
+110851,hentaigana letter ro-2
+110852,hentaigana letter ro-3
+110853,hentaigana letter ro-4
+110854,hentaigana letter ro-5
+110855,hentaigana letter ro-6
+110856,hentaigana letter wa-1
+110857,hentaigana letter wa-2
+110858,hentaigana letter wa-3
+110859,hentaigana letter wa-4
+110860,hentaigana letter wa-5
+110861,hentaigana letter wi-1
+110862,hentaigana letter wi-2
+110863,hentaigana letter wi-3
+110864,hentaigana letter wi-4
+110865,hentaigana letter wi-5
+110866,hentaigana letter we-1
+110867,hentaigana letter we-2
+110868,hentaigana letter we-3
+110869,hentaigana letter we-4
+110870,hentaigana letter wo-1
+110871,hentaigana letter wo-2
+110872,hentaigana letter wo-3
+110873,hentaigana letter wo-4
+110874,hentaigana letter wo-5
+110875,hentaigana letter wo-6
+110876,hentaigana letter wo-7
+110877,hentaigana letter n-mu-mo-1
+110878,hentaigana letter n-mu-mo-2
+110879,hiragana letter archaic wu
+110880,katakana letter archaic yi
+110881,katakana letter archaic ye
+110882,katakana letter archaic wu

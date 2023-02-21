@@ -1,0 +1,31 @@
+43488,myanmar letter shan gha
+43489,myanmar letter shan cha
+43490,myanmar letter shan jha
+43491,myanmar letter shan nna
+43492,myanmar letter shan bha
+43493,myanmar sign shan saw
+43494,myanmar modifier letter shan reduplication
+43495,myanmar letter tai laing nya
+43496,myanmar letter tai laing fa
+43497,myanmar letter tai laing ga
+43498,myanmar letter tai laing gha
+43499,myanmar letter tai laing ja
+43500,myanmar letter tai laing jha
+43501,myanmar letter tai laing dda
+43502,myanmar letter tai laing ddha
+43503,myanmar letter tai laing nna
+43504,myanmar tai laing digit zero
+43505,myanmar tai laing digit one
+43506,myanmar tai laing digit two
+43507,myanmar tai laing digit three
+43508,myanmar tai laing digit four
+43509,myanmar tai laing digit five
+43510,myanmar tai laing digit six
+43511,myanmar tai laing digit seven
+43512,myanmar tai laing digit eight
+43513,myanmar tai laing digit nine
+43514,myanmar letter tai laing lla
+43515,myanmar letter tai laing da
+43516,myanmar letter tai laing dha
+43517,myanmar letter tai laing ba
+43518,myanmar letter tai laing bha

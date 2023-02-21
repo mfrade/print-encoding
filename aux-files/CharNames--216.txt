@@ -1,0 +1,114 @@
+69632,brahmi sign candrabindu
+69633,brahmi sign anusvara
+69634,brahmi sign visarga
+69635,brahmi sign jihvamuliya
+69636,brahmi sign upadhmaniya
+69637,brahmi letter a
+69638,brahmi letter aa
+69639,brahmi letter i
+69640,brahmi letter ii
+69641,brahmi letter u
+69642,brahmi letter uu
+69643,brahmi letter vocalic r
+69644,brahmi letter vocalic rr
+69645,brahmi letter vocalic l
+69646,brahmi letter vocalic ll
+69647,brahmi letter e
+69648,brahmi letter ai
+69649,brahmi letter o
+69650,brahmi letter au
+69651,brahmi letter ka
+69652,brahmi letter kha
+69653,brahmi letter ga
+69654,brahmi letter gha
+69655,brahmi letter nga
+69656,brahmi letter ca
+69657,brahmi letter cha
+69658,brahmi letter ja
+69659,brahmi letter jha
+69660,brahmi letter nya
+69661,brahmi letter tta
+69662,brahmi letter ttha
+69663,brahmi letter dda
+69664,brahmi letter ddha
+69665,brahmi letter nna
+69666,brahmi letter ta
+69667,brahmi letter tha
+69668,brahmi letter da
+69669,brahmi letter dha
+69670,brahmi letter na
+69671,brahmi letter pa
+69672,brahmi letter pha
+69673,brahmi letter ba
+69674,brahmi letter bha
+69675,brahmi letter ma
+69676,brahmi letter ya
+69677,brahmi letter ra
+69678,brahmi letter la
+69679,brahmi letter va
+69680,brahmi letter sha
+69681,brahmi letter ssa
+69682,brahmi letter sa
+69683,brahmi letter ha
+69684,brahmi letter lla
+69685,brahmi letter old tamil llla
+69686,brahmi letter old tamil rra
+69687,brahmi letter old tamil nnna
+69688,brahmi vowel sign aa
+69689,brahmi vowel sign bhattiprolu aa
+69690,brahmi vowel sign i
+69691,brahmi vowel sign ii
+69692,brahmi vowel sign u
+69693,brahmi vowel sign uu
+69694,brahmi vowel sign vocalic r
+69695,brahmi vowel sign vocalic rr
+69696,brahmi vowel sign vocalic l
+69697,brahmi vowel sign vocalic ll
+69698,brahmi vowel sign e
+69699,brahmi vowel sign ai
+69700,brahmi vowel sign o
+69701,brahmi vowel sign au
+69702,brahmi virama
+69703,brahmi danda
+69704,brahmi double danda
+69705,brahmi punctuation dot
+69706,brahmi punctuation double dot
+69707,brahmi punctuation line
+69708,brahmi punctuation crescent bar
+69709,brahmi punctuation lotus
+69714,brahmi number one
+69715,brahmi number two
+69716,brahmi number three
+69717,brahmi number four
+69718,brahmi number five
+69719,brahmi number six
+69720,brahmi number seven
+69721,brahmi number eight
+69722,brahmi number nine
+69723,brahmi number ten
+69724,brahmi number twenty
+69725,brahmi number thirty
+69726,brahmi number forty
+69727,brahmi number fifty
+69728,brahmi number sixty
+69729,brahmi number seventy
+69730,brahmi number eighty
+69731,brahmi number ninety
+69732,brahmi number one hundred
+69733,brahmi number one thousand
+69734,brahmi digit zero
+69735,brahmi digit one
+69736,brahmi digit two
+69737,brahmi digit three
+69738,brahmi digit four
+69739,brahmi digit five
+69740,brahmi digit six
+69741,brahmi digit seven
+69742,brahmi digit eight
+69743,brahmi digit nine
+69744,brahmi sign old tamil virama
+69745,brahmi letter old tamil short e
+69746,brahmi letter old tamil short o
+69747,brahmi vowel sign old tamil short e
+69748,brahmi vowel sign old tamil short o
+69749,brahmi letter old tamil lla

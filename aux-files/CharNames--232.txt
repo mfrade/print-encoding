@@ -1,0 +1,68 @@
+71296,takri letter a
+71297,takri letter aa
+71298,takri letter i
+71299,takri letter ii
+71300,takri letter u
+71301,takri letter uu
+71302,takri letter e
+71303,takri letter ai
+71304,takri letter o
+71305,takri letter au
+71306,takri letter ka
+71307,takri letter kha
+71308,takri letter ga
+71309,takri letter gha
+71310,takri letter nga
+71311,takri letter ca
+71312,takri letter cha
+71313,takri letter ja
+71314,takri letter jha
+71315,takri letter nya
+71316,takri letter tta
+71317,takri letter ttha
+71318,takri letter dda
+71319,takri letter ddha
+71320,takri letter nna
+71321,takri letter ta
+71322,takri letter tha
+71323,takri letter da
+71324,takri letter dha
+71325,takri letter na
+71326,takri letter pa
+71327,takri letter pha
+71328,takri letter ba
+71329,takri letter bha
+71330,takri letter ma
+71331,takri letter ya
+71332,takri letter ra
+71333,takri letter la
+71334,takri letter va
+71335,takri letter sha
+71336,takri letter sa
+71337,takri letter ha
+71338,takri letter rra
+71339,takri sign anusvara
+71340,takri sign visarga
+71341,takri vowel sign aa
+71342,takri vowel sign i
+71343,takri vowel sign ii
+71344,takri vowel sign u
+71345,takri vowel sign uu
+71346,takri vowel sign e
+71347,takri vowel sign ai
+71348,takri vowel sign o
+71349,takri vowel sign au
+71350,takri sign virama
+71351,takri sign nukta
+71352,takri letter archaic kha
+71353,takri abbreviation sign
+71360,takri digit zero
+71361,takri digit one
+71362,takri digit two
+71363,takri digit three
+71364,takri digit four
+71365,takri digit five
+71366,takri digit six
+71367,takri digit seven
+71368,takri digit eight
+71369,takri digit nine

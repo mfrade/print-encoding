@@ -1,0 +1,15 @@
+65056,combining ligature left half
+65057,combining ligature right half
+65058,combining double tilde left half
+65059,combining double tilde right half
+65060,combining macron left half
+65061,combining macron right half
+65062,combining conjoining macron
+65063,combining ligature left half below
+65064,combining ligature right half below
+65065,combining tilde left half below
+65066,combining tilde right half below
+65067,combining macron left half below
+65068,combining macron right half below
+65069,combining conjoining macron below
+65070,combining cyrillic titlo left half

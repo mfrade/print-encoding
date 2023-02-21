@@ -1,0 +1,31 @@
+9600,upper half block
+9601,lower one eighth block
+9602,lower one quarter block
+9603,lower three eighths block
+9604,lower half block
+9605,lower five eighths block
+9606,lower three quarters block
+9607,lower seven eighths block
+9608,full block
+9609,left seven eighths block
+9610,left three quarters block
+9611,left five eighths block
+9612,left half block
+9613,left three eighths block
+9614,left one quarter block
+9615,left one eighth block
+9616,right half block
+9617,light shade
+9618,medium shade
+9619,dark shade
+9620,upper one eighth block
+9621,right one eighth block
+9622,quadrant lower left
+9623,quadrant lower right
+9624,quadrant upper left
+9625,quadrant upper left and lower left and lower right
+9626,quadrant upper left and lower right
+9627,quadrant upper left and upper right and lower left
+9628,quadrant upper left and upper right and lower right
+9629,quadrant upper right
+9630,quadrant upper right and lower left

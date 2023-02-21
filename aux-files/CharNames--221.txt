@@ -1,0 +1,95 @@
+70016,sharada sign candrabindu
+70017,sharada sign anusvara
+70018,sharada sign visarga
+70019,sharada letter a
+70020,sharada letter aa
+70021,sharada letter i
+70022,sharada letter ii
+70023,sharada letter u
+70024,sharada letter uu
+70025,sharada letter vocalic r
+70026,sharada letter vocalic rr
+70027,sharada letter vocalic l
+70028,sharada letter vocalic ll
+70029,sharada letter e
+70030,sharada letter ai
+70031,sharada letter o
+70032,sharada letter au
+70033,sharada letter ka
+70034,sharada letter kha
+70035,sharada letter ga
+70036,sharada letter gha
+70037,sharada letter nga
+70038,sharada letter ca
+70039,sharada letter cha
+70040,sharada letter ja
+70041,sharada letter jha
+70042,sharada letter nya
+70043,sharada letter tta
+70044,sharada letter ttha
+70045,sharada letter dda
+70046,sharada letter ddha
+70047,sharada letter nna
+70048,sharada letter ta
+70049,sharada letter tha
+70050,sharada letter da
+70051,sharada letter dha
+70052,sharada letter na
+70053,sharada letter pa
+70054,sharada letter pha
+70055,sharada letter ba
+70056,sharada letter bha
+70057,sharada letter ma
+70058,sharada letter ya
+70059,sharada letter ra
+70060,sharada letter la
+70061,sharada letter lla
+70062,sharada letter va
+70063,sharada letter sha
+70064,sharada letter ssa
+70065,sharada letter sa
+70066,sharada letter ha
+70067,sharada vowel sign aa
+70068,sharada vowel sign i
+70069,sharada vowel sign ii
+70070,sharada vowel sign u
+70071,sharada vowel sign uu
+70072,sharada vowel sign vocalic r
+70073,sharada vowel sign vocalic rr
+70074,sharada vowel sign vocalic l
+70075,sharada vowel sign vocalic ll
+70076,sharada vowel sign e
+70077,sharada vowel sign ai
+70078,sharada vowel sign o
+70079,sharada vowel sign au
+70080,sharada sign virama
+70081,sharada sign avagraha
+70082,sharada sign jihvamuliya
+70083,sharada sign upadhmaniya
+70084,sharada om
+70085,sharada danda
+70086,sharada double danda
+70087,sharada abbreviation sign
+70088,sharada separator
+70089,sharada sandhi mark
+70090,sharada sign nukta
+70091,sharada vowel modifier mark
+70092,sharada extra short vowel mark
+70093,sharada sutra mark
+70094,sharada vowel sign prishthamatra e
+70095,sharada sign inverted candrabindu
+70096,sharada digit zero
+70097,sharada digit one
+70098,sharada digit two
+70099,sharada digit three
+70100,sharada digit four
+70101,sharada digit five
+70102,sharada digit six
+70103,sharada digit seven
+70104,sharada digit eight
+70105,sharada digit nine
+70106,sharada ekam
+70107,sharada sign siddham
+70108,sharada headstroke
+70109,sharada continuation sign
+70110,sharada section mark-1

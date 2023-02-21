@@ -1,0 +1,255 @@
+7680,latin capital letter a with ring below
+7681,latin small letter a with ring below
+7682,latin capital letter b with dot above
+7683,latin small letter b with dot above
+7684,latin capital letter b with dot below
+7685,latin small letter b with dot below
+7686,latin capital letter b with line below
+7687,latin small letter b with line below
+7688,latin capital letter c with cedilla and acute
+7689,latin small letter c with cedilla and acute
+7690,latin capital letter d with dot above
+7691,latin small letter d with dot above
+7692,latin capital letter d with dot below
+7693,latin small letter d with dot below
+7694,latin capital letter d with line below
+7695,latin small letter d with line below
+7696,latin capital letter d with cedilla
+7697,latin small letter d with cedilla
+7698,latin capital letter d with circumflex below
+7699,latin small letter d with circumflex below
+7700,latin capital letter e with macron and grave
+7701,latin small letter e with macron and grave
+7702,latin capital letter e with macron and acute
+7703,latin small letter e with macron and acute
+7704,latin capital letter e with circumflex below
+7705,latin small letter e with circumflex below
+7706,latin capital letter e with tilde below
+7707,latin small letter e with tilde below
+7708,latin capital letter e with cedilla and breve
+7709,latin small letter e with cedilla and breve
+7710,latin capital letter f with dot above
+7711,latin small letter f with dot above
+7712,latin capital letter g with macron
+7713,latin small letter g with macron
+7714,latin capital letter h with dot above
+7715,latin small letter h with dot above
+7716,latin capital letter h with dot below
+7717,latin small letter h with dot below
+7718,latin capital letter h with diaeresis
+7719,latin small letter h with diaeresis
+7720,latin capital letter h with cedilla
+7721,latin small letter h with cedilla
+7722,latin capital letter h with breve below
+7723,latin small letter h with breve below
+7724,latin capital letter i with tilde below
+7725,latin small letter i with tilde below
+7726,latin capital letter i with diaeresis and acute
+7727,latin small letter i with diaeresis and acute
+7728,latin capital letter k with acute
+7729,latin small letter k with acute
+7730,latin capital letter k with dot below
+7731,latin small letter k with dot below
+7732,latin capital letter k with line below
+7733,latin small letter k with line below
+7734,latin capital letter l with dot below
+7735,latin small letter l with dot below
+7736,latin capital letter l with dot below and macron
+7737,latin small letter l with dot below and macron
+7738,latin capital letter l with line below
+7739,latin small letter l with line below
+7740,latin capital letter l with circumflex below
+7741,latin small letter l with circumflex below
+7742,latin capital letter m with acute
+7743,latin small letter m with acute
+7744,latin capital letter m with dot above
+7745,latin small letter m with dot above
+7746,latin capital letter m with dot below
+7747,latin small letter m with dot below
+7748,latin capital letter n with dot above
+7749,latin small letter n with dot above
+7750,latin capital letter n with dot below
+7751,latin small letter n with dot below
+7752,latin capital letter n with line below
+7753,latin small letter n with line below
+7754,latin capital letter n with circumflex below
+7755,latin small letter n with circumflex below
+7756,latin capital letter o with tilde and acute
+7757,latin small letter o with tilde and acute
+7758,latin capital letter o with tilde and diaeresis
+7759,latin small letter o with tilde and diaeresis
+7760,latin capital letter o with macron and grave
+7761,latin small letter o with macron and grave
+7762,latin capital letter o with macron and acute
+7763,latin small letter o with macron and acute
+7764,latin capital letter p with acute
+7765,latin small letter p with acute
+7766,latin capital letter p with dot above
+7767,latin small letter p with dot above
+7768,latin capital letter r with dot above
+7769,latin small letter r with dot above
+7770,latin capital letter r with dot below
+7771,latin small letter r with dot below
+7772,latin capital letter r with dot below and macron
+7773,latin small letter r with dot below and macron
+7774,latin capital letter r with line below
+7775,latin small letter r with line below
+7776,latin capital letter s with dot above
+7777,latin small letter s with dot above
+7778,latin capital letter s with dot below
+7779,latin small letter s with dot below
+7780,latin capital letter s with acute and dot above
+7781,latin small letter s with acute and dot above
+7782,latin capital letter s with caron and dot above
+7783,latin small letter s with caron and dot above
+7784,latin capital letter s with dot below and dot above
+7785,latin small letter s with dot below and dot above
+7786,latin capital letter t with dot above
+7787,latin small letter t with dot above
+7788,latin capital letter t with dot below
+7789,latin small letter t with dot below
+7790,latin capital letter t with line below
+7791,latin small letter t with line below
+7792,latin capital letter t with circumflex below
+7793,latin small letter t with circumflex below
+7794,latin capital letter u with diaeresis below
+7795,latin small letter u with diaeresis below
+7796,latin capital letter u with tilde below
+7797,latin small letter u with tilde below
+7798,latin capital letter u with circumflex below
+7799,latin small letter u with circumflex below
+7800,latin capital letter u with tilde and acute
+7801,latin small letter u with tilde and acute
+7802,latin capital letter u with macron and diaeresis
+7803,latin small letter u with macron and diaeresis
+7804,latin capital letter v with tilde
+7805,latin small letter v with tilde
+7806,latin capital letter v with dot below
+7807,latin small letter v with dot below
+7808,latin capital letter w with grave
+7809,latin small letter w with grave
+7810,latin capital letter w with acute
+7811,latin small letter w with acute
+7812,latin capital letter w with diaeresis
+7813,latin small letter w with diaeresis
+7814,latin capital letter w with dot above
+7815,latin small letter w with dot above
+7816,latin capital letter w with dot below
+7817,latin small letter w with dot below
+7818,latin capital letter x with dot above
+7819,latin small letter x with dot above
+7820,latin capital letter x with diaeresis
+7821,latin small letter x with diaeresis
+7822,latin capital letter y with dot above
+7823,latin small letter y with dot above
+7824,latin capital letter z with circumflex
+7825,latin small letter z with circumflex
+7826,latin capital letter z with dot below
+7827,latin small letter z with dot below
+7828,latin capital letter z with line below
+7829,latin small letter z with line below
+7830,latin small letter h with line below
+7831,latin small letter t with diaeresis
+7832,latin small letter w with ring above
+7833,latin small letter y with ring above
+7834,latin small letter a with right half ring
+7835,latin small letter long s with dot above
+7836,latin small letter long s with diagonal stroke
+7837,latin small letter long s with high stroke
+7838,latin capital letter sharp s
+7839,latin small letter delta
+7840,latin capital letter a with dot below
+7841,latin small letter a with dot below
+7842,latin capital letter a with hook above
+7843,latin small letter a with hook above
+7844,latin capital letter a with circumflex and acute
+7845,latin small letter a with circumflex and acute
+7846,latin capital letter a with circumflex and grave
+7847,latin small letter a with circumflex and grave
+7848,latin capital letter a with circumflex and hook above
+7849,latin small letter a with circumflex and hook above
+7850,latin capital letter a with circumflex and tilde
+7851,latin small letter a with circumflex and tilde
+7852,latin capital letter a with circumflex and dot below
+7853,latin small letter a with circumflex and dot below
+7854,latin capital letter a with breve and acute
+7855,latin small letter a with breve and acute
+7856,latin capital letter a with breve and grave
+7857,latin small letter a with breve and grave
+7858,latin capital letter a with breve and hook above
+7859,latin small letter a with breve and hook above
+7860,latin capital letter a with breve and tilde
+7861,latin small letter a with breve and tilde
+7862,latin capital letter a with breve and dot below
+7863,latin small letter a with breve and dot below
+7864,latin capital letter e with dot below
+7865,latin small letter e with dot below
+7866,latin capital letter e with hook above
+7867,latin small letter e with hook above
+7868,latin capital letter e with tilde
+7869,latin small letter e with tilde
+7870,latin capital letter e with circumflex and acute
+7871,latin small letter e with circumflex and acute
+7872,latin capital letter e with circumflex and grave
+7873,latin small letter e with circumflex and grave
+7874,latin capital letter e with circumflex and hook above
+7875,latin small letter e with circumflex and hook above
+7876,latin capital letter e with circumflex and tilde
+7877,latin small letter e with circumflex and tilde
+7878,latin capital letter e with circumflex and dot below
+7879,latin small letter e with circumflex and dot below
+7880,latin capital letter i with hook above
+7881,latin small letter i with hook above
+7882,latin capital letter i with dot below
+7883,latin small letter i with dot below
+7884,latin capital letter o with dot below
+7885,latin small letter o with dot below
+7886,latin capital letter o with hook above
+7887,latin small letter o with hook above
+7888,latin capital letter o with circumflex and acute
+7889,latin small letter o with circumflex and acute
+7890,latin capital letter o with circumflex and grave
+7891,latin small letter o with circumflex and grave
+7892,latin capital letter o with circumflex and hook above
+7893,latin small letter o with circumflex and hook above
+7894,latin capital letter o with circumflex and tilde
+7895,latin small letter o with circumflex and tilde
+7896,latin capital letter o with circumflex and dot below
+7897,latin small letter o with circumflex and dot below
+7898,latin capital letter o with horn and acute
+7899,latin small letter o with horn and acute
+7900,latin capital letter o with horn and grave
+7901,latin small letter o with horn and grave
+7902,latin capital letter o with horn and hook above
+7903,latin small letter o with horn and hook above
+7904,latin capital letter o with horn and tilde
+7905,latin small letter o with horn and tilde
+7906,latin capital letter o with horn and dot below
+7907,latin small letter o with horn and dot below
+7908,latin capital letter u with dot below
+7909,latin small letter u with dot below
+7910,latin capital letter u with hook above
+7911,latin small letter u with hook above
+7912,latin capital letter u with horn and acute
+7913,latin small letter u with horn and acute
+7914,latin capital letter u with horn and grave
+7915,latin small letter u with horn and grave
+7916,latin capital letter u with horn and hook above
+7917,latin small letter u with horn and hook above
+7918,latin capital letter u with horn and tilde
+7919,latin small letter u with horn and tilde
+7920,latin capital letter u with horn and dot below
+7921,latin small letter u with horn and dot below
+7922,latin capital letter y with grave
+7923,latin small letter y with grave
+7924,latin capital letter y with dot below
+7925,latin small letter y with dot below
+7926,latin capital letter y with hook above
+7927,latin small letter y with hook above
+7928,latin capital letter y with tilde
+7929,latin small letter y with tilde
+7930,latin capital letter middle-welsh ll
+7931,latin small letter middle-welsh ll
+7932,latin capital letter middle-welsh v
+7933,latin small letter middle-welsh v
+7934,latin capital letter y with loop

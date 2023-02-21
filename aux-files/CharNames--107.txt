@@ -1,0 +1,12 @@
+12272,ideographic description character left to right
+12273,ideographic description character above to below
+12274,ideographic description character left to middle and right
+12275,ideographic description character above to middle and below
+12276,ideographic description character full surround
+12277,ideographic description character surround from above
+12278,ideographic description character surround from below
+12279,ideographic description character surround from left
+12280,ideographic description character surround from upper left
+12281,ideographic description character surround from upper right
+12282,ideographic description character surround from lower left
+12283,ideographic description character overlaid

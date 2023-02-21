@@ -1,0 +1,63 @@
+12288,ideographic space
+12289,ideographic comma
+12290,ideographic full stop
+12291,ditto mark
+12292,japanese industrial standard symbol
+12293,ideographic iteration mark
+12294,ideographic closing mark
+12295,ideographic number zero
+12296,left angle bracket
+12297,right angle bracket
+12298,left double angle bracket
+12299,right double angle bracket
+12300,left corner bracket
+12301,right corner bracket
+12302,left white corner bracket
+12303,right white corner bracket
+12304,left black lenticular bracket
+12305,right black lenticular bracket
+12306,postal mark
+12307,geta mark
+12308,left tortoise shell bracket
+12309,right tortoise shell bracket
+12310,left white lenticular bracket
+12311,right white lenticular bracket
+12312,left white tortoise shell bracket
+12313,right white tortoise shell bracket
+12314,left white square bracket
+12315,right white square bracket
+12316,wave dash
+12317,reversed double prime quotation mark
+12318,double prime quotation mark
+12319,low double prime quotation mark
+12320,postal mark face
+12321,hangzhou numeral one
+12322,hangzhou numeral two
+12323,hangzhou numeral three
+12324,hangzhou numeral four
+12325,hangzhou numeral five
+12326,hangzhou numeral six
+12327,hangzhou numeral seven
+12328,hangzhou numeral eight
+12329,hangzhou numeral nine
+12330,ideographic level tone mark
+12331,ideographic rising tone mark
+12332,ideographic departing tone mark
+12333,ideographic entering tone mark
+12334,hangul single dot tone mark
+12335,hangul double dot tone mark
+12336,wavy dash
+12337,vertical kana repeat mark
+12338,vertical kana repeat with voiced sound mark
+12339,vertical kana repeat mark upper half
+12340,vertical kana repeat with voiced sound mark upper half
+12341,vertical kana repeat mark lower half
+12342,circled postal mark
+12343,ideographic telegraph line feed separator symbol
+12344,hangzhou numeral ten
+12345,hangzhou numeral twenty
+12346,hangzhou numeral thirty
+12347,vertical ideographic iteration mark
+12348,masu mark
+12349,part alternation mark
+12350,ideographic variation indicator

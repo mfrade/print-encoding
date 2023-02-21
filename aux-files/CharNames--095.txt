@@ -1,0 +1,255 @@
+10752,n-ary circled dot operator
+10753,n-ary circled plus operator
+10754,n-ary circled times operator
+10755,n-ary union operator with dot
+10756,n-ary union operator with plus
+10757,n-ary square intersection operator
+10758,n-ary square union operator
+10759,two logical and operator
+10760,two logical or operator
+10761,n-ary times operator
+10762,modulo two sum
+10763,summation with integral
+10764,quadruple integral operator
+10765,finite part integral
+10766,integral with double stroke
+10767,integral average with slash
+10768,circulation function
+10769,anticlockwise integration
+10770,line integration with rectangular path around pole
+10771,line integration with semicircular path around pole
+10772,line integration not including the pole
+10773,integral around a point operator
+10774,quaternion integral operator
+10775,integral with leftwards arrow with hook
+10776,integral with times sign
+10777,integral with intersection
+10778,integral with union
+10779,integral with overbar
+10780,integral with underbar
+10781,join
+10782,large left triangle operator
+10783,z notation schema composition
+10784,z notation schema piping
+10785,z notation schema projection
+10786,plus sign with small circle above
+10787,plus sign with circumflex accent above
+10788,plus sign with tilde above
+10789,plus sign with dot below
+10790,plus sign with tilde below
+10791,plus sign with subscript two
+10792,plus sign with black triangle
+10793,minus sign with comma above
+10794,minus sign with dot below
+10795,minus sign with falling dots
+10796,minus sign with rising dots
+10797,plus sign in left half circle
+10798,plus sign in right half circle
+10799,vector or cross product
+10800,multiplication sign with dot above
+10801,multiplication sign with underbar
+10802,semidirect product with bottom closed
+10803,smash product
+10804,multiplication sign in left half circle
+10805,multiplication sign in right half circle
+10806,circled multiplication sign with circumflex accent
+10807,multiplication sign in double circle
+10808,circled division sign
+10809,plus sign in triangle
+10810,minus sign in triangle
+10811,multiplication sign in triangle
+10812,interior product
+10813,righthand interior product
+10814,z notation relational composition
+10815,amalgamation or coproduct
+10816,intersection with dot
+10817,union with minus sign
+10818,union with overbar
+10819,intersection with overbar
+10820,intersection with logical and
+10821,union with logical or
+10822,union above intersection
+10823,intersection above union
+10824,union above bar above intersection
+10825,intersection above bar above union
+10826,union beside and joined with union
+10827,intersection beside and joined with intersection
+10828,closed union with serifs
+10829,closed intersection with serifs
+10830,double square intersection
+10831,double square union
+10832,closed union with serifs and smash product
+10833,logical and with dot above
+10834,logical or with dot above
+10835,double logical and
+10836,double logical or
+10837,two intersecting logical and
+10838,two intersecting logical or
+10839,sloping large or
+10840,sloping large and
+10841,logical or overlapping logical and
+10842,logical and with middle stem
+10843,logical or with middle stem
+10844,logical and with horizontal dash
+10845,logical or with horizontal dash
+10846,logical and with double overbar
+10847,logical and with underbar
+10848,logical and with double underbar
+10849,small vee with underbar
+10850,logical or with double overbar
+10851,logical or with double underbar
+10852,z notation domain antirestriction
+10853,z notation range antirestriction
+10854,equals sign with dot below
+10855,identical with dot above
+10856,triple horizontal bar with double vertical stroke
+10857,triple horizontal bar with triple vertical stroke
+10858,tilde operator with dot above
+10859,tilde operator with rising dots
+10860,similar minus similar
+10861,congruent with dot above
+10862,equals with asterisk
+10863,almost equal to with circumflex accent
+10864,approximately equal or equal to
+10865,equals sign above plus sign
+10866,plus sign above equals sign
+10867,equals sign above tilde operator
+10868,double colon equal
+10869,two consecutive equals signs
+10870,three consecutive equals signs
+10871,equals sign with two dots above and two dots below
+10872,equivalent with four dots above
+10873,less-than with circle inside
+10874,greater-than with circle inside
+10875,less-than with question mark above
+10876,greater-than with question mark above
+10877,less-than or slanted equal to
+10878,greater-than or slanted equal to
+10879,less-than or slanted equal to with dot inside
+10880,greater-than or slanted equal to with dot inside
+10881,less-than or slanted equal to with dot above
+10882,greater-than or slanted equal to with dot above
+10883,less-than or slanted equal to with dot above right
+10884,greater-than or slanted equal to with dot above left
+10885,less-than or approximate
+10886,greater-than or approximate
+10887,less-than and single-line not equal to
+10888,greater-than and single-line not equal to
+10889,less-than and not approximate
+10890,greater-than and not approximate
+10891,less-than above double-line equal above greater-than
+10892,greater-than above double-line equal above less-than
+10893,less-than above similar or equal
+10894,greater-than above similar or equal
+10895,less-than above similar above greater-than
+10896,greater-than above similar above less-than
+10897,less-than above greater-than above double-line equal
+10898,greater-than above less-than above double-line equal
+10899,less-than above slanted equal above greater-than above slanted equal
+10900,greater-than above slanted equal above less-than above slanted equal
+10901,slanted equal to or less-than
+10902,slanted equal to or greater-than
+10903,slanted equal to or less-than with dot inside
+10904,slanted equal to or greater-than with dot inside
+10905,double-line equal to or less-than
+10906,double-line equal to or greater-than
+10907,double-line slanted equal to or less-than
+10908,double-line slanted equal to or greater-than
+10909,similar or less-than
+10910,similar or greater-than
+10911,similar above less-than above equals sign
+10912,similar above greater-than above equals sign
+10913,double nested less-than
+10914,double nested greater-than
+10915,double nested less-than with underbar
+10916,greater-than overlapping less-than
+10917,greater-than beside less-than
+10918,less-than closed by curve
+10919,greater-than closed by curve
+10920,less-than closed by curve above slanted equal
+10921,greater-than closed by curve above slanted equal
+10922,smaller than
+10923,larger than
+10924,smaller than or equal to
+10925,larger than or equal to
+10926,equals sign with bumpy above
+10927,precedes above single-line equals sign
+10928,succeeds above single-line equals sign
+10929,precedes above single-line not equal to
+10930,succeeds above single-line not equal to
+10931,precedes above equals sign
+10932,succeeds above equals sign
+10933,precedes above not equal to
+10934,succeeds above not equal to
+10935,precedes above almost equal to
+10936,succeeds above almost equal to
+10937,precedes above not almost equal to
+10938,succeeds above not almost equal to
+10939,double precedes
+10940,double succeeds
+10941,subset with dot
+10942,superset with dot
+10943,subset with plus sign below
+10944,superset with plus sign below
+10945,subset with multiplication sign below
+10946,superset with multiplication sign below
+10947,subset of or equal to with dot above
+10948,superset of or equal to with dot above
+10949,subset of above equals sign
+10950,superset of above equals sign
+10951,subset of above tilde operator
+10952,superset of above tilde operator
+10953,subset of above almost equal to
+10954,superset of above almost equal to
+10955,subset of above not equal to
+10956,superset of above not equal to
+10957,square left open box operator
+10958,square right open box operator
+10959,closed subset
+10960,closed superset
+10961,closed subset or equal to
+10962,closed superset or equal to
+10963,subset above superset
+10964,superset above subset
+10965,subset above subset
+10966,superset above superset
+10967,superset beside subset
+10968,superset beside and joined by dash with subset
+10969,element of opening downwards
+10970,pitchfork with tee top
+10971,transversal intersection
+10972,forking
+10973,nonforking
+10974,short left tack
+10975,short down tack
+10976,short up tack
+10977,perpendicular with s
+10978,vertical bar triple right turnstile
+10979,double vertical bar left turnstile
+10980,vertical bar double left turnstile
+10981,double vertical bar double left turnstile
+10982,long dash from left member of double vertical
+10983,short down tack with overbar
+10984,short up tack with underbar
+10985,short up tack above short down tack
+10986,double down tack
+10987,double up tack
+10988,double stroke not sign
+10989,reversed double stroke not sign
+10990,does not divide with reversed negation slash
+10991,vertical line with circle above
+10992,vertical line with circle below
+10993,down tack with circle below
+10994,parallel with horizontal stroke
+10995,parallel with tilde operator
+10996,triple vertical bar binary relation
+10997,triple vertical bar with horizontal stroke
+10998,triple colon operator
+10999,triple nested less-than
+11000,triple nested greater-than
+11001,double-line slanted less-than or equal to
+11002,double-line slanted greater-than or equal to
+11003,triple solidus binary relation
+11004,large triple vertical bar operator
+11005,double solidus operator
+11006,white vertical bar

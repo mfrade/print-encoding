@@ -1,0 +1,134 @@
+880,greek capital letter heta
+881,greek small letter heta
+882,greek capital letter archaic sampi
+883,greek small letter archaic sampi
+884,greek numeral sign
+885,greek lower numeral sign
+886,greek capital letter pamphylian digamma
+887,greek small letter pamphylian digamma
+890,greek ypogegrammeni
+891,greek small reversed lunate sigma symbol
+892,greek small dotted lunate sigma symbol
+893,greek small reversed dotted lunate sigma symbol
+894,greek question mark
+895,greek capital letter yot
+900,greek tonos
+901,greek dialytika tonos
+902,greek capital letter alpha with tonos
+903,greek ano teleia
+904,greek capital letter epsilon with tonos
+905,greek capital letter eta with tonos
+906,greek capital letter iota with tonos
+908,greek capital letter omicron with tonos
+910,greek capital letter upsilon with tonos
+911,greek capital letter omega with tonos
+912,greek small letter iota with dialytika and tonos
+913,greek capital letter alpha
+914,greek capital letter beta
+915,greek capital letter gamma
+916,greek capital letter delta
+917,greek capital letter epsilon
+918,greek capital letter zeta
+919,greek capital letter eta
+920,greek capital letter theta
+921,greek capital letter iota
+922,greek capital letter kappa
+923,greek capital letter lamda
+924,greek capital letter mu
+925,greek capital letter nu
+926,greek capital letter xi
+927,greek capital letter omicron
+928,greek capital letter pi
+929,greek capital letter rho
+931,greek capital letter sigma
+932,greek capital letter tau
+933,greek capital letter upsilon
+934,greek capital letter phi
+935,greek capital letter chi
+936,greek capital letter psi
+937,greek capital letter omega
+938,greek capital letter iota with dialytika
+939,greek capital letter upsilon with dialytika
+940,greek small letter alpha with tonos
+941,greek small letter epsilon with tonos
+942,greek small letter eta with tonos
+943,greek small letter iota with tonos
+944,greek small letter upsilon with dialytika and tonos
+945,greek small letter alpha
+946,greek small letter beta
+947,greek small letter gamma
+948,greek small letter delta
+949,greek small letter epsilon
+950,greek small letter zeta
+951,greek small letter eta
+952,greek small letter theta
+953,greek small letter iota
+954,greek small letter kappa
+955,greek small letter lamda
+956,greek small letter mu
+957,greek small letter nu
+958,greek small letter xi
+959,greek small letter omicron
+960,greek small letter pi
+961,greek small letter rho
+962,greek small letter final sigma
+963,greek small letter sigma
+964,greek small letter tau
+965,greek small letter upsilon
+966,greek small letter phi
+967,greek small letter chi
+968,greek small letter psi
+969,greek small letter omega
+970,greek small letter iota with dialytika
+971,greek small letter upsilon with dialytika
+972,greek small letter omicron with tonos
+973,greek small letter upsilon with tonos
+974,greek small letter omega with tonos
+975,greek capital kai symbol
+976,greek beta symbol
+977,greek theta symbol
+978,greek upsilon with hook symbol
+979,greek upsilon with acute and hook symbol
+980,greek upsilon with diaeresis and hook symbol
+981,greek phi symbol
+982,greek pi symbol
+983,greek kai symbol
+984,greek letter archaic koppa
+985,greek small letter archaic koppa
+986,greek letter stigma
+987,greek small letter stigma
+988,greek letter digamma
+989,greek small letter digamma
+990,greek letter koppa
+991,greek small letter koppa
+992,greek letter sampi
+993,greek small letter sampi
+994,coptic capital letter shei
+995,coptic small letter shei
+996,coptic capital letter fei
+997,coptic small letter fei
+998,coptic capital letter khei
+999,coptic small letter khei
+1000,coptic capital letter hori
+1001,coptic small letter hori
+1002,coptic capital letter gangia
+1003,coptic small letter gangia
+1004,coptic capital letter shima
+1005,coptic small letter shima
+1006,coptic capital letter dei
+1007,coptic small letter dei
+1008,greek kappa symbol
+1009,greek rho symbol
+1010,greek lunate sigma symbol
+1011,greek letter yot
+1012,greek capital theta symbol
+1013,greek lunate epsilon symbol
+1014,greek reversed lunate epsilon symbol
+1015,greek capital letter sho
+1016,greek small letter sho
+1017,greek capital lunate sigma symbol
+1018,greek capital letter san
+1019,greek small letter san
+1020,greek rho with stroke symbol
+1021,greek capital reversed lunate sigma symbol
+1022,greek capital dotted lunate sigma symbol

@@ -1,0 +1,83 @@
+72272,soyombo letter a
+72273,soyombo vowel sign i
+72274,soyombo vowel sign ue
+72275,soyombo vowel sign u
+72276,soyombo vowel sign e
+72277,soyombo vowel sign o
+72278,soyombo vowel sign oe
+72279,soyombo vowel sign ai
+72280,soyombo vowel sign au
+72281,soyombo vowel sign vocalic r
+72282,soyombo vowel sign vocalic l
+72283,soyombo vowel length mark
+72284,soyombo letter ka
+72285,soyombo letter kha
+72286,soyombo letter ga
+72287,soyombo letter gha
+72288,soyombo letter nga
+72289,soyombo letter ca
+72290,soyombo letter cha
+72291,soyombo letter ja
+72292,soyombo letter jha
+72293,soyombo letter nya
+72294,soyombo letter tta
+72295,soyombo letter ttha
+72296,soyombo letter dda
+72297,soyombo letter ddha
+72298,soyombo letter nna
+72299,soyombo letter ta
+72300,soyombo letter tha
+72301,soyombo letter da
+72302,soyombo letter dha
+72303,soyombo letter na
+72304,soyombo letter pa
+72305,soyombo letter pha
+72306,soyombo letter ba
+72307,soyombo letter bha
+72308,soyombo letter ma
+72309,soyombo letter tsa
+72310,soyombo letter tsha
+72311,soyombo letter dza
+72312,soyombo letter zha
+72313,soyombo letter za
+72314,soyombo letter -a
+72315,soyombo letter ya
+72316,soyombo letter ra
+72317,soyombo letter la
+72318,soyombo letter va
+72319,soyombo letter sha
+72320,soyombo letter ssa
+72321,soyombo letter sa
+72322,soyombo letter ha
+72323,soyombo letter kssa
+72324,soyombo sign jihvamuliya
+72325,soyombo sign upadhmaniya
+72326,soyombo cluster-initial letter ra
+72327,soyombo cluster-initial letter la
+72328,soyombo cluster-initial letter sha
+72329,soyombo cluster-initial letter sa
+72330,soyombo final consonant sign g
+72331,soyombo final consonant sign k
+72332,soyombo final consonant sign ng
+72333,soyombo final consonant sign d
+72334,soyombo final consonant sign n
+72335,soyombo final consonant sign b
+72336,soyombo final consonant sign m
+72337,soyombo final consonant sign r
+72338,soyombo final consonant sign l
+72339,soyombo final consonant sign sh
+72340,soyombo final consonant sign s
+72341,soyombo final consonant sign -a
+72342,soyombo sign anusvara
+72343,soyombo sign visarga
+72344,soyombo gemination mark
+72345,soyombo subjoiner
+72346,soyombo mark tsheg
+72347,soyombo mark shad
+72348,soyombo mark double shad
+72349,soyombo mark pluta
+72350,soyombo head mark with moon and sun and triple flame
+72351,soyombo head mark with moon and sun and flame
+72352,soyombo head mark with moon and sun
+72353,soyombo terminal mark-1
+72354,soyombo terminal mark-2

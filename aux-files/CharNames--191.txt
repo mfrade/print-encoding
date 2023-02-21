@@ -1,0 +1,47 @@
+67712,nabataean letter final aleph
+67713,nabataean letter aleph
+67714,nabataean letter final beth
+67715,nabataean letter beth
+67716,nabataean letter gimel
+67717,nabataean letter daleth
+67718,nabataean letter final he
+67719,None
+67720,None
+67721,None
+67722,None
+67723,None
+67724,None
+67725,None
+67726,None
+67727,None
+67728,None
+67729,None
+67730,None
+67731,None
+67732,None
+67733,None
+67734,None
+67735,None
+67736,None
+67737,None
+67738,None
+67739,None
+67740,None
+67741,None
+67742,None
+67743,None
+67744,None
+67745,None
+67746,None
+67747,None
+67748,None
+67749,None
+67750,None
+67751,None
+67752,None
+67753,None
+67754,None
+67755,None
+67756,None
+67757,None
+67758,None

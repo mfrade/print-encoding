@@ -1,0 +1,143 @@
+126464,arabic mathematical alef
+126465,arabic mathematical beh
+126466,arabic mathematical jeem
+126467,arabic mathematical dal
+126469,arabic mathematical waw
+126470,arabic mathematical zain
+126471,arabic mathematical hah
+126472,arabic mathematical tah
+126473,arabic mathematical yeh
+126474,arabic mathematical kaf
+126475,arabic mathematical lam
+126476,arabic mathematical meem
+126477,arabic mathematical noon
+126478,arabic mathematical seen
+126479,arabic mathematical ain
+126480,arabic mathematical feh
+126481,arabic mathematical sad
+126482,arabic mathematical qaf
+126483,arabic mathematical reh
+126484,arabic mathematical sheen
+126485,arabic mathematical teh
+126486,arabic mathematical theh
+126487,arabic mathematical khah
+126488,arabic mathematical thal
+126489,arabic mathematical dad
+126490,arabic mathematical zah
+126491,arabic mathematical ghain
+126492,arabic mathematical dotless beh
+126493,arabic mathematical dotless noon
+126494,arabic mathematical dotless feh
+126495,arabic mathematical dotless qaf
+126497,arabic mathematical initial beh
+126498,arabic mathematical initial jeem
+126500,arabic mathematical initial heh
+126503,arabic mathematical initial hah
+126505,arabic mathematical initial yeh
+126506,arabic mathematical initial kaf
+126507,arabic mathematical initial lam
+126508,arabic mathematical initial meem
+126509,arabic mathematical initial noon
+126510,arabic mathematical initial seen
+126511,arabic mathematical initial ain
+126512,arabic mathematical initial feh
+126513,arabic mathematical initial sad
+126514,arabic mathematical initial qaf
+126516,arabic mathematical initial sheen
+126517,arabic mathematical initial teh
+126518,arabic mathematical initial theh
+126519,arabic mathematical initial khah
+126521,arabic mathematical initial dad
+126523,arabic mathematical initial ghain
+126530,arabic mathematical tailed jeem
+126535,arabic mathematical tailed hah
+126537,arabic mathematical tailed yeh
+126539,arabic mathematical tailed lam
+126541,arabic mathematical tailed noon
+126542,arabic mathematical tailed seen
+126543,arabic mathematical tailed ain
+126545,arabic mathematical tailed sad
+126546,arabic mathematical tailed qaf
+126548,arabic mathematical tailed sheen
+126551,arabic mathematical tailed khah
+126553,arabic mathematical tailed dad
+126555,arabic mathematical tailed ghain
+126557,arabic mathematical tailed dotless noon
+126559,arabic mathematical tailed dotless qaf
+126561,arabic mathematical stretched beh
+126562,arabic mathematical stretched jeem
+126564,arabic mathematical stretched heh
+126567,arabic mathematical stretched hah
+126568,arabic mathematical stretched tah
+126569,arabic mathematical stretched yeh
+126570,arabic mathematical stretched kaf
+126572,arabic mathematical stretched meem
+126573,arabic mathematical stretched noon
+126574,arabic mathematical stretched seen
+126575,arabic mathematical stretched ain
+126576,arabic mathematical stretched feh
+126577,arabic mathematical stretched sad
+126578,arabic mathematical stretched qaf
+126580,arabic mathematical stretched sheen
+126581,arabic mathematical stretched teh
+126582,arabic mathematical stretched theh
+126583,arabic mathematical stretched khah
+126585,arabic mathematical stretched dad
+126586,arabic mathematical stretched zah
+126587,arabic mathematical stretched ghain
+126588,arabic mathematical stretched dotless beh
+126590,arabic mathematical stretched dotless feh
+126592,arabic mathematical looped alef
+126593,arabic mathematical looped beh
+126594,arabic mathematical looped jeem
+126595,arabic mathematical looped dal
+126596,arabic mathematical looped heh
+126597,arabic mathematical looped waw
+126598,arabic mathematical looped zain
+126599,arabic mathematical looped hah
+126600,arabic mathematical looped tah
+126601,arabic mathematical looped yeh
+126603,arabic mathematical looped lam
+126604,arabic mathematical looped meem
+126605,arabic mathematical looped noon
+126606,arabic mathematical looped seen
+126607,arabic mathematical looped ain
+126608,arabic mathematical looped feh
+126609,arabic mathematical looped sad
+126610,arabic mathematical looped qaf
+126611,arabic mathematical looped reh
+126612,arabic mathematical looped sheen
+126613,arabic mathematical looped teh
+126614,arabic mathematical looped theh
+126615,arabic mathematical looped khah
+126616,arabic mathematical looped thal
+126617,arabic mathematical looped dad
+126618,arabic mathematical looped zah
+126619,arabic mathematical looped ghain
+126625,arabic mathematical double-struck beh
+126626,arabic mathematical double-struck jeem
+126627,arabic mathematical double-struck dal
+126629,arabic mathematical double-struck waw
+126630,arabic mathematical double-struck zain
+126631,arabic mathematical double-struck hah
+126632,arabic mathematical double-struck tah
+126633,arabic mathematical double-struck yeh
+126635,arabic mathematical double-struck lam
+126636,arabic mathematical double-struck meem
+126637,arabic mathematical double-struck noon
+126638,arabic mathematical double-struck seen
+126639,arabic mathematical double-struck ain
+126640,arabic mathematical double-struck feh
+126641,arabic mathematical double-struck sad
+126642,arabic mathematical double-struck qaf
+126643,arabic mathematical double-struck reh
+126644,arabic mathematical double-struck sheen
+126645,arabic mathematical double-struck teh
+126646,arabic mathematical double-struck theh
+126647,arabic mathematical double-struck khah
+126648,arabic mathematical double-struck thal
+126649,arabic mathematical double-struck dad
+126650,arabic mathematical double-struck zah
+126651,arabic mathematical double-struck ghain
+126704,arabic mathematical operator meem with hah with tatweel
+126705,arabic mathematical operator hah with dal

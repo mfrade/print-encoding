@@ -1,0 +1,119 @@
+3328,malayalam sign combining anusvara above
+3329,malayalam sign candrabindu
+3330,malayalam sign anusvara
+3331,malayalam sign visarga
+3332,malayalam letter vedic anusvara
+3333,malayalam letter a
+3334,malayalam letter aa
+3335,malayalam letter i
+3336,malayalam letter ii
+3337,malayalam letter u
+3338,malayalam letter uu
+3339,malayalam letter vocalic r
+3340,malayalam letter vocalic l
+3342,malayalam letter e
+3343,malayalam letter ee
+3344,malayalam letter ai
+3346,malayalam letter o
+3347,malayalam letter oo
+3348,malayalam letter au
+3349,malayalam letter ka
+3350,malayalam letter kha
+3351,malayalam letter ga
+3352,malayalam letter gha
+3353,malayalam letter nga
+3354,malayalam letter ca
+3355,malayalam letter cha
+3356,malayalam letter ja
+3357,malayalam letter jha
+3358,malayalam letter nya
+3359,malayalam letter tta
+3360,malayalam letter ttha
+3361,malayalam letter dda
+3362,malayalam letter ddha
+3363,malayalam letter nna
+3364,malayalam letter ta
+3365,malayalam letter tha
+3366,malayalam letter da
+3367,malayalam letter dha
+3368,malayalam letter na
+3369,malayalam letter nnna
+3370,malayalam letter pa
+3371,malayalam letter pha
+3372,malayalam letter ba
+3373,malayalam letter bha
+3374,malayalam letter ma
+3375,malayalam letter ya
+3376,malayalam letter ra
+3377,malayalam letter rra
+3378,malayalam letter la
+3379,malayalam letter lla
+3380,malayalam letter llla
+3381,malayalam letter va
+3382,malayalam letter sha
+3383,malayalam letter ssa
+3384,malayalam letter sa
+3385,malayalam letter ha
+3386,malayalam letter ttta
+3387,malayalam sign vertical bar virama
+3388,malayalam sign circular virama
+3389,malayalam sign avagraha
+3390,malayalam vowel sign aa
+3391,malayalam vowel sign i
+3392,malayalam vowel sign ii
+3393,malayalam vowel sign u
+3394,malayalam vowel sign uu
+3395,malayalam vowel sign vocalic r
+3396,malayalam vowel sign vocalic rr
+3398,malayalam vowel sign e
+3399,malayalam vowel sign ee
+3400,malayalam vowel sign ai
+3402,malayalam vowel sign o
+3403,malayalam vowel sign oo
+3404,malayalam vowel sign au
+3405,malayalam sign virama
+3406,malayalam letter dot reph
+3407,malayalam sign para
+3412,malayalam letter chillu m
+3413,malayalam letter chillu y
+3414,malayalam letter chillu lll
+3415,malayalam au length mark
+3416,malayalam fraction one one-hundred-and-sixtieth
+3417,malayalam fraction one fortieth
+3418,malayalam fraction three eightieths
+3419,malayalam fraction one twentieth
+3420,malayalam fraction one tenth
+3421,malayalam fraction three twentieths
+3422,malayalam fraction one fifth
+3423,malayalam letter archaic ii
+3424,malayalam letter vocalic rr
+3425,malayalam letter vocalic ll
+3426,malayalam vowel sign vocalic l
+3427,malayalam vowel sign vocalic ll
+3428,<reserved>
+3429,<reserved>
+3430,malayalam digit zero
+3431,malayalam digit one
+3432,malayalam digit two
+3433,malayalam digit three
+3434,malayalam digit four
+3435,malayalam digit five
+3436,malayalam digit six
+3437,malayalam digit seven
+3438,malayalam digit eight
+3439,malayalam digit nine
+3440,malayalam number ten
+3441,malayalam number one hundred
+3442,malayalam number one thousand
+3443,malayalam fraction one quarter
+3444,malayalam fraction one half
+3445,malayalam fraction three quarters
+3446,malayalam fraction one sixteenth
+3447,malayalam fraction one eighth
+3448,malayalam fraction three sixteenths
+3449,malayalam date mark
+3450,malayalam letter chillu nn
+3451,malayalam letter chillu n
+3452,malayalam letter chillu rr
+3453,malayalam letter chillu l
+3454,malayalam letter chillu ll

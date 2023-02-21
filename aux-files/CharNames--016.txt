@@ -1,0 +1,50 @@
+1920,thaana letter haa
+1921,thaana letter shaviyani
+1922,thaana letter noonu
+1923,thaana letter raa
+1924,thaana letter baa
+1925,thaana letter lhaviyani
+1926,thaana letter kaafu
+1927,thaana letter alifu
+1928,thaana letter vaavu
+1929,thaana letter meemu
+1930,thaana letter faafu
+1931,thaana letter dhaalu
+1932,thaana letter thaa
+1933,thaana letter laamu
+1934,thaana letter gaafu
+1935,thaana letter gnaviyani
+1936,thaana letter seenu
+1937,thaana letter daviyani
+1938,thaana letter zaviyani
+1939,thaana letter taviyani
+1940,thaana letter yaa
+1941,thaana letter paviyani
+1942,thaana letter javiyani
+1943,thaana letter chaviyani
+1944,thaana letter ttaa
+1945,thaana letter hhaa
+1946,thaana letter khaa
+1947,thaana letter thaalu
+1948,thaana letter zaa
+1949,thaana letter sheenu
+1950,thaana letter saadhu
+1951,thaana letter daadhu
+1952,thaana letter to
+1953,thaana letter zo
+1954,thaana letter ainu
+1955,thaana letter ghainu
+1956,thaana letter qaafu
+1957,thaana letter waavu
+1958,thaana abafili
+1959,thaana aabaafili
+1960,thaana ibifili
+1961,thaana eebeefili
+1962,thaana ubufili
+1963,thaana ooboofili
+1964,thaana ebefili
+1965,thaana eybeyfili
+1966,thaana obofili
+1967,thaana oaboafili
+1968,thaana sukun
+1969,thaana letter naa

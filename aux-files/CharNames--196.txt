@@ -1,0 +1,89 @@
+68000,meroitic cursive letter a
+68001,meroitic cursive letter e
+68002,meroitic cursive letter i
+68003,meroitic cursive letter o
+68004,meroitic cursive letter ya
+68005,meroitic cursive letter wa
+68006,meroitic cursive letter ba
+68007,meroitic cursive letter pa
+68008,meroitic cursive letter ma
+68009,meroitic cursive letter na
+68010,meroitic cursive letter ne
+68011,meroitic cursive letter ra
+68012,meroitic cursive letter la
+68013,meroitic cursive letter kha
+68014,meroitic cursive letter hha
+68015,meroitic cursive letter sa
+68016,meroitic cursive letter archaic sa
+68017,meroitic cursive letter se
+68018,meroitic cursive letter ka
+68019,meroitic cursive letter qa
+68020,meroitic cursive letter ta
+68021,meroitic cursive letter te
+68022,meroitic cursive letter to
+68023,meroitic cursive letter da
+68028,meroitic cursive fraction eleven twelfths
+68029,meroitic cursive fraction one half
+68030,meroitic cursive logogram rmt
+68031,meroitic cursive logogram imn
+68032,meroitic cursive number one
+68033,meroitic cursive number two
+68034,meroitic cursive number three
+68035,meroitic cursive number four
+68036,meroitic cursive number five
+68037,meroitic cursive number six
+68038,meroitic cursive number seven
+68039,meroitic cursive number eight
+68040,meroitic cursive number nine
+68041,meroitic cursive number ten
+68042,meroitic cursive number twenty
+68043,meroitic cursive number thirty
+68044,meroitic cursive number forty
+68045,meroitic cursive number fifty
+68046,meroitic cursive number sixty
+68047,meroitic cursive number seventy
+68050,meroitic cursive number one hundred
+68051,meroitic cursive number two hundred
+68052,meroitic cursive number three hundred
+68053,meroitic cursive number four hundred
+68054,meroitic cursive number five hundred
+68055,meroitic cursive number six hundred
+68056,meroitic cursive number seven hundred
+68057,meroitic cursive number eight hundred
+68058,meroitic cursive number nine hundred
+68059,meroitic cursive number one thousand
+68060,meroitic cursive number two thousand
+68061,meroitic cursive number three thousand
+68062,meroitic cursive number four thousand
+68063,meroitic cursive number five thousand
+68064,meroitic cursive number six thousand
+68065,meroitic cursive number seven thousand
+68066,meroitic cursive number eight thousand
+68067,meroitic cursive number nine thousand
+68068,meroitic cursive number ten thousand
+68069,meroitic cursive number twenty thousand
+68070,meroitic cursive number thirty thousand
+68071,meroitic cursive number forty thousand
+68072,meroitic cursive number fifty thousand
+68073,meroitic cursive number sixty thousand
+68074,meroitic cursive number seventy thousand
+68075,meroitic cursive number eighty thousand
+68076,meroitic cursive number ninety thousand
+68077,meroitic cursive number one hundred thousand
+68078,meroitic cursive number two hundred thousand
+68079,meroitic cursive number three hundred thousand
+68080,meroitic cursive number four hundred thousand
+68081,meroitic cursive number five hundred thousand
+68082,meroitic cursive number six hundred thousand
+68083,meroitic cursive number seven hundred thousand
+68084,meroitic cursive number eight hundred thousand
+68085,meroitic cursive number nine hundred thousand
+68086,meroitic cursive fraction one twelfth
+68087,meroitic cursive fraction two twelfths
+68088,meroitic cursive fraction three twelfths
+68089,meroitic cursive fraction four twelfths
+68090,meroitic cursive fraction five twelfths
+68091,meroitic cursive fraction six twelfths
+68092,meroitic cursive fraction seven twelfths
+68093,meroitic cursive fraction eight twelfths
+68094,meroitic cursive fraction nine twelfths

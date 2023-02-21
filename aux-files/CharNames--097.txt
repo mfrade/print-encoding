@@ -1,0 +1,95 @@
+11264,glagolitic capital letter azu
+11265,glagolitic capital letter buky
+11266,glagolitic capital letter vede
+11267,glagolitic capital letter glagoli
+11268,glagolitic capital letter dobro
+11269,glagolitic capital letter yestu
+11270,glagolitic capital letter zhivete
+11271,glagolitic capital letter dzelo
+11272,glagolitic capital letter zemlja
+11273,glagolitic capital letter izhe
+11274,glagolitic capital letter initial izhe
+11275,glagolitic capital letter i
+11276,glagolitic capital letter djervi
+11277,glagolitic capital letter kako
+11278,glagolitic capital letter ljudije
+11279,glagolitic capital letter myslite
+11280,glagolitic capital letter nashi
+11281,glagolitic capital letter onu
+11282,glagolitic capital letter pokoji
+11283,glagolitic capital letter ritsi
+11284,glagolitic capital letter slovo
+11285,glagolitic capital letter tvrido
+11286,glagolitic capital letter uku
+11287,glagolitic capital letter fritu
+11288,glagolitic capital letter heru
+11289,glagolitic capital letter otu
+11290,glagolitic capital letter pe
+11291,glagolitic capital letter shta
+11292,glagolitic capital letter tsi
+11293,glagolitic capital letter chrivi
+11294,glagolitic capital letter sha
+11295,glagolitic capital letter yeru
+11296,glagolitic capital letter yeri
+11297,glagolitic capital letter yati
+11298,glagolitic capital letter spidery ha
+11299,glagolitic capital letter yu
+11300,glagolitic capital letter small yus
+11301,glagolitic capital letter small yus with tail
+11302,glagolitic capital letter yo
+11303,glagolitic capital letter iotated small yus
+11304,glagolitic capital letter big yus
+11305,glagolitic capital letter iotated big yus
+11306,glagolitic capital letter fita
+11307,glagolitic capital letter izhitsa
+11308,glagolitic capital letter shtapic
+11309,glagolitic capital letter trokutasti a
+11310,glagolitic capital letter latinate myslite
+11311,glagolitic capital letter caudate chrivi
+11312,glagolitic small letter azu
+11313,glagolitic small letter buky
+11314,glagolitic small letter vede
+11315,glagolitic small letter glagoli
+11316,glagolitic small letter dobro
+11317,glagolitic small letter yestu
+11318,glagolitic small letter zhivete
+11319,glagolitic small letter dzelo
+11320,glagolitic small letter zemlja
+11321,glagolitic small letter izhe
+11322,glagolitic small letter initial izhe
+11323,glagolitic small letter i
+11324,glagolitic small letter djervi
+11325,glagolitic small letter kako
+11326,glagolitic small letter ljudije
+11327,glagolitic small letter myslite
+11328,glagolitic small letter nashi
+11329,glagolitic small letter onu
+11330,glagolitic small letter pokoji
+11331,glagolitic small letter ritsi
+11332,glagolitic small letter slovo
+11333,glagolitic small letter tvrido
+11334,glagolitic small letter uku
+11335,glagolitic small letter fritu
+11336,glagolitic small letter heru
+11337,glagolitic small letter otu
+11338,glagolitic small letter pe
+11339,glagolitic small letter shta
+11340,glagolitic small letter tsi
+11341,glagolitic small letter chrivi
+11342,glagolitic small letter sha
+11343,glagolitic small letter yeru
+11344,glagolitic small letter yeri
+11345,glagolitic small letter yati
+11346,glagolitic small letter spidery ha
+11347,glagolitic small letter yu
+11348,glagolitic small letter small yus
+11349,glagolitic small letter small yus with tail
+11350,glagolitic small letter yo
+11351,glagolitic small letter iotated small yus
+11352,glagolitic small letter big yus
+11353,glagolitic small letter iotated big yus
+11354,glagolitic small letter fita
+11355,glagolitic small letter izhitsa
+11356,glagolitic small letter shtapic
+11357,glagolitic small letter trokutasti a
+11358,glagolitic small letter latinate myslite

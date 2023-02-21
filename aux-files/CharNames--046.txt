@@ -1,0 +1,23 @@
+5920,hanunoo letter a
+5921,hanunoo letter i
+5922,hanunoo letter u
+5923,hanunoo letter ka
+5924,hanunoo letter ga
+5925,hanunoo letter nga
+5926,hanunoo letter ta
+5927,hanunoo letter da
+5928,hanunoo letter na
+5929,hanunoo letter pa
+5930,hanunoo letter ba
+5931,hanunoo letter ma
+5932,hanunoo letter ya
+5933,hanunoo letter ra
+5934,hanunoo letter la
+5935,hanunoo letter wa
+5936,hanunoo letter sa
+5937,hanunoo letter ha
+5938,hanunoo vowel sign i
+5939,hanunoo vowel sign u
+5940,hanunoo sign pamudpod
+5941,philippine single punctuation
+5942,philippine double punctuation

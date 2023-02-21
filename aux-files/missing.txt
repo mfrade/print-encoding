@@ -1,0 +1,138 @@
+127,delete
+255,latin small letter y with diaeresis
+383,latin small letter long s
+591,latin small letter y with stroke
+687,latin small letter turned h with fishhook and tail
+767,modifier letter low left arrow
+879,combining latin small letter x
+1023,greek capital reversed dotted lunate sigma symbol
+1279,cyrillic small letter ha with stroke
+1327,cyrillic small letter el with descender
+1423,armenian dram sign
+1791,arabic letter heh with inverted v
+1871,syriac letter sogdian fe
+1919,arabic letter kaf with two dots above
+2047,nko taman sign
+2207,arabic half madda over madda
+2303,arabic mark sideways noon ghunna
+2431,devanagari letter bba
+2815,gujarati sign two-circle nukta above
+3199,telugu sign tuumu
+3455,malayalam letter chillu k
+4255,myanmar symbol shan exclamation
+4351,georgian letter labial sign
+4607,hangul jongseong ssangnieun
+5759,canadian syllabics blackfoot w
+5919,tagalog letter archaic ra
+6479,limbu digit nine
+6623,new tai lue sign laev
+6655,khmer symbol dap-pram roc
+6687,buginese end of section
+7103,sundanese letter final m
+7167,batak symbol bindu pangolat
+7247,lepcha letter dda
+7295,ol chiki punctuation double mucaad
+7359,georgian mtavruli capital letter labial sign
+7551,latin small letter upsilon with stroke
+7615,modifier letter small theta
+7679,combining right arrowhead and down arrowhead below
+7935,latin small letter y with loop
+8303,nominal digit shapes
+8527,symbol for samaritan source
+8703,left right open-headed arrow
+8959,z notation bag membership
+9215,observer eye symbol
+9471,negative circled digit zero
+9599,box drawings heavy up and light down
+9631,quadrant upper right and lower left and lower right
+9727,lower right triangle
+9983,white flag with horizontal middle black stripe
+10175,double curly loop
+10223,mathematical right flattened parenthesis
+10239,long rightwards squiggle arrow
+10495,braille pattern dots-12345678
+10623,down fish tail
+10751,miny
+11007,n-ary white vertical bar
+11263,hellschreiber pause symbol
+11359,glagolitic small letter caudate chrivi
+11391,latin capital letter z with swash tail
+11519,coptic morphological divider
+11647,tifinagh consonant joiner
+11775,combining cyrillic letter iotified big yus
+12351,ideographic half fill space
+12447,hiragana digraph yori
+12543,katakana digraph koto
+12591,bopomofo letter nn
+12703,ideographic annotation man mark
+12735,bopomofo letter ah
+12799,katakana letter small ro
+13055,square era name reiwa
+13311,square gal
+19967,hexagram for before completion
+42239,lisu punctuation full stop
+42655,combining cyrillic letter iotified e
+42783,modifier letter low inverted exclamation mark
+43007,latin epigraphic letter archaic m
+43263,devanagari vowel sign ay
+43311,kayah li sign shya
+43359,rejang section mark
+43487,javanese pada isen-isen
+43615,cham punctuation triple danda
+43647,myanmar letter shwe palaung sha
+43743,tai viet symbol koi koi
+43967,cherokee small letter ya
+64335,hebrew ligature alef lamed
+65023,arabic ligature azza wa jall
+65039,variation selector-16
+65071,combining cyrillic titlo right half
+65103,wavy low line
+65279,zero width no-break space
+65535,<not a character>
+65855,aegean measure third subunit
+66351,old italic letter southern tse
+66463,ugaritic word divider
+66639,deseret small letter ew
+66687,shavian letter yew
+66927,caucasian albanian citation mark
+67647,cypriot syllable zo
+67679,imperial aramaic number ten thousand
+67711,palmyrene number twenty
+67759,nabataean number one hundred
+67839,hatran number one hundred
+67871,phoenician word separator
+67903,lydian triangular mark
+67999,meroitic hieroglyphic symbol vidj-2
+68095,meroitic cursive fraction ten twelfths
+68223,old south arabian numeric indicator
+68255,old north arabian number twenty
+68415,large one ring over two rings punctuation
+68447,inscriptional parthian number one thousand
+68479,inscriptional pahlavi number one thousand
+68527,psalter pahlavi number one hundred
+68863,old hungarian number one thousand
+69759,brahmi number joiner
+70111,sharada section mark-2
+71935,warang citi om
+72383,canadian syllabics spa
+73727,tamil punctuation end of text
+92783,mro double danda
+93071,pahawh hmong clan sign vwj
+94111,miao letter reformed tone-8
+101119,tangut component-768
+110847,hentaigana letter re-2
+113823,duployan punctuation chinook full stop
+120831,mathematical monospace digit nine
+121519,signwriting rotation modifier-16
+123215,nyiakeng puachue hmong circled ca
+123647,wancho ngun sign
+125279,adlam initial question mark
+127487,regional indicator symbol letter z
+128511,moyai
+128591,person with folded hands
+128639,reverse checker board
+129535,nazar amulet
+917631,cancel tag
+917999,variation selector-256
+1048575,<not a character>
+1114111,<not a character>

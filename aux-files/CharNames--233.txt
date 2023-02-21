@@ -1,0 +1,65 @@
+71424,ahom letter ka
+71425,ahom letter kha
+71426,ahom letter nga
+71427,ahom letter na
+71428,ahom letter ta
+71429,ahom letter alternate ta
+71430,ahom letter pa
+71431,ahom letter pha
+71432,ahom letter ba
+71433,ahom letter ma
+71434,ahom letter ja
+71435,ahom letter cha
+71436,ahom letter tha
+71437,ahom letter ra
+71438,ahom letter la
+71439,ahom letter sa
+71440,ahom letter nya
+71441,ahom letter ha
+71442,ahom letter a
+71443,ahom letter da
+71444,ahom letter dha
+71445,ahom letter ga
+71446,ahom letter alternate ga
+71447,ahom letter gha
+71448,ahom letter bha
+71449,ahom letter jha
+71450,ahom letter alternate ba
+71453,ahom consonant sign medial la
+71454,ahom consonant sign medial ra
+71455,ahom consonant sign medial ligating ra
+71456,ahom vowel sign a
+71457,ahom vowel sign aa
+71458,ahom vowel sign i
+71459,ahom vowel sign ii
+71460,ahom vowel sign u
+71461,ahom vowel sign uu
+71462,ahom vowel sign e
+71463,ahom vowel sign aw
+71464,ahom vowel sign o
+71465,ahom vowel sign ai
+71466,ahom vowel sign am
+71467,ahom sign killer
+71472,ahom digit zero
+71473,ahom digit one
+71474,ahom digit two
+71475,ahom digit three
+71476,ahom digit four
+71477,ahom digit five
+71478,ahom digit six
+71479,ahom digit seven
+71480,ahom digit eight
+71481,ahom digit nine
+71482,ahom number ten
+71483,ahom number twenty
+71484,ahom sign small section
+71485,ahom sign section
+71486,ahom sign rulai
+71487,ahom symbol vi
+71488,ahom letter ca
+71489,ahom letter tta
+71490,ahom letter ttha
+71491,ahom letter dda
+71492,ahom letter ddha
+71493,ahom letter nna
+71494,ahom letter lla

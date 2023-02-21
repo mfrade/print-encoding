@@ -1,0 +1,127 @@
+7424,latin letter small capital a
+7425,latin letter small capital ae
+7426,latin small letter turned ae
+7427,latin letter small capital barred b
+7428,latin letter small capital c
+7429,latin letter small capital d
+7430,latin letter small capital eth
+7431,latin letter small capital e
+7432,latin small letter turned open e
+7433,latin small letter turned i
+7434,latin letter small capital j
+7435,latin letter small capital k
+7436,latin letter small capital l with stroke
+7437,latin letter small capital m
+7438,latin letter small capital reversed n
+7439,latin letter small capital o
+7440,latin letter small capital open o
+7441,latin small letter sideways o
+7442,latin small letter sideways open o
+7443,latin small letter sideways o with stroke
+7444,latin small letter turned oe
+7445,latin letter small capital ou
+7446,latin small letter top half o
+7447,latin small letter bottom half o
+7448,latin letter small capital p
+7449,latin letter small capital reversed r
+7450,latin letter small capital turned r
+7451,latin letter small capital t
+7452,latin letter small capital u
+7453,latin small letter sideways u
+7454,latin small letter sideways diaeresized u
+7455,latin small letter sideways turned m
+7456,latin letter small capital v
+7457,latin letter small capital w
+7458,latin letter small capital z
+7459,latin letter small capital ezh
+7460,latin letter voiced laryngeal spirant
+7461,latin letter ain
+7462,greek letter small capital gamma
+7463,greek letter small capital lamda
+7464,greek letter small capital pi
+7465,greek letter small capital rho
+7466,greek letter small capital psi
+7467,cyrillic letter small capital el
+7468,modifier letter capital a
+7469,modifier letter capital ae
+7470,modifier letter capital b
+7471,modifier letter capital barred b
+7472,modifier letter capital d
+7473,modifier letter capital e
+7474,modifier letter capital reversed e
+7475,modifier letter capital g
+7476,modifier letter capital h
+7477,modifier letter capital i
+7478,modifier letter capital j
+7479,modifier letter capital k
+7480,modifier letter capital l
+7481,modifier letter capital m
+7482,modifier letter capital n
+7483,modifier letter capital reversed n
+7484,modifier letter capital o
+7485,modifier letter capital ou
+7486,modifier letter capital p
+7487,modifier letter capital r
+7488,modifier letter capital t
+7489,modifier letter capital u
+7490,modifier letter capital w
+7491,modifier letter small a
+7492,modifier letter small turned a
+7493,modifier letter small alpha
+7494,modifier letter small turned ae
+7495,modifier letter small b
+7496,modifier letter small d
+7497,modifier letter small e
+7498,modifier letter small schwa
+7499,modifier letter small open e
+7500,modifier letter small turned open e
+7501,modifier letter small g
+7502,modifier letter small turned i
+7503,modifier letter small k
+7504,modifier letter small m
+7505,modifier letter small eng
+7506,modifier letter small o
+7507,modifier letter small open o
+7508,modifier letter small top half o
+7509,modifier letter small bottom half o
+7510,modifier letter small p
+7511,modifier letter small t
+7512,modifier letter small u
+7513,modifier letter small sideways u
+7514,modifier letter small turned m
+7515,modifier letter small v
+7516,modifier letter small ain
+7517,modifier letter small beta
+7518,modifier letter small greek gamma
+7519,modifier letter small delta
+7520,modifier letter small greek phi
+7521,modifier letter small chi
+7522,latin subscript small letter i
+7523,latin subscript small letter r
+7524,latin subscript small letter u
+7525,latin subscript small letter v
+7526,greek subscript small letter beta
+7527,greek subscript small letter gamma
+7528,greek subscript small letter rho
+7529,greek subscript small letter phi
+7530,greek subscript small letter chi
+7531,latin small letter ue
+7532,latin small letter b with middle tilde
+7533,latin small letter d with middle tilde
+7534,latin small letter f with middle tilde
+7535,latin small letter m with middle tilde
+7536,latin small letter n with middle tilde
+7537,latin small letter p with middle tilde
+7538,latin small letter r with middle tilde
+7539,latin small letter r with fishhook and middle tilde
+7540,latin small letter s with middle tilde
+7541,latin small letter t with middle tilde
+7542,latin small letter z with middle tilde
+7543,latin small letter turned g
+7544,modifier letter cyrillic en
+7545,latin small letter insular g
+7546,latin small letter th with strikethrough
+7547,latin small capital letter i with stroke
+7548,latin small letter iota with stroke
+7549,latin small letter p with stroke
+7550,latin small capital letter u with stroke

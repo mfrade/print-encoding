@@ -1,0 +1,45 @@
+43008,syloti nagri letter a
+43009,syloti nagri letter i
+43010,syloti nagri sign dvisvara
+43011,syloti nagri letter u
+43012,syloti nagri letter e
+43013,syloti nagri letter o
+43014,syloti nagri sign hasanta
+43015,syloti nagri letter ko
+43016,syloti nagri letter kho
+43017,syloti nagri letter go
+43018,syloti nagri letter gho
+43019,syloti nagri sign anusvara
+43020,syloti nagri letter co
+43021,syloti nagri letter cho
+43022,syloti nagri letter jo
+43023,syloti nagri letter jho
+43024,syloti nagri letter tto
+43025,syloti nagri letter ttho
+43026,syloti nagri letter ddo
+43027,syloti nagri letter ddho
+43028,syloti nagri letter to
+43029,syloti nagri letter tho
+43030,syloti nagri letter do
+43031,syloti nagri letter dho
+43032,syloti nagri letter no
+43033,syloti nagri letter po
+43034,syloti nagri letter pho
+43035,syloti nagri letter bo
+43036,syloti nagri letter bho
+43037,syloti nagri letter mo
+43038,syloti nagri letter ro
+43039,syloti nagri letter lo
+43040,syloti nagri letter rro
+43041,syloti nagri letter so
+43042,syloti nagri letter ho
+43043,syloti nagri vowel sign a
+43044,syloti nagri vowel sign i
+43045,syloti nagri vowel sign u
+43046,syloti nagri vowel sign e
+43047,syloti nagri vowel sign oo
+43048,syloti nagri poetry mark-1
+43049,syloti nagri poetry mark-2
+43050,syloti nagri poetry mark-3
+43051,syloti nagri poetry mark-4
+43052,syloti nagri sign alternate hasanta

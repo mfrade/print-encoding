@@ -1,0 +1,47 @@
+42192,lisu letter ba
+42193,lisu letter pa
+42194,lisu letter pha
+42195,lisu letter da
+42196,lisu letter ta
+42197,lisu letter tha
+42198,lisu letter ga
+42199,lisu letter ka
+42200,lisu letter kha
+42201,lisu letter ja
+42202,lisu letter ca
+42203,lisu letter cha
+42204,lisu letter dza
+42205,lisu letter tsa
+42206,lisu letter tsha
+42207,lisu letter ma
+42208,lisu letter na
+42209,lisu letter la
+42210,lisu letter sa
+42211,lisu letter zha
+42212,lisu letter za
+42213,lisu letter nga
+42214,lisu letter ha
+42215,lisu letter xa
+42216,lisu letter hha
+42217,lisu letter fa
+42218,lisu letter wa
+42219,lisu letter sha
+42220,lisu letter ya
+42221,lisu letter gha
+42222,lisu letter a
+42223,lisu letter ae
+42224,lisu letter e
+42225,lisu letter eu
+42226,lisu letter i
+42227,lisu letter o
+42228,lisu letter u
+42229,lisu letter ue
+42230,lisu letter uh
+42231,lisu letter oe
+42232,lisu letter tone mya ti
+42233,lisu letter tone na po
+42234,lisu letter tone mya cya
+42235,lisu letter tone mya bo
+42236,lisu letter tone mya na
+42237,lisu letter tone mya jeu
+42238,lisu punctuation comma

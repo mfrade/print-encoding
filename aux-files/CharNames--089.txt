@@ -1,0 +1,191 @@
+9984,black safety scissors
+9985,upper blade scissors
+9986,black scissors
+9987,lower blade scissors
+9988,white scissors
+9989,white heavy check mark
+9990,telephone location sign
+9991,tape drive
+9992,airplane
+9993,envelope
+9994,raised fist
+9995,raised hand
+9996,victory hand
+9997,writing hand
+9998,lower right pencil
+9999,pencil
+10000,upper right pencil
+10001,white nib
+10002,black nib
+10003,check mark
+10004,heavy check mark
+10005,multiplication x
+10006,heavy multiplication x
+10007,ballot x
+10008,heavy ballot x
+10009,outlined greek cross
+10010,heavy greek cross
+10011,open centre cross
+10012,heavy open centre cross
+10013,latin cross
+10014,shadowed white latin cross
+10015,outlined latin cross
+10016,maltese cross
+10017,star of david
+10018,four teardrop-spoked asterisk
+10019,four balloon-spoked asterisk
+10020,heavy four balloon-spoked asterisk
+10021,four club-spoked asterisk
+10022,black four pointed star
+10023,white four pointed star
+10024,sparkles
+10025,stress outlined white star
+10026,circled white star
+10027,open centre black star
+10028,black centre white star
+10029,outlined black star
+10030,heavy outlined black star
+10031,pinwheel star
+10032,shadowed white star
+10033,heavy asterisk
+10034,open centre asterisk
+10035,eight spoked asterisk
+10036,eight pointed black star
+10037,eight pointed pinwheel star
+10038,six pointed black star
+10039,eight pointed rectilinear black star
+10040,heavy eight pointed rectilinear black star
+10041,twelve pointed black star
+10042,sixteen pointed asterisk
+10043,teardrop-spoked asterisk
+10044,open centre teardrop-spoked asterisk
+10045,heavy teardrop-spoked asterisk
+10046,six petalled black and white florette
+10047,black florette
+10048,white florette
+10049,eight petalled outlined black florette
+10050,circled open centre eight pointed star
+10051,heavy teardrop-spoked pinwheel asterisk
+10052,snowflake
+10053,tight trifoliate snowflake
+10054,heavy chevron snowflake
+10055,sparkle
+10056,heavy sparkle
+10057,balloon-spoked asterisk
+10058,eight teardrop-spoked propeller asterisk
+10059,heavy eight teardrop-spoked propeller asterisk
+10060,cross mark
+10061,shadowed white circle
+10062,negative squared cross mark
+10063,lower right drop-shadowed white square
+10064,upper right drop-shadowed white square
+10065,lower right shadowed white square
+10066,upper right shadowed white square
+10067,black question mark ornament
+10068,white question mark ornament
+10069,white exclamation mark ornament
+10070,black diamond minus white x
+10071,heavy exclamation mark symbol
+10072,light vertical bar
+10073,medium vertical bar
+10074,heavy vertical bar
+10075,heavy single turned comma quotation mark ornament
+10076,heavy single comma quotation mark ornament
+10077,heavy double turned comma quotation mark ornament
+10078,heavy double comma quotation mark ornament
+10079,heavy low single comma quotation mark ornament
+10080,heavy low double comma quotation mark ornament
+10081,curved stem paragraph sign ornament
+10082,heavy exclamation mark ornament
+10083,heavy heart exclamation mark ornament
+10084,heavy black heart
+10085,rotated heavy black heart bullet
+10086,floral heart
+10087,rotated floral heart bullet
+10088,medium left parenthesis ornament
+10089,medium right parenthesis ornament
+10090,medium flattened left parenthesis ornament
+10091,medium flattened right parenthesis ornament
+10092,medium left-pointing angle bracket ornament
+10093,medium right-pointing angle bracket ornament
+10094,heavy left-pointing angle quotation mark ornament
+10095,heavy right-pointing angle quotation mark ornament
+10096,heavy left-pointing angle bracket ornament
+10097,heavy right-pointing angle bracket ornament
+10098,light left tortoise shell bracket ornament
+10099,light right tortoise shell bracket ornament
+10100,medium left curly bracket ornament
+10101,medium right curly bracket ornament
+10102,dingbat negative circled digit one
+10103,dingbat negative circled digit two
+10104,dingbat negative circled digit three
+10105,dingbat negative circled digit four
+10106,dingbat negative circled digit five
+10107,dingbat negative circled digit six
+10108,dingbat negative circled digit seven
+10109,dingbat negative circled digit eight
+10110,dingbat negative circled digit nine
+10111,dingbat negative circled number ten
+10112,dingbat circled sans-serif digit one
+10113,dingbat circled sans-serif digit two
+10114,dingbat circled sans-serif digit three
+10115,dingbat circled sans-serif digit four
+10116,dingbat circled sans-serif digit five
+10117,dingbat circled sans-serif digit six
+10118,dingbat circled sans-serif digit seven
+10119,dingbat circled sans-serif digit eight
+10120,dingbat circled sans-serif digit nine
+10121,dingbat circled sans-serif number ten
+10122,dingbat negative circled sans-serif digit one
+10123,dingbat negative circled sans-serif digit two
+10124,dingbat negative circled sans-serif digit three
+10125,dingbat negative circled sans-serif digit four
+10126,dingbat negative circled sans-serif digit five
+10127,dingbat negative circled sans-serif digit six
+10128,dingbat negative circled sans-serif digit seven
+10129,dingbat negative circled sans-serif digit eight
+10130,dingbat negative circled sans-serif digit nine
+10131,dingbat negative circled sans-serif number ten
+10132,heavy wide-headed rightwards arrow
+10133,heavy plus sign
+10134,heavy minus sign
+10135,heavy division sign
+10136,heavy south east arrow
+10137,heavy rightwards arrow
+10138,heavy north east arrow
+10139,drafting point rightwards arrow
+10140,heavy round-tipped rightwards arrow
+10141,triangle-headed rightwards arrow
+10142,heavy triangle-headed rightwards arrow
+10143,dashed triangle-headed rightwards arrow
+10144,heavy dashed triangle-headed rightwards arrow
+10145,black rightwards arrow
+10146,three-d top-lighted rightwards arrowhead
+10147,three-d bottom-lighted rightwards arrowhead
+10148,black rightwards arrowhead
+10149,heavy black curved downwards and rightwards arrow
+10150,heavy black curved upwards and rightwards arrow
+10151,squat black rightwards arrow
+10152,heavy concave-pointed black rightwards arrow
+10153,right-shaded white rightwards arrow
+10154,left-shaded white rightwards arrow
+10155,back-tilted shadowed white rightwards arrow
+10156,front-tilted shadowed white rightwards arrow
+10157,heavy lower right-shadowed white rightwards arrow
+10158,heavy upper right-shadowed white rightwards arrow
+10159,notched lower right-shadowed white rightwards arrow
+10160,curly loop
+10161,notched upper right-shadowed white rightwards arrow
+10162,circled heavy white rightwards arrow
+10163,white-feathered rightwards arrow
+10164,black-feathered south east arrow
+10165,black-feathered rightwards arrow
+10166,black-feathered north east arrow
+10167,heavy black-feathered south east arrow
+10168,heavy black-feathered rightwards arrow
+10169,heavy black-feathered north east arrow
+10170,teardrop-barbed rightwards arrow
+10171,heavy teardrop-shanked rightwards arrow
+10172,wedge-tailed rightwards arrow
+10173,heavy wedge-tailed rightwards arrow
+10174,open-outlined rightwards arrow

@@ -1,0 +1,89 @@
+5792,runic letter fehu feoh fe f
+5793,runic letter v
+5794,runic letter uruz ur u
+5795,runic letter yr
+5796,runic letter y
+5797,runic letter w
+5798,runic letter thurisaz thurs thorn
+5799,runic letter eth
+5800,runic letter ansuz a
+5801,runic letter os o
+5802,runic letter ac a
+5803,runic letter aesc
+5804,runic letter long-branch-oss o
+5805,runic letter short-twig-oss o
+5806,runic letter o
+5807,runic letter oe
+5808,runic letter on
+5809,runic letter raido rad reid r
+5810,runic letter kauna
+5811,runic letter cen
+5812,runic letter kaun k
+5813,runic letter g
+5814,runic letter eng
+5815,runic letter gebo gyfu g
+5816,runic letter gar
+5817,runic letter wunjo wynn w
+5818,runic letter haglaz h
+5819,runic letter haegl h
+5820,runic letter long-branch-hagall h
+5821,runic letter short-twig-hagall h
+5822,runic letter naudiz nyd naud n
+5823,runic letter short-twig-naud n
+5824,runic letter dotted-n
+5825,runic letter isaz is iss i
+5826,runic letter e
+5827,runic letter jeran j
+5828,runic letter ger
+5829,runic letter long-branch-ar ae
+5830,runic letter short-twig-ar a
+5831,runic letter iwaz eoh
+5832,runic letter pertho peorth p
+5833,runic letter algiz eolhx
+5834,runic letter sowilo s
+5835,runic letter sigel long-branch-sol s
+5836,runic letter short-twig-sol s
+5837,runic letter c
+5838,runic letter z
+5839,runic letter tiwaz tir tyr t
+5840,runic letter short-twig-tyr t
+5841,runic letter d
+5842,runic letter berkanan beorc bjarkan b
+5843,runic letter short-twig-bjarkan b
+5844,runic letter dotted-p
+5845,runic letter open-p
+5846,runic letter ehwaz eh e
+5847,runic letter mannaz man m
+5848,runic letter long-branch-madr m
+5849,runic letter short-twig-madr m
+5850,runic letter laukaz lagu logr l
+5851,runic letter dotted-l
+5852,runic letter ingwaz
+5853,runic letter ing
+5854,runic letter dagaz daeg d
+5855,runic letter othalan ethel o
+5856,runic letter ear
+5857,runic letter ior
+5858,runic letter cweorth
+5859,runic letter calc
+5860,runic letter cealc
+5861,runic letter stan
+5862,runic letter long-branch-yr
+5863,runic letter short-twig-yr
+5864,runic letter icelandic-yr
+5865,runic letter q
+5866,runic letter x
+5867,runic single punctuation
+5868,runic multiple punctuation
+5869,runic cross punctuation
+5870,runic arlaug symbol
+5871,runic tvimadur symbol
+5872,runic belgthor symbol
+5873,runic letter k
+5874,runic letter sh
+5875,runic letter oo
+5876,runic letter franks casket os
+5877,runic letter franks casket is
+5878,runic letter franks casket eh
+5879,runic letter franks casket ac
+5880,runic letter franks casket aesc

@@ -1,0 +1,10 @@
+43056,north indic fraction one quarter
+43057,north indic fraction one half
+43058,north indic fraction three quarters
+43059,north indic fraction one sixteenth
+43060,north indic fraction one eighth
+43061,north indic fraction three sixteenths
+43062,north indic quarter mark
+43063,north indic placeholder mark
+43064,north indic rupee mark
+43065,north indic quantity mark

@@ -1,0 +1,255 @@
+8960,diameter sign
+8961,electric arrow
+8962,house
+8963,up arrowhead
+8964,down arrowhead
+8965,projective
+8966,perspective
+8967,wavy line
+8968,left ceiling
+8969,right ceiling
+8970,left floor
+8971,right floor
+8972,bottom right crop
+8973,bottom left crop
+8974,top right crop
+8975,top left crop
+8976,reversed not sign
+8977,square lozenge
+8978,arc
+8979,segment
+8980,sector
+8981,telephone recorder
+8982,position indicator
+8983,viewdata square
+8984,place of interest sign
+8985,turned not sign
+8986,watch
+8987,hourglass
+8988,top left corner
+8989,top right corner
+8990,bottom left corner
+8991,bottom right corner
+8992,top half integral
+8993,bottom half integral
+8994,frown
+8995,smile
+8996,up arrowhead between two horizontal bars
+8997,option key
+8998,erase to the right
+8999,x in a rectangle box
+9000,keyboard
+9001,left-pointing angle bracket
+9002,right-pointing angle bracket
+9003,erase to the left
+9004,benzene ring
+9005,cylindricity
+9006,all around-profile
+9007,symmetry
+9008,total runout
+9009,dimension origin
+9010,conical taper
+9011,slope
+9012,counterbore
+9013,countersink
+9014,apl functional symbol i-beam
+9015,apl functional symbol squish quad
+9016,apl functional symbol quad equal
+9017,apl functional symbol quad divide
+9018,apl functional symbol quad diamond
+9019,apl functional symbol quad jot
+9020,apl functional symbol quad circle
+9021,apl functional symbol circle stile
+9022,apl functional symbol circle jot
+9023,apl functional symbol slash bar
+9024,apl functional symbol backslash bar
+9025,apl functional symbol quad slash
+9026,apl functional symbol quad backslash
+9027,apl functional symbol quad less-than
+9028,apl functional symbol quad greater-than
+9029,apl functional symbol leftwards vane
+9030,apl functional symbol rightwards vane
+9031,apl functional symbol quad leftwards arrow
+9032,apl functional symbol quad rightwards arrow
+9033,apl functional symbol circle backslash
+9034,apl functional symbol down tack underbar
+9035,apl functional symbol delta stile
+9036,apl functional symbol quad down caret
+9037,apl functional symbol quad delta
+9038,apl functional symbol down tack jot
+9039,apl functional symbol upwards vane
+9040,apl functional symbol quad upwards arrow
+9041,apl functional symbol up tack overbar
+9042,apl functional symbol del stile
+9043,apl functional symbol quad up caret
+9044,apl functional symbol quad del
+9045,apl functional symbol up tack jot
+9046,apl functional symbol downwards vane
+9047,apl functional symbol quad downwards arrow
+9048,apl functional symbol quote underbar
+9049,apl functional symbol delta underbar
+9050,apl functional symbol diamond underbar
+9051,apl functional symbol jot underbar
+9052,apl functional symbol circle underbar
+9053,apl functional symbol up shoe jot
+9054,apl functional symbol quote quad
+9055,apl functional symbol circle star
+9056,apl functional symbol quad colon
+9057,apl functional symbol up tack diaeresis
+9058,apl functional symbol del diaeresis
+9059,apl functional symbol star diaeresis
+9060,apl functional symbol jot diaeresis
+9061,apl functional symbol circle diaeresis
+9062,apl functional symbol down shoe stile
+9063,apl functional symbol left shoe stile
+9064,apl functional symbol tilde diaeresis
+9065,apl functional symbol greater-than diaeresis
+9066,apl functional symbol comma bar
+9067,apl functional symbol del tilde
+9068,apl functional symbol zilde
+9069,apl functional symbol stile tilde
+9070,apl functional symbol semicolon underbar
+9071,apl functional symbol quad not equal
+9072,apl functional symbol quad question
+9073,apl functional symbol down caret tilde
+9074,apl functional symbol up caret tilde
+9075,apl functional symbol iota
+9076,apl functional symbol rho
+9077,apl functional symbol omega
+9078,apl functional symbol alpha underbar
+9079,apl functional symbol epsilon underbar
+9080,apl functional symbol iota underbar
+9081,apl functional symbol omega underbar
+9082,apl functional symbol alpha
+9083,not check mark
+9084,right angle with downwards zigzag arrow
+9085,shouldered open box
+9086,bell symbol
+9087,vertical line with middle dot
+9088,insertion symbol
+9089,continuous underline symbol
+9090,discontinuous underline symbol
+9091,emphasis symbol
+9092,composition symbol
+9093,white square with centre vertical line
+9094,enter symbol
+9095,alternative key symbol
+9096,helm symbol
+9097,circled horizontal bar with notch
+9098,circled triangle down
+9099,broken circle with northwest arrow
+9100,undo symbol
+9101,monostable symbol
+9102,hysteresis symbol
+9103,open-circuit-output h-type symbol
+9104,open-circuit-output l-type symbol
+9105,passive-pull-down-output symbol
+9106,passive-pull-up-output symbol
+9107,direct current symbol form two
+9108,software-function symbol
+9109,apl functional symbol quad
+9110,decimal separator key symbol
+9111,previous page
+9112,next page
+9113,print screen symbol
+9114,clear screen symbol
+9115,left parenthesis upper hook
+9116,left parenthesis extension
+9117,left parenthesis lower hook
+9118,right parenthesis upper hook
+9119,right parenthesis extension
+9120,right parenthesis lower hook
+9121,left square bracket upper corner
+9122,left square bracket extension
+9123,left square bracket lower corner
+9124,right square bracket upper corner
+9125,right square bracket extension
+9126,right square bracket lower corner
+9127,left curly bracket upper hook
+9128,left curly bracket middle piece
+9129,left curly bracket lower hook
+9130,curly bracket extension
+9131,right curly bracket upper hook
+9132,right curly bracket middle piece
+9133,right curly bracket lower hook
+9134,integral extension
+9135,horizontal line extension
+9136,upper left or lower right curly bracket section
+9137,upper right or lower left curly bracket section
+9138,summation top
+9139,summation bottom
+9140,top square bracket
+9141,bottom square bracket
+9142,bottom square bracket over top square bracket
+9143,radical symbol bottom
+9144,left vertical box line
+9145,right vertical box line
+9146,horizontal scan line-1
+9147,horizontal scan line-3
+9148,horizontal scan line-7
+9149,horizontal scan line-9
+9150,dentistry symbol light vertical and top right
+9151,dentistry symbol light vertical and bottom right
+9152,dentistry symbol light vertical with circle
+9153,dentistry symbol light down and horizontal with circle
+9154,dentistry symbol light up and horizontal with circle
+9155,dentistry symbol light vertical with triangle
+9156,dentistry symbol light down and horizontal with triangle
+9157,dentistry symbol light up and horizontal with triangle
+9158,dentistry symbol light vertical and wave
+9159,dentistry symbol light down and horizontal with wave
+9160,dentistry symbol light up and horizontal with wave
+9161,dentistry symbol light down and horizontal
+9162,dentistry symbol light up and horizontal
+9163,dentistry symbol light vertical and top left
+9164,dentistry symbol light vertical and bottom left
+9165,square foot
+9166,return symbol
+9167,eject symbol
+9168,vertical line extension
+9169,metrical breve
+9170,metrical long over short
+9171,metrical short over long
+9172,metrical long over two shorts
+9173,metrical two shorts over long
+9174,metrical two shorts joined
+9175,metrical triseme
+9176,metrical tetraseme
+9177,metrical pentaseme
+9178,earth ground
+9179,fuse
+9180,top parenthesis
+9181,bottom parenthesis
+9182,top curly bracket
+9183,bottom curly bracket
+9184,top tortoise shell bracket
+9185,bottom tortoise shell bracket
+9186,white trapezium
+9187,benzene ring with circle
+9188,straightness
+9189,flatness
+9190,ac current
+9191,electrical intersection
+9192,decimal exponent symbol
+9193,black right-pointing double triangle
+9194,black left-pointing double triangle
+9195,black up-pointing double triangle
+9196,black down-pointing double triangle
+9197,black right-pointing double triangle with vertical bar
+9198,black left-pointing double triangle with vertical bar
+9199,black right-pointing triangle with double vertical bar
+9200,alarm clock
+9201,stopwatch
+9202,timer clock
+9203,hourglass with flowing sand
+9204,black medium left-pointing triangle
+9205,black medium right-pointing triangle
+9206,black medium up-pointing triangle
+9207,black medium down-pointing triangle
+9208,double vertical bar
+9209,black square for stop
+9210,black circle for record
+9211,power symbol
+9212,power on-off symbol
+9213,power on symbol
+9214,power sleep symbol

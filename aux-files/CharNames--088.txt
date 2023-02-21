@@ -1,0 +1,255 @@
+9728,black sun with rays
+9729,cloud
+9730,umbrella
+9731,snowman
+9732,comet
+9733,black star
+9734,white star
+9735,lightning
+9736,thunderstorm
+9737,sun
+9738,ascending node
+9739,descending node
+9740,conjunction
+9741,opposition
+9742,black telephone
+9743,white telephone
+9744,ballot box
+9745,ballot box with check
+9746,ballot box with x
+9747,saltire
+9748,umbrella with rain drops
+9749,hot beverage
+9750,white shogi piece
+9751,black shogi piece
+9752,shamrock
+9753,reversed rotated floral heart bullet
+9754,black left pointing index
+9755,black right pointing index
+9756,white left pointing index
+9757,white up pointing index
+9758,white right pointing index
+9759,white down pointing index
+9760,skull and crossbones
+9761,caution sign
+9762,radioactive sign
+9763,biohazard sign
+9764,caduceus
+9765,ankh
+9766,orthodox cross
+9767,chi rho
+9768,cross of lorraine
+9769,cross of jerusalem
+9770,star and crescent
+9771,farsi symbol
+9772,adi shakti
+9773,hammer and sickle
+9774,peace symbol
+9775,yin yang
+9776,trigram for heaven
+9777,trigram for lake
+9778,trigram for fire
+9779,trigram for thunder
+9780,trigram for wind
+9781,trigram for water
+9782,trigram for mountain
+9783,trigram for earth
+9784,wheel of dharma
+9785,white frowning face
+9786,white smiling face
+9787,black smiling face
+9788,white sun with rays
+9789,first quarter moon
+9790,last quarter moon
+9791,mercury
+9792,female sign
+9793,earth
+9794,male sign
+9795,jupiter
+9796,saturn
+9797,uranus
+9798,neptune
+9799,pluto
+9800,aries
+9801,taurus
+9802,gemini
+9803,cancer
+9804,leo
+9805,virgo
+9806,libra
+9807,scorpius
+9808,sagittarius
+9809,capricorn
+9810,aquarius
+9811,pisces
+9812,white chess king
+9813,white chess queen
+9814,white chess rook
+9815,white chess bishop
+9816,white chess knight
+9817,white chess pawn
+9818,black chess king
+9819,black chess queen
+9820,black chess rook
+9821,black chess bishop
+9822,black chess knight
+9823,black chess pawn
+9824,black spade suit
+9825,white heart suit
+9826,white diamond suit
+9827,black club suit
+9828,white spade suit
+9829,black heart suit
+9830,black diamond suit
+9831,white club suit
+9832,hot springs
+9833,quarter note
+9834,eighth note
+9835,beamed eighth notes
+9836,beamed sixteenth notes
+9837,music flat sign
+9838,music natural sign
+9839,music sharp sign
+9840,west syriac cross
+9841,east syriac cross
+9842,universal recycling symbol
+9843,recycling symbol for type-1 plastics
+9844,recycling symbol for type-2 plastics
+9845,recycling symbol for type-3 plastics
+9846,recycling symbol for type-4 plastics
+9847,recycling symbol for type-5 plastics
+9848,recycling symbol for type-6 plastics
+9849,recycling symbol for type-7 plastics
+9850,recycling symbol for generic materials
+9851,black universal recycling symbol
+9852,recycled paper symbol
+9853,partially-recycled paper symbol
+9854,permanent paper sign
+9855,wheelchair symbol
+9856,die face-1
+9857,die face-2
+9858,die face-3
+9859,die face-4
+9860,die face-5
+9861,die face-6
+9862,white circle with dot right
+9863,white circle with two dots
+9864,black circle with white dot right
+9865,black circle with two white dots
+9866,monogram for yang
+9867,monogram for yin
+9868,digram for greater yang
+9869,digram for lesser yin
+9870,digram for lesser yang
+9871,digram for greater yin
+9872,white flag
+9873,black flag
+9874,hammer and pick
+9875,anchor
+9876,crossed swords
+9877,staff of aesculapius
+9878,scales
+9879,alembic
+9880,flower
+9881,gear
+9882,staff of hermes
+9883,atom symbol
+9884,fleur-de-lis
+9885,outlined white star
+9886,three lines converging right
+9887,three lines converging left
+9888,warning sign
+9889,high voltage sign
+9890,doubled female sign
+9891,doubled male sign
+9892,interlocked female and male sign
+9893,male and female sign
+9894,male with stroke sign
+9895,male with stroke and male and female sign
+9896,vertical male with stroke sign
+9897,horizontal male with stroke sign
+9898,medium white circle
+9899,medium black circle
+9900,medium small white circle
+9901,marriage symbol
+9902,divorce symbol
+9903,unmarried partnership symbol
+9904,coffin
+9905,funeral urn
+9906,neuter
+9907,ceres
+9908,pallas
+9909,juno
+9910,vesta
+9911,chiron
+9912,black moon lilith
+9913,sextile
+9914,semisextile
+9915,quincunx
+9916,sesquiquadrate
+9917,soccer ball
+9918,baseball
+9919,squared key
+9920,white draughts man
+9921,white draughts king
+9922,black draughts man
+9923,black draughts king
+9924,snowman without snow
+9925,sun behind cloud
+9926,rain
+9927,black snowman
+9928,thunder cloud and rain
+9929,turned white shogi piece
+9930,turned black shogi piece
+9931,white diamond in square
+9932,crossing lanes
+9933,disabled car
+9934,ophiuchus
+9935,pick
+9936,car sliding
+9937,helmet with white cross
+9938,circled crossing lanes
+9939,chains
+9940,no entry
+9941,alternate one-way left way traffic
+9942,black two-way left way traffic
+9943,white two-way left way traffic
+9944,black left lane merge
+9945,white left lane merge
+9946,drive slow sign
+9947,heavy white down-pointing triangle
+9948,left closed entry
+9949,squared saltire
+9950,falling diagonal in white circle in black square
+9951,black truck
+9952,restricted left entry-1
+9953,restricted left entry-2
+9954,astronomical symbol for uranus
+9955,heavy circle with stroke and two dots above
+9956,pentagram
+9957,right-handed interlaced pentagram
+9958,left-handed interlaced pentagram
+9959,inverted pentagram
+9960,black cross on shield
+9961,shinto shrine
+9962,church
+9963,castle
+9964,historic site
+9965,gear without hub
+9966,gear with handles
+9967,map symbol for lighthouse
+9968,mountain
+9969,umbrella on ground
+9970,fountain
+9971,flag in hole
+9972,ferry
+9973,sailboat
+9974,square four corners
+9975,skier
+9976,ice skate
+9977,person with ball
+9978,tent
+9979,japanese bank symbol
+9980,headstone graveyard symbol
+9981,fuel pump
+9982,cup on black square

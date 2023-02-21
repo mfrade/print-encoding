@@ -1,0 +1,47 @@
+1280,cyrillic capital letter komi de
+1281,cyrillic small letter komi de
+1282,cyrillic capital letter komi dje
+1283,cyrillic small letter komi dje
+1284,cyrillic capital letter komi zje
+1285,cyrillic small letter komi zje
+1286,cyrillic capital letter komi dzje
+1287,cyrillic small letter komi dzje
+1288,cyrillic capital letter komi lje
+1289,cyrillic small letter komi lje
+1290,cyrillic capital letter komi nje
+1291,cyrillic small letter komi nje
+1292,cyrillic capital letter komi sje
+1293,cyrillic small letter komi sje
+1294,cyrillic capital letter komi tje
+1295,cyrillic small letter komi tje
+1296,cyrillic capital letter reversed ze
+1297,cyrillic small letter reversed ze
+1298,cyrillic capital letter el with hook
+1299,cyrillic small letter el with hook
+1300,cyrillic capital letter lha
+1301,cyrillic small letter lha
+1302,cyrillic capital letter rha
+1303,cyrillic small letter rha
+1304,cyrillic capital letter yae
+1305,cyrillic small letter yae
+1306,cyrillic capital letter qa
+1307,cyrillic small letter qa
+1308,cyrillic capital letter we
+1309,cyrillic small letter we
+1310,cyrillic capital letter aleut ka
+1311,cyrillic small letter aleut ka
+1312,cyrillic capital letter el with middle hook
+1313,cyrillic small letter el with middle hook
+1314,cyrillic capital letter en with middle hook
+1315,cyrillic small letter en with middle hook
+1316,cyrillic capital letter pe with descender
+1317,cyrillic small letter pe with descender
+1318,cyrillic capital letter shha with descender
+1319,cyrillic small letter shha with descender
+1320,cyrillic capital letter en with left hook
+1321,cyrillic small letter en with left hook
+1322,cyrillic capital letter dzzhe
+1323,cyrillic small letter dzzhe
+1324,cyrillic capital letter dche
+1325,cyrillic small letter dche
+1326,cyrillic capital letter el with descender

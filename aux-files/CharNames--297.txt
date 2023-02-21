@@ -1,0 +1,68 @@
+126065,indic siyaq number one
+126066,indic siyaq number two
+126067,indic siyaq number three
+126068,indic siyaq number four
+126069,indic siyaq number five
+126070,indic siyaq number six
+126071,indic siyaq number seven
+126072,indic siyaq number eight
+126073,indic siyaq number nine
+126074,indic siyaq number ten
+126075,indic siyaq number twenty
+126076,indic siyaq number thirty
+126077,indic siyaq number forty
+126078,indic siyaq number fifty
+126079,indic siyaq number sixty
+126080,indic siyaq number seventy
+126081,indic siyaq number eighty
+126082,indic siyaq number ninety
+126083,indic siyaq number one hundred
+126084,indic siyaq number two hundred
+126085,indic siyaq number three hundred
+126086,indic siyaq number four hundred
+126087,indic siyaq number five hundred
+126088,indic siyaq number six hundred
+126089,indic siyaq number seven hundred
+126090,indic siyaq number eight hundred
+126091,indic siyaq number nine hundred
+126092,indic siyaq number one thousand
+126093,indic siyaq number two thousand
+126094,indic siyaq number three thousand
+126095,indic siyaq number four thousand
+126096,indic siyaq number five thousand
+126097,indic siyaq number six thousand
+126098,indic siyaq number seven thousand
+126099,indic siyaq number eight thousand
+126100,indic siyaq number nine thousand
+126101,indic siyaq number ten thousand
+126102,indic siyaq number twenty thousand
+126103,indic siyaq number thirty thousand
+126104,indic siyaq number forty thousand
+126105,indic siyaq number fifty thousand
+126106,indic siyaq number sixty thousand
+126107,indic siyaq number seventy thousand
+126108,indic siyaq number eighty thousand
+126109,indic siyaq number ninety thousand
+126110,indic siyaq number lakh
+126111,indic siyaq number lakhan
+126112,indic siyaq lakh mark
+126113,indic siyaq number karor
+126114,indic siyaq number karoran
+126115,indic siyaq number prefixed one
+126116,indic siyaq number prefixed two
+126117,indic siyaq number prefixed three
+126118,indic siyaq number prefixed four
+126119,indic siyaq number prefixed five
+126120,indic siyaq number prefixed six
+126121,indic siyaq number prefixed seven
+126122,indic siyaq number prefixed eight
+126123,indic siyaq number prefixed nine
+126124,indic siyaq placeholder
+126125,indic siyaq fraction one quarter
+126126,indic siyaq fraction one half
+126127,indic siyaq fraction three quarters
+126128,indic siyaq rupee mark
+126129,indic siyaq number alternate one
+126130,indic siyaq number alternate two
+126131,indic siyaq number alternate ten thousand
+126132,indic siyaq alternate lakh mark

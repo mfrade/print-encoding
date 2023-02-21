@@ -1,0 +1,65 @@
+72096,nandinagari letter a
+72097,nandinagari letter aa
+72098,nandinagari letter i
+72099,nandinagari letter ii
+72100,nandinagari letter u
+72101,nandinagari letter uu
+72102,nandinagari letter vocalic r
+72103,nandinagari letter vocalic rr
+72106,nandinagari letter e
+72107,nandinagari letter ai
+72108,nandinagari letter o
+72109,nandinagari letter au
+72110,nandinagari letter ka
+72111,nandinagari letter kha
+72112,nandinagari letter ga
+72113,nandinagari letter gha
+72114,nandinagari letter nga
+72115,nandinagari letter ca
+72116,nandinagari letter cha
+72117,nandinagari letter ja
+72118,nandinagari letter jha
+72119,nandinagari letter nya
+72120,nandinagari letter tta
+72121,nandinagari letter ttha
+72122,nandinagari letter dda
+72123,nandinagari letter ddha
+72124,nandinagari letter nna
+72125,nandinagari letter ta
+72126,nandinagari letter tha
+72127,nandinagari letter da
+72128,nandinagari letter dha
+72129,nandinagari letter na
+72130,nandinagari letter pa
+72131,nandinagari letter pha
+72132,nandinagari letter ba
+72133,nandinagari letter bha
+72134,nandinagari letter ma
+72135,nandinagari letter ya
+72136,nandinagari letter ra
+72137,nandinagari letter la
+72138,nandinagari letter va
+72139,nandinagari letter sha
+72140,nandinagari letter ssa
+72141,nandinagari letter sa
+72142,nandinagari letter ha
+72143,nandinagari letter lla
+72144,nandinagari letter rra
+72145,nandinagari vowel sign aa
+72146,nandinagari vowel sign i
+72147,nandinagari vowel sign ii
+72148,nandinagari vowel sign u
+72149,nandinagari vowel sign uu
+72150,nandinagari vowel sign vocalic r
+72151,nandinagari vowel sign vocalic rr
+72154,nandinagari vowel sign e
+72155,nandinagari vowel sign ai
+72156,nandinagari vowel sign o
+72157,nandinagari vowel sign au
+72158,nandinagari sign anusvara
+72159,nandinagari sign visarga
+72160,nandinagari sign virama
+72161,nandinagari sign avagraha
+72162,nandinagari sign siddham
+72163,nandinagari headstroke
+72164,nandinagari vowel sign prishthamatra e

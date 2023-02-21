@@ -1,0 +1,9 @@
+78896,egyptian hieroglyph vertical joiner
+78897,egyptian hieroglyph horizontal joiner
+78898,egyptian hieroglyph insert at top start
+78899,egyptian hieroglyph insert at bottom start
+78900,egyptian hieroglyph insert at top end
+78901,egyptian hieroglyph insert at bottom end
+78902,egyptian hieroglyph overlay middle
+78903,egyptian hieroglyph begin segment
+78904,egyptian hieroglyph end segment

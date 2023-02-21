@@ -1,0 +1,70 @@
+6320,canadian syllabics oy
+6321,canadian syllabics ay
+6322,canadian syllabics aay
+6323,canadian syllabics way
+6324,canadian syllabics poy
+6325,canadian syllabics pay
+6326,canadian syllabics pwoy
+6327,canadian syllabics tay
+6328,canadian syllabics kay
+6329,canadian syllabics kway
+6330,canadian syllabics may
+6331,canadian syllabics noy
+6332,canadian syllabics nay
+6333,canadian syllabics lay
+6334,canadian syllabics soy
+6335,canadian syllabics say
+6336,canadian syllabics shoy
+6337,canadian syllabics shay
+6338,canadian syllabics shwoy
+6339,canadian syllabics yoy
+6340,canadian syllabics yay
+6341,canadian syllabics ray
+6342,canadian syllabics nwi
+6343,canadian syllabics ojibway nwi
+6344,canadian syllabics nwii
+6345,canadian syllabics ojibway nwii
+6346,canadian syllabics nwo
+6347,canadian syllabics ojibway nwo
+6348,canadian syllabics nwoo
+6349,canadian syllabics ojibway nwoo
+6350,canadian syllabics rwee
+6351,canadian syllabics rwi
+6352,canadian syllabics rwii
+6353,canadian syllabics rwo
+6354,canadian syllabics rwoo
+6355,canadian syllabics rwa
+6356,canadian syllabics ojibway p
+6357,canadian syllabics ojibway t
+6358,canadian syllabics ojibway k
+6359,canadian syllabics ojibway c
+6360,canadian syllabics ojibway m
+6361,canadian syllabics ojibway n
+6362,canadian syllabics ojibway s
+6363,canadian syllabics ojibway sh
+6364,canadian syllabics eastern w
+6365,canadian syllabics western w
+6366,canadian syllabics final small ring
+6367,canadian syllabics final raised dot
+6368,canadian syllabics r-cree rwe
+6369,canadian syllabics west-cree loo
+6370,canadian syllabics west-cree laa
+6371,canadian syllabics thwe
+6372,canadian syllabics thwa
+6373,canadian syllabics tthwe
+6374,canadian syllabics tthoo
+6375,canadian syllabics tthaa
+6376,canadian syllabics tlhwe
+6377,canadian syllabics tlhoo
+6378,canadian syllabics sayisi shwe
+6379,canadian syllabics sayisi shoo
+6380,canadian syllabics sayisi hoo
+6381,canadian syllabics carrier gwu
+6382,canadian syllabics carrier dene gee
+6383,canadian syllabics carrier gaa
+6384,canadian syllabics carrier gwa
+6385,canadian syllabics sayisi juu
+6386,canadian syllabics carrier jwa
+6387,canadian syllabics beaver dene l
+6388,canadian syllabics beaver dene r
+6389,canadian syllabics carrier dental s

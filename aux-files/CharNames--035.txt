@@ -1,0 +1,211 @@
+3840,tibetan syllable om
+3841,tibetan mark gter yig mgo truncated a
+3842,tibetan mark gter yig mgo -um rnam bcad ma
+3843,tibetan mark gter yig mgo -um gter tsheg ma
+3844,tibetan mark initial yig mgo mdun ma
+3845,tibetan mark closing yig mgo sgab ma
+3846,tibetan mark caret yig mgo phur shad ma
+3847,tibetan mark yig mgo tsheg shad ma
+3848,tibetan mark sbrul shad
+3849,tibetan mark bskur yig mgo
+3850,tibetan mark bka- shog yig mgo
+3851,tibetan mark intersyllabic tsheg
+3852,tibetan mark delimiter tsheg bstar
+3853,tibetan mark shad
+3854,tibetan mark nyis shad
+3855,tibetan mark tsheg shad
+3856,tibetan mark nyis tsheg shad
+3857,tibetan mark rin chen spungs shad
+3858,tibetan mark rgya gram shad
+3859,tibetan mark caret -dzud rtags me long can
+3860,tibetan mark gter tsheg
+3861,tibetan logotype sign chad rtags
+3862,tibetan logotype sign lhag rtags
+3863,tibetan astrological sign sgra gcan -char rtags
+3864,tibetan astrological sign -khyud pa
+3865,tibetan astrological sign sdong tshugs
+3866,tibetan sign rdel dkar gcig
+3867,tibetan sign rdel dkar gnyis
+3868,tibetan sign rdel dkar gsum
+3869,tibetan sign rdel nag gcig
+3870,tibetan sign rdel nag gnyis
+3871,tibetan sign rdel dkar rdel nag
+3872,tibetan digit zero
+3873,tibetan digit one
+3874,tibetan digit two
+3875,tibetan digit three
+3876,tibetan digit four
+3877,tibetan digit five
+3878,tibetan digit six
+3879,tibetan digit seven
+3880,tibetan digit eight
+3881,tibetan digit nine
+3882,tibetan digit half one
+3883,tibetan digit half two
+3884,tibetan digit half three
+3885,tibetan digit half four
+3886,tibetan digit half five
+3887,tibetan digit half six
+3888,tibetan digit half seven
+3889,tibetan digit half eight
+3890,tibetan digit half nine
+3891,tibetan digit half zero
+3892,tibetan mark bsdus rtags
+3893,tibetan mark ngas bzung nyi zla
+3894,tibetan mark caret -dzud rtags bzhi mig can
+3895,tibetan mark ngas bzung sgor rtags
+3896,tibetan mark che mgo
+3897,tibetan mark tsa -phru
+3898,tibetan mark gug rtags gyon
+3899,tibetan mark gug rtags gyas
+3900,tibetan mark ang khang gyon
+3901,tibetan mark ang khang gyas
+3902,tibetan sign yar tshes
+3903,tibetan sign mar tshes
+3904,tibetan letter ka
+3905,tibetan letter kha
+3906,tibetan letter ga
+3907,tibetan letter gha
+3908,tibetan letter nga
+3909,tibetan letter ca
+3910,tibetan letter cha
+3911,tibetan letter ja
+3913,tibetan letter nya
+3914,tibetan letter tta
+3915,tibetan letter ttha
+3916,tibetan letter dda
+3917,tibetan letter ddha
+3918,tibetan letter nna
+3919,tibetan letter ta
+3920,tibetan letter tha
+3921,tibetan letter da
+3922,tibetan letter dha
+3923,tibetan letter na
+3924,tibetan letter pa
+3925,tibetan letter pha
+3926,tibetan letter ba
+3927,tibetan letter bha
+3928,tibetan letter ma
+3929,tibetan letter tsa
+3930,tibetan letter tsha
+3931,tibetan letter dza
+3932,tibetan letter dzha
+3933,tibetan letter wa
+3934,tibetan letter zha
+3935,tibetan letter za
+3936,tibetan letter -a
+3937,tibetan letter ya
+3938,tibetan letter ra
+3939,tibetan letter la
+3940,tibetan letter sha
+3941,tibetan letter ssa
+3942,tibetan letter sa
+3943,tibetan letter ha
+3944,tibetan letter a
+3945,tibetan letter kssa
+3946,tibetan letter fixed-form ra
+3947,tibetan letter kka
+3948,tibetan letter rra
+3953,tibetan vowel sign aa
+3954,tibetan vowel sign i
+3955,tibetan vowel sign ii
+3956,tibetan vowel sign u
+3957,tibetan vowel sign uu
+3958,tibetan vowel sign vocalic r
+3959,tibetan vowel sign vocalic rr
+3960,tibetan vowel sign vocalic l
+3961,tibetan vowel sign vocalic ll
+3962,tibetan vowel sign e
+3963,tibetan vowel sign ee
+3964,tibetan vowel sign o
+3965,tibetan vowel sign oo
+3966,tibetan sign rjes su nga ro
+3967,tibetan sign rnam bcad
+3968,tibetan vowel sign reversed i
+3969,tibetan vowel sign reversed ii
+3970,tibetan sign nyi zla naa da
+3971,tibetan sign sna ldan
+3972,tibetan mark halanta
+3973,tibetan mark paluta
+3974,tibetan sign lci rtags
+3975,tibetan sign yang rtags
+3976,tibetan sign lce tsa can
+3977,tibetan sign mchu can
+3978,tibetan sign gru can rgyings
+3979,tibetan sign gru med rgyings
+3980,tibetan sign inverted mchu can
+3981,tibetan subjoined sign lce tsa can
+3982,tibetan subjoined sign mchu can
+3983,tibetan subjoined sign inverted mchu can
+3984,tibetan subjoined letter ka
+3985,tibetan subjoined letter kha
+3986,tibetan subjoined letter ga
+3987,tibetan subjoined letter gha
+3988,tibetan subjoined letter nga
+3989,tibetan subjoined letter ca
+3990,tibetan subjoined letter cha
+3991,tibetan subjoined letter ja
+3993,tibetan subjoined letter nya
+3994,tibetan subjoined letter tta
+3995,tibetan subjoined letter ttha
+3996,tibetan subjoined letter dda
+3997,tibetan subjoined letter ddha
+3998,tibetan subjoined letter nna
+3999,tibetan subjoined letter ta
+4000,tibetan subjoined letter tha
+4001,tibetan subjoined letter da
+4002,tibetan subjoined letter dha
+4003,tibetan subjoined letter na
+4004,tibetan subjoined letter pa
+4005,tibetan subjoined letter pha
+4006,tibetan subjoined letter ba
+4007,tibetan subjoined letter bha
+4008,tibetan subjoined letter ma
+4009,tibetan subjoined letter tsa
+4010,tibetan subjoined letter tsha
+4011,tibetan subjoined letter dza
+4012,tibetan subjoined letter dzha
+4013,tibetan subjoined letter wa
+4014,tibetan subjoined letter zha
+4015,tibetan subjoined letter za
+4016,tibetan subjoined letter -a
+4017,tibetan subjoined letter ya
+4018,tibetan subjoined letter ra
+4019,tibetan subjoined letter la
+4020,tibetan subjoined letter sha
+4021,tibetan subjoined letter ssa
+4022,tibetan subjoined letter sa
+4023,tibetan subjoined letter ha
+4024,tibetan subjoined letter a
+4025,tibetan subjoined letter kssa
+4026,tibetan subjoined letter fixed-form wa
+4027,tibetan subjoined letter fixed-form ya
+4028,tibetan subjoined letter fixed-form ra
+4030,tibetan ku ru kha
+4031,tibetan ku ru kha bzhi mig can
+4032,tibetan cantillation sign heavy beat
+4033,tibetan cantillation sign light beat
+4034,tibetan cantillation sign cang te-u
+4035,tibetan cantillation sign sbub -chal
+4036,tibetan symbol dril bu
+4037,tibetan symbol rdo rje
+4038,tibetan symbol padma gdan
+4039,tibetan symbol rdo rje rgya gram
+4040,tibetan symbol phur pa
+4041,tibetan symbol nor bu
+4042,tibetan symbol nor bu nyis -khyil
+4043,tibetan symbol nor bu gsum -khyil
+4044,tibetan symbol nor bu bzhi -khyil
+4046,tibetan sign rdel nag rdel dkar
+4047,tibetan sign rdel nag gsum
+4048,tibetan mark bska- shog gi mgo rgyan
+4049,tibetan mark mnyam yig gi mgo rgyan
+4050,tibetan mark nyis tsheg
+4051,tibetan mark initial brda rnying yig mgo mdun ma
+4052,tibetan mark closing brda rnying yig mgo sgab ma
+4053,right-facing svasti sign
+4054,left-facing svasti sign
+4055,right-facing svasti sign with dots
+4056,left-facing svasti sign with dots
+4057,tibetan mark leading mchan rtags
+4058,tibetan mark trailing mchan rtags

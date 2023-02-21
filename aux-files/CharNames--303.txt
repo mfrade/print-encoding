@@ -1,0 +1,199 @@
+127232,digit zero full stop
+127233,digit zero comma
+127234,digit one comma
+127235,digit two comma
+127236,digit three comma
+127237,digit four comma
+127238,digit five comma
+127239,digit six comma
+127240,digit seven comma
+127241,digit eight comma
+127242,digit nine comma
+127243,dingbat circled sans-serif digit zero
+127244,dingbat negative circled sans-serif digit zero
+127245,circled zero with slash
+127246,circled anticlockwise arrow
+127247,circled dollar sign with overlaid backslash
+127248,parenthesized latin capital letter a
+127249,parenthesized latin capital letter b
+127250,parenthesized latin capital letter c
+127251,parenthesized latin capital letter d
+127252,parenthesized latin capital letter e
+127253,parenthesized latin capital letter f
+127254,parenthesized latin capital letter g
+127255,parenthesized latin capital letter h
+127256,parenthesized latin capital letter i
+127257,parenthesized latin capital letter j
+127258,parenthesized latin capital letter k
+127259,parenthesized latin capital letter l
+127260,parenthesized latin capital letter m
+127261,parenthesized latin capital letter n
+127262,parenthesized latin capital letter o
+127263,parenthesized latin capital letter p
+127264,parenthesized latin capital letter q
+127265,parenthesized latin capital letter r
+127266,parenthesized latin capital letter s
+127267,parenthesized latin capital letter t
+127268,parenthesized latin capital letter u
+127269,parenthesized latin capital letter v
+127270,parenthesized latin capital letter w
+127271,parenthesized latin capital letter x
+127272,parenthesized latin capital letter y
+127273,parenthesized latin capital letter z
+127274,tortoise shell bracketed latin capital letter s
+127275,circled italic latin capital letter c
+127276,circled italic latin capital letter r
+127277,circled cd
+127278,circled wz
+127279,copyleft symbol
+127280,squared latin capital letter a
+127281,squared latin capital letter b
+127282,squared latin capital letter c
+127283,squared latin capital letter d
+127284,squared latin capital letter e
+127285,squared latin capital letter f
+127286,squared latin capital letter g
+127287,squared latin capital letter h
+127288,squared latin capital letter i
+127289,squared latin capital letter j
+127290,squared latin capital letter k
+127291,squared latin capital letter l
+127292,squared latin capital letter m
+127293,squared latin capital letter n
+127294,squared latin capital letter o
+127295,squared latin capital letter p
+127296,squared latin capital letter q
+127297,squared latin capital letter r
+127298,squared latin capital letter s
+127299,squared latin capital letter t
+127300,squared latin capital letter u
+127301,squared latin capital letter v
+127302,squared latin capital letter w
+127303,squared latin capital letter x
+127304,squared latin capital letter y
+127305,squared latin capital letter z
+127306,squared hv
+127307,squared mv
+127308,squared sd
+127309,squared ss
+127310,squared ppv
+127311,squared wc
+127312,negative circled latin capital letter a
+127313,negative circled latin capital letter b
+127314,negative circled latin capital letter c
+127315,negative circled latin capital letter d
+127316,negative circled latin capital letter e
+127317,negative circled latin capital letter f
+127318,negative circled latin capital letter g
+127319,negative circled latin capital letter h
+127320,negative circled latin capital letter i
+127321,negative circled latin capital letter j
+127322,negative circled latin capital letter k
+127323,negative circled latin capital letter l
+127324,negative circled latin capital letter m
+127325,negative circled latin capital letter n
+127326,negative circled latin capital letter o
+127327,negative circled latin capital letter p
+127328,negative circled latin capital letter q
+127329,negative circled latin capital letter r
+127330,negative circled latin capital letter s
+127331,negative circled latin capital letter t
+127332,negative circled latin capital letter u
+127333,negative circled latin capital letter v
+127334,negative circled latin capital letter w
+127335,negative circled latin capital letter x
+127336,negative circled latin capital letter y
+127337,negative circled latin capital letter z
+127338,raised mc sign
+127339,raised md sign
+127340,raised mr sign
+127341,circled cc
+127342,circled c with overlaid backslash
+127343,circled human figure
+127344,negative squared latin capital letter a
+127345,negative squared latin capital letter b
+127346,negative squared latin capital letter c
+127347,negative squared latin capital letter d
+127348,negative squared latin capital letter e
+127349,negative squared latin capital letter f
+127350,negative squared latin capital letter g
+127351,negative squared latin capital letter h
+127352,negative squared latin capital letter i
+127353,negative squared latin capital letter j
+127354,negative squared latin capital letter k
+127355,negative squared latin capital letter l
+127356,negative squared latin capital letter m
+127357,negative squared latin capital letter n
+127358,negative squared latin capital letter o
+127359,negative squared latin capital letter p
+127360,negative squared latin capital letter q
+127361,negative squared latin capital letter r
+127362,negative squared latin capital letter s
+127363,negative squared latin capital letter t
+127364,negative squared latin capital letter u
+127365,negative squared latin capital letter v
+127366,negative squared latin capital letter w
+127367,negative squared latin capital letter x
+127368,negative squared latin capital letter y
+127369,negative squared latin capital letter z
+127370,crossed negative squared latin capital letter p
+127371,negative squared ic
+127372,negative squared pa
+127373,negative squared sa
+127374,negative squared ab
+127375,negative squared wc
+127376,square dj
+127377,squared cl
+127378,squared cool
+127379,squared free
+127380,squared id
+127381,squared new
+127382,squared ng
+127383,squared ok
+127384,squared sos
+127385,squared up with exclamation mark
+127386,squared vs
+127387,squared three d
+127388,squared second screen
+127389,squared two k
+127390,squared four k
+127391,squared eight k
+127392,squared five point one
+127393,squared seven point one
+127394,squared twenty-two point two
+127395,squared sixty p
+127396,squared one hundred twenty p
+127397,squared latin small letter d
+127398,squared hc
+127399,squared hdr
+127400,squared hi-res
+127401,squared lossless
+127402,squared shv
+127403,squared uhd
+127404,squared vod
+127405,mask work symbol
+127462,regional indicator symbol letter a
+127463,regional indicator symbol letter b
+127464,regional indicator symbol letter c
+127465,regional indicator symbol letter d
+127466,regional indicator symbol letter e
+127467,regional indicator symbol letter f
+127468,regional indicator symbol letter g
+127469,regional indicator symbol letter h
+127470,regional indicator symbol letter i
+127471,regional indicator symbol letter j
+127472,regional indicator symbol letter k
+127473,regional indicator symbol letter l
+127474,regional indicator symbol letter m
+127475,regional indicator symbol letter n
+127476,regional indicator symbol letter o
+127477,regional indicator symbol letter p
+127478,regional indicator symbol letter q
+127479,regional indicator symbol letter r
+127480,regional indicator symbol letter s
+127481,regional indicator symbol letter t
+127482,regional indicator symbol letter u
+127483,regional indicator symbol letter v
+127484,regional indicator symbol letter w
+127485,regional indicator symbol letter x
+127486,regional indicator symbol letter y

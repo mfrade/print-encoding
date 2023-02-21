@@ -1,0 +1,28 @@
+66272,coptic epact thousands mark
+66273,coptic epact digit one
+66274,coptic epact digit two
+66275,coptic epact digit three
+66276,coptic epact digit four
+66277,coptic epact digit five
+66278,coptic epact digit six
+66279,coptic epact digit seven
+66280,coptic epact digit eight
+66281,coptic epact digit nine
+66282,coptic epact number ten
+66283,coptic epact number twenty
+66284,coptic epact number thirty
+66285,coptic epact number forty
+66286,coptic epact number fifty
+66287,coptic epact number sixty
+66288,coptic epact number seventy
+66289,coptic epact number eighty
+66290,coptic epact number ninety
+66291,coptic epact number one hundred
+66292,coptic epact number two hundred
+66293,coptic epact number three hundred
+66294,coptic epact number four hundred
+66295,coptic epact number five hundred
+66296,coptic epact number six hundred
+66297,coptic epact number seven hundred
+66298,coptic epact number eight hundred
+66299,coptic epact number nine hundred

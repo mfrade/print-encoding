@@ -1,0 +1,92 @@
+3200,kannada sign spacing candrabindu
+3201,kannada sign candrabindu
+3202,kannada sign anusvara
+3203,kannada sign visarga
+3204,kannada sign siddham
+3205,kannada letter a
+3206,kannada letter aa
+3207,kannada letter i
+3208,kannada letter ii
+3209,kannada letter u
+3210,kannada letter uu
+3211,kannada letter vocalic r
+3212,kannada letter vocalic l
+3214,kannada letter e
+3215,kannada letter ee
+3216,kannada letter ai
+3218,kannada letter o
+3219,kannada letter oo
+3220,kannada letter au
+3221,kannada letter ka
+3222,kannada letter kha
+3223,kannada letter ga
+3224,kannada letter gha
+3225,kannada letter nga
+3226,kannada letter ca
+3227,kannada letter cha
+3228,kannada letter ja
+3229,kannada letter jha
+3230,kannada letter nya
+3231,kannada letter tta
+3232,kannada letter ttha
+3233,kannada letter dda
+3234,kannada letter ddha
+3235,kannada letter nna
+3236,kannada letter ta
+3237,kannada letter tha
+3238,kannada letter da
+3239,kannada letter dha
+3240,kannada letter na
+3242,kannada letter pa
+3243,kannada letter pha
+3244,kannada letter ba
+3245,kannada letter bha
+3246,kannada letter ma
+3247,kannada letter ya
+3248,kannada letter ra
+3249,kannada letter rra
+3250,kannada letter la
+3251,kannada letter lla
+3253,kannada letter va
+3254,kannada letter sha
+3255,kannada letter ssa
+3256,kannada letter sa
+3257,kannada letter ha
+3260,kannada sign nukta
+3261,kannada sign avagraha
+3262,kannada vowel sign aa
+3263,kannada vowel sign i
+3264,kannada vowel sign ii
+3265,kannada vowel sign u
+3266,kannada vowel sign uu
+3267,kannada vowel sign vocalic r
+3268,kannada vowel sign vocalic rr
+3270,kannada vowel sign e
+3271,kannada vowel sign ee
+3272,kannada vowel sign ai
+3274,kannada vowel sign o
+3275,kannada vowel sign oo
+3276,kannada vowel sign au
+3277,kannada sign virama
+3285,kannada length mark
+3286,kannada ai length mark
+3293,kannada letter nakaara pollu
+3294,kannada letter fa
+3296,kannada letter vocalic rr
+3297,kannada letter vocalic ll
+3298,kannada vowel sign vocalic l
+3299,kannada vowel sign vocalic ll
+3300,<reserved>
+3301,<reserved>
+3302,kannada digit zero
+3303,kannada digit one
+3304,kannada digit two
+3305,kannada digit three
+3306,kannada digit four
+3307,kannada digit five
+3308,kannada digit six
+3309,kannada digit seven
+3310,kannada digit eight
+3311,kannada digit nine
+3313,kannada sign jihvamuliya
+3314,kannada sign upadhmaniya

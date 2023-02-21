@@ -1,0 +1,13 @@
+71264,mongolian birga with ornament
+71265,mongolian rotated birga
+71266,mongolian double birga with ornament
+71267,mongolian triple birga with ornament
+71268,mongolian birga with double ornament
+71269,mongolian rotated birga with ornament
+71270,mongolian rotated birga with double ornament
+71271,mongolian inverted birga
+71272,mongolian inverted birga with double ornament
+71273,mongolian swirl birga
+71274,mongolian swirl birga with ornament
+71275,mongolian swirl birga with double ornament
+71276,mongolian turned swirl birga with double ornament

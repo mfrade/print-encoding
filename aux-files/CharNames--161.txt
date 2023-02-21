@@ -1,0 +1,26 @@
+65104,small comma
+65105,small ideographic comma
+65106,small full stop
+65108,small semicolon
+65109,small colon
+65110,small question mark
+65111,small exclamation mark
+65112,small em dash
+65113,small left parenthesis
+65114,small right parenthesis
+65115,small left curly bracket
+65116,small right curly bracket
+65117,small left tortoise shell bracket
+65118,small right tortoise shell bracket
+65119,small number sign
+65120,small ampersand
+65121,small asterisk
+65122,small plus sign
+65123,small hyphen-minus
+65124,small less-than sign
+65125,small greater-than sign
+65126,small equals sign
+65128,small reverse solidus
+65129,small dollar sign
+65130,small percent sign
+65131,small commercial at

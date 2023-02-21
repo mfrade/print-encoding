@@ -1,0 +1,127 @@
+256,latin capital letter a with macron
+257,latin small letter a with macron
+258,latin capital letter a with breve
+259,latin small letter a with breve
+260,latin capital letter a with ogonek
+261,latin small letter a with ogonek
+262,latin capital letter c with acute
+263,latin small letter c with acute
+264,latin capital letter c with circumflex
+265,latin small letter c with circumflex
+266,latin capital letter c with dot above
+267,latin small letter c with dot above
+268,latin capital letter c with caron
+269,latin small letter c with caron
+270,latin capital letter d with caron
+271,latin small letter d with caron
+272,latin capital letter d with stroke
+273,latin small letter d with stroke
+274,latin capital letter e with macron
+275,latin small letter e with macron
+276,latin capital letter e with breve
+277,latin small letter e with breve
+278,latin capital letter e with dot above
+279,latin small letter e with dot above
+280,latin capital letter e with ogonek
+281,latin small letter e with ogonek
+282,latin capital letter e with caron
+283,latin small letter e with caron
+284,latin capital letter g with circumflex
+285,latin small letter g with circumflex
+286,latin capital letter g with breve
+287,latin small letter g with breve
+288,latin capital letter g with dot above
+289,latin small letter g with dot above
+290,latin capital letter g with cedilla
+291,latin small letter g with cedilla
+292,latin capital letter h with circumflex
+293,latin small letter h with circumflex
+294,latin capital letter h with stroke
+295,latin small letter h with stroke
+296,latin capital letter i with tilde
+297,latin small letter i with tilde
+298,latin capital letter i with macron
+299,latin small letter i with macron
+300,latin capital letter i with breve
+301,latin small letter i with breve
+302,latin capital letter i with ogonek
+303,latin small letter i with ogonek
+304,latin capital letter i with dot above
+305,latin small letter dotless i
+306,latin capital ligature ij
+307,latin small ligature ij
+308,latin capital letter j with circumflex
+309,latin small letter j with circumflex
+310,latin capital letter k with cedilla
+311,latin small letter k with cedilla
+312,latin small letter kra
+313,latin capital letter l with acute
+314,latin small letter l with acute
+315,latin capital letter l with cedilla
+316,latin small letter l with cedilla
+317,latin capital letter l with caron
+318,latin small letter l with caron
+319,latin capital letter l with middle dot
+320,latin small letter l with middle dot
+321,latin capital letter l with stroke
+322,latin small letter l with stroke
+323,latin capital letter n with acute
+324,latin small letter n with acute
+325,latin capital letter n with cedilla
+326,latin small letter n with cedilla
+327,latin capital letter n with caron
+328,latin small letter n with caron
+329,latin small letter n preceded by apostrophe
+330,latin capital letter eng
+331,latin small letter eng
+332,latin capital letter o with macron
+333,latin small letter o with macron
+334,latin capital letter o with breve
+335,latin small letter o with breve
+336,latin capital letter o with double acute
+337,latin small letter o with double acute
+338,latin capital ligature oe
+339,latin small ligature oe
+340,latin capital letter r with acute
+341,latin small letter r with acute
+342,latin capital letter r with cedilla
+343,latin small letter r with cedilla
+344,latin capital letter r with caron
+345,latin small letter r with caron
+346,latin capital letter s with acute
+347,latin small letter s with acute
+348,latin capital letter s with circumflex
+349,latin small letter s with circumflex
+350,latin capital letter s with cedilla
+351,latin small letter s with cedilla
+352,latin capital letter s with caron
+353,latin small letter s with caron
+354,latin capital letter t with cedilla
+355,latin small letter t with cedilla
+356,latin capital letter t with caron
+357,latin small letter t with caron
+358,latin capital letter t with stroke
+359,latin small letter t with stroke
+360,latin capital letter u with tilde
+361,latin small letter u with tilde
+362,latin capital letter u with macron
+363,latin small letter u with macron
+364,latin capital letter u with breve
+365,latin small letter u with breve
+366,latin capital letter u with ring above
+367,latin small letter u with ring above
+368,latin capital letter u with double acute
+369,latin small letter u with double acute
+370,latin capital letter u with ogonek
+371,latin small letter u with ogonek
+372,latin capital letter w with circumflex
+373,latin small letter w with circumflex
+374,latin capital letter y with circumflex
+375,latin small letter y with circumflex
+376,latin capital letter y with diaeresis
+377,latin capital letter z with acute
+378,latin small letter z with acute
+379,latin capital letter z with dot above
+380,latin small letter z with dot above
+381,latin capital letter z with caron
+382,latin small letter z with caron

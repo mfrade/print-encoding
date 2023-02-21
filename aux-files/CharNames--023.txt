@@ -1,0 +1,127 @@
+2304,devanagari sign inverted candrabindu
+2305,devanagari sign candrabindu
+2306,devanagari sign anusvara
+2307,devanagari sign visarga
+2308,devanagari letter short a
+2309,devanagari letter a
+2310,devanagari letter aa
+2311,devanagari letter i
+2312,devanagari letter ii
+2313,devanagari letter u
+2314,devanagari letter uu
+2315,devanagari letter vocalic r
+2316,devanagari letter vocalic l
+2317,devanagari letter candra e
+2318,devanagari letter short e
+2319,devanagari letter e
+2320,devanagari letter ai
+2321,devanagari letter candra o
+2322,devanagari letter short o
+2323,devanagari letter o
+2324,devanagari letter au
+2325,devanagari letter ka
+2326,devanagari letter kha
+2327,devanagari letter ga
+2328,devanagari letter gha
+2329,devanagari letter nga
+2330,devanagari letter ca
+2331,devanagari letter cha
+2332,devanagari letter ja
+2333,devanagari letter jha
+2334,devanagari letter nya
+2335,devanagari letter tta
+2336,devanagari letter ttha
+2337,devanagari letter dda
+2338,devanagari letter ddha
+2339,devanagari letter nna
+2340,devanagari letter ta
+2341,devanagari letter tha
+2342,devanagari letter da
+2343,devanagari letter dha
+2344,devanagari letter na
+2345,devanagari letter nnna
+2346,devanagari letter pa
+2347,devanagari letter pha
+2348,devanagari letter ba
+2349,devanagari letter bha
+2350,devanagari letter ma
+2351,devanagari letter ya
+2352,devanagari letter ra
+2353,devanagari letter rra
+2354,devanagari letter la
+2355,devanagari letter lla
+2356,devanagari letter llla
+2357,devanagari letter va
+2358,devanagari letter sha
+2359,devanagari letter ssa
+2360,devanagari letter sa
+2361,devanagari letter ha
+2362,devanagari vowel sign oe
+2363,devanagari vowel sign ooe
+2364,devanagari sign nukta
+2365,devanagari sign avagraha
+2366,devanagari vowel sign aa
+2367,devanagari vowel sign i
+2368,devanagari vowel sign ii
+2369,devanagari vowel sign u
+2370,devanagari vowel sign uu
+2371,devanagari vowel sign vocalic r
+2372,devanagari vowel sign vocalic rr
+2373,devanagari vowel sign candra e
+2374,devanagari vowel sign short e
+2375,devanagari vowel sign e
+2376,devanagari vowel sign ai
+2377,devanagari vowel sign candra o
+2378,devanagari vowel sign short o
+2379,devanagari vowel sign o
+2380,devanagari vowel sign au
+2381,devanagari sign virama
+2382,devanagari vowel sign prishthamatra e
+2383,devanagari vowel sign aw
+2384,devanagari om
+2385,devanagari stress sign udatta
+2386,devanagari stress sign anudatta
+2387,devanagari grave accent
+2388,devanagari acute accent
+2389,devanagari vowel sign candra long e
+2390,devanagari vowel sign ue
+2391,devanagari vowel sign uue
+2392,devanagari letter qa
+2393,devanagari letter khha
+2394,devanagari letter ghha
+2395,devanagari letter za
+2396,devanagari letter dddha
+2397,devanagari letter rha
+2398,devanagari letter fa
+2399,devanagari letter yya
+2400,devanagari letter vocalic rr
+2401,devanagari letter vocalic ll
+2402,devanagari vowel sign vocalic l
+2403,devanagari vowel sign vocalic ll
+2404,devanagari danda
+2405,devanagari double danda
+2406,devanagari digit zero
+2407,devanagari digit one
+2408,devanagari digit two
+2409,devanagari digit three
+2410,devanagari digit four
+2411,devanagari digit five
+2412,devanagari digit six
+2413,devanagari digit seven
+2414,devanagari digit eight
+2415,devanagari digit nine
+2416,devanagari abbreviation sign
+2417,devanagari sign high spacing dot
+2418,devanagari letter candra a
+2419,devanagari letter oe
+2420,devanagari letter ooe
+2421,devanagari letter aw
+2422,devanagari letter ue
+2423,devanagari letter uue
+2424,devanagari letter marwari dda
+2425,devanagari letter zha
+2426,devanagari letter heavy ya
+2427,devanagari letter gga
+2428,devanagari letter jja
+2429,devanagari letter glottal stop
+2430,devanagari letter ddda

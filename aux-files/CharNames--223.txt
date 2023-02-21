@@ -1,0 +1,62 @@
+70144,khojki letter a
+70145,khojki letter aa
+70146,khojki letter i
+70147,khojki letter u
+70148,khojki letter e
+70149,khojki letter ai
+70150,khojki letter o
+70151,khojki letter au
+70152,khojki letter ka
+70153,khojki letter kha
+70154,khojki letter ga
+70155,khojki letter gga
+70156,khojki letter gha
+70157,khojki letter nga
+70158,khojki letter ca
+70159,khojki letter cha
+70160,khojki letter ja
+70161,khojki letter jja
+70163,khojki letter nya
+70164,khojki letter tta
+70165,khojki letter ttha
+70166,khojki letter dda
+70167,khojki letter ddha
+70168,khojki letter nna
+70169,khojki letter ta
+70170,khojki letter tha
+70171,khojki letter da
+70172,khojki letter ddda
+70173,khojki letter dha
+70174,khojki letter na
+70175,khojki letter pa
+70176,khojki letter pha
+70177,khojki letter ba
+70178,khojki letter bba
+70179,khojki letter bha
+70180,khojki letter ma
+70181,khojki letter ya
+70182,khojki letter ra
+70183,khojki letter la
+70184,khojki letter va
+70185,khojki letter sa
+70186,khojki letter ha
+70187,khojki letter lla
+70188,khojki vowel sign aa
+70189,khojki vowel sign i
+70190,khojki vowel sign ii
+70191,khojki vowel sign u
+70192,khojki vowel sign e
+70193,khojki vowel sign ai
+70194,khojki vowel sign o
+70195,khojki vowel sign au
+70196,khojki sign anusvara
+70197,khojki sign virama
+70198,khojki sign nukta
+70199,khojki sign shadda
+70200,khojki danda
+70201,khojki double danda
+70202,khojki word separator
+70203,khojki section mark
+70204,khojki double section mark
+70205,khojki abbreviation sign
+70206,khojki sign sukun

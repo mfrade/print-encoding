@@ -1,0 +1,36 @@
+92880,bassa vah letter enni
+92881,bassa vah letter ka
+92882,bassa vah letter se
+92883,bassa vah letter fa
+92884,bassa vah letter mbe
+92885,bassa vah letter yie
+92886,bassa vah letter gah
+92887,bassa vah letter dhii
+92888,bassa vah letter kpah
+92889,bassa vah letter jo
+92890,bassa vah letter hwah
+92891,bassa vah letter wa
+92892,bassa vah letter zo
+92893,bassa vah letter gbu
+92894,bassa vah letter do
+92895,bassa vah letter ce
+92896,bassa vah letter uwu
+92897,bassa vah letter to
+92898,bassa vah letter ba
+92899,bassa vah letter vu
+92900,bassa vah letter yein
+92901,bassa vah letter pa
+92902,bassa vah letter wadda
+92903,bassa vah letter a
+92904,bassa vah letter o
+92905,bassa vah letter oo
+92906,bassa vah letter u
+92907,bassa vah letter ee
+92908,bassa vah letter e
+92909,bassa vah letter i
+92912,bassa vah combining high tone
+92913,bassa vah combining low tone
+92914,bassa vah combining mid tone
+92915,bassa vah combining low-mid tone
+92916,bassa vah combining high-low tone
+92917,bassa vah full stop

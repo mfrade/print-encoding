@@ -1,0 +1,31 @@
+11360,latin capital letter l with double bar
+11361,latin small letter l with double bar
+11362,latin capital letter l with middle tilde
+11363,latin capital letter p with stroke
+11364,latin capital letter r with tail
+11365,latin small letter a with stroke
+11366,latin small letter t with diagonal stroke
+11367,latin capital letter h with descender
+11368,latin small letter h with descender
+11369,latin capital letter k with descender
+11370,latin small letter k with descender
+11371,latin capital letter z with descender
+11372,latin small letter z with descender
+11373,latin capital letter alpha
+11374,latin capital letter m with hook
+11375,latin capital letter turned a
+11376,latin capital letter turned alpha
+11377,latin small letter v with right hook
+11378,latin capital letter w with hook
+11379,latin small letter w with hook
+11380,latin small letter v with curl
+11381,latin capital letter half h
+11382,latin small letter half h
+11383,latin small letter tailless phi
+11384,latin small letter e with notch
+11385,latin small letter turned r with tail
+11386,latin small letter o with low ring inside
+11387,latin letter small capital turned e
+11388,latin subscript small letter j
+11389,modifier letter capital v
+11390,latin capital letter s with swash tail

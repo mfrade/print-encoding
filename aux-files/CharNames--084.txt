@@ -1,0 +1,159 @@
+9312,circled digit one
+9313,circled digit two
+9314,circled digit three
+9315,circled digit four
+9316,circled digit five
+9317,circled digit six
+9318,circled digit seven
+9319,circled digit eight
+9320,circled digit nine
+9321,circled number ten
+9322,circled number eleven
+9323,circled number twelve
+9324,circled number thirteen
+9325,circled number fourteen
+9326,circled number fifteen
+9327,circled number sixteen
+9328,circled number seventeen
+9329,circled number eighteen
+9330,circled number nineteen
+9331,circled number twenty
+9332,parenthesized digit one
+9333,parenthesized digit two
+9334,parenthesized digit three
+9335,parenthesized digit four
+9336,parenthesized digit five
+9337,parenthesized digit six
+9338,parenthesized digit seven
+9339,parenthesized digit eight
+9340,parenthesized digit nine
+9341,parenthesized number ten
+9342,parenthesized number eleven
+9343,parenthesized number twelve
+9344,parenthesized number thirteen
+9345,parenthesized number fourteen
+9346,parenthesized number fifteen
+9347,parenthesized number sixteen
+9348,parenthesized number seventeen
+9349,parenthesized number eighteen
+9350,parenthesized number nineteen
+9351,parenthesized number twenty
+9352,digit one full stop
+9353,digit two full stop
+9354,digit three full stop
+9355,digit four full stop
+9356,digit five full stop
+9357,digit six full stop
+9358,digit seven full stop
+9359,digit eight full stop
+9360,digit nine full stop
+9361,number ten full stop
+9362,number eleven full stop
+9363,number twelve full stop
+9364,number thirteen full stop
+9365,number fourteen full stop
+9366,number fifteen full stop
+9367,number sixteen full stop
+9368,number seventeen full stop
+9369,number eighteen full stop
+9370,number nineteen full stop
+9371,number twenty full stop
+9372,parenthesized latin small letter a
+9373,parenthesized latin small letter b
+9374,parenthesized latin small letter c
+9375,parenthesized latin small letter d
+9376,parenthesized latin small letter e
+9377,parenthesized latin small letter f
+9378,parenthesized latin small letter g
+9379,parenthesized latin small letter h
+9380,parenthesized latin small letter i
+9381,parenthesized latin small letter j
+9382,parenthesized latin small letter k
+9383,parenthesized latin small letter l
+9384,parenthesized latin small letter m
+9385,parenthesized latin small letter n
+9386,parenthesized latin small letter o
+9387,parenthesized latin small letter p
+9388,parenthesized latin small letter q
+9389,parenthesized latin small letter r
+9390,parenthesized latin small letter s
+9391,parenthesized latin small letter t
+9392,parenthesized latin small letter u
+9393,parenthesized latin small letter v
+9394,parenthesized latin small letter w
+9395,parenthesized latin small letter x
+9396,parenthesized latin small letter y
+9397,parenthesized latin small letter z
+9398,circled latin capital letter a
+9399,circled latin capital letter b
+9400,circled latin capital letter c
+9401,circled latin capital letter d
+9402,circled latin capital letter e
+9403,circled latin capital letter f
+9404,circled latin capital letter g
+9405,circled latin capital letter h
+9406,circled latin capital letter i
+9407,circled latin capital letter j
+9408,circled latin capital letter k
+9409,circled latin capital letter l
+9410,circled latin capital letter m
+9411,circled latin capital letter n
+9412,circled latin capital letter o
+9413,circled latin capital letter p
+9414,circled latin capital letter q
+9415,circled latin capital letter r
+9416,circled latin capital letter s
+9417,circled latin capital letter t
+9418,circled latin capital letter u
+9419,circled latin capital letter v
+9420,circled latin capital letter w
+9421,circled latin capital letter x
+9422,circled latin capital letter y
+9423,circled latin capital letter z
+9424,circled latin small letter a
+9425,circled latin small letter b
+9426,circled latin small letter c
+9427,circled latin small letter d
+9428,circled latin small letter e
+9429,circled latin small letter f
+9430,circled latin small letter g
+9431,circled latin small letter h
+9432,circled latin small letter i
+9433,circled latin small letter j
+9434,circled latin small letter k
+9435,circled latin small letter l
+9436,circled latin small letter m
+9437,circled latin small letter n
+9438,circled latin small letter o
+9439,circled latin small letter p
+9440,circled latin small letter q
+9441,circled latin small letter r
+9442,circled latin small letter s
+9443,circled latin small letter t
+9444,circled latin small letter u
+9445,circled latin small letter v
+9446,circled latin small letter w
+9447,circled latin small letter x
+9448,circled latin small letter y
+9449,circled latin small letter z
+9450,circled digit zero
+9451,negative circled number eleven
+9452,negative circled number twelve
+9453,negative circled number thirteen
+9454,negative circled number fourteen
+9455,negative circled number fifteen
+9456,negative circled number sixteen
+9457,negative circled number seventeen
+9458,negative circled number eighteen
+9459,negative circled number nineteen
+9460,negative circled number twenty
+9461,double circled digit one
+9462,double circled digit two
+9463,double circled digit three
+9464,double circled digit four
+9465,double circled digit five
+9466,double circled digit six
+9467,double circled digit seven
+9468,double circled digit eight
+9469,double circled digit nine
+9470,double circled number ten

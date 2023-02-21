@@ -1,0 +1,9 @@
+7296,cyrillic small letter rounded ve
+7297,cyrillic small letter long-legged de
+7298,cyrillic small letter narrow o
+7299,cyrillic small letter wide es
+7300,cyrillic small letter tall te
+7301,cyrillic small letter three-legged te
+7302,cyrillic small letter tall hard sign
+7303,cyrillic small letter tall yat
+7304,cyrillic small letter unblended uk

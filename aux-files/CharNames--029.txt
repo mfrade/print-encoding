@@ -1,0 +1,101 @@
+3072,telugu sign combining candrabindu above
+3073,telugu sign candrabindu
+3074,telugu sign anusvara
+3075,telugu sign visarga
+3076,telugu sign combining anusvara above
+3077,telugu letter a
+3078,telugu letter aa
+3079,telugu letter i
+3080,telugu letter ii
+3081,telugu letter u
+3082,telugu letter uu
+3083,telugu letter vocalic r
+3084,telugu letter vocalic l
+3086,telugu letter e
+3087,telugu letter ee
+3088,telugu letter ai
+3090,telugu letter o
+3091,telugu letter oo
+3092,telugu letter au
+3093,telugu letter ka
+3094,telugu letter kha
+3095,telugu letter ga
+3096,telugu letter gha
+3097,telugu letter nga
+3098,telugu letter ca
+3099,telugu letter cha
+3100,telugu letter ja
+3101,telugu letter jha
+3102,telugu letter nya
+3103,telugu letter tta
+3104,telugu letter ttha
+3105,telugu letter dda
+3106,telugu letter ddha
+3107,telugu letter nna
+3108,telugu letter ta
+3109,telugu letter tha
+3110,telugu letter da
+3111,telugu letter dha
+3112,telugu letter na
+3114,telugu letter pa
+3115,telugu letter pha
+3116,telugu letter ba
+3117,telugu letter bha
+3118,telugu letter ma
+3119,telugu letter ya
+3120,telugu letter ra
+3121,telugu letter rra
+3122,telugu letter la
+3123,telugu letter lla
+3124,telugu letter llla
+3125,telugu letter va
+3126,telugu letter sha
+3127,telugu letter ssa
+3128,telugu letter sa
+3129,telugu letter ha
+3132,telugu sign nukta
+3133,telugu sign avagraha
+3134,telugu vowel sign aa
+3135,telugu vowel sign i
+3136,telugu vowel sign ii
+3137,telugu vowel sign u
+3138,telugu vowel sign uu
+3139,telugu vowel sign vocalic r
+3140,telugu vowel sign vocalic rr
+3142,telugu vowel sign e
+3143,telugu vowel sign ee
+3144,telugu vowel sign ai
+3146,telugu vowel sign o
+3147,telugu vowel sign oo
+3148,telugu vowel sign au
+3149,telugu sign virama
+3157,telugu length mark
+3158,telugu ai length mark
+3160,telugu letter tsa
+3161,telugu letter dza
+3162,telugu letter rrra
+3165,telugu letter nakaara pollu
+3168,telugu letter vocalic rr
+3169,telugu letter vocalic ll
+3170,telugu vowel sign vocalic l
+3171,telugu vowel sign vocalic ll
+3172,<reserved>
+3173,<reserved>
+3174,telugu digit zero
+3175,telugu digit one
+3176,telugu digit two
+3177,telugu digit three
+3178,telugu digit four
+3179,telugu digit five
+3180,telugu digit six
+3181,telugu digit seven
+3182,telugu digit eight
+3183,telugu digit nine
+3191,telugu sign siddham
+3192,telugu fraction digit zero for odd powers of four
+3193,telugu fraction digit one for odd powers of four
+3194,telugu fraction digit two for odd powers of four
+3195,telugu fraction digit three for odd powers of four
+3196,telugu fraction digit one for even powers of four
+3197,telugu fraction digit two for even powers of four
+3198,telugu fraction digit three for even powers of four

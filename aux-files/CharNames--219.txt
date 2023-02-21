@@ -1,0 +1,71 @@
+69888,chakma sign candrabindu
+69889,chakma sign anusvara
+69890,chakma sign visarga
+69891,chakma letter aa
+69892,chakma letter i
+69893,chakma letter u
+69894,chakma letter e
+69895,chakma letter kaa
+69896,chakma letter khaa
+69897,chakma letter gaa
+69898,chakma letter ghaa
+69899,chakma letter ngaa
+69900,chakma letter caa
+69901,chakma letter chaa
+69902,chakma letter jaa
+69903,chakma letter jhaa
+69904,chakma letter nyaa
+69905,chakma letter ttaa
+69906,chakma letter tthaa
+69907,chakma letter ddaa
+69908,chakma letter ddhaa
+69909,chakma letter nnaa
+69910,chakma letter taa
+69911,chakma letter thaa
+69912,chakma letter daa
+69913,chakma letter dhaa
+69914,chakma letter naa
+69915,chakma letter paa
+69916,chakma letter phaa
+69917,chakma letter baa
+69918,chakma letter bhaa
+69919,chakma letter maa
+69920,chakma letter yyaa
+69921,chakma letter yaa
+69922,chakma letter raa
+69923,chakma letter laa
+69924,chakma letter waa
+69925,chakma letter saa
+69926,chakma letter haa
+69927,chakma vowel sign a
+69928,chakma vowel sign i
+69929,chakma vowel sign ii
+69930,chakma vowel sign u
+69931,chakma vowel sign uu
+69932,chakma vowel sign e
+69933,chakma vowel sign ai
+69934,chakma vowel sign o
+69935,chakma vowel sign au
+69936,chakma vowel sign oi
+69937,chakma o mark
+69938,chakma au mark
+69939,chakma virama
+69940,chakma maayyaa
+69942,chakma digit zero
+69943,chakma digit one
+69944,chakma digit two
+69945,chakma digit three
+69946,chakma digit four
+69947,chakma digit five
+69948,chakma digit six
+69949,chakma digit seven
+69950,chakma digit eight
+69951,chakma digit nine
+69952,chakma section mark
+69953,chakma danda
+69954,chakma double danda
+69955,chakma question mark
+69956,chakma letter lhaa
+69957,chakma vowel sign aa
+69958,chakma vowel sign ei
+69959,chakma letter vaa

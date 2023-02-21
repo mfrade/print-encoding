@@ -1,0 +1,63 @@
+7552,latin small letter b with palatal hook
+7553,latin small letter d with palatal hook
+7554,latin small letter f with palatal hook
+7555,latin small letter g with palatal hook
+7556,latin small letter k with palatal hook
+7557,latin small letter l with palatal hook
+7558,latin small letter m with palatal hook
+7559,latin small letter n with palatal hook
+7560,latin small letter p with palatal hook
+7561,latin small letter r with palatal hook
+7562,latin small letter s with palatal hook
+7563,latin small letter esh with palatal hook
+7564,latin small letter v with palatal hook
+7565,latin small letter x with palatal hook
+7566,latin small letter z with palatal hook
+7567,latin small letter a with retroflex hook
+7568,latin small letter alpha with retroflex hook
+7569,latin small letter d with hook and tail
+7570,latin small letter e with retroflex hook
+7571,latin small letter open e with retroflex hook
+7572,latin small letter reversed open e with retroflex hook
+7573,latin small letter schwa with retroflex hook
+7574,latin small letter i with retroflex hook
+7575,latin small letter open o with retroflex hook
+7576,latin small letter esh with retroflex hook
+7577,latin small letter u with retroflex hook
+7578,latin small letter ezh with retroflex hook
+7579,modifier letter small turned alpha
+7580,modifier letter small c
+7581,modifier letter small c with curl
+7582,modifier letter small eth
+7583,modifier letter small reversed open e
+7584,modifier letter small f
+7585,modifier letter small dotless j with stroke
+7586,modifier letter small script g
+7587,modifier letter small turned h
+7588,modifier letter small i with stroke
+7589,modifier letter small iota
+7590,modifier letter small capital i
+7591,modifier letter small capital i with stroke
+7592,modifier letter small j with crossed-tail
+7593,modifier letter small l with retroflex hook
+7594,modifier letter small l with palatal hook
+7595,modifier letter small capital l
+7596,modifier letter small m with hook
+7597,modifier letter small turned m with long leg
+7598,modifier letter small n with left hook
+7599,modifier letter small n with retroflex hook
+7600,modifier letter small capital n
+7601,modifier letter small barred o
+7602,modifier letter small phi
+7603,modifier letter small s with hook
+7604,modifier letter small esh
+7605,modifier letter small t with palatal hook
+7606,modifier letter small u bar
+7607,modifier letter small upsilon
+7608,modifier letter small capital u
+7609,modifier letter small v with hook
+7610,modifier letter small turned v
+7611,modifier letter small z
+7612,modifier letter small z with retroflex hook
+7613,modifier letter small z with curl
+7614,modifier letter small ezh

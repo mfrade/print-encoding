@@ -1,0 +1,255 @@
+8704,for all
+8705,complement
+8706,partial differential
+8707,there exists
+8708,there does not exist
+8709,empty set
+8710,increment
+8711,nabla
+8712,element of
+8713,not an element of
+8714,small element of
+8715,contains as member
+8716,does not contain as member
+8717,small contains as member
+8718,end of proof
+8719,n-ary product
+8720,n-ary coproduct
+8721,n-ary summation
+8722,minus sign
+8723,minus-or-plus sign
+8724,dot plus
+8725,division slash
+8726,set minus
+8727,asterisk operator
+8728,ring operator
+8729,bullet operator
+8730,square root
+8731,cube root
+8732,fourth root
+8733,proportional to
+8734,infinity
+8735,right angle
+8736,angle
+8737,measured angle
+8738,spherical angle
+8739,divides
+8740,does not divide
+8741,parallel to
+8742,not parallel to
+8743,logical and
+8744,logical or
+8745,intersection
+8746,union
+8747,integral
+8748,double integral
+8749,triple integral
+8750,contour integral
+8751,surface integral
+8752,volume integral
+8753,clockwise integral
+8754,clockwise contour integral
+8755,anticlockwise contour integral
+8756,therefore
+8757,because
+8758,ratio
+8759,proportion
+8760,dot minus
+8761,excess
+8762,geometric proportion
+8763,homothetic
+8764,tilde operator
+8765,reversed tilde
+8766,inverted lazy s
+8767,sine wave
+8768,wreath product
+8769,not tilde
+8770,minus tilde
+8771,asymptotically equal to
+8772,not asymptotically equal to
+8773,approximately equal to
+8774,approximately but not actually equal to
+8775,neither approximately nor actually equal to
+8776,almost equal to
+8777,not almost equal to
+8778,almost equal or equal to
+8779,triple tilde
+8780,all equal to
+8781,equivalent to
+8782,geometrically equivalent to
+8783,difference between
+8784,approaches the limit
+8785,geometrically equal to
+8786,approximately equal to or the image of
+8787,image of or approximately equal to
+8788,colon equals
+8789,equals colon
+8790,ring in equal to
+8791,ring equal to
+8792,corresponds to
+8793,estimates
+8794,equiangular to
+8795,star equals
+8796,delta equal to
+8797,equal to by definition
+8798,measured by
+8799,questioned equal to
+8800,not equal to
+8801,identical to
+8802,not identical to
+8803,strictly equivalent to
+8804,less-than or equal to
+8805,greater-than or equal to
+8806,less-than over equal to
+8807,greater-than over equal to
+8808,less-than but not equal to
+8809,greater-than but not equal to
+8810,much less-than
+8811,much greater-than
+8812,between
+8813,not equivalent to
+8814,not less-than
+8815,not greater-than
+8816,neither less-than nor equal to
+8817,neither greater-than nor equal to
+8818,less-than or equivalent to
+8819,greater-than or equivalent to
+8820,neither less-than nor equivalent to
+8821,neither greater-than nor equivalent to
+8822,less-than or greater-than
+8823,greater-than or less-than
+8824,neither less-than nor greater-than
+8825,neither greater-than nor less-than
+8826,precedes
+8827,succeeds
+8828,precedes or equal to
+8829,succeeds or equal to
+8830,precedes or equivalent to
+8831,succeeds or equivalent to
+8832,does not precede
+8833,does not succeed
+8834,subset of
+8835,superset of
+8836,not a subset of
+8837,not a superset of
+8838,subset of or equal to
+8839,superset of or equal to
+8840,neither a subset of nor equal to
+8841,neither a superset of nor equal to
+8842,subset of with not equal to
+8843,superset of with not equal to
+8844,multiset
+8845,multiset multiplication
+8846,multiset union
+8847,square image of
+8848,square original of
+8849,square image of or equal to
+8850,square original of or equal to
+8851,square cap
+8852,square cup
+8853,circled plus
+8854,circled minus
+8855,circled times
+8856,circled division slash
+8857,circled dot operator
+8858,circled ring operator
+8859,circled asterisk operator
+8860,circled equals
+8861,circled dash
+8862,squared plus
+8863,squared minus
+8864,squared times
+8865,squared dot operator
+8866,right tack
+8867,left tack
+8868,down tack
+8869,up tack
+8870,assertion
+8871,models
+8872,true
+8873,forces
+8874,triple vertical bar right turnstile
+8875,double vertical bar double right turnstile
+8876,does not prove
+8877,not true
+8878,does not force
+8879,negated double vertical bar double right turnstile
+8880,precedes under relation
+8881,succeeds under relation
+8882,normal subgroup of
+8883,contains as normal subgroup
+8884,normal subgroup of or equal to
+8885,contains as normal subgroup or equal to
+8886,original of
+8887,image of
+8888,multimap
+8889,hermitian conjugate matrix
+8890,intercalate
+8891,xor
+8892,nand
+8893,nor
+8894,right angle with arc
+8895,right triangle
+8896,n-ary logical and
+8897,n-ary logical or
+8898,n-ary intersection
+8899,n-ary union
+8900,diamond operator
+8901,dot operator
+8902,star operator
+8903,division times
+8904,bowtie
+8905,left normal factor semidirect product
+8906,right normal factor semidirect product
+8907,left semidirect product
+8908,right semidirect product
+8909,reversed tilde equals
+8910,curly logical or
+8911,curly logical and
+8912,double subset
+8913,double superset
+8914,double intersection
+8915,double union
+8916,pitchfork
+8917,equal and parallel to
+8918,less-than with dot
+8919,greater-than with dot
+8920,very much less-than
+8921,very much greater-than
+8922,less-than equal to or greater-than
+8923,greater-than equal to or less-than
+8924,equal to or less-than
+8925,equal to or greater-than
+8926,equal to or precedes
+8927,equal to or succeeds
+8928,does not precede or equal
+8929,does not succeed or equal
+8930,not square image of or equal to
+8931,not square original of or equal to
+8932,square image of or not equal to
+8933,square original of or not equal to
+8934,less-than but not equivalent to
+8935,greater-than but not equivalent to
+8936,precedes but not equivalent to
+8937,succeeds but not equivalent to
+8938,not normal subgroup of
+8939,does not contain as normal subgroup
+8940,not normal subgroup of or equal to
+8941,does not contain as normal subgroup or equal
+8942,vertical ellipsis
+8943,midline horizontal ellipsis
+8944,up right diagonal ellipsis
+8945,down right diagonal ellipsis
+8946,element of with long horizontal stroke
+8947,element of with vertical bar at end of horizontal stroke
+8948,small element of with vertical bar at end of horizontal stroke
+8949,element of with dot above
+8950,element of with overbar
+8951,small element of with overbar
+8952,element of with underbar
+8953,element of with two horizontal strokes
+8954,contains with long horizontal stroke
+8955,contains with vertical bar at end of horizontal stroke
+8956,small contains with vertical bar at end of horizontal stroke
+8957,contains with overbar
+8958,small contains with overbar

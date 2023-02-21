@@ -1,0 +1,95 @@
+2208,arabic letter beh with small v below
+2209,arabic letter beh with hamza above
+2210,arabic letter jeem with two dots above
+2211,arabic letter tah with two dots above
+2212,arabic letter feh with dot below and three dots above
+2213,arabic letter qaf with dot below
+2214,arabic letter lam with double bar
+2215,arabic letter meem with three dots above
+2216,arabic letter yeh with two dots below and hamza above
+2217,arabic letter yeh with two dots below and dot above
+2218,arabic letter reh with loop
+2219,arabic letter waw with dot within
+2220,arabic letter rohingya yeh
+2221,arabic letter low alef
+2222,arabic letter dal with three dots below
+2223,arabic letter sad with three dots below
+2224,arabic letter gaf with inverted stroke
+2225,arabic letter straight waw
+2226,arabic letter zain with inverted v above
+2227,arabic letter ain with three dots below
+2228,arabic letter kaf with dot below
+2229,arabic letter qaf with dot below and no dots above
+2230,arabic letter beh with small meem above
+2231,arabic letter peh with small meem above
+2232,arabic letter teh with small teh above
+2233,arabic letter reh with small noon above
+2234,arabic letter yeh with two dots below and small noon above
+2235,arabic letter african feh
+2236,arabic letter african qaf
+2237,arabic letter african noon
+2238,arabic letter peh with small v
+2239,arabic letter teh with small v
+2240,arabic letter tteh with small v
+2241,arabic letter tcheh with small v
+2242,arabic letter keheh with small v
+2243,arabic letter ghain with three dots above
+2244,arabic letter african qaf with three dots above
+2245,arabic letter jeem with three dots above
+2246,arabic letter jeem with three dots below
+2247,arabic letter lam with small arabic letter tah above
+2248,arabic letter graf
+2249,arabic small farsi yeh
+2250,arabic small high farsi yeh
+2251,arabic small high yeh barree with two dots below
+2252,arabic small high word sah
+2253,arabic small high zah
+2254,arabic large round dot above
+2255,arabic large round dot below
+2256,arabic sukun below
+2257,arabic large circle below
+2258,arabic large round dot inside circle below
+2259,arabic small low waw
+2260,arabic small high word ar-rub
+2261,arabic small high sad
+2262,arabic small high ain
+2263,arabic small high qaf
+2264,arabic small high noon with kasra
+2265,arabic small low noon with kasra
+2266,arabic small high word ath-thalatha
+2267,arabic small high word as-sajda
+2268,arabic small high word an-nisf
+2269,arabic small high word sakta
+2270,arabic small high word qif
+2271,arabic small high word waqfa
+2272,arabic small high footnote marker
+2273,arabic small high sign safha
+2274,arabic disputed end of ayah
+2275,arabic turned damma below
+2276,arabic curly fatha
+2277,arabic curly damma
+2278,arabic curly kasra
+2279,arabic curly fathatan
+2280,arabic curly dammatan
+2281,arabic curly kasratan
+2282,arabic tone one dot above
+2283,arabic tone two dots above
+2284,arabic tone loop above
+2285,arabic tone one dot below
+2286,arabic tone two dots below
+2287,arabic tone loop below
+2288,arabic open fathatan
+2289,arabic open dammatan
+2290,arabic open kasratan
+2291,arabic small high waw
+2292,arabic fatha with ring
+2293,arabic fatha with dot above
+2294,arabic kasra with dot below
+2295,arabic left arrowhead above
+2296,arabic right arrowhead above
+2297,arabic left arrowhead below
+2298,arabic right arrowhead below
+2299,arabic double right arrowhead above
+2300,arabic double right arrowhead above with dot
+2301,arabic right arrowhead above with dot
+2302,arabic damma with dot

@@ -1,0 +1,88 @@
+65536,linear b syllable b008 a
+65537,linear b syllable b038 e
+65538,linear b syllable b028 i
+65539,linear b syllable b061 o
+65540,linear b syllable b010 u
+65541,linear b syllable b001 da
+65542,linear b syllable b045 de
+65543,linear b syllable b007 di
+65544,linear b syllable b014 do
+65545,linear b syllable b051 du
+65546,linear b syllable b057 ja
+65547,linear b syllable b046 je
+65549,linear b syllable b036 jo
+65550,linear b syllable b065 ju
+65551,linear b syllable b077 ka
+65552,linear b syllable b044 ke
+65553,linear b syllable b067 ki
+65554,linear b syllable b070 ko
+65555,linear b syllable b081 ku
+65556,linear b syllable b080 ma
+65557,linear b syllable b013 me
+65558,linear b syllable b073 mi
+65559,linear b syllable b015 mo
+65560,linear b syllable b023 mu
+65561,linear b syllable b006 na
+65562,linear b syllable b024 ne
+65563,linear b syllable b030 ni
+65564,linear b syllable b052 no
+65565,linear b syllable b055 nu
+65566,linear b syllable b003 pa
+65567,linear b syllable b072 pe
+65568,linear b syllable b039 pi
+65569,linear b syllable b011 po
+65570,linear b syllable b050 pu
+65571,linear b syllable b016 qa
+65572,linear b syllable b078 qe
+65573,linear b syllable b021 qi
+65574,linear b syllable b032 qo
+65576,linear b syllable b060 ra
+65577,linear b syllable b027 re
+65578,linear b syllable b053 ri
+65579,linear b syllable b002 ro
+65580,linear b syllable b026 ru
+65581,linear b syllable b031 sa
+65582,linear b syllable b009 se
+65583,linear b syllable b041 si
+65584,linear b syllable b012 so
+65585,linear b syllable b058 su
+65586,linear b syllable b059 ta
+65587,linear b syllable b004 te
+65588,linear b syllable b037 ti
+65589,linear b syllable b005 to
+65590,linear b syllable b069 tu
+65591,linear b syllable b054 wa
+65592,linear b syllable b075 we
+65593,linear b syllable b040 wi
+65594,linear b syllable b042 wo
+65596,linear b syllable b017 za
+65597,linear b syllable b074 ze
+65599,linear b syllable b020 zo
+65600,linear b syllable b025 a2
+65601,linear b syllable b043 a3
+65602,linear b syllable b085 au
+65603,linear b syllable b071 dwe
+65604,linear b syllable b090 dwo
+65605,linear b syllable b048 nwa
+65606,linear b syllable b029 pu2
+65607,linear b syllable b062 pte
+65608,linear b syllable b076 ra2
+65609,linear b syllable b033 ra3
+65610,linear b syllable b068 ro2
+65611,linear b syllable b066 ta2
+65612,linear b syllable b087 twe
+65613,linear b syllable b091 two
+65616,linear b symbol b018
+65617,linear b symbol b019
+65618,linear b symbol b022
+65619,linear b symbol b034
+65620,linear b symbol b047
+65621,linear b symbol b049
+65622,linear b symbol b056
+65623,linear b symbol b063
+65624,linear b symbol b064
+65625,linear b symbol b079
+65626,linear b symbol b082
+65627,linear b symbol b083
+65628,linear b symbol b086
+65629,linear b symbol b089

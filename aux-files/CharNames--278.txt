@@ -1,0 +1,246 @@
+118784,byzantine musical symbol psili
+118785,byzantine musical symbol daseia
+118786,byzantine musical symbol perispomeni
+118787,byzantine musical symbol oxeia ekfonitikon
+118788,byzantine musical symbol oxeia dipli
+118789,byzantine musical symbol vareia ekfonitikon
+118790,byzantine musical symbol vareia dipli
+118791,byzantine musical symbol kathisti
+118792,byzantine musical symbol syrmatiki
+118793,byzantine musical symbol paraklitiki
+118794,byzantine musical symbol ypokrisis
+118795,byzantine musical symbol ypokrisis dipli
+118796,byzantine musical symbol kremasti
+118797,byzantine musical symbol apeso ekfonitikon
+118798,byzantine musical symbol exo ekfonitikon
+118799,byzantine musical symbol teleia
+118800,byzantine musical symbol kentimata
+118801,byzantine musical symbol apostrofos
+118802,byzantine musical symbol apostrofos dipli
+118803,byzantine musical symbol synevma
+118804,byzantine musical symbol thita
+118805,byzantine musical symbol oligon archaion
+118806,byzantine musical symbol gorgon archaion
+118807,byzantine musical symbol psilon
+118808,byzantine musical symbol chamilon
+118809,byzantine musical symbol vathy
+118810,byzantine musical symbol ison archaion
+118811,byzantine musical symbol kentima archaion
+118812,byzantine musical symbol kentimata archaion
+118813,byzantine musical symbol saximata
+118814,byzantine musical symbol parichon
+118815,byzantine musical symbol stavros apodexia
+118816,byzantine musical symbol oxeiai archaion
+118817,byzantine musical symbol vareiai archaion
+118818,byzantine musical symbol apoderma archaion
+118819,byzantine musical symbol apothema
+118820,byzantine musical symbol klasma
+118821,byzantine musical symbol revma
+118822,byzantine musical symbol piasma archaion
+118823,byzantine musical symbol tinagma
+118824,byzantine musical symbol anatrichisma
+118825,byzantine musical symbol seisma
+118826,byzantine musical symbol synagma archaion
+118827,byzantine musical symbol synagma meta stavrou
+118828,byzantine musical symbol oyranisma archaion
+118829,byzantine musical symbol thema
+118830,byzantine musical symbol lemoi
+118831,byzantine musical symbol dyo
+118832,byzantine musical symbol tria
+118833,byzantine musical symbol tessera
+118834,byzantine musical symbol kratimata
+118835,byzantine musical symbol apeso exo neo
+118836,byzantine musical symbol fthora archaion
+118837,byzantine musical symbol imifthora
+118838,byzantine musical symbol tromikon archaion
+118839,byzantine musical symbol katava tromikon
+118840,byzantine musical symbol pelaston
+118841,byzantine musical symbol psifiston
+118842,byzantine musical symbol kontevma
+118843,byzantine musical symbol chorevma archaion
+118844,byzantine musical symbol rapisma
+118845,byzantine musical symbol parakalesma archaion
+118846,byzantine musical symbol paraklitiki archaion
+118847,byzantine musical symbol ichadin
+118848,byzantine musical symbol nana
+118849,byzantine musical symbol petasma
+118850,byzantine musical symbol kontevma allo
+118851,byzantine musical symbol tromikon allo
+118852,byzantine musical symbol straggismata
+118853,byzantine musical symbol gronthismata
+118854,byzantine musical symbol ison neo
+118855,byzantine musical symbol oligon neo
+118856,byzantine musical symbol oxeia neo
+118857,byzantine musical symbol petasti
+118858,byzantine musical symbol koufisma
+118859,byzantine musical symbol petastokoufisma
+118860,byzantine musical symbol kratimokoufisma
+118861,byzantine musical symbol pelaston neo
+118862,byzantine musical symbol kentimata neo ano
+118863,byzantine musical symbol kentima neo ano
+118864,byzantine musical symbol ypsili
+118865,byzantine musical symbol apostrofos neo
+118866,byzantine musical symbol apostrofoi syndesmos neo
+118867,byzantine musical symbol yporroi
+118868,byzantine musical symbol kratimoyporroon
+118869,byzantine musical symbol elafron
+118870,byzantine musical symbol chamili
+118871,byzantine musical symbol mikron ison
+118872,byzantine musical symbol vareia neo
+118873,byzantine musical symbol piasma neo
+118874,byzantine musical symbol psifiston neo
+118875,byzantine musical symbol omalon
+118876,byzantine musical symbol antikenoma
+118877,byzantine musical symbol lygisma
+118878,byzantine musical symbol paraklitiki neo
+118879,byzantine musical symbol parakalesma neo
+118880,byzantine musical symbol eteron parakalesma
+118881,byzantine musical symbol kylisma
+118882,byzantine musical symbol antikenokylisma
+118883,byzantine musical symbol tromikon neo
+118884,byzantine musical symbol ekstrepton
+118885,byzantine musical symbol synagma neo
+118886,byzantine musical symbol syrma
+118887,byzantine musical symbol chorevma neo
+118888,byzantine musical symbol epegerma
+118889,byzantine musical symbol seisma neo
+118890,byzantine musical symbol xiron klasma
+118891,byzantine musical symbol tromikopsifiston
+118892,byzantine musical symbol psifistolygisma
+118893,byzantine musical symbol tromikolygisma
+118894,byzantine musical symbol tromikoparakalesma
+118895,byzantine musical symbol psifistoparakalesma
+118896,byzantine musical symbol tromikosynagma
+118897,byzantine musical symbol psifistosynagma
+118898,byzantine musical symbol gorgosyntheton
+118899,byzantine musical symbol argosyntheton
+118900,byzantine musical symbol eteron argosyntheton
+118901,byzantine musical symbol oyranisma neo
+118902,byzantine musical symbol thematismos eso
+118903,byzantine musical symbol thematismos exo
+118904,byzantine musical symbol thema aploun
+118905,byzantine musical symbol thes kai apothes
+118906,byzantine musical symbol katavasma
+118907,byzantine musical symbol endofonon
+118908,byzantine musical symbol yfen kato
+118909,byzantine musical symbol yfen ano
+118910,byzantine musical symbol stavros
+118911,byzantine musical symbol klasma ano
+118912,byzantine musical symbol dipli archaion
+118913,byzantine musical symbol kratima archaion
+118914,byzantine musical symbol kratima allo
+118915,byzantine musical symbol kratima neo
+118916,byzantine musical symbol apoderma neo
+118917,byzantine musical symbol apli
+118918,byzantine musical symbol dipli
+118919,byzantine musical symbol tripli
+118920,byzantine musical symbol tetrapli
+118921,byzantine musical symbol koronis
+118922,byzantine musical symbol leimma enos chronou
+118923,byzantine musical symbol leimma dyo chronon
+118924,byzantine musical symbol leimma trion chronon
+118925,byzantine musical symbol leimma tessaron chronon
+118926,byzantine musical symbol leimma imiseos chronou
+118927,byzantine musical symbol gorgon neo ano
+118928,byzantine musical symbol gorgon parestigmenon aristera
+118929,byzantine musical symbol gorgon parestigmenon dexia
+118930,byzantine musical symbol digorgon
+118931,byzantine musical symbol digorgon parestigmenon aristera kato
+118932,byzantine musical symbol digorgon parestigmenon aristera ano
+118933,byzantine musical symbol digorgon parestigmenon dexia
+118934,byzantine musical symbol trigorgon
+118935,byzantine musical symbol argon
+118936,byzantine musical symbol imidiargon
+118937,byzantine musical symbol diargon
+118938,byzantine musical symbol agogi poli argi
+118939,byzantine musical symbol agogi argoteri
+118940,byzantine musical symbol agogi argi
+118941,byzantine musical symbol agogi metria
+118942,byzantine musical symbol agogi mesi
+118943,byzantine musical symbol agogi gorgi
+118944,byzantine musical symbol agogi gorgoteri
+118945,byzantine musical symbol agogi poli gorgi
+118946,byzantine musical symbol martyria protos ichos
+118947,byzantine musical symbol martyria alli protos ichos
+118948,byzantine musical symbol martyria deyteros ichos
+118949,byzantine musical symbol martyria alli deyteros ichos
+118950,byzantine musical symbol martyria tritos ichos
+118951,byzantine musical symbol martyria trifonias
+118952,byzantine musical symbol martyria tetartos ichos
+118953,byzantine musical symbol martyria tetartos legetos ichos
+118954,byzantine musical symbol martyria legetos ichos
+118955,byzantine musical symbol martyria plagios ichos
+118956,byzantine musical symbol isakia telous ichimatos
+118957,byzantine musical symbol apostrofoi telous ichimatos
+118958,byzantine musical symbol fanerosis tetrafonias
+118959,byzantine musical symbol fanerosis monofonias
+118960,byzantine musical symbol fanerosis difonias
+118961,byzantine musical symbol martyria varys ichos
+118962,byzantine musical symbol martyria protovarys ichos
+118963,byzantine musical symbol martyria plagios tetartos ichos
+118964,byzantine musical symbol gorthmikon n aploun
+118965,byzantine musical symbol gorthmikon n diploun
+118966,byzantine musical symbol enarxis kai fthora vou
+118967,byzantine musical symbol imifonon
+118968,byzantine musical symbol imifthoron
+118969,byzantine musical symbol fthora archaion deyterou ichou
+118970,byzantine musical symbol fthora diatoniki pa
+118971,byzantine musical symbol fthora diatoniki nana
+118972,byzantine musical symbol fthora naos ichos
+118973,byzantine musical symbol fthora diatoniki di
+118974,byzantine musical symbol fthora skliron diatonon di
+118975,byzantine musical symbol fthora diatoniki ke
+118976,byzantine musical symbol fthora diatoniki zo
+118977,byzantine musical symbol fthora diatoniki ni kato
+118978,byzantine musical symbol fthora diatoniki ni ano
+118979,byzantine musical symbol fthora malakon chroma difonias
+118980,byzantine musical symbol fthora malakon chroma monofonias
+118981,byzantine musical symbol fhtora skliron chroma vasis
+118982,byzantine musical symbol fthora skliron chroma synafi
+118983,byzantine musical symbol fthora nenano
+118984,byzantine musical symbol chroa zygos
+118985,byzantine musical symbol chroa kliton
+118986,byzantine musical symbol chroa spathi
+118987,byzantine musical symbol fthora i yfesis tetartimorion
+118988,byzantine musical symbol fthora enarmonios antifonia
+118989,byzantine musical symbol yfesis tritimorion
+118990,byzantine musical symbol diesis tritimorion
+118991,byzantine musical symbol diesis tetartimorion
+118992,byzantine musical symbol diesis apli dyo dodekata
+118993,byzantine musical symbol diesis monogrammos tessera dodekata
+118994,byzantine musical symbol diesis digrammos ex dodekata
+118995,byzantine musical symbol diesis trigrammos okto dodekata
+118996,byzantine musical symbol yfesis apli dyo dodekata
+118997,byzantine musical symbol yfesis monogrammos tessera dodekata
+118998,byzantine musical symbol yfesis digrammos ex dodekata
+118999,byzantine musical symbol yfesis trigrammos okto dodekata
+119000,byzantine musical symbol geniki diesis
+119001,byzantine musical symbol geniki yfesis
+119002,byzantine musical symbol diastoli apli mikri
+119003,byzantine musical symbol diastoli apli megali
+119004,byzantine musical symbol diastoli dipli
+119005,byzantine musical symbol diastoli theseos
+119006,byzantine musical symbol simansis theseos
+119007,byzantine musical symbol simansis theseos disimou
+119008,byzantine musical symbol simansis theseos trisimou
+119009,byzantine musical symbol simansis theseos tetrasimou
+119010,byzantine musical symbol simansis arseos
+119011,byzantine musical symbol simansis arseos disimou
+119012,byzantine musical symbol simansis arseos trisimou
+119013,byzantine musical symbol simansis arseos tetrasimou
+119014,byzantine musical symbol digramma gg
+119015,byzantine musical symbol diftoggos ou
+119016,byzantine musical symbol stigma
+119017,byzantine musical symbol arktiko pa
+119018,byzantine musical symbol arktiko vou
+119019,byzantine musical symbol arktiko ga
+119020,byzantine musical symbol arktiko di
+119021,byzantine musical symbol arktiko ke
+119022,byzantine musical symbol arktiko zo
+119023,byzantine musical symbol arktiko ni
+119024,byzantine musical symbol kentimata neo meso
+119025,byzantine musical symbol kentima neo meso
+119026,byzantine musical symbol kentimata neo kato
+119027,byzantine musical symbol kentima neo kato
+119028,byzantine musical symbol klasma kato
+119029,byzantine musical symbol gorgon neo kato

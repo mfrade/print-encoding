@@ -1,0 +1,58 @@
+11568,tifinagh letter ya
+11569,tifinagh letter yab
+11570,tifinagh letter yabh
+11571,tifinagh letter yag
+11572,tifinagh letter yaghh
+11573,tifinagh letter berber academy yaj
+11574,tifinagh letter yaj
+11575,tifinagh letter yad
+11576,tifinagh letter yadh
+11577,tifinagh letter yadd
+11578,tifinagh letter yaddh
+11579,tifinagh letter yey
+11580,tifinagh letter yaf
+11581,tifinagh letter yak
+11582,tifinagh letter tuareg yak
+11583,tifinagh letter yakhh
+11584,tifinagh letter yah
+11585,tifinagh letter berber academy yah
+11586,tifinagh letter tuareg yah
+11587,tifinagh letter yahh
+11588,tifinagh letter yaa
+11589,tifinagh letter yakh
+11590,tifinagh letter tuareg yakh
+11591,tifinagh letter yaq
+11592,tifinagh letter tuareg yaq
+11593,tifinagh letter yi
+11594,tifinagh letter yazh
+11595,tifinagh letter ahaggar yazh
+11596,tifinagh letter tuareg yazh
+11597,tifinagh letter yal
+11598,tifinagh letter yam
+11599,tifinagh letter yan
+11600,tifinagh letter tuareg yagn
+11601,tifinagh letter tuareg yang
+11602,tifinagh letter yap
+11603,tifinagh letter yu
+11604,tifinagh letter yar
+11605,tifinagh letter yarr
+11606,tifinagh letter yagh
+11607,tifinagh letter tuareg yagh
+11608,tifinagh letter ayer yagh
+11609,tifinagh letter yas
+11610,tifinagh letter yass
+11611,tifinagh letter yash
+11612,tifinagh letter yat
+11613,tifinagh letter yath
+11614,tifinagh letter yach
+11615,tifinagh letter yatt
+11616,tifinagh letter yav
+11617,tifinagh letter yaw
+11618,tifinagh letter yay
+11619,tifinagh letter yaz
+11620,tifinagh letter tawellemet yaz
+11621,tifinagh letter yazz
+11622,tifinagh letter ye
+11623,tifinagh letter yo
+11631,tifinagh modifier letter labialization mark
+11632,tifinagh separator mark

@@ -1,0 +1,127 @@
+9472,box drawings light horizontal
+9473,box drawings heavy horizontal
+9474,box drawings light vertical
+9475,box drawings heavy vertical
+9476,box drawings light triple dash horizontal
+9477,box drawings heavy triple dash horizontal
+9478,box drawings light triple dash vertical
+9479,box drawings heavy triple dash vertical
+9480,box drawings light quadruple dash horizontal
+9481,box drawings heavy quadruple dash horizontal
+9482,box drawings light quadruple dash vertical
+9483,box drawings heavy quadruple dash vertical
+9484,box drawings light down and right
+9485,box drawings down light and right heavy
+9486,box drawings down heavy and right light
+9487,box drawings heavy down and right
+9488,box drawings light down and left
+9489,box drawings down light and left heavy
+9490,box drawings down heavy and left light
+9491,box drawings heavy down and left
+9492,box drawings light up and right
+9493,box drawings up light and right heavy
+9494,box drawings up heavy and right light
+9495,box drawings heavy up and right
+9496,box drawings light up and left
+9497,box drawings up light and left heavy
+9498,box drawings up heavy and left light
+9499,box drawings heavy up and left
+9500,box drawings light vertical and right
+9501,box drawings vertical light and right heavy
+9502,box drawings up heavy and right down light
+9503,box drawings down heavy and right up light
+9504,box drawings vertical heavy and right light
+9505,box drawings down light and right up heavy
+9506,box drawings up light and right down heavy
+9507,box drawings heavy vertical and right
+9508,box drawings light vertical and left
+9509,box drawings vertical light and left heavy
+9510,box drawings up heavy and left down light
+9511,box drawings down heavy and left up light
+9512,box drawings vertical heavy and left light
+9513,box drawings down light and left up heavy
+9514,box drawings up light and left down heavy
+9515,box drawings heavy vertical and left
+9516,box drawings light down and horizontal
+9517,box drawings left heavy and right down light
+9518,box drawings right heavy and left down light
+9519,box drawings down light and horizontal heavy
+9520,box drawings down heavy and horizontal light
+9521,box drawings right light and left down heavy
+9522,box drawings left light and right down heavy
+9523,box drawings heavy down and horizontal
+9524,box drawings light up and horizontal
+9525,box drawings left heavy and right up light
+9526,box drawings right heavy and left up light
+9527,box drawings up light and horizontal heavy
+9528,box drawings up heavy and horizontal light
+9529,box drawings right light and left up heavy
+9530,box drawings left light and right up heavy
+9531,box drawings heavy up and horizontal
+9532,box drawings light vertical and horizontal
+9533,box drawings left heavy and right vertical light
+9534,box drawings right heavy and left vertical light
+9535,box drawings vertical light and horizontal heavy
+9536,box drawings up heavy and down horizontal light
+9537,box drawings down heavy and up horizontal light
+9538,box drawings vertical heavy and horizontal light
+9539,box drawings left up heavy and right down light
+9540,box drawings right up heavy and left down light
+9541,box drawings left down heavy and right up light
+9542,box drawings right down heavy and left up light
+9543,box drawings down light and up horizontal heavy
+9544,box drawings up light and down horizontal heavy
+9545,box drawings right light and left vertical heavy
+9546,box drawings left light and right vertical heavy
+9547,box drawings heavy vertical and horizontal
+9548,box drawings light double dash horizontal
+9549,box drawings heavy double dash horizontal
+9550,box drawings light double dash vertical
+9551,box drawings heavy double dash vertical
+9552,box drawings double horizontal
+9553,box drawings double vertical
+9554,box drawings down single and right double
+9555,box drawings down double and right single
+9556,box drawings double down and right
+9557,box drawings down single and left double
+9558,box drawings down double and left single
+9559,box drawings double down and left
+9560,box drawings up single and right double
+9561,box drawings up double and right single
+9562,box drawings double up and right
+9563,box drawings up single and left double
+9564,box drawings up double and left single
+9565,box drawings double up and left
+9566,box drawings vertical single and right double
+9567,box drawings vertical double and right single
+9568,box drawings double vertical and right
+9569,box drawings vertical single and left double
+9570,box drawings vertical double and left single
+9571,box drawings double vertical and left
+9572,box drawings down single and horizontal double
+9573,box drawings down double and horizontal single
+9574,box drawings double down and horizontal
+9575,box drawings up single and horizontal double
+9576,box drawings up double and horizontal single
+9577,box drawings double up and horizontal
+9578,box drawings vertical single and horizontal double
+9579,box drawings vertical double and horizontal single
+9580,box drawings double vertical and horizontal
+9581,box drawings light arc down and right
+9582,box drawings light arc down and left
+9583,box drawings light arc up and left
+9584,box drawings light arc up and right
+9585,box drawings light diagonal upper right to lower left
+9586,box drawings light diagonal upper left to lower right
+9587,box drawings light diagonal cross
+9588,box drawings light left
+9589,box drawings light up
+9590,box drawings light right
+9591,box drawings light down
+9592,box drawings heavy left
+9593,box drawings heavy up
+9594,box drawings heavy right
+9595,box drawings heavy down
+9596,box drawings light left and heavy right
+9597,box drawings light up and heavy down
+9598,box drawings heavy left and light right

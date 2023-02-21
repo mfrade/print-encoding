@@ -1,0 +1,185 @@
+118528,znamenny combining mark gorazdo nizko s kryzhem on left
+118529,znamenny combining mark nizko s kryzhem on left
+118530,znamenny combining mark tsata on left
+118531,znamenny combining mark gorazdo nizko on left
+118532,znamenny combining mark nizko on left
+118533,znamenny combining mark sredne on left
+118534,znamenny combining mark malo povyshe on left
+118535,znamenny combining mark povyshe on left
+118536,znamenny combining mark vysoko on left
+118537,znamenny combining mark malo povyshe s khokhlom on left
+118538,znamenny combining mark povyshe s khokhlom on left
+118539,znamenny combining mark vysoko s khokhlom on left
+118540,znamenny combining mark gorazdo nizko s kryzhem on right
+118541,znamenny combining mark nizko s kryzhem on right
+118542,znamenny combining mark tsata on right
+118543,znamenny combining mark gorazdo nizko on right
+118544,znamenny combining mark nizko on right
+118545,znamenny combining mark sredne on right
+118546,znamenny combining mark malo povyshe on right
+118547,znamenny combining mark povyshe on right
+118548,znamenny combining mark vysoko on right
+118549,znamenny combining mark malo povyshe s khokhlom on right
+118550,znamenny combining mark povyshe s khokhlom on right
+118551,znamenny combining mark vysoko s khokhlom on right
+118552,znamenny combining mark tsata s kryzhem
+118553,znamenny combining mark malo povyshe s kryzhem
+118554,znamenny combining mark stranno malo povyshe
+118555,znamenny combining mark povyshe s kryzhem
+118556,znamenny combining mark povyshe stranno
+118557,znamenny combining mark vysoko s kryzhem
+118558,znamenny combining mark malo povyshe stranno
+118559,znamenny combining mark gorazdo vysoko
+118560,znamenny combining mark zelo
+118561,znamenny combining mark on
+118562,znamenny combining mark ravno
+118563,znamenny combining mark tikhaya
+118564,znamenny combining mark borzaya
+118565,znamenny combining mark udarka
+118566,znamenny combining mark podvertka
+118567,znamenny combining mark lomka
+118568,znamenny combining mark kupnaya
+118569,znamenny combining mark kachka
+118570,znamenny combining mark zevok
+118571,znamenny combining mark skoba
+118572,znamenny combining mark razseka
+118573,znamenny combining mark kryzh on left
+118576,znamenny combining tonal range mark mrachno
+118577,znamenny combining tonal range mark svetlo
+118578,znamenny combining tonal range mark tresvetlo
+118579,znamenny combining mark zaderzhka
+118580,znamenny combining mark demestvenny zaderzhka
+118581,znamenny combining mark otsechka
+118582,znamenny combining mark podchashie
+118583,znamenny combining mark podchashie with vertical stroke
+118584,znamenny combining mark chashka
+118585,znamenny combining mark chashka polnaya
+118586,znamenny combining mark oblachko
+118587,znamenny combining mark sorochya nozhka
+118588,znamenny combining mark tochka
+118589,znamenny combining mark dvoetochie
+118590,znamenny combining attaching vertical omet
+118591,znamenny combining mark curved omet
+118592,znamenny combining mark kryzh
+118593,znamenny combining lower tonal range indicator
+118594,znamenny priznak modifier level-2
+118595,znamenny priznak modifier level-3
+118596,znamenny priznak modifier direction flip
+118597,znamenny priznak modifier kryzh
+118598,znamenny priznak modifier rog
+118608,znamenny neume kryuk
+118609,znamenny neume kryuk tikhy
+118610,znamenny neume paraklit
+118611,znamenny neume dva v chelnu
+118612,znamenny neume klyuch
+118613,znamenny neume zanozhek
+118614,znamenny neume stopitsa
+118615,znamenny neume stopitsa s ochkom
+118616,znamenny neume perevodka
+118617,znamenny neume perevodka nepostoyannaya
+118618,znamenny neume stopitsa with sorochya nozhka
+118619,znamenny neume chelyustka
+118620,znamenny neume palka
+118621,znamenny neume zapyataya
+118622,znamenny neume golubchik borzy
+118623,znamenny neume golubchik tikhy
+118624,znamenny neume golubchik mrachny
+118625,znamenny neume golubchik svetly
+118626,znamenny neume golubchik tresvetly
+118627,znamenny neume vrakhiya prostaya
+118628,znamenny neume vrakhiya mrachnaya
+118629,znamenny neume vrakhiya svetlaya
+118630,znamenny neume vrakhiya tresvetlaya
+118631,znamenny neume vrakhiya klyuchevaya prostaya
+118632,znamenny neume vrakhiya klyuchevaya mrachnaya
+118633,znamenny neume vrakhiya klyuchevaya svetlaya
+118634,znamenny neume vrakhiya klyuchevaya tresvetlaya
+118635,znamenny neume double zapyataya
+118636,znamenny neume reversed chelyustka
+118637,znamenny neume derbitsa
+118638,znamenny neume khamilo
+118639,znamenny neume chashka
+118640,znamenny neume podchashie
+118641,znamenny neume skameytsa mrachnaya
+118642,znamenny neume skameytsa svetlaya
+118643,znamenny neume skameytsa tresvetlaya
+118644,znamenny neume skameytsa tikhaya
+118645,znamenny neume demestvenny klyuch
+118646,znamenny neume skameytsa klyuchevaya svetlaya
+118647,znamenny neume skameytsa klyuchenepostoyannaya
+118648,znamenny neume skameytsa klyuchevaya tikhaya
+118649,znamenny neume skameytsa dvoechelnaya prostaya
+118650,znamenny neume skameytsa dvoechelnaya svetlaya
+118651,znamenny neume skameytsa dvoechelnaya nepostoyannaya
+118652,znamenny neume skameytsa dvoechelnaya klyuchevaya
+118653,znamenny neume slozhitie
+118654,znamenny neume slozhitie s zapyatoy
+118655,znamenny neume slozhitie zakrytoe
+118656,znamenny neume slozhitie s kryzhem
+118657,znamenny neume kryzh
+118658,znamenny neume rog
+118659,znamenny neume fita
+118660,znamenny neume kobyla
+118661,znamenny neume zmeytsa
+118662,znamenny neume statya
+118663,znamenny neume statya s zapyatoy
+118664,znamenny neume statya s kryzhem
+118665,znamenny neume statya s zapyatoy i kryzhem
+118666,znamenny neume statya s kryzhem i zapyatoy
+118667,znamenny neume statya zakrytaya
+118668,znamenny neume statya zakrytaya s zapyatoy
+118669,znamenny neume statya s rogom
+118670,znamenny neume statya s dvumya zapyatymi
+118671,znamenny neume statya s zapyatoy i podchashiem
+118672,znamenny neume polkulizmy
+118673,znamenny neume statya nepostoyannaya
+118674,znamenny neume strela prostaya
+118675,znamenny neume strela mrachnotikhaya
+118676,znamenny neume strela kryzhevaya
+118677,znamenny neume strela polupovodnaya
+118678,znamenny neume strela povodnaya
+118679,znamenny neume strela nepostoyannaya
+118680,znamenny neume strela klyuchepovodnaya
+118681,znamenny neume strela klyuchenepostoyannaya
+118682,znamenny neume strela tikhaya putnaya
+118683,znamenny neume strela dvoechelnaya
+118684,znamenny neume strela dvoechelnokryzhevaya
+118685,znamenny neume strela dvoechelnopovodnaya
+118686,znamenny neume strela dvoechelnaya klyuchevaya
+118687,znamenny neume strela dvoechelnopovodnaya klyuchevaya
+118688,znamenny neume strela gromnaya with single zapyataya
+118689,znamenny neume strela gromopovodnaya with single zapyataya
+118690,znamenny neume strela gromnaya
+118691,znamenny neume strela gromopovodnaya
+118692,znamenny neume strela gromopovodnaya with double zapyataya
+118693,znamenny neume strela gromokryzhevaya
+118694,znamenny neume strela gromokryzhevaya povodnaya
+118695,znamenny neume mechik
+118696,znamenny neume mechik povodny
+118697,znamenny neume mechik klyuchevoy
+118698,znamenny neume mechik klyuchepovodny
+118699,znamenny neume mechik klyuchenepostoyanny
+118700,znamenny neume strela tryasoglasnaya
+118701,znamenny neume strela tryasopovodnaya
+118702,znamenny neume strela tryasostrelnaya
+118703,znamenny neume osoka
+118704,znamenny neume osoka svetlaya
+118705,znamenny neume osoka tresvetlaya
+118706,znamenny neume osoka kryukovaya svetlaya
+118707,znamenny neume osoka klyuchevaya svetlaya
+118708,znamenny neume osoka klyuchevaya nepostoyannaya
+118709,znamenny neume strela kryukovaya
+118710,znamenny neume strela kryukovaya povodnaya
+118711,znamenny neume strela kryukovaya gromnaya with single zapyataya
+118712,znamenny neume strela kryukovaya gromopovodnaya with single zapyataya
+118713,znamenny neume strela kryukovaya gromnaya
+118714,znamenny neume strela kryukovaya gromopovodnaya
+118715,znamenny neume strela kryukovaya gromopovodnaya with double zapyataya
+118716,znamenny neume strela kryukovaya gromokryzhevaya
+118717,znamenny neume strela kryukovaya gromokryzhevaya povodnaya
+118718,znamenny neume strela kryukovaya tryaska
+118719,znamenny neume kufisma
+118720,znamenny neume oblako
+118721,znamenny neume duda
+118722,znamenny neume nemka
+118723,znamenny neume pauk

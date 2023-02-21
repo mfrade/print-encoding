@@ -1,0 +1,122 @@
+11392,coptic capital letter alfa
+11393,coptic small letter alfa
+11394,coptic capital letter vida
+11395,coptic small letter vida
+11396,coptic capital letter gamma
+11397,coptic small letter gamma
+11398,coptic capital letter dalda
+11399,coptic small letter dalda
+11400,coptic capital letter eie
+11401,coptic small letter eie
+11402,coptic capital letter sou
+11403,coptic small letter sou
+11404,coptic capital letter zata
+11405,coptic small letter zata
+11406,coptic capital letter hate
+11407,coptic small letter hate
+11408,coptic capital letter thethe
+11409,coptic small letter thethe
+11410,coptic capital letter iauda
+11411,coptic small letter iauda
+11412,coptic capital letter kapa
+11413,coptic small letter kapa
+11414,coptic capital letter laula
+11415,coptic small letter laula
+11416,coptic capital letter mi
+11417,coptic small letter mi
+11418,coptic capital letter ni
+11419,coptic small letter ni
+11420,coptic capital letter ksi
+11421,coptic small letter ksi
+11422,coptic capital letter o
+11423,coptic small letter o
+11424,coptic capital letter pi
+11425,coptic small letter pi
+11426,coptic capital letter ro
+11427,coptic small letter ro
+11428,coptic capital letter sima
+11429,coptic small letter sima
+11430,coptic capital letter tau
+11431,coptic small letter tau
+11432,coptic capital letter ua
+11433,coptic small letter ua
+11434,coptic capital letter fi
+11435,coptic small letter fi
+11436,coptic capital letter khi
+11437,coptic small letter khi
+11438,coptic capital letter psi
+11439,coptic small letter psi
+11440,coptic capital letter oou
+11441,coptic small letter oou
+11442,coptic capital letter dialect-p alef
+11443,coptic small letter dialect-p alef
+11444,coptic capital letter old coptic ain
+11445,coptic small letter old coptic ain
+11446,coptic capital letter cryptogrammic eie
+11447,coptic small letter cryptogrammic eie
+11448,coptic capital letter dialect-p kapa
+11449,coptic small letter dialect-p kapa
+11450,coptic capital letter dialect-p ni
+11451,coptic small letter dialect-p ni
+11452,coptic capital letter cryptogrammic ni
+11453,coptic small letter cryptogrammic ni
+11454,coptic capital letter old coptic oou
+11455,coptic small letter old coptic oou
+11456,coptic capital letter sampi
+11457,coptic small letter sampi
+11458,coptic capital letter crossed shei
+11459,coptic small letter crossed shei
+11460,coptic capital letter old coptic shei
+11461,coptic small letter old coptic shei
+11462,coptic capital letter old coptic esh
+11463,coptic small letter old coptic esh
+11464,coptic capital letter akhmimic khei
+11465,coptic small letter akhmimic khei
+11466,coptic capital letter dialect-p hori
+11467,coptic small letter dialect-p hori
+11468,coptic capital letter old coptic hori
+11469,coptic small letter old coptic hori
+11470,coptic capital letter old coptic ha
+11471,coptic small letter old coptic ha
+11472,coptic capital letter l-shaped ha
+11473,coptic small letter l-shaped ha
+11474,coptic capital letter old coptic hei
+11475,coptic small letter old coptic hei
+11476,coptic capital letter old coptic hat
+11477,coptic small letter old coptic hat
+11478,coptic capital letter old coptic gangia
+11479,coptic small letter old coptic gangia
+11480,coptic capital letter old coptic dja
+11481,coptic small letter old coptic dja
+11482,coptic capital letter old coptic shima
+11483,coptic small letter old coptic shima
+11484,coptic capital letter old nubian shima
+11485,coptic small letter old nubian shima
+11486,coptic capital letter old nubian ngi
+11487,coptic small letter old nubian ngi
+11488,coptic capital letter old nubian nyi
+11489,coptic small letter old nubian nyi
+11490,coptic capital letter old nubian wau
+11491,coptic small letter old nubian wau
+11492,coptic symbol kai
+11493,coptic symbol mi ro
+11494,coptic symbol pi ro
+11495,coptic symbol stauros
+11496,coptic symbol tau ro
+11497,coptic symbol khi ro
+11498,coptic symbol shima sima
+11499,coptic capital letter cryptogrammic shei
+11500,coptic small letter cryptogrammic shei
+11501,coptic capital letter cryptogrammic gangia
+11502,coptic small letter cryptogrammic gangia
+11503,coptic combining ni above
+11504,coptic combining spiritus asper
+11505,coptic combining spiritus lenis
+11506,coptic capital letter bohairic khei
+11507,coptic small letter bohairic khei
+11513,coptic old nubian full stop
+11514,coptic old nubian direct question mark
+11515,coptic old nubian indirect question mark
+11516,coptic old nubian verse divider
+11517,coptic fraction one half
+11518,coptic full stop

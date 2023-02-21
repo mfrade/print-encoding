@@ -1,0 +1,56 @@
+65792,aegean word separator line
+65793,aegean word separator dot
+65794,aegean check mark
+65799,aegean number one
+65800,aegean number two
+65801,aegean number three
+65802,aegean number four
+65803,aegean number five
+65804,aegean number six
+65805,aegean number seven
+65806,aegean number eight
+65807,aegean number nine
+65808,aegean number ten
+65809,aegean number twenty
+65810,aegean number thirty
+65811,aegean number forty
+65812,aegean number fifty
+65813,aegean number sixty
+65814,aegean number seventy
+65815,aegean number eighty
+65816,aegean number ninety
+65817,aegean number one hundred
+65818,aegean number two hundred
+65819,aegean number three hundred
+65820,aegean number four hundred
+65821,aegean number five hundred
+65822,aegean number six hundred
+65823,aegean number seven hundred
+65824,aegean number eight hundred
+65825,aegean number nine hundred
+65826,aegean number one thousand
+65827,aegean number two thousand
+65828,aegean number three thousand
+65829,aegean number four thousand
+65830,aegean number five thousand
+65831,aegean number six thousand
+65832,aegean number seven thousand
+65833,aegean number eight thousand
+65834,aegean number nine thousand
+65835,aegean number ten thousand
+65836,aegean number twenty thousand
+65837,aegean number thirty thousand
+65838,aegean number forty thousand
+65839,aegean number fifty thousand
+65840,aegean number sixty thousand
+65841,aegean number seventy thousand
+65842,aegean number eighty thousand
+65843,aegean number ninety thousand
+65847,aegean weight base unit
+65848,aegean weight first subunit
+65849,aegean weight second subunit
+65850,aegean weight third subunit
+65851,aegean weight fourth subunit
+65852,aegean dry measure first subunit
+65853,aegean liquid measure first subunit
+65854,aegean measure second subunit

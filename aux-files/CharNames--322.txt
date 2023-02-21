@@ -1,0 +1,46 @@
+197149,(cant.) awry; slanting; askew | cjk ideograph
+197928,(cant.) to put down | cjk ideograph
+197946,(cant.) to poke | cjk ideograph
+198063,None
+198064,None
+198065,None
+198066,None
+198067,None
+198068,None
+198069,None
+198070,None
+198071,None
+198072,None
+198073,None
+198074,None
+198075,None
+198076,None
+198077,None
+198078,None
+198079,None
+198080,None
+198081,None
+198082,None
+198083,None
+198084,None
+198085,None
+198086,None
+198088,None
+198089,None
+198090,None
+198091,None
+198092,None
+198093,None
+198094,None
+198095,None
+198096,None
+198097,None
+198098,None
+198099,None
+198100,None
+198101,None
+198102,None
+200413,biangbiang noodles | cjk ideograph
+200414,biangbiang noodles | cjk ideograph
+200822,swing | cjk ideograph
+201495,steam | cjk ideograph

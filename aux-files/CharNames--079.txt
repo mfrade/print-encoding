@@ -1,0 +1,111 @@
+8592,leftwards arrow
+8593,upwards arrow
+8594,rightwards arrow
+8595,downwards arrow
+8596,left right arrow
+8597,up down arrow
+8598,north west arrow
+8599,north east arrow
+8600,south east arrow
+8601,south west arrow
+8602,leftwards arrow with stroke
+8603,rightwards arrow with stroke
+8604,leftwards wave arrow
+8605,rightwards wave arrow
+8606,leftwards two headed arrow
+8607,upwards two headed arrow
+8608,rightwards two headed arrow
+8609,downwards two headed arrow
+8610,leftwards arrow with tail
+8611,rightwards arrow with tail
+8612,leftwards arrow from bar
+8613,upwards arrow from bar
+8614,rightwards arrow from bar
+8615,downwards arrow from bar
+8616,up down arrow with base
+8617,leftwards arrow with hook
+8618,rightwards arrow with hook
+8619,leftwards arrow with loop
+8620,rightwards arrow with loop
+8621,left right wave arrow
+8622,left right arrow with stroke
+8623,downwards zigzag arrow
+8624,upwards arrow with tip leftwards
+8625,upwards arrow with tip rightwards
+8626,downwards arrow with tip leftwards
+8627,downwards arrow with tip rightwards
+8628,rightwards arrow with corner downwards
+8629,downwards arrow with corner leftwards
+8630,anticlockwise top semicircle arrow
+8631,clockwise top semicircle arrow
+8632,north west arrow to long bar
+8633,leftwards arrow to bar over rightwards arrow to bar
+8634,anticlockwise open circle arrow
+8635,clockwise open circle arrow
+8636,leftwards harpoon with barb upwards
+8637,leftwards harpoon with barb downwards
+8638,upwards harpoon with barb rightwards
+8639,upwards harpoon with barb leftwards
+8640,rightwards harpoon with barb upwards
+8641,rightwards harpoon with barb downwards
+8642,downwards harpoon with barb rightwards
+8643,downwards harpoon with barb leftwards
+8644,rightwards arrow over leftwards arrow
+8645,upwards arrow leftwards of downwards arrow
+8646,leftwards arrow over rightwards arrow
+8647,leftwards paired arrows
+8648,upwards paired arrows
+8649,rightwards paired arrows
+8650,downwards paired arrows
+8651,leftwards harpoon over rightwards harpoon
+8652,rightwards harpoon over leftwards harpoon
+8653,leftwards double arrow with stroke
+8654,left right double arrow with stroke
+8655,rightwards double arrow with stroke
+8656,leftwards double arrow
+8657,upwards double arrow
+8658,rightwards double arrow
+8659,downwards double arrow
+8660,left right double arrow
+8661,up down double arrow
+8662,north west double arrow
+8663,north east double arrow
+8664,south east double arrow
+8665,south west double arrow
+8666,leftwards triple arrow
+8667,rightwards triple arrow
+8668,leftwards squiggle arrow
+8669,rightwards squiggle arrow
+8670,upwards arrow with double stroke
+8671,downwards arrow with double stroke
+8672,leftwards dashed arrow
+8673,upwards dashed arrow
+8674,rightwards dashed arrow
+8675,downwards dashed arrow
+8676,leftwards arrow to bar
+8677,rightwards arrow to bar
+8678,leftwards white arrow
+8679,upwards white arrow
+8680,rightwards white arrow
+8681,downwards white arrow
+8682,upwards white arrow from bar
+8683,upwards white arrow on pedestal
+8684,upwards white arrow on pedestal with horizontal bar
+8685,upwards white arrow on pedestal with vertical bar
+8686,upwards white double arrow
+8687,upwards white double arrow on pedestal
+8688,rightwards white arrow from wall
+8689,can be used in free fire nick names | north west arrow to corner
+8690,south east arrow to corner
+8691,up down white arrow
+8692,right arrow with small circle
+8693,downwards arrow leftwards of upwards arrow
+8694,three rightwards arrows
+8695,leftwards arrow with vertical stroke
+8696,rightwards arrow with vertical stroke
+8697,left right arrow with vertical stroke
+8698,leftwards arrow with double vertical stroke
+8699,rightwards arrow with double vertical stroke
+8700,left right arrow with double vertical stroke
+8701,leftwards open-headed arrow
+8702,rightwards open-headed arrow

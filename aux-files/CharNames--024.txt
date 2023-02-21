@@ -1,0 +1,98 @@
+2432,bengali anji
+2433,bengali sign candrabindu
+2434,bengali sign anusvara
+2435,bengali sign visarga
+2437,bengali letter a
+2438,bengali letter aa
+2439,bengali letter i
+2440,bengali letter ii
+2441,bengali letter u
+2442,bengali letter uu
+2443,bengali letter vocalic r
+2444,bengali letter vocalic l
+2447,bengali letter e
+2448,bengali letter ai
+2451,bengali letter o
+2452,bengali letter au
+2453,bengali letter ka
+2454,bengali letter kha
+2455,bengali letter ga
+2456,bengali letter gha
+2457,bengali letter nga
+2458,bengali letter ca
+2459,bengali letter cha
+2460,bengali letter ja
+2461,bengali letter jha
+2462,bengali letter nya
+2463,bengali letter tta
+2464,bengali letter ttha
+2465,bengali letter dda
+2466,bengali letter ddha
+2467,bengali letter nna
+2468,bengali letter ta
+2469,bengali letter tha
+2470,bengali letter da
+2471,bengali letter dha
+2472,bengali letter na
+2474,bengali letter pa
+2475,bengali letter pha
+2476,bengali letter ba
+2477,bengali letter bha
+2478,bengali letter ma
+2479,bengali letter ya
+2480,bengali letter ra
+2482,bengali letter la
+2486,bengali letter sha
+2487,bengali letter ssa
+2488,bengali letter sa
+2489,bengali letter ha
+2492,bengali sign nukta
+2493,bengali sign avagraha
+2494,bengali vowel sign aa
+2495,bengali vowel sign i
+2496,bengali vowel sign ii
+2497,bengali vowel sign u
+2498,bengali vowel sign uu
+2499,bengali vowel sign vocalic r
+2500,bengali vowel sign vocalic rr
+2503,bengali vowel sign e
+2504,bengali vowel sign ai
+2507,bengali vowel sign o
+2508,bengali vowel sign au
+2509,bengali sign virama
+2510,bengali letter khanda ta
+2519,bengali au length mark
+2524,bengali letter rra
+2525,bengali letter rha
+2527,bengali letter yya
+2528,bengali letter vocalic rr
+2529,bengali letter vocalic ll
+2530,bengali vowel sign vocalic l
+2531,bengali vowel sign vocalic ll
+2532,<reserved>
+2533,<reserved>
+2534,bengali digit zero
+2535,bengali digit one
+2536,bengali digit two
+2537,bengali digit three
+2538,bengali digit four
+2539,bengali digit five
+2540,bengali digit six
+2541,bengali digit seven
+2542,bengali digit eight
+2543,bengali digit nine
+2544,bengali letter ra with middle diagonal
+2545,bengali letter ra with lower diagonal
+2546,bengali rupee mark
+2547,bengali rupee sign
+2548,bengali currency numerator one
+2549,bengali currency numerator two
+2550,bengali currency numerator three
+2551,bengali currency numerator four
+2552,bengali currency numerator one less than the denominator
+2553,bengali currency denominator sixteen
+2554,bengali isshar
+2555,bengali ganda mark
+2556,bengali letter vedic anusvara
+2557,bengali abbreviation sign
+2558,bengali sandhi mark

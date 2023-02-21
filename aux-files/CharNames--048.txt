@@ -1,0 +1,18 @@
+5984,tagbanwa letter a
+5985,tagbanwa letter i
+5986,tagbanwa letter u
+5987,tagbanwa letter ka
+5988,tagbanwa letter ga
+5989,tagbanwa letter nga
+5990,tagbanwa letter ta
+5991,tagbanwa letter da
+5992,tagbanwa letter na
+5993,tagbanwa letter pa
+5994,tagbanwa letter ba
+5995,tagbanwa letter ma
+5996,tagbanwa letter ya
+5998,tagbanwa letter la
+5999,tagbanwa letter wa
+6000,tagbanwa letter sa
+6002,tagbanwa vowel sign i
+6003,tagbanwa vowel sign u

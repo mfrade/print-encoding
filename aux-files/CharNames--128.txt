@@ -1,0 +1,31 @@
+42752,modifier letter chinese tone yin ping
+42753,modifier letter chinese tone yang ping
+42754,modifier letter chinese tone yin shang
+42755,modifier letter chinese tone yang shang
+42756,modifier letter chinese tone yin qu
+42757,modifier letter chinese tone yang qu
+42758,modifier letter chinese tone yin ru
+42759,modifier letter chinese tone yang ru
+42760,modifier letter extra-high dotted tone bar
+42761,modifier letter high dotted tone bar
+42762,modifier letter mid dotted tone bar
+42763,modifier letter low dotted tone bar
+42764,modifier letter extra-low dotted tone bar
+42765,modifier letter extra-high dotted left-stem tone bar
+42766,modifier letter high dotted left-stem tone bar
+42767,modifier letter mid dotted left-stem tone bar
+42768,modifier letter low dotted left-stem tone bar
+42769,modifier letter extra-low dotted left-stem tone bar
+42770,modifier letter extra-high left-stem tone bar
+42771,modifier letter high left-stem tone bar
+42772,modifier letter mid left-stem tone bar
+42773,modifier letter low left-stem tone bar
+42774,modifier letter extra-low left-stem tone bar
+42775,modifier letter dot vertical bar
+42776,modifier letter dot slash
+42777,modifier letter dot horizontal bar
+42778,modifier letter lower right corner angle
+42779,modifier letter raised up arrow
+42780,modifier letter raised down arrow
+42781,modifier letter raised exclamation mark
+42782,modifier letter raised inverted exclamation mark

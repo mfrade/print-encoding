@@ -1,0 +1,92 @@
+71040,siddham letter a
+71041,siddham letter aa
+71042,siddham letter i
+71043,siddham letter ii
+71044,siddham letter u
+71045,siddham letter uu
+71046,siddham letter vocalic r
+71047,siddham letter vocalic rr
+71048,siddham letter vocalic l
+71049,siddham letter vocalic ll
+71050,siddham letter e
+71051,siddham letter ai
+71052,siddham letter o
+71053,siddham letter au
+71054,siddham letter ka
+71055,siddham letter kha
+71056,siddham letter ga
+71057,siddham letter gha
+71058,siddham letter nga
+71059,siddham letter ca
+71060,siddham letter cha
+71061,siddham letter ja
+71062,siddham letter jha
+71063,siddham letter nya
+71064,siddham letter tta
+71065,siddham letter ttha
+71066,siddham letter dda
+71067,siddham letter ddha
+71068,siddham letter nna
+71069,siddham letter ta
+71070,siddham letter tha
+71071,siddham letter da
+71072,siddham letter dha
+71073,siddham letter na
+71074,siddham letter pa
+71075,siddham letter pha
+71076,siddham letter ba
+71077,siddham letter bha
+71078,siddham letter ma
+71079,siddham letter ya
+71080,siddham letter ra
+71081,siddham letter la
+71082,siddham letter va
+71083,siddham letter sha
+71084,siddham letter ssa
+71085,siddham letter sa
+71086,siddham letter ha
+71087,siddham vowel sign aa
+71088,siddham vowel sign i
+71089,siddham vowel sign ii
+71090,siddham vowel sign u
+71091,siddham vowel sign uu
+71092,siddham vowel sign vocalic r
+71093,siddham vowel sign vocalic rr
+71096,siddham vowel sign e
+71097,siddham vowel sign ai
+71098,siddham vowel sign o
+71099,siddham vowel sign au
+71100,siddham sign candrabindu
+71101,siddham sign anusvara
+71102,siddham sign visarga
+71103,siddham sign virama
+71104,siddham sign nukta
+71105,siddham sign siddham
+71106,siddham danda
+71107,siddham double danda
+71108,siddham separator dot
+71109,siddham separator bar
+71110,siddham repetition mark-1
+71111,siddham repetition mark-2
+71112,siddham repetition mark-3
+71113,siddham end of text mark
+71114,siddham section mark with trident and u-shaped ornaments
+71115,siddham section mark with trident and dotted crescents
+71116,siddham section mark with rays and dotted crescents
+71117,siddham section mark with rays and dotted double crescents
+71118,siddham section mark with rays and dotted triple crescents
+71119,siddham section mark double ring
+71120,siddham section mark double ring with rays
+71121,siddham section mark with double crescents
+71122,siddham section mark with triple crescents
+71123,siddham section mark with quadruple crescents
+71124,siddham section mark with septuple crescents
+71125,siddham section mark with circles and rays
+71126,siddham section mark with circles and two enclosures
+71127,siddham section mark with circles and four enclosures
+71128,siddham letter three-circle alternate i
+71129,siddham letter two-circle alternate i
+71130,siddham letter two-circle alternate ii
+71131,siddham letter alternate u
+71132,siddham vowel sign alternate u
+71133,siddham vowel sign alternate uu

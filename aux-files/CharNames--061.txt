@@ -1,0 +1,55 @@
+7104,batak letter a
+7105,batak letter simalungun a
+7106,batak letter ha
+7107,batak letter simalungun ha
+7108,batak letter mandailing ha
+7109,batak letter ba
+7110,batak letter karo ba
+7111,batak letter pa
+7112,batak letter simalungun pa
+7113,batak letter na
+7114,batak letter mandailing na
+7115,batak letter wa
+7116,batak letter simalungun wa
+7117,batak letter pakpak wa
+7118,batak letter ga
+7119,batak letter simalungun ga
+7120,batak letter ja
+7121,batak letter da
+7122,batak letter ra
+7123,batak letter simalungun ra
+7124,batak letter ma
+7125,batak letter simalungun ma
+7126,batak letter southern ta
+7127,batak letter northern ta
+7128,batak letter sa
+7129,batak letter simalungun sa
+7130,batak letter mandailing sa
+7131,batak letter ya
+7132,batak letter simalungun ya
+7133,batak letter nga
+7134,batak letter la
+7135,batak letter simalungun la
+7136,batak letter nya
+7137,batak letter ca
+7138,batak letter nda
+7139,batak letter mba
+7140,batak letter i
+7141,batak letter u
+7142,batak sign tompi
+7143,batak vowel sign e
+7144,batak vowel sign pakpak e
+7145,batak vowel sign ee
+7146,batak vowel sign i
+7147,batak vowel sign karo i
+7148,batak vowel sign o
+7149,batak vowel sign karo o
+7150,batak vowel sign u
+7151,batak vowel sign u for simalungun sa
+7152,batak consonant sign ng
+7153,batak consonant sign h
+7154,batak pangolat
+7155,batak panongonan
+7164,batak symbol bindu na metek
+7165,batak symbol bindu pinarboras
+7166,batak symbol bindu judul

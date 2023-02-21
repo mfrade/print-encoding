@@ -1,0 +1,36 @@
+43312,rejang letter ka
+43313,rejang letter ga
+43314,rejang letter nga
+43315,rejang letter ta
+43316,rejang letter da
+43317,rejang letter na
+43318,rejang letter pa
+43319,rejang letter ba
+43320,rejang letter ma
+43321,rejang letter ca
+43322,rejang letter ja
+43323,rejang letter nya
+43324,rejang letter sa
+43325,rejang letter ra
+43326,rejang letter la
+43327,rejang letter ya
+43328,rejang letter wa
+43329,rejang letter ha
+43330,rejang letter mba
+43331,rejang letter ngga
+43332,rejang letter nda
+43333,rejang letter nyja
+43334,rejang letter a
+43335,rejang vowel sign i
+43336,rejang vowel sign u
+43337,rejang vowel sign e
+43338,rejang vowel sign ai
+43339,rejang vowel sign o
+43340,rejang vowel sign au
+43341,rejang vowel sign eu
+43342,rejang vowel sign ea
+43343,rejang consonant sign ng
+43344,rejang consonant sign n
+43345,rejang consonant sign r
+43346,rejang consonant sign h
+43347,rejang virama

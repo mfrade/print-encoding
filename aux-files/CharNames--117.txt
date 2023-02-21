@@ -1,0 +1,254 @@
+12800,parenthesized hangul kiyeok
+12801,parenthesized hangul nieun
+12802,parenthesized hangul tikeut
+12803,parenthesized hangul rieul
+12804,parenthesized hangul mieum
+12805,parenthesized hangul pieup
+12806,parenthesized hangul sios
+12807,parenthesized hangul ieung
+12808,parenthesized hangul cieuc
+12809,parenthesized hangul chieuch
+12810,parenthesized hangul khieukh
+12811,parenthesized hangul thieuth
+12812,parenthesized hangul phieuph
+12813,parenthesized hangul hieuh
+12814,parenthesized hangul kiyeok a
+12815,parenthesized hangul nieun a
+12816,parenthesized hangul tikeut a
+12817,parenthesized hangul rieul a
+12818,parenthesized hangul mieum a
+12819,parenthesized hangul pieup a
+12820,parenthesized hangul sios a
+12821,parenthesized hangul ieung a
+12822,parenthesized hangul cieuc a
+12823,parenthesized hangul chieuch a
+12824,parenthesized hangul khieukh a
+12825,parenthesized hangul thieuth a
+12826,parenthesized hangul phieuph a
+12827,parenthesized hangul hieuh a
+12828,parenthesized hangul cieuc u
+12829,parenthesized korean character ojeon
+12830,parenthesized korean character o hu
+12832,parenthesized ideograph one
+12833,parenthesized ideograph two
+12834,parenthesized ideograph three
+12835,parenthesized ideograph four
+12836,parenthesized ideograph five
+12837,parenthesized ideograph six
+12838,parenthesized ideograph seven
+12839,parenthesized ideograph eight
+12840,parenthesized ideograph nine
+12841,parenthesized ideograph ten
+12842,parenthesized ideograph moon
+12843,parenthesized ideograph fire
+12844,parenthesized ideograph water
+12845,parenthesized ideograph wood
+12846,parenthesized ideograph metal
+12847,parenthesized ideograph earth
+12848,parenthesized ideograph sun
+12849,parenthesized ideograph stock
+12850,parenthesized ideograph have
+12851,parenthesized ideograph society
+12852,parenthesized ideograph name
+12853,parenthesized ideograph special
+12854,parenthesized ideograph financial
+12855,parenthesized ideograph congratulation
+12856,parenthesized ideograph labor
+12857,parenthesized ideograph represent
+12858,parenthesized ideograph call
+12859,parenthesized ideograph study
+12860,parenthesized ideograph supervise
+12861,parenthesized ideograph enterprise
+12862,parenthesized ideograph resource
+12863,parenthesized ideograph alliance
+12864,parenthesized ideograph festival
+12865,parenthesized ideograph rest
+12866,parenthesized ideograph self
+12867,parenthesized ideograph reach
+12868,circled ideograph question
+12869,circled ideograph kindergarten
+12870,circled ideograph school
+12871,circled ideograph koto
+12872,circled number ten on black square
+12873,circled number twenty on black square
+12874,circled number thirty on black square
+12875,circled number forty on black square
+12876,circled number fifty on black square
+12877,circled number sixty on black square
+12878,circled number seventy on black square
+12879,circled number eighty on black square
+12880,partnership sign
+12881,circled number twenty one
+12882,circled number twenty two
+12883,circled number twenty three
+12884,circled number twenty four
+12885,circled number twenty five
+12886,circled number twenty six
+12887,circled number twenty seven
+12888,circled number twenty eight
+12889,circled number twenty nine
+12890,circled number thirty
+12891,circled number thirty one
+12892,circled number thirty two
+12893,circled number thirty three
+12894,circled number thirty four
+12895,circled number thirty five
+12896,circled hangul kiyeok
+12897,circled hangul nieun
+12898,circled hangul tikeut
+12899,circled hangul rieul
+12900,circled hangul mieum
+12901,circled hangul pieup
+12902,circled hangul sios
+12903,circled hangul ieung
+12904,circled hangul cieuc
+12905,circled hangul chieuch
+12906,circled hangul khieukh
+12907,circled hangul thieuth
+12908,circled hangul phieuph
+12909,circled hangul hieuh
+12910,circled hangul kiyeok a
+12911,circled hangul nieun a
+12912,circled hangul tikeut a
+12913,circled hangul rieul a
+12914,circled hangul mieum a
+12915,circled hangul pieup a
+12916,circled hangul sios a
+12917,circled hangul ieung a
+12918,circled hangul cieuc a
+12919,circled hangul chieuch a
+12920,circled hangul khieukh a
+12921,circled hangul thieuth a
+12922,circled hangul phieuph a
+12923,circled hangul hieuh a
+12924,circled korean character chamko
+12925,circled korean character jueui
+12926,circled hangul ieung u
+12927,korean standard symbol
+12928,circled ideograph one
+12929,circled ideograph two
+12930,circled ideograph three
+12931,circled ideograph four
+12932,circled ideograph five
+12933,circled ideograph six
+12934,circled ideograph seven
+12935,circled ideograph eight
+12936,circled ideograph nine
+12937,circled ideograph ten
+12938,circled ideograph moon
+12939,circled ideograph fire
+12940,circled ideograph water
+12941,circled ideograph wood
+12942,circled ideograph metal
+12943,circled ideograph earth
+12944,circled ideograph sun
+12945,circled ideograph stock
+12946,circled ideograph have
+12947,circled ideograph society
+12948,circled ideograph name
+12949,circled ideograph special
+12950,circled ideograph financial
+12951,circled ideograph congratulation
+12952,circled ideograph labor
+12953,circled ideograph secret
+12954,circled ideograph male
+12955,circled ideograph female
+12956,circled ideograph suitable
+12957,circled ideograph excellent
+12958,circled ideograph print
+12959,circled ideograph attention
+12960,circled ideograph item
+12961,circled ideograph rest
+12962,circled ideograph copy
+12963,circled ideograph correct
+12964,circled ideograph high
+12965,circled ideograph centre
+12966,circled ideograph low
+12967,circled ideograph left
+12968,circled ideograph right
+12969,circled ideograph medicine
+12970,circled ideograph religion
+12971,circled ideograph study
+12972,circled ideograph supervise
+12973,circled ideograph enterprise
+12974,circled ideograph resource
+12975,circled ideograph alliance
+12976,circled ideograph night
+12977,circled number thirty six
+12978,circled number thirty seven
+12979,circled number thirty eight
+12980,circled number thirty nine
+12981,circled number forty
+12982,circled number forty one
+12983,circled number forty two
+12984,circled number forty three
+12985,circled number forty four
+12986,circled number forty five
+12987,circled number forty six
+12988,circled number forty seven
+12989,circled number forty eight
+12990,circled number forty nine
+12991,circled number fifty
+12992,ideographic telegraph symbol for january
+12993,ideographic telegraph symbol for february
+12994,ideographic telegraph symbol for march
+12995,ideographic telegraph symbol for april
+12996,ideographic telegraph symbol for may
+12997,ideographic telegraph symbol for june
+12998,ideographic telegraph symbol for july
+12999,ideographic telegraph symbol for august
+13000,ideographic telegraph symbol for september
+13001,ideographic telegraph symbol for october
+13002,ideographic telegraph symbol for november
+13003,ideographic telegraph symbol for december
+13004,square hg
+13005,square erg
+13006,square ev
+13007,limited liability sign
+13008,circled katakana a
+13009,circled katakana i
+13010,circled katakana u
+13011,circled katakana e
+13012,circled katakana o
+13013,circled katakana ka
+13014,circled katakana ki
+13015,circled katakana ku
+13016,circled katakana ke
+13017,circled katakana ko
+13018,circled katakana sa
+13019,circled katakana si
+13020,circled katakana su
+13021,circled katakana se
+13022,circled katakana so
+13023,circled katakana ta
+13024,circled katakana ti
+13025,circled katakana tu
+13026,circled katakana te
+13027,circled katakana to
+13028,circled katakana na
+13029,circled katakana ni
+13030,circled katakana nu
+13031,circled katakana ne
+13032,circled katakana no
+13033,circled katakana ha
+13034,circled katakana hi
+13035,circled katakana hu
+13036,circled katakana he
+13037,circled katakana ho
+13038,circled katakana ma
+13039,circled katakana mi
+13040,circled katakana mu
+13041,circled katakana me
+13042,circled katakana mo
+13043,circled katakana ya
+13044,circled katakana yu
+13045,circled katakana yo
+13046,circled katakana ra
+13047,circled katakana ri
+13048,circled katakana ru
+13049,circled katakana re
+13050,circled katakana ro
+13051,circled katakana wa
+13052,circled katakana wi
+13053,circled katakana we
+13054,circled katakana wo

@@ -1,0 +1,639 @@
+5120,canadian syllabics hyphen
+5121,canadian syllabics e
+5122,canadian syllabics aai
+5123,canadian syllabics i
+5124,canadian syllabics ii
+5125,canadian syllabics o
+5126,canadian syllabics oo
+5127,canadian syllabics y-cree oo
+5128,canadian syllabics carrier ee
+5129,canadian syllabics carrier i
+5130,canadian syllabics a
+5131,canadian syllabics aa
+5132,canadian syllabics we
+5133,canadian syllabics west-cree we
+5134,canadian syllabics wi
+5135,canadian syllabics west-cree wi
+5136,canadian syllabics wii
+5137,canadian syllabics west-cree wii
+5138,canadian syllabics wo
+5139,canadian syllabics west-cree wo
+5140,canadian syllabics woo
+5141,canadian syllabics west-cree woo
+5142,canadian syllabics naskapi woo
+5143,canadian syllabics wa
+5144,canadian syllabics west-cree wa
+5145,canadian syllabics waa
+5146,canadian syllabics west-cree waa
+5147,canadian syllabics naskapi waa
+5148,canadian syllabics ai
+5149,canadian syllabics y-cree w
+5150,canadian syllabics glottal stop
+5151,canadian syllabics final acute
+5152,canadian syllabics final grave
+5153,canadian syllabics final bottom half ring
+5154,canadian syllabics final top half ring
+5155,canadian syllabics final right half ring
+5156,canadian syllabics final ring
+5157,canadian syllabics final double acute
+5158,canadian syllabics final double short vertical strokes
+5159,canadian syllabics final middle dot
+5160,canadian syllabics final short horizontal stroke
+5161,canadian syllabics final plus
+5162,canadian syllabics final down tack
+5163,canadian syllabics en
+5164,canadian syllabics in
+5165,canadian syllabics on
+5166,canadian syllabics an
+5167,canadian syllabics pe
+5168,canadian syllabics paai
+5169,canadian syllabics pi
+5170,canadian syllabics pii
+5171,canadian syllabics po
+5172,canadian syllabics poo
+5173,canadian syllabics y-cree poo
+5174,canadian syllabics carrier hee
+5175,canadian syllabics carrier hi
+5176,canadian syllabics pa
+5177,canadian syllabics paa
+5178,canadian syllabics pwe
+5179,canadian syllabics west-cree pwe
+5180,canadian syllabics pwi
+5181,canadian syllabics west-cree pwi
+5182,canadian syllabics pwii
+5183,canadian syllabics west-cree pwii
+5184,canadian syllabics pwo
+5185,canadian syllabics west-cree pwo
+5186,canadian syllabics pwoo
+5187,canadian syllabics west-cree pwoo
+5188,canadian syllabics pwa
+5189,canadian syllabics west-cree pwa
+5190,canadian syllabics pwaa
+5191,canadian syllabics west-cree pwaa
+5192,canadian syllabics y-cree pwaa
+5193,canadian syllabics p
+5194,canadian syllabics west-cree p
+5195,canadian syllabics carrier h
+5196,canadian syllabics te
+5197,canadian syllabics taai
+5198,canadian syllabics ti
+5199,canadian syllabics tii
+5200,canadian syllabics to
+5201,canadian syllabics too
+5202,canadian syllabics y-cree too
+5203,canadian syllabics carrier dee
+5204,canadian syllabics carrier di
+5205,canadian syllabics ta
+5206,canadian syllabics taa
+5207,canadian syllabics twe
+5208,canadian syllabics west-cree twe
+5209,canadian syllabics twi
+5210,canadian syllabics west-cree twi
+5211,canadian syllabics twii
+5212,canadian syllabics west-cree twii
+5213,canadian syllabics two
+5214,canadian syllabics west-cree two
+5215,canadian syllabics twoo
+5216,canadian syllabics west-cree twoo
+5217,canadian syllabics twa
+5218,canadian syllabics west-cree twa
+5219,canadian syllabics twaa
+5220,canadian syllabics west-cree twaa
+5221,canadian syllabics naskapi twaa
+5222,canadian syllabics t
+5223,canadian syllabics tte
+5224,canadian syllabics tti
+5225,canadian syllabics tto
+5226,canadian syllabics tta
+5227,canadian syllabics ke
+5228,canadian syllabics kaai
+5229,canadian syllabics ki
+5230,canadian syllabics kii
+5231,canadian syllabics ko
+5232,canadian syllabics koo
+5233,canadian syllabics y-cree koo
+5234,canadian syllabics ka
+5235,canadian syllabics kaa
+5236,canadian syllabics kwe
+5237,canadian syllabics west-cree kwe
+5238,canadian syllabics kwi
+5239,canadian syllabics west-cree kwi
+5240,canadian syllabics kwii
+5241,canadian syllabics west-cree kwii
+5242,canadian syllabics kwo
+5243,canadian syllabics west-cree kwo
+5244,canadian syllabics kwoo
+5245,canadian syllabics west-cree kwoo
+5246,canadian syllabics kwa
+5247,canadian syllabics west-cree kwa
+5248,canadian syllabics kwaa
+5249,canadian syllabics west-cree kwaa
+5250,canadian syllabics naskapi kwaa
+5251,canadian syllabics k
+5252,canadian syllabics kw
+5253,canadian syllabics south-slavey keh
+5254,canadian syllabics south-slavey kih
+5255,canadian syllabics south-slavey koh
+5256,canadian syllabics south-slavey kah
+5257,canadian syllabics ce
+5258,canadian syllabics caai
+5259,canadian syllabics ci
+5260,canadian syllabics cii
+5261,canadian syllabics co
+5262,canadian syllabics coo
+5263,canadian syllabics y-cree coo
+5264,canadian syllabics ca
+5265,canadian syllabics caa
+5266,canadian syllabics cwe
+5267,canadian syllabics west-cree cwe
+5268,canadian syllabics cwi
+5269,canadian syllabics west-cree cwi
+5270,canadian syllabics cwii
+5271,canadian syllabics west-cree cwii
+5272,canadian syllabics cwo
+5273,canadian syllabics west-cree cwo
+5274,canadian syllabics cwoo
+5275,canadian syllabics west-cree cwoo
+5276,canadian syllabics cwa
+5277,canadian syllabics west-cree cwa
+5278,canadian syllabics cwaa
+5279,canadian syllabics west-cree cwaa
+5280,canadian syllabics naskapi cwaa
+5281,canadian syllabics c
+5282,canadian syllabics sayisi th
+5283,canadian syllabics me
+5284,canadian syllabics maai
+5285,canadian syllabics mi
+5286,canadian syllabics mii
+5287,canadian syllabics mo
+5288,canadian syllabics moo
+5289,canadian syllabics y-cree moo
+5290,canadian syllabics ma
+5291,canadian syllabics maa
+5292,canadian syllabics mwe
+5293,canadian syllabics west-cree mwe
+5294,canadian syllabics mwi
+5295,canadian syllabics west-cree mwi
+5296,canadian syllabics mwii
+5297,canadian syllabics west-cree mwii
+5298,canadian syllabics mwo
+5299,canadian syllabics west-cree mwo
+5300,canadian syllabics mwoo
+5301,canadian syllabics west-cree mwoo
+5302,canadian syllabics mwa
+5303,canadian syllabics west-cree mwa
+5304,canadian syllabics mwaa
+5305,canadian syllabics west-cree mwaa
+5306,canadian syllabics naskapi mwaa
+5307,canadian syllabics m
+5308,canadian syllabics west-cree m
+5309,canadian syllabics mh
+5310,canadian syllabics athapascan m
+5311,canadian syllabics sayisi m
+5312,canadian syllabics ne
+5313,canadian syllabics naai
+5314,canadian syllabics ni
+5315,canadian syllabics nii
+5316,canadian syllabics no
+5317,canadian syllabics noo
+5318,canadian syllabics y-cree noo
+5319,canadian syllabics na
+5320,canadian syllabics naa
+5321,canadian syllabics nwe
+5322,canadian syllabics west-cree nwe
+5323,canadian syllabics nwa
+5324,canadian syllabics west-cree nwa
+5325,canadian syllabics nwaa
+5326,canadian syllabics west-cree nwaa
+5327,canadian syllabics naskapi nwaa
+5328,canadian syllabics n
+5329,canadian syllabics carrier ng
+5330,canadian syllabics nh
+5331,canadian syllabics le
+5332,canadian syllabics laai
+5333,canadian syllabics li
+5334,canadian syllabics lii
+5335,canadian syllabics lo
+5336,canadian syllabics loo
+5337,canadian syllabics y-cree loo
+5338,canadian syllabics la
+5339,canadian syllabics laa
+5340,canadian syllabics lwe
+5341,canadian syllabics west-cree lwe
+5342,canadian syllabics lwi
+5343,canadian syllabics west-cree lwi
+5344,canadian syllabics lwii
+5345,canadian syllabics west-cree lwii
+5346,canadian syllabics lwo
+5347,canadian syllabics west-cree lwo
+5348,canadian syllabics lwoo
+5349,canadian syllabics west-cree lwoo
+5350,canadian syllabics lwa
+5351,canadian syllabics west-cree lwa
+5352,canadian syllabics lwaa
+5353,canadian syllabics west-cree lwaa
+5354,canadian syllabics l
+5355,canadian syllabics west-cree l
+5356,canadian syllabics medial l
+5357,canadian syllabics se
+5358,canadian syllabics saai
+5359,canadian syllabics si
+5360,canadian syllabics sii
+5361,canadian syllabics so
+5362,canadian syllabics soo
+5363,canadian syllabics y-cree soo
+5364,canadian syllabics sa
+5365,canadian syllabics saa
+5366,canadian syllabics swe
+5367,canadian syllabics west-cree swe
+5368,canadian syllabics swi
+5369,canadian syllabics west-cree swi
+5370,canadian syllabics swii
+5371,canadian syllabics west-cree swii
+5372,canadian syllabics swo
+5373,canadian syllabics west-cree swo
+5374,canadian syllabics swoo
+5375,canadian syllabics west-cree swoo
+5376,canadian syllabics swa
+5377,canadian syllabics west-cree swa
+5378,canadian syllabics swaa
+5379,canadian syllabics west-cree swaa
+5380,canadian syllabics naskapi swaa
+5381,canadian syllabics s
+5382,canadian syllabics athapascan s
+5383,canadian syllabics sw
+5384,canadian syllabics blackfoot s
+5385,canadian syllabics moose-cree sk
+5386,canadian syllabics naskapi skw
+5387,canadian syllabics naskapi s-w
+5388,canadian syllabics naskapi spwa
+5389,canadian syllabics naskapi stwa
+5390,canadian syllabics naskapi skwa
+5391,canadian syllabics naskapi scwa
+5392,canadian syllabics she
+5393,canadian syllabics shi
+5394,canadian syllabics shii
+5395,canadian syllabics sho
+5396,canadian syllabics shoo
+5397,canadian syllabics sha
+5398,canadian syllabics shaa
+5399,canadian syllabics shwe
+5400,canadian syllabics west-cree shwe
+5401,canadian syllabics shwi
+5402,canadian syllabics west-cree shwi
+5403,canadian syllabics shwii
+5404,canadian syllabics west-cree shwii
+5405,canadian syllabics shwo
+5406,canadian syllabics west-cree shwo
+5407,canadian syllabics shwoo
+5408,canadian syllabics west-cree shwoo
+5409,canadian syllabics shwa
+5410,canadian syllabics west-cree shwa
+5411,canadian syllabics shwaa
+5412,canadian syllabics west-cree shwaa
+5413,canadian syllabics sh
+5414,canadian syllabics ye
+5415,canadian syllabics yaai
+5416,canadian syllabics yi
+5417,canadian syllabics yii
+5418,canadian syllabics yo
+5419,canadian syllabics yoo
+5420,canadian syllabics y-cree yoo
+5421,canadian syllabics ya
+5422,canadian syllabics yaa
+5423,canadian syllabics ywe
+5424,canadian syllabics west-cree ywe
+5425,canadian syllabics ywi
+5426,canadian syllabics west-cree ywi
+5427,canadian syllabics ywii
+5428,canadian syllabics west-cree ywii
+5429,canadian syllabics ywo
+5430,canadian syllabics west-cree ywo
+5431,canadian syllabics ywoo
+5432,canadian syllabics west-cree ywoo
+5433,canadian syllabics ywa
+5434,canadian syllabics west-cree ywa
+5435,canadian syllabics ywaa
+5436,canadian syllabics west-cree ywaa
+5437,canadian syllabics naskapi ywaa
+5438,canadian syllabics y
+5439,canadian syllabics bible-cree y
+5440,canadian syllabics west-cree y
+5441,canadian syllabics sayisi yi
+5442,canadian syllabics re
+5443,canadian syllabics r-cree re
+5444,canadian syllabics west-cree le
+5445,canadian syllabics raai
+5446,canadian syllabics ri
+5447,canadian syllabics rii
+5448,canadian syllabics ro
+5449,canadian syllabics roo
+5450,canadian syllabics west-cree lo
+5451,canadian syllabics ra
+5452,canadian syllabics raa
+5453,canadian syllabics west-cree la
+5454,canadian syllabics rwaa
+5455,canadian syllabics west-cree rwaa
+5456,canadian syllabics r
+5457,canadian syllabics west-cree r
+5458,canadian syllabics medial r
+5459,canadian syllabics fe
+5460,canadian syllabics faai
+5461,canadian syllabics fi
+5462,canadian syllabics fii
+5463,canadian syllabics fo
+5464,canadian syllabics foo
+5465,canadian syllabics fa
+5466,canadian syllabics faa
+5467,canadian syllabics fwaa
+5468,canadian syllabics west-cree fwaa
+5469,canadian syllabics f
+5470,canadian syllabics the
+5471,canadian syllabics n-cree the
+5472,canadian syllabics thi
+5473,canadian syllabics n-cree thi
+5474,canadian syllabics thii
+5475,canadian syllabics n-cree thii
+5476,canadian syllabics tho
+5477,canadian syllabics thoo
+5478,canadian syllabics tha
+5479,canadian syllabics thaa
+5480,canadian syllabics thwaa
+5481,canadian syllabics west-cree thwaa
+5482,canadian syllabics th
+5483,canadian syllabics tthe
+5484,canadian syllabics tthi
+5485,canadian syllabics ttho
+5486,canadian syllabics ttha
+5487,canadian syllabics tth
+5488,canadian syllabics tye
+5489,canadian syllabics tyi
+5490,canadian syllabics tyo
+5491,canadian syllabics tya
+5492,canadian syllabics nunavik he
+5493,canadian syllabics nunavik hi
+5494,canadian syllabics nunavik hii
+5495,canadian syllabics nunavik ho
+5496,canadian syllabics nunavik hoo
+5497,canadian syllabics nunavik ha
+5498,canadian syllabics nunavik haa
+5499,canadian syllabics nunavik h
+5500,canadian syllabics nunavut h
+5501,canadian syllabics hk
+5502,canadian syllabics qaai
+5503,canadian syllabics qi
+5504,canadian syllabics qii
+5505,canadian syllabics qo
+5506,canadian syllabics qoo
+5507,canadian syllabics qa
+5508,canadian syllabics qaa
+5509,canadian syllabics q
+5510,canadian syllabics tlhe
+5511,canadian syllabics tlhi
+5512,canadian syllabics tlho
+5513,canadian syllabics tlha
+5514,canadian syllabics west-cree re
+5515,canadian syllabics west-cree ri
+5516,canadian syllabics west-cree ro
+5517,canadian syllabics west-cree ra
+5518,canadian syllabics ngaai
+5519,canadian syllabics ngi
+5520,canadian syllabics ngii
+5521,canadian syllabics ngo
+5522,canadian syllabics ngoo
+5523,canadian syllabics nga
+5524,canadian syllabics ngaa
+5525,canadian syllabics ng
+5526,canadian syllabics nng
+5527,canadian syllabics sayisi she
+5528,canadian syllabics sayisi shi
+5529,canadian syllabics sayisi sho
+5530,canadian syllabics sayisi sha
+5531,canadian syllabics woods-cree the
+5532,canadian syllabics woods-cree thi
+5533,canadian syllabics woods-cree tho
+5534,canadian syllabics woods-cree tha
+5535,canadian syllabics woods-cree th
+5536,canadian syllabics lhi
+5537,canadian syllabics lhii
+5538,canadian syllabics lho
+5539,canadian syllabics lhoo
+5540,canadian syllabics lha
+5541,canadian syllabics lhaa
+5542,canadian syllabics lh
+5543,canadian syllabics th-cree the
+5544,canadian syllabics th-cree thi
+5545,canadian syllabics th-cree thii
+5546,canadian syllabics th-cree tho
+5547,canadian syllabics th-cree thoo
+5548,canadian syllabics th-cree tha
+5549,canadian syllabics th-cree thaa
+5550,canadian syllabics th-cree th
+5551,canadian syllabics aivilik b
+5552,canadian syllabics blackfoot e
+5553,canadian syllabics blackfoot i
+5554,canadian syllabics blackfoot o
+5555,canadian syllabics blackfoot a
+5556,canadian syllabics blackfoot we
+5557,canadian syllabics blackfoot wi
+5558,canadian syllabics blackfoot wo
+5559,canadian syllabics blackfoot wa
+5560,canadian syllabics blackfoot ne
+5561,canadian syllabics blackfoot ni
+5562,canadian syllabics blackfoot no
+5563,canadian syllabics blackfoot na
+5564,canadian syllabics blackfoot ke
+5565,canadian syllabics blackfoot ki
+5566,canadian syllabics blackfoot ko
+5567,canadian syllabics blackfoot ka
+5568,canadian syllabics sayisi he
+5569,canadian syllabics sayisi hi
+5570,canadian syllabics sayisi ho
+5571,canadian syllabics sayisi ha
+5572,canadian syllabics carrier ghu
+5573,canadian syllabics carrier gho
+5574,canadian syllabics carrier ghe
+5575,canadian syllabics carrier ghee
+5576,canadian syllabics carrier ghi
+5577,canadian syllabics carrier gha
+5578,canadian syllabics carrier ru
+5579,canadian syllabics carrier ro
+5580,canadian syllabics carrier re
+5581,canadian syllabics carrier ree
+5582,canadian syllabics carrier ri
+5583,canadian syllabics carrier ra
+5584,canadian syllabics carrier wu
+5585,canadian syllabics carrier wo
+5586,canadian syllabics carrier we
+5587,canadian syllabics carrier wee
+5588,canadian syllabics carrier wi
+5589,canadian syllabics carrier wa
+5590,canadian syllabics carrier hwu
+5591,canadian syllabics carrier hwo
+5592,canadian syllabics carrier hwe
+5593,canadian syllabics carrier hwee
+5594,canadian syllabics carrier hwi
+5595,canadian syllabics carrier hwa
+5596,canadian syllabics carrier thu
+5597,canadian syllabics carrier tho
+5598,canadian syllabics carrier the
+5599,canadian syllabics carrier thee
+5600,canadian syllabics carrier thi
+5601,canadian syllabics carrier tha
+5602,canadian syllabics carrier ttu
+5603,canadian syllabics carrier tto
+5604,canadian syllabics carrier tte
+5605,canadian syllabics carrier ttee
+5606,canadian syllabics carrier tti
+5607,canadian syllabics carrier tta
+5608,canadian syllabics carrier pu
+5609,canadian syllabics carrier po
+5610,canadian syllabics carrier pe
+5611,canadian syllabics carrier pee
+5612,canadian syllabics carrier pi
+5613,canadian syllabics carrier pa
+5614,canadian syllabics carrier p
+5615,canadian syllabics carrier gu
+5616,canadian syllabics carrier go
+5617,canadian syllabics carrier ge
+5618,canadian syllabics carrier gee
+5619,canadian syllabics carrier gi
+5620,canadian syllabics carrier ga
+5621,canadian syllabics carrier khu
+5622,canadian syllabics carrier kho
+5623,canadian syllabics carrier khe
+5624,canadian syllabics carrier khee
+5625,canadian syllabics carrier khi
+5626,canadian syllabics carrier kha
+5627,canadian syllabics carrier kku
+5628,canadian syllabics carrier kko
+5629,canadian syllabics carrier kke
+5630,canadian syllabics carrier kkee
+5631,canadian syllabics carrier kki
+5632,canadian syllabics carrier kka
+5633,canadian syllabics carrier kk
+5634,canadian syllabics carrier nu
+5635,canadian syllabics carrier no
+5636,canadian syllabics carrier ne
+5637,canadian syllabics carrier nee
+5638,canadian syllabics carrier ni
+5639,canadian syllabics carrier na
+5640,canadian syllabics carrier mu
+5641,canadian syllabics carrier mo
+5642,canadian syllabics carrier me
+5643,canadian syllabics carrier mee
+5644,canadian syllabics carrier mi
+5645,canadian syllabics carrier ma
+5646,canadian syllabics carrier yu
+5647,canadian syllabics carrier yo
+5648,canadian syllabics carrier ye
+5649,canadian syllabics carrier yee
+5650,canadian syllabics carrier yi
+5651,canadian syllabics carrier ya
+5652,canadian syllabics carrier ju
+5653,canadian syllabics sayisi ju
+5654,canadian syllabics carrier jo
+5655,canadian syllabics carrier je
+5656,canadian syllabics carrier jee
+5657,canadian syllabics carrier ji
+5658,canadian syllabics sayisi ji
+5659,canadian syllabics carrier ja
+5660,canadian syllabics carrier jju
+5661,canadian syllabics carrier jjo
+5662,canadian syllabics carrier jje
+5663,canadian syllabics carrier jjee
+5664,canadian syllabics carrier jji
+5665,canadian syllabics carrier jja
+5666,canadian syllabics carrier lu
+5667,canadian syllabics carrier lo
+5668,canadian syllabics carrier le
+5669,canadian syllabics carrier lee
+5670,canadian syllabics carrier li
+5671,canadian syllabics carrier la
+5672,canadian syllabics carrier dlu
+5673,canadian syllabics carrier dlo
+5674,canadian syllabics carrier dle
+5675,canadian syllabics carrier dlee
+5676,canadian syllabics carrier dli
+5677,canadian syllabics carrier dla
+5678,canadian syllabics carrier lhu
+5679,canadian syllabics carrier lho
+5680,canadian syllabics carrier lhe
+5681,canadian syllabics carrier lhee
+5682,canadian syllabics carrier lhi
+5683,canadian syllabics carrier lha
+5684,canadian syllabics carrier tlhu
+5685,canadian syllabics carrier tlho
+5686,canadian syllabics carrier tlhe
+5687,canadian syllabics carrier tlhee
+5688,canadian syllabics carrier tlhi
+5689,canadian syllabics carrier tlha
+5690,canadian syllabics carrier tlu
+5691,canadian syllabics carrier tlo
+5692,canadian syllabics carrier tle
+5693,canadian syllabics carrier tlee
+5694,canadian syllabics carrier tli
+5695,canadian syllabics carrier tla
+5696,canadian syllabics carrier zu
+5697,canadian syllabics carrier zo
+5698,canadian syllabics carrier ze
+5699,canadian syllabics carrier zee
+5700,canadian syllabics carrier zi
+5701,canadian syllabics carrier za
+5702,canadian syllabics carrier z
+5703,canadian syllabics carrier initial z
+5704,canadian syllabics carrier dzu
+5705,canadian syllabics carrier dzo
+5706,canadian syllabics carrier dze
+5707,canadian syllabics carrier dzee
+5708,canadian syllabics carrier dzi
+5709,canadian syllabics carrier dza
+5710,canadian syllabics carrier su
+5711,canadian syllabics carrier so
+5712,canadian syllabics carrier se
+5713,canadian syllabics carrier see
+5714,canadian syllabics carrier si
+5715,canadian syllabics carrier sa
+5716,canadian syllabics carrier shu
+5717,canadian syllabics carrier sho
+5718,canadian syllabics carrier she
+5719,canadian syllabics carrier shee
+5720,canadian syllabics carrier shi
+5721,canadian syllabics carrier sha
+5722,canadian syllabics carrier sh
+5723,canadian syllabics carrier tsu
+5724,canadian syllabics carrier tso
+5725,canadian syllabics carrier tse
+5726,canadian syllabics carrier tsee
+5727,canadian syllabics carrier tsi
+5728,canadian syllabics carrier tsa
+5729,canadian syllabics carrier chu
+5730,canadian syllabics carrier cho
+5731,canadian syllabics carrier che
+5732,canadian syllabics carrier chee
+5733,canadian syllabics carrier chi
+5734,canadian syllabics carrier cha
+5735,canadian syllabics carrier ttsu
+5736,canadian syllabics carrier ttso
+5737,canadian syllabics carrier ttse
+5738,canadian syllabics carrier ttsee
+5739,canadian syllabics carrier ttsi
+5740,canadian syllabics carrier ttsa
+5741,canadian syllabics chi sign
+5742,canadian syllabics full stop
+5743,canadian syllabics qai
+5744,canadian syllabics ngai
+5745,canadian syllabics nngi
+5746,canadian syllabics nngii
+5747,canadian syllabics nngo
+5748,canadian syllabics nngoo
+5749,canadian syllabics nnga
+5750,canadian syllabics nngaa
+5751,canadian syllabics woods-cree thwee
+5752,canadian syllabics woods-cree thwi
+5753,canadian syllabics woods-cree thwii
+5754,canadian syllabics woods-cree thwo
+5755,canadian syllabics woods-cree thwoo
+5756,canadian syllabics woods-cree thwa
+5757,canadian syllabics woods-cree thwaa
+5758,canadian syllabics woods-cree final th

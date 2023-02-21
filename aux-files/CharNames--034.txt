@@ -1,0 +1,82 @@
+3713,lao letter ko
+3714,lao letter kho sung
+3716,lao letter kho tam
+3718,lao letter pali gha
+3719,lao letter ngo
+3720,lao letter co
+3721,lao letter pali cha
+3722,lao letter so tam
+3724,lao letter pali jha
+3725,lao letter nyo
+3726,lao letter pali nya
+3727,lao letter pali tta
+3728,lao letter pali ttha
+3729,lao letter pali dda
+3730,lao letter pali ddha
+3731,lao letter pali nna
+3732,lao letter do
+3733,lao letter to
+3734,lao letter tho sung
+3735,lao letter tho tam
+3736,lao letter pali dha
+3737,lao letter no
+3738,lao letter bo
+3739,lao letter po
+3740,lao letter pho sung
+3741,lao letter fo tam
+3742,lao letter pho tam
+3743,lao letter fo sung
+3744,lao letter pali bha
+3745,lao letter mo
+3746,lao letter yo
+3747,lao letter lo ling
+3749,lao letter lo loot
+3751,lao letter wo
+3752,lao letter sanskrit sha
+3753,lao letter sanskrit ssa
+3754,lao letter so sung
+3755,lao letter ho sung
+3756,lao letter pali lla
+3757,lao letter o
+3758,lao letter ho tam
+3759,lao ellipsis
+3760,lao vowel sign a
+3761,lao vowel sign mai kan
+3762,lao vowel sign aa
+3763,lao vowel sign am
+3764,lao vowel sign i
+3765,lao vowel sign ii
+3766,lao vowel sign y
+3767,lao vowel sign yy
+3768,lao vowel sign u
+3769,lao vowel sign uu
+3770,lao sign pali virama
+3771,lao vowel sign mai kon
+3772,lao semivowel sign lo
+3773,lao semivowel sign nyo
+3776,lao vowel sign e
+3777,lao vowel sign ei
+3778,lao vowel sign o
+3779,lao vowel sign ay
+3780,lao vowel sign ai
+3782,lao ko la
+3784,lao tone mai ek
+3785,lao tone mai tho
+3786,lao tone mai ti
+3787,lao tone mai catawa
+3788,lao cancellation mark
+3789,lao niggahita
+3792,lao digit zero
+3793,lao digit one
+3794,lao digit two
+3795,lao digit three
+3796,lao digit four
+3797,lao digit five
+3798,lao digit six
+3799,lao digit seven
+3800,lao digit eight
+3801,lao digit nine
+3804,lao ho no
+3805,lao ho mo
+3806,lao letter khmu go
+3807,lao letter khmu nyo

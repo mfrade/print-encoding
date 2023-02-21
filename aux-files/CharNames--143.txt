@@ -1,0 +1,23 @@
+43744,meetei mayek letter e
+43745,meetei mayek letter o
+43746,meetei mayek letter cha
+43747,meetei mayek letter nya
+43748,meetei mayek letter tta
+43749,meetei mayek letter ttha
+43750,meetei mayek letter dda
+43751,meetei mayek letter ddha
+43752,meetei mayek letter nna
+43753,meetei mayek letter sha
+43754,meetei mayek letter ssa
+43755,meetei mayek vowel sign ii
+43756,meetei mayek vowel sign uu
+43757,meetei mayek vowel sign aai
+43758,meetei mayek vowel sign au
+43759,meetei mayek vowel sign aau
+43760,meetei mayek cheikhan
+43761,meetei mayek ahang khudam
+43762,meetei mayek anji
+43763,meetei mayek syllable repetition mark
+43764,meetei mayek word repetition mark
+43765,meetei mayek vowel sign visarga
+43766,meetei mayek virama

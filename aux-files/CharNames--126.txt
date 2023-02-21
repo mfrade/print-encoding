@@ -1,0 +1,95 @@
+42560,cyrillic capital letter zemlya
+42561,cyrillic small letter zemlya
+42562,cyrillic capital letter dzelo
+42563,cyrillic small letter dzelo
+42564,cyrillic capital letter reversed dze
+42565,cyrillic small letter reversed dze
+42566,cyrillic capital letter iota
+42567,cyrillic small letter iota
+42568,cyrillic capital letter djerv
+42569,cyrillic small letter djerv
+42570,cyrillic capital letter monograph uk
+42571,cyrillic small letter monograph uk
+42572,cyrillic capital letter broad omega
+42573,cyrillic small letter broad omega
+42574,cyrillic capital letter neutral yer
+42575,cyrillic small letter neutral yer
+42576,cyrillic capital letter yeru with back yer
+42577,cyrillic small letter yeru with back yer
+42578,cyrillic capital letter iotified yat
+42579,cyrillic small letter iotified yat
+42580,cyrillic capital letter reversed yu
+42581,cyrillic small letter reversed yu
+42582,cyrillic capital letter iotified a
+42583,cyrillic small letter iotified a
+42584,cyrillic capital letter closed little yus
+42585,cyrillic small letter closed little yus
+42586,cyrillic capital letter blended yus
+42587,cyrillic small letter blended yus
+42588,cyrillic capital letter iotified closed little yus
+42589,cyrillic small letter iotified closed little yus
+42590,cyrillic capital letter yn
+42591,cyrillic small letter yn
+42592,cyrillic capital letter reversed tse
+42593,cyrillic small letter reversed tse
+42594,cyrillic capital letter soft de
+42595,cyrillic small letter soft de
+42596,cyrillic capital letter soft el
+42597,cyrillic small letter soft el
+42598,cyrillic capital letter soft em
+42599,cyrillic small letter soft em
+42600,cyrillic capital letter monocular o
+42601,cyrillic small letter monocular o
+42602,cyrillic capital letter binocular o
+42603,cyrillic small letter binocular o
+42604,cyrillic capital letter double monocular o
+42605,cyrillic small letter double monocular o
+42606,cyrillic letter multiocular o
+42607,combining cyrillic vzmet
+42608,combining cyrillic ten millions sign
+42609,combining cyrillic hundred millions sign
+42610,combining cyrillic thousand millions sign
+42611,slavonic asterisk
+42612,combining cyrillic letter ukrainian ie
+42613,combining cyrillic letter i
+42614,combining cyrillic letter yi
+42615,combining cyrillic letter u
+42616,combining cyrillic letter hard sign
+42617,combining cyrillic letter yeru
+42618,combining cyrillic letter soft sign
+42619,combining cyrillic letter omega
+42620,combining cyrillic kavyka
+42621,combining cyrillic payerok
+42622,cyrillic kavyka
+42623,cyrillic payerok
+42624,cyrillic capital letter dwe
+42625,cyrillic small letter dwe
+42626,cyrillic capital letter dzwe
+42627,cyrillic small letter dzwe
+42628,cyrillic capital letter zhwe
+42629,cyrillic small letter zhwe
+42630,cyrillic capital letter cche
+42631,cyrillic small letter cche
+42632,cyrillic capital letter dzze
+42633,cyrillic small letter dzze
+42634,cyrillic capital letter te with middle hook
+42635,cyrillic small letter te with middle hook
+42636,cyrillic capital letter twe
+42637,cyrillic small letter twe
+42638,cyrillic capital letter tswe
+42639,cyrillic small letter tswe
+42640,cyrillic capital letter tsse
+42641,cyrillic small letter tsse
+42642,cyrillic capital letter tche
+42643,cyrillic small letter tche
+42644,cyrillic capital letter hwe
+42645,cyrillic small letter hwe
+42646,cyrillic capital letter shwe
+42647,cyrillic small letter shwe
+42648,cyrillic capital letter double o
+42649,cyrillic small letter double o
+42650,cyrillic capital letter crossed o
+42651,cyrillic small letter crossed o
+42652,modifier letter cyrillic hard sign
+42653,modifier letter cyrillic soft sign
+42654,combining cyrillic letter ef

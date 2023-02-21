@@ -1,0 +1,569 @@
+92160,bamum letter phase-a ngkue mfon
+92161,bamum letter phase-a gbiee fon
+92162,bamum letter phase-a pon mfon pipaemgbiee
+92163,bamum letter phase-a pon mfon pipaemba
+92164,bamum letter phase-a naa mfon
+92165,bamum letter phase-a shuenshuet
+92166,bamum letter phase-a tita mfon
+92167,bamum letter phase-a nza mfon
+92168,bamum letter phase-a shinda pa nji
+92169,bamum letter phase-a pon pa nji pipaemgbiee
+92170,bamum letter phase-a pon pa nji pipaemba
+92171,bamum letter phase-a maembgbiee
+92172,bamum letter phase-a tu maemba
+92173,bamum letter phase-a ngangu
+92174,bamum letter phase-a maemveux
+92175,bamum letter phase-a mansuae
+92176,bamum letter phase-a mveuaengam
+92177,bamum letter phase-a seunyam
+92178,bamum letter phase-a ntoqpen
+92179,bamum letter phase-a keukeutnda
+92180,bamum letter phase-a nkindi
+92181,bamum letter phase-a suu
+92182,bamum letter phase-a ngkuenzeum
+92183,bamum letter phase-a lapaq
+92184,bamum letter phase-a let kut
+92185,bamum letter phase-a ntap mfaa
+92186,bamum letter phase-a maekeup
+92187,bamum letter phase-a pashae
+92188,bamum letter phase-a gheuaerae
+92189,bamum letter phase-a pamshae
+92190,bamum letter phase-a mon nggeuaet
+92191,bamum letter phase-a nzun meut
+92192,bamum letter phase-a u yuq nae
+92193,bamum letter phase-a gheuaegheuae
+92194,bamum letter phase-a ntap ntaa
+92195,bamum letter phase-a sisa
+92196,bamum letter phase-a mgbasa
+92197,bamum letter phase-a meunjomndeuq
+92198,bamum letter phase-a moompuq
+92199,bamum letter phase-a kafa
+92200,bamum letter phase-a pa leeraewa
+92201,bamum letter phase-a nda leeraewa
+92202,bamum letter phase-a pet
+92203,bamum letter phase-a maemkpen
+92204,bamum letter phase-a nika
+92205,bamum letter phase-a pup
+92206,bamum letter phase-a tuaep
+92207,bamum letter phase-a luaep
+92208,bamum letter phase-a sonjam
+92209,bamum letter phase-a teuteuwen
+92210,bamum letter phase-a maenyi
+92211,bamum letter phase-a ket
+92212,bamum letter phase-a ndaanggeuaet
+92213,bamum letter phase-a kuoq
+92214,bamum letter phase-a moomeut
+92215,bamum letter phase-a shum
+92216,bamum letter phase-a lommae
+92217,bamum letter phase-a firi
+92218,bamum letter phase-a rom
+92219,bamum letter phase-a kpoq
+92220,bamum letter phase-a soq
+92221,bamum letter phase-a map pieet
+92222,bamum letter phase-a shirae
+92223,bamum letter phase-a ntap
+92224,bamum letter phase-a shoq nshut yum
+92225,bamum letter phase-a nyit mongkeuaeq
+92226,bamum letter phase-a paarae
+92227,bamum letter phase-a nkaarae
+92228,bamum letter phase-a unknown
+92229,bamum letter phase-a nggen
+92230,bamum letter phase-a maesi
+92231,bamum letter phase-a njam
+92232,bamum letter phase-a mbanyi
+92233,bamum letter phase-a nyet
+92234,bamum letter phase-a teuaen
+92235,bamum letter phase-a sot
+92236,bamum letter phase-a paam
+92237,bamum letter phase-a nshiee
+92238,bamum letter phase-a maem
+92239,bamum letter phase-a nyi
+92240,bamum letter phase-a kaq
+92241,bamum letter phase-a nsha
+92242,bamum letter phase-a vee
+92243,bamum letter phase-a lu
+92244,bamum letter phase-a nen
+92245,bamum letter phase-a naq
+92246,bamum letter phase-a mbaq
+92247,bamum letter phase-b nshuet
+92248,bamum letter phase-b tu maemgbiee
+92249,bamum letter phase-b siee
+92250,bamum letter phase-b set tu
+92251,bamum letter phase-b lom nteum
+92252,bamum letter phase-b mba maelee
+92253,bamum letter phase-b kieem
+92254,bamum letter phase-b yeurae
+92255,bamum letter phase-b mbaarae
+92256,bamum letter phase-b kam
+92257,bamum letter phase-b peeshi
+92258,bamum letter phase-b yafu leeraewa
+92259,bamum letter phase-b lam nshut nyam
+92260,bamum letter phase-b ntiee sheuoq
+92261,bamum letter phase-b ndu njaa
+92262,bamum letter phase-b gheugheuaem
+92263,bamum letter phase-b pit
+92264,bamum letter phase-b tu nsiee
+92265,bamum letter phase-b shet njaq
+92266,bamum letter phase-b sheuaeqtu
+92267,bamum letter phase-b mfon teuaeq
+92268,bamum letter phase-b mbit mbaaket
+92269,bamum letter phase-b nyi nteum
+92270,bamum letter phase-b keupuq
+92271,bamum letter phase-b gheughen
+92272,bamum letter phase-b keuyeux
+92273,bamum letter phase-b laanae
+92274,bamum letter phase-b parum
+92275,bamum letter phase-b veum
+92276,bamum letter phase-b ngkindi mvop
+92277,bamum letter phase-b nggeu mbu
+92278,bamum letter phase-b wuaet
+92279,bamum letter phase-b sakeuae
+92280,bamum letter phase-b taam
+92281,bamum letter phase-b meuq
+92282,bamum letter phase-b ngguoq
+92283,bamum letter phase-b ngguoq large
+92284,bamum letter phase-b mfiyaq
+92285,bamum letter phase-b sue
+92286,bamum letter phase-b mbeuri
+92287,bamum letter phase-b montieen
+92288,bamum letter phase-b nyaemae
+92289,bamum letter phase-b pungaam
+92290,bamum letter phase-b meut nggeet
+92291,bamum letter phase-b feux
+92292,bamum letter phase-b mbuoq
+92293,bamum letter phase-b fee
+92294,bamum letter phase-b keuaem
+92295,bamum letter phase-b ma njeuaena
+92296,bamum letter phase-b ma njuqa
+92297,bamum letter phase-b let
+92298,bamum letter phase-b nggaam
+92299,bamum letter phase-b nsen
+92300,bamum letter phase-b ma
+92301,bamum letter phase-b kiq
+92302,bamum letter phase-b ngom
+92303,bamum letter phase-c ngkue maemba
+92304,bamum letter phase-c nza
+92305,bamum letter phase-c yum
+92306,bamum letter phase-c wangkuoq
+92307,bamum letter phase-c nggen
+92308,bamum letter phase-c ndeuaeree
+92309,bamum letter phase-c ngkaq
+92310,bamum letter phase-c gharae
+92311,bamum letter phase-c mbeekeet
+92312,bamum letter phase-c gbayi
+92313,bamum letter phase-c nyir mkparaq meun
+92314,bamum letter phase-c ntu mbit
+92315,bamum letter phase-c mbeum
+92316,bamum letter phase-c pirieen
+92317,bamum letter phase-c ndombu
+92318,bamum letter phase-c mbaa cabbage-tree
+92319,bamum letter phase-c keusheuaep
+92320,bamum letter phase-c ghap
+92321,bamum letter phase-c keukaq
+92322,bamum letter phase-c yu muomae
+92323,bamum letter phase-c nzeum
+92324,bamum letter phase-c mbue
+92325,bamum letter phase-c nseuaen
+92326,bamum letter phase-c mbit
+92327,bamum letter phase-c yeuq
+92328,bamum letter phase-c kparaq
+92329,bamum letter phase-c kaa
+92330,bamum letter phase-c seux
+92331,bamum letter phase-c ndida
+92332,bamum letter phase-c taashae
+92333,bamum letter phase-c njueq
+92334,bamum letter phase-c tita yue
+92335,bamum letter phase-c suaet
+92336,bamum letter phase-c ngguaen nyam
+92337,bamum letter phase-c veux
+92338,bamum letter phase-c nansanaq
+92339,bamum letter phase-c ma keuaeri
+92340,bamum letter phase-c ntaa
+92341,bamum letter phase-c ngguon
+92342,bamum letter phase-c lap
+92343,bamum letter phase-c mbirieen
+92344,bamum letter phase-c mgbasaq
+92345,bamum letter phase-c nteungba
+92346,bamum letter phase-c teuteux
+92347,bamum letter phase-c nggum
+92348,bamum letter phase-c fue
+92349,bamum letter phase-c ndeut
+92350,bamum letter phase-c nsa
+92351,bamum letter phase-c nshaq
+92352,bamum letter phase-c bung
+92353,bamum letter phase-c veuaepen
+92354,bamum letter phase-c mberae
+92355,bamum letter phase-c ru
+92356,bamum letter phase-c njaem
+92357,bamum letter phase-c lam
+92358,bamum letter phase-c tituaep
+92359,bamum letter phase-c nsuot ngom
+92360,bamum letter phase-c njeeee
+92361,bamum letter phase-c ket
+92362,bamum letter phase-c nggu
+92363,bamum letter phase-c maesi
+92364,bamum letter phase-c mbuaem
+92365,bamum letter phase-c lu
+92366,bamum letter phase-c kut
+92367,bamum letter phase-c njam
+92368,bamum letter phase-c ngom
+92369,bamum letter phase-c wup
+92370,bamum letter phase-c nggueet
+92371,bamum letter phase-c nsom
+92372,bamum letter phase-c nten
+92373,bamum letter phase-c kuop nkaarae
+92374,bamum letter phase-c nsun
+92375,bamum letter phase-c ndam
+92376,bamum letter phase-c ma nsiee
+92377,bamum letter phase-c yaa
+92378,bamum letter phase-c ndap
+92379,bamum letter phase-c shueq
+92380,bamum letter phase-c setfon
+92381,bamum letter phase-c mbi
+92382,bamum letter phase-c maemba
+92383,bamum letter phase-c mbanyi
+92384,bamum letter phase-c keuseux
+92385,bamum letter phase-c mbeux
+92386,bamum letter phase-c keum
+92387,bamum letter phase-c mbaa picket
+92388,bamum letter phase-c yuwoq
+92389,bamum letter phase-c njeux
+92390,bamum letter phase-c miee
+92391,bamum letter phase-c muae
+92392,bamum letter phase-c shiq
+92393,bamum letter phase-c ken law
+92394,bamum letter phase-c ken fatigue
+92395,bamum letter phase-c ngaq
+92396,bamum letter phase-c naq
+92397,bamum letter phase-c liq
+92398,bamum letter phase-c pin
+92399,bamum letter phase-c pen
+92400,bamum letter phase-c tet
+92401,bamum letter phase-d mbuo
+92402,bamum letter phase-d wap
+92403,bamum letter phase-d nji
+92404,bamum letter phase-d mfon
+92405,bamum letter phase-d njiee
+92406,bamum letter phase-d liee
+92407,bamum letter phase-d njeut
+92408,bamum letter phase-d nshee
+92409,bamum letter phase-d nggaamae
+92410,bamum letter phase-d nyam
+92411,bamum letter phase-d wuaen
+92412,bamum letter phase-d ngkun
+92413,bamum letter phase-d shee
+92414,bamum letter phase-d ngkap
+92415,bamum letter phase-d keuaetmeun
+92416,bamum letter phase-d teut
+92417,bamum letter phase-d sheuae
+92418,bamum letter phase-d njap
+92419,bamum letter phase-d sue
+92420,bamum letter phase-d ket
+92421,bamum letter phase-d yaemmae
+92422,bamum letter phase-d kuom
+92423,bamum letter phase-d sap
+92424,bamum letter phase-d mfeut
+92425,bamum letter phase-d ndeux
+92426,bamum letter phase-d maleeri
+92427,bamum letter phase-d meut
+92428,bamum letter phase-d seuaeq
+92429,bamum letter phase-d yen
+92430,bamum letter phase-d njeuaem
+92431,bamum letter phase-d keuot mbuae
+92432,bamum letter phase-d ngkeuri
+92433,bamum letter phase-d tu
+92434,bamum letter phase-d ghaa
+92435,bamum letter phase-d ngkyee
+92436,bamum letter phase-d feufeuaet
+92437,bamum letter phase-d ndee
+92438,bamum letter phase-d mgbofum
+92439,bamum letter phase-d leuaep
+92440,bamum letter phase-d ndon
+92441,bamum letter phase-d moni
+92442,bamum letter phase-d mgbeun
+92443,bamum letter phase-d puut
+92444,bamum letter phase-d mgbiee
+92445,bamum letter phase-d mfo
+92446,bamum letter phase-d lum
+92447,bamum letter phase-d nsieep
+92448,bamum letter phase-d mbaa
+92449,bamum letter phase-d kwaet
+92450,bamum letter phase-d nyet
+92451,bamum letter phase-d teuaen
+92452,bamum letter phase-d sot
+92453,bamum letter phase-d yuwoq
+92454,bamum letter phase-d keum
+92455,bamum letter phase-d raem
+92456,bamum letter phase-d teeee
+92457,bamum letter phase-d ngkeuaeq
+92458,bamum letter phase-d mfeuae
+92459,bamum letter phase-d nsieet
+92460,bamum letter phase-d keup
+92461,bamum letter phase-d pip
+92462,bamum letter phase-d peutae
+92463,bamum letter phase-d nyue
+92464,bamum letter phase-d let
+92465,bamum letter phase-d nggaam
+92466,bamum letter phase-d mfiee
+92467,bamum letter phase-d nggwaen
+92468,bamum letter phase-d yuom
+92469,bamum letter phase-d pap
+92470,bamum letter phase-d yuop
+92471,bamum letter phase-d ndam
+92472,bamum letter phase-d nteum
+92473,bamum letter phase-d suae
+92474,bamum letter phase-d kun
+92475,bamum letter phase-d nggeux
+92476,bamum letter phase-d ngkiee
+92477,bamum letter phase-d tuot
+92478,bamum letter phase-d meun
+92479,bamum letter phase-d kuq
+92480,bamum letter phase-d nsum
+92481,bamum letter phase-d teun
+92482,bamum letter phase-d maenjet
+92483,bamum letter phase-d nggap
+92484,bamum letter phase-d leum
+92485,bamum letter phase-d ngguom
+92486,bamum letter phase-d nshut
+92487,bamum letter phase-d njueq
+92488,bamum letter phase-d gheuae
+92489,bamum letter phase-d ku
+92490,bamum letter phase-d ren old
+92491,bamum letter phase-d tae
+92492,bamum letter phase-d toq
+92493,bamum letter phase-d nyi
+92494,bamum letter phase-d rii
+92495,bamum letter phase-d leeee
+92496,bamum letter phase-d meeee
+92497,bamum letter phase-d m
+92498,bamum letter phase-d suu
+92499,bamum letter phase-d mu
+92500,bamum letter phase-d shii
+92501,bamum letter phase-d sheux
+92502,bamum letter phase-d kyee
+92503,bamum letter phase-d nu
+92504,bamum letter phase-d shu
+92505,bamum letter phase-d ntee
+92506,bamum letter phase-d pee
+92507,bamum letter phase-d ni
+92508,bamum letter phase-d shoq
+92509,bamum letter phase-d puq
+92510,bamum letter phase-d mvop
+92511,bamum letter phase-d loq
+92512,bamum letter phase-d ren much
+92513,bamum letter phase-d ti
+92514,bamum letter phase-d ntuu
+92515,bamum letter phase-d mbaa seven
+92516,bamum letter phase-d saq
+92517,bamum letter phase-d faa
+92518,bamum letter phase-e ndap
+92519,bamum letter phase-e toon
+92520,bamum letter phase-e mbeum
+92521,bamum letter phase-e lap
+92522,bamum letter phase-e vom
+92523,bamum letter phase-e loon
+92524,bamum letter phase-e paa
+92525,bamum letter phase-e som
+92526,bamum letter phase-e raq
+92527,bamum letter phase-e nshuop
+92528,bamum letter phase-e ndun
+92529,bamum letter phase-e puae
+92530,bamum letter phase-e tam
+92531,bamum letter phase-e ngka
+92532,bamum letter phase-e kpeux
+92533,bamum letter phase-e wuo
+92534,bamum letter phase-e see
+92535,bamum letter phase-e nggeuaet
+92536,bamum letter phase-e paam
+92537,bamum letter phase-e too
+92538,bamum letter phase-e kuop
+92539,bamum letter phase-e lom
+92540,bamum letter phase-e nshiee
+92541,bamum letter phase-e ngop
+92542,bamum letter phase-e maem
+92543,bamum letter phase-e ngkeux
+92544,bamum letter phase-e ngoq
+92545,bamum letter phase-e nshue
+92546,bamum letter phase-e rimgba
+92547,bamum letter phase-e njeux
+92548,bamum letter phase-e peem
+92549,bamum letter phase-e saa
+92550,bamum letter phase-e nggurae
+92551,bamum letter phase-e mgba
+92552,bamum letter phase-e gheux
+92553,bamum letter phase-e ngkeuaem
+92554,bamum letter phase-e njaemli
+92555,bamum letter phase-e map
+92556,bamum letter phase-e loot
+92557,bamum letter phase-e nggeeee
+92558,bamum letter phase-e ndiq
+92559,bamum letter phase-e taen nteum
+92560,bamum letter phase-e set
+92561,bamum letter phase-e pum
+92562,bamum letter phase-e ndaa softness
+92563,bamum letter phase-e ngguaeshae nyam
+92564,bamum letter phase-e yiee
+92565,bamum letter phase-e gheun
+92566,bamum letter phase-e tuae
+92567,bamum letter phase-e yeuae
+92568,bamum letter phase-e po
+92569,bamum letter phase-e tumae
+92570,bamum letter phase-e keuae
+92571,bamum letter phase-e suaen
+92572,bamum letter phase-e teuaeq
+92573,bamum letter phase-e veuae
+92574,bamum letter phase-e weux
+92575,bamum letter phase-e laam
+92576,bamum letter phase-e pu
+92577,bamum letter phase-e taaq
+92578,bamum letter phase-e ghaamae
+92579,bamum letter phase-e ngeureut
+92580,bamum letter phase-e sheuaeq
+92581,bamum letter phase-e mgben
+92582,bamum letter phase-e mbee
+92583,bamum letter phase-e nzaq
+92584,bamum letter phase-e nkom
+92585,bamum letter phase-e gbet
+92586,bamum letter phase-e tum
+92587,bamum letter phase-e kuet
+92588,bamum letter phase-e yap
+92589,bamum letter phase-e nyi cleaver
+92590,bamum letter phase-e yit
+92591,bamum letter phase-e mfeuq
+92592,bamum letter phase-e ndiaq
+92593,bamum letter phase-e pieeq
+92594,bamum letter phase-e yueq
+92595,bamum letter phase-e leuaem
+92596,bamum letter phase-e fue
+92597,bamum letter phase-e gbeux
+92598,bamum letter phase-e ngkup
+92599,bamum letter phase-e ket
+92600,bamum letter phase-e mae
+92601,bamum letter phase-e ngkaami
+92602,bamum letter phase-e ghet
+92603,bamum letter phase-e fa
+92604,bamum letter phase-e ntum
+92605,bamum letter phase-e peut
+92606,bamum letter phase-e yeum
+92607,bamum letter phase-e nggeuae
+92608,bamum letter phase-e nyi between
+92609,bamum letter phase-e nzuq
+92610,bamum letter phase-e poon
+92611,bamum letter phase-e miee
+92612,bamum letter phase-e fuet
+92613,bamum letter phase-e nae
+92614,bamum letter phase-e muae
+92615,bamum letter phase-e gheuae
+92616,bamum letter phase-e fu i
+92617,bamum letter phase-e mvi
+92618,bamum letter phase-e puaq
+92619,bamum letter phase-e ngkum
+92620,bamum letter phase-e kut
+92621,bamum letter phase-e piet
+92622,bamum letter phase-e ntap
+92623,bamum letter phase-e yeuaet
+92624,bamum letter phase-e nggup
+92625,bamum letter phase-e pa people
+92626,bamum letter phase-e fu call
+92627,bamum letter phase-e fom
+92628,bamum letter phase-e njee
+92629,bamum letter phase-e a
+92630,bamum letter phase-e toq
+92631,bamum letter phase-e o
+92632,bamum letter phase-e i
+92633,bamum letter phase-e laq
+92634,bamum letter phase-e pa plural
+92635,bamum letter phase-e taa
+92636,bamum letter phase-e taq
+92637,bamum letter phase-e ndaa my house
+92638,bamum letter phase-e shiq
+92639,bamum letter phase-e yeux
+92640,bamum letter phase-e nguae
+92641,bamum letter phase-e yuaen
+92642,bamum letter phase-e yoq swimming
+92643,bamum letter phase-e yoq cover
+92644,bamum letter phase-e yuq
+92645,bamum letter phase-e yun
+92646,bamum letter phase-e keux
+92647,bamum letter phase-e peux
+92648,bamum letter phase-e njee epoch
+92649,bamum letter phase-e pue
+92650,bamum letter phase-e wue
+92651,bamum letter phase-e fee
+92652,bamum letter phase-e vee
+92653,bamum letter phase-e lu
+92654,bamum letter phase-e mi
+92655,bamum letter phase-e reux
+92656,bamum letter phase-e rae
+92657,bamum letter phase-e nguaet
+92658,bamum letter phase-e nga
+92659,bamum letter phase-e sho
+92660,bamum letter phase-e shoq
+92661,bamum letter phase-e fu remedy
+92662,bamum letter phase-e na
+92663,bamum letter phase-e pi
+92664,bamum letter phase-e loq
+92665,bamum letter phase-e ko
+92666,bamum letter phase-e men
+92667,bamum letter phase-e ma
+92668,bamum letter phase-e maq
+92669,bamum letter phase-e teu
+92670,bamum letter phase-e ki
+92671,bamum letter phase-e mon
+92672,bamum letter phase-e ten
+92673,bamum letter phase-e faq
+92674,bamum letter phase-e ghom
+92675,bamum letter phase-f ka
+92676,bamum letter phase-f u
+92677,bamum letter phase-f ku
+92678,bamum letter phase-f ee
+92679,bamum letter phase-f ree
+92680,bamum letter phase-f tae
+92681,bamum letter phase-f nyi
+92682,bamum letter phase-f la
+92683,bamum letter phase-f rii
+92684,bamum letter phase-f riee
+92685,bamum letter phase-f meeee
+92686,bamum letter phase-f taa
+92687,bamum letter phase-f ndaa
+92688,bamum letter phase-f njaem
+92689,bamum letter phase-f m
+92690,bamum letter phase-f suu
+92691,bamum letter phase-f shii
+92692,bamum letter phase-f si
+92693,bamum letter phase-f seux
+92694,bamum letter phase-f kyee
+92695,bamum letter phase-f ket
+92696,bamum letter phase-f nuae
+92697,bamum letter phase-f nu
+92698,bamum letter phase-f njuae
+92699,bamum letter phase-f yoq
+92700,bamum letter phase-f shu
+92701,bamum letter phase-f ya
+92702,bamum letter phase-f nsha
+92703,bamum letter phase-f peux
+92704,bamum letter phase-f ntee
+92705,bamum letter phase-f wue
+92706,bamum letter phase-f pee
+92707,bamum letter phase-f ru
+92708,bamum letter phase-f ni
+92709,bamum letter phase-f reux
+92710,bamum letter phase-f ken
+92711,bamum letter phase-f ngkwaen
+92712,bamum letter phase-f ngga
+92713,bamum letter phase-f sho
+92714,bamum letter phase-f puae
+92715,bamum letter phase-f fom
+92716,bamum letter phase-f wa
+92717,bamum letter phase-f li
+92718,bamum letter phase-f loq
+92719,bamum letter phase-f ko
+92720,bamum letter phase-f mben
+92721,bamum letter phase-f ren
+92722,bamum letter phase-f ma
+92723,bamum letter phase-f mo
+92724,bamum letter phase-f mbaa
+92725,bamum letter phase-f tet
+92726,bamum letter phase-f kpa
+92727,bamum letter phase-f samba
+92728,bamum letter phase-f vueq

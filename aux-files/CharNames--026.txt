@@ -1,0 +1,92 @@
+2689,gujarati sign candrabindu
+2690,gujarati sign anusvara
+2691,gujarati sign visarga
+2693,gujarati letter a
+2694,gujarati letter aa
+2695,gujarati letter i
+2696,gujarati letter ii
+2697,gujarati letter u
+2698,gujarati letter uu
+2699,gujarati letter vocalic r
+2700,gujarati letter vocalic l
+2701,gujarati vowel candra e
+2703,gujarati letter e
+2704,gujarati letter ai
+2705,gujarati vowel candra o
+2707,gujarati letter o
+2708,gujarati letter au
+2709,gujarati letter ka
+2710,gujarati letter kha
+2711,gujarati letter ga
+2712,gujarati letter gha
+2713,gujarati letter nga
+2714,gujarati letter ca
+2715,gujarati letter cha
+2716,gujarati letter ja
+2717,gujarati letter jha
+2718,gujarati letter nya
+2719,gujarati letter tta
+2720,gujarati letter ttha
+2721,gujarati letter dda
+2722,gujarati letter ddha
+2723,gujarati letter nna
+2724,gujarati letter ta
+2725,gujarati letter tha
+2726,gujarati letter da
+2727,gujarati letter dha
+2728,gujarati letter na
+2730,gujarati letter pa
+2731,gujarati letter pha
+2732,gujarati letter ba
+2733,gujarati letter bha
+2734,gujarati letter ma
+2735,gujarati letter ya
+2736,gujarati letter ra
+2738,gujarati letter la
+2739,gujarati letter lla
+2741,gujarati letter va
+2742,gujarati letter sha
+2743,gujarati letter ssa
+2744,gujarati letter sa
+2745,gujarati letter ha
+2748,gujarati sign nukta
+2749,gujarati sign avagraha
+2750,gujarati vowel sign aa
+2751,gujarati vowel sign i
+2752,gujarati vowel sign ii
+2753,gujarati vowel sign u
+2754,gujarati vowel sign uu
+2755,gujarati vowel sign vocalic r
+2756,gujarati vowel sign vocalic rr
+2757,gujarati vowel sign candra e
+2759,gujarati vowel sign e
+2760,gujarati vowel sign ai
+2761,gujarati vowel sign candra o
+2763,gujarati vowel sign o
+2764,gujarati vowel sign au
+2765,gujarati sign virama
+2768,gujarati om
+2784,gujarati letter vocalic rr
+2785,gujarati letter vocalic ll
+2786,gujarati vowel sign vocalic l
+2787,gujarati vowel sign vocalic ll
+2788,<reserved>
+2789,<reserved>
+2790,gujarati digit zero
+2791,gujarati digit one
+2792,gujarati digit two
+2793,gujarati digit three
+2794,gujarati digit four
+2795,gujarati digit five
+2796,gujarati digit six
+2797,gujarati digit seven
+2798,gujarati digit eight
+2799,gujarati digit nine
+2800,gujarati abbreviation sign
+2801,gujarati rupee sign
+2809,gujarati letter zha
+2810,gujarati sign sukun
+2811,gujarati sign shadda
+2812,gujarati sign maddah
+2813,gujarati sign three-dot nukta above
+2814,gujarati sign circle nukta above

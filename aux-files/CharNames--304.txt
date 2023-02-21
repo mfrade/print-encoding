@@ -1,0 +1,64 @@
+127488,square hiragana hoka
+127489,squared katakana koko
+127490,squared katakana sa
+127504,squared cjk unified ideograph-624b
+127505,squared cjk unified ideograph-5b57
+127506,squared cjk unified ideograph-53cc
+127507,squared katakana de
+127508,squared cjk unified ideograph-4e8c
+127509,squared cjk unified ideograph-591a
+127510,squared cjk unified ideograph-89e3
+127511,squared cjk unified ideograph-5929
+127512,squared cjk unified ideograph-4ea4
+127513,squared cjk unified ideograph-6620
+127514,squared cjk unified ideograph-7121
+127515,squared cjk unified ideograph-6599
+127516,squared cjk unified ideograph-524d
+127517,squared cjk unified ideograph-5f8c
+127518,squared cjk unified ideograph-518d
+127519,squared cjk unified ideograph-65b0
+127520,squared cjk unified ideograph-521d
+127521,squared cjk unified ideograph-7d42
+127522,squared cjk unified ideograph-751f
+127523,squared cjk unified ideograph-8ca9
+127524,squared cjk unified ideograph-58f0
+127525,squared cjk unified ideograph-5439
+127526,squared cjk unified ideograph-6f14
+127527,squared cjk unified ideograph-6295
+127528,squared cjk unified ideograph-6355
+127529,squared cjk unified ideograph-4e00
+127530,squared cjk unified ideograph-4e09
+127531,squared cjk unified ideograph-904a
+127532,squared cjk unified ideograph-5de6
+127533,squared cjk unified ideograph-4e2d
+127534,squared cjk unified ideograph-53f3
+127535,squared cjk unified ideograph-6307
+127536,squared cjk unified ideograph-8d70
+127537,squared cjk unified ideograph-6253
+127538,squared cjk unified ideograph-7981
+127539,squared cjk unified ideograph-7a7a
+127540,squared cjk unified ideograph-5408
+127541,squared cjk unified ideograph-6e80
+127542,squared cjk unified ideograph-6709
+127543,squared cjk unified ideograph-6708
+127544,squared cjk unified ideograph-7533
+127545,squared cjk unified ideograph-5272
+127546,squared cjk unified ideograph-55b6
+127547,squared cjk unified ideograph-914d
+127552,tortoise shell bracketed cjk unified ideograph-672c
+127553,tortoise shell bracketed cjk unified ideograph-4e09
+127554,tortoise shell bracketed cjk unified ideograph-4e8c
+127555,tortoise shell bracketed cjk unified ideograph-5b89
+127556,tortoise shell bracketed cjk unified ideograph-70b9
+127557,tortoise shell bracketed cjk unified ideograph-6253
+127558,tortoise shell bracketed cjk unified ideograph-76d7
+127559,tortoise shell bracketed cjk unified ideograph-52dd
+127560,tortoise shell bracketed cjk unified ideograph-6557
+127568,circled ideograph advantage
+127569,circled ideograph accept
+127584,rounded symbol for fu
+127585,rounded symbol for lu
+127586,rounded symbol for shou
+127587,rounded symbol for xi
+127588,rounded symbol for shuangxi
+127589,rounded symbol for cai

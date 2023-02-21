@@ -1,0 +1,11 @@
+9280,ocr hook
+9281,ocr chair
+9282,ocr fork
+9283,ocr inverted fork
+9284,ocr belt buckle
+9285,ocr bow tie
+9286,ocr branch bank identification
+9287,ocr amount of check
+9288,ocr dash
+9289,ocr customer account number
+9290,ocr double backslash

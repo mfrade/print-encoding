@@ -1,0 +1,82 @@
+43520,cham letter a
+43521,cham letter i
+43522,cham letter u
+43523,cham letter e
+43524,cham letter ai
+43525,cham letter o
+43526,cham letter ka
+43527,cham letter kha
+43528,cham letter ga
+43529,cham letter gha
+43530,cham letter ngue
+43531,cham letter nga
+43532,cham letter cha
+43533,cham letter chha
+43534,cham letter ja
+43535,cham letter jha
+43536,cham letter nhue
+43537,cham letter nha
+43538,cham letter nhja
+43539,cham letter ta
+43540,cham letter tha
+43541,cham letter da
+43542,cham letter dha
+43543,cham letter nue
+43544,cham letter na
+43545,cham letter dda
+43546,cham letter pa
+43547,cham letter ppa
+43548,cham letter pha
+43549,cham letter ba
+43550,cham letter bha
+43551,cham letter mue
+43552,cham letter ma
+43553,cham letter bba
+43554,cham letter ya
+43555,cham letter ra
+43556,cham letter la
+43557,cham letter va
+43558,cham letter ssa
+43559,cham letter sa
+43560,cham letter ha
+43561,cham vowel sign aa
+43562,cham vowel sign i
+43563,cham vowel sign ii
+43564,cham vowel sign ei
+43565,cham vowel sign u
+43566,cham vowel sign oe
+43567,cham vowel sign o
+43568,cham vowel sign ai
+43569,cham vowel sign au
+43570,cham vowel sign ue
+43571,cham consonant sign ya
+43572,cham consonant sign ra
+43573,cham consonant sign la
+43574,cham consonant sign wa
+43584,cham letter final k
+43585,cham letter final g
+43586,cham letter final ng
+43587,cham consonant sign final ng
+43588,cham letter final ch
+43589,cham letter final t
+43590,cham letter final n
+43591,cham letter final p
+43592,cham letter final y
+43593,cham letter final r
+43594,cham letter final l
+43595,cham letter final ss
+43596,cham consonant sign final m
+43597,cham consonant sign final h
+43600,cham digit zero
+43601,cham digit one
+43602,cham digit two
+43603,cham digit three
+43604,cham digit four
+43605,cham digit five
+43606,cham digit six
+43607,cham digit seven
+43608,cham digit eight
+43609,cham digit nine
+43612,cham punctuation spiral
+43613,cham punctuation danda
+43614,cham punctuation double danda

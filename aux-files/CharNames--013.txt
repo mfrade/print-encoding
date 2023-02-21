@@ -1,0 +1,255 @@
+1536,arabic number sign
+1537,arabic sign sanah
+1538,arabic footnote marker
+1539,arabic sign safha
+1540,arabic sign samvat
+1541,arabic number mark above
+1542,arabic-indic cube root
+1543,arabic-indic fourth root
+1544,arabic ray
+1545,arabic-indic per mille sign
+1546,arabic-indic per ten thousand sign
+1547,afghani sign
+1548,arabic comma
+1549,arabic date separator
+1550,arabic poetic verse sign
+1551,arabic sign misra
+1552,arabic sign sallallahou alayhe wassallam
+1553,arabic sign alayhe assallam
+1554,arabic sign rahmatullah alayhe
+1555,arabic sign radi allahou anhu
+1556,arabic sign takhallus
+1557,arabic small high tah
+1558,arabic small high ligature alef with lam with yeh
+1559,arabic small high zain
+1560,arabic small fatha
+1561,arabic small damma
+1562,arabic small kasra
+1563,arabic semicolon
+1564,arabic letter mark
+1565,arabic end of text mark
+1566,arabic triple dot punctuation mark
+1567,arabic question mark
+1568,arabic letter kashmiri yeh
+1569,arabic letter hamza
+1570,arabic letter alef with madda above
+1571,arabic letter alef with hamza above
+1572,arabic letter waw with hamza above
+1573,arabic letter alef with hamza below
+1574,arabic letter yeh with hamza above
+1575,arabic letter alef
+1576,arabic letter beh
+1577,arabic letter teh marbuta
+1578,arabic letter teh
+1579,arabic letter theh
+1580,arabic letter jeem
+1581,arabic letter hah
+1582,arabic letter khah
+1583,arabic letter dal
+1584,arabic letter thal
+1585,arabic letter reh
+1586,arabic letter zain
+1587,arabic letter seen
+1588,arabic letter sheen
+1589,arabic letter sad
+1590,arabic letter dad
+1591,arabic letter tah
+1592,arabic letter zah
+1593,arabic letter ain
+1594,arabic letter ghain
+1595,arabic letter keheh with two dots above
+1596,arabic letter keheh with three dots below
+1597,arabic letter farsi yeh with inverted v
+1598,arabic letter farsi yeh with two dots above
+1599,arabic letter farsi yeh with three dots above
+1600,arabic tatweel
+1601,arabic letter feh
+1602,arabic letter qaf
+1603,arabic letter kaf
+1604,arabic letter lam
+1605,arabic letter meem
+1606,arabic letter noon
+1607,arabic letter heh
+1608,arabic letter waw
+1609,arabic letter alef maksura
+1610,arabic letter yeh
+1611,arabic fathatan
+1612,arabic dammatan
+1613,arabic kasratan
+1614,arabic fatha
+1615,arabic damma
+1616,arabic kasra
+1617,arabic shadda
+1618,arabic sukun
+1619,arabic maddah above
+1620,arabic hamza above
+1621,arabic hamza below
+1622,arabic subscript alef
+1623,arabic inverted damma
+1624,arabic mark noon ghunna
+1625,arabic zwarakay
+1626,arabic vowel sign small v above
+1627,arabic vowel sign inverted small v above
+1628,arabic vowel sign dot below
+1629,arabic reversed damma
+1630,arabic fatha with two dots
+1631,arabic wavy hamza below
+1632,arabic-indic digit zero
+1633,arabic-indic digit one
+1634,arabic-indic digit two
+1635,arabic-indic digit three
+1636,arabic-indic digit four
+1637,arabic-indic digit five
+1638,arabic-indic digit six
+1639,arabic-indic digit seven
+1640,arabic-indic digit eight
+1641,arabic-indic digit nine
+1642,arabic percent sign
+1643,arabic decimal separator
+1644,arabic thousands separator
+1645,arabic five pointed star
+1646,arabic letter dotless beh
+1647,arabic letter dotless qaf
+1648,arabic letter superscript alef
+1649,arabic letter alef wasla
+1650,arabic letter alef with wavy hamza above
+1651,arabic letter alef with wavy hamza below
+1652,arabic letter high hamza
+1653,arabic letter high hamza alef
+1654,arabic letter high hamza waw
+1655,arabic letter u with hamza above
+1656,arabic letter high hamza yeh
+1657,arabic letter tteh
+1658,arabic letter tteheh
+1659,arabic letter beeh
+1660,arabic letter teh with ring
+1661,arabic letter teh with three dots above downwards
+1662,arabic letter peh
+1663,arabic letter teheh
+1664,arabic letter beheh
+1665,arabic letter hah with hamza above
+1666,arabic letter hah with two dots vertical above
+1667,arabic letter nyeh
+1668,arabic letter dyeh
+1669,arabic letter hah with three dots above
+1670,arabic letter tcheh
+1671,arabic letter tcheheh
+1672,arabic letter ddal
+1673,arabic letter dal with ring
+1674,arabic letter dal with dot below
+1675,arabic letter dal with dot below and small tah
+1676,arabic letter dahal
+1677,arabic letter ddahal
+1678,arabic letter dul
+1679,arabic letter dal with three dots above downwards
+1680,arabic letter dal with four dots above
+1681,arabic letter rreh
+1682,arabic letter reh with small v
+1683,arabic letter reh with ring
+1684,arabic letter reh with dot below
+1685,arabic letter reh with small v below
+1686,arabic letter reh with dot below and dot above
+1687,arabic letter reh with two dots above
+1688,arabic letter jeh
+1689,arabic letter reh with four dots above
+1690,arabic letter seen with dot below and dot above
+1691,arabic letter seen with three dots below
+1692,arabic letter seen with three dots below and three dots above
+1693,arabic letter sad with two dots below
+1694,arabic letter sad with three dots above
+1695,arabic letter tah with three dots above
+1696,arabic letter ain with three dots above
+1697,arabic letter dotless feh
+1698,arabic letter feh with dot moved below
+1699,arabic letter feh with dot below
+1700,arabic letter veh
+1701,arabic letter feh with three dots below
+1702,arabic letter peheh
+1703,arabic letter qaf with dot above
+1704,arabic letter qaf with three dots above
+1705,arabic letter keheh
+1706,arabic letter swash kaf
+1707,arabic letter kaf with ring
+1708,arabic letter kaf with dot above
+1709,arabic letter ng
+1710,arabic letter kaf with three dots below
+1711,arabic letter gaf
+1712,arabic letter gaf with ring
+1713,arabic letter ngoeh
+1714,arabic letter gaf with two dots below
+1715,arabic letter gueh
+1716,arabic letter gaf with three dots above
+1717,arabic letter lam with small v
+1718,arabic letter lam with dot above
+1719,arabic letter lam with three dots above
+1720,arabic letter lam with three dots below
+1721,arabic letter noon with dot below
+1722,arabic letter noon ghunna
+1723,arabic letter rnoon
+1724,arabic letter noon with ring
+1725,arabic letter noon with three dots above
+1726,arabic letter heh doachashmee
+1727,arabic letter tcheh with dot above
+1728,arabic letter heh with yeh above
+1729,arabic letter heh goal
+1730,arabic letter heh goal with hamza above
+1731,arabic letter teh marbuta goal
+1732,arabic letter waw with ring
+1733,arabic letter kirghiz oe
+1734,arabic letter oe
+1735,arabic letter u
+1736,arabic letter yu
+1737,arabic letter kirghiz yu
+1738,arabic letter waw with two dots above
+1739,arabic letter ve
+1740,arabic letter farsi yeh
+1741,arabic letter yeh with tail
+1742,arabic letter yeh with small v
+1743,arabic letter waw with dot above
+1744,arabic letter e
+1745,arabic letter yeh with three dots below
+1746,arabic letter yeh barree
+1747,arabic letter yeh barree with hamza above
+1748,arabic full stop
+1749,arabic letter ae
+1750,arabic small high ligature sad with lam with alef maksura
+1751,arabic small high ligature qaf with lam with alef maksura
+1752,arabic small high meem initial form
+1753,arabic small high lam alef
+1754,arabic small high jeem
+1755,arabic small high three dots
+1756,arabic small high seen
+1757,arabic end of ayah
+1758,arabic start of rub el hizb
+1759,arabic small high rounded zero
+1760,arabic small high upright rectangular zero
+1761,arabic small high dotless head of khah
+1762,arabic small high meem isolated form
+1763,arabic small low seen
+1764,arabic small high madda
+1765,arabic small waw
+1766,arabic small yeh
+1767,arabic small high yeh
+1768,arabic small high noon
+1769,arabic place of sajdah
+1770,arabic empty centre low stop
+1771,arabic empty centre high stop
+1772,arabic rounded high stop with filled centre
+1773,arabic small low meem
+1774,arabic letter dal with inverted v
+1775,arabic letter reh with inverted v
+1776,extended arabic-indic digit zero
+1777,extended arabic-indic digit one
+1778,extended arabic-indic digit two
+1779,extended arabic-indic digit three
+1780,extended arabic-indic digit four
+1781,extended arabic-indic digit five
+1782,extended arabic-indic digit six
+1783,extended arabic-indic digit seven
+1784,extended arabic-indic digit eight
+1785,extended arabic-indic digit nine
+1786,arabic letter sheen with dot below
+1787,arabic letter dad with dot below
+1788,arabic letter ghain with dot below
+1789,arabic sign sindhi ampersand
+1790,arabic sign sindhi postposition men

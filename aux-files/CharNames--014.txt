@@ -1,0 +1,76 @@
+1792,syriac end of paragraph
+1793,syriac supralinear full stop
+1794,syriac sublinear full stop
+1795,syriac supralinear colon
+1796,syriac sublinear colon
+1797,syriac horizontal colon
+1798,syriac colon skewed left
+1799,syriac colon skewed right
+1800,syriac supralinear colon skewed left
+1801,syriac sublinear colon skewed right
+1802,syriac contraction
+1803,syriac harklean obelus
+1804,syriac harklean metobelus
+1805,syriac harklean asteriscus
+1807,syriac abbreviation mark
+1808,syriac letter alaph
+1809,syriac letter superscript alaph
+1810,syriac letter beth
+1811,syriac letter gamal
+1812,syriac letter gamal garshuni
+1813,syriac letter dalath
+1814,syriac letter dotless dalath rish
+1815,syriac letter he
+1816,syriac letter waw
+1817,syriac letter zain
+1818,syriac letter heth
+1819,syriac letter teth
+1820,syriac letter teth garshuni
+1821,syriac letter yudh
+1822,syriac letter yudh he
+1823,syriac letter kaph
+1824,syriac letter lamadh
+1825,syriac letter mim
+1826,syriac letter nun
+1827,syriac letter semkath
+1828,syriac letter final semkath
+1829,syriac letter e
+1830,syriac letter pe
+1831,syriac letter reversed pe
+1832,syriac letter sadhe
+1833,syriac letter qaph
+1834,syriac letter rish
+1835,syriac letter shin
+1836,syriac letter taw
+1837,syriac letter persian bheth
+1838,syriac letter persian ghamal
+1839,syriac letter persian dhalath
+1840,syriac pthaha above
+1841,syriac pthaha below
+1842,syriac pthaha dotted
+1843,syriac zqapha above
+1844,syriac zqapha below
+1845,syriac zqapha dotted
+1846,syriac rbasa above
+1847,syriac rbasa below
+1848,syriac dotted zlama horizontal
+1849,syriac dotted zlama angular
+1850,syriac hbasa above
+1851,syriac hbasa below
+1852,syriac hbasa-esasa dotted
+1853,syriac esasa above
+1854,syriac esasa below
+1855,syriac rwaha
+1856,syriac feminine dot
+1857,syriac qushshaya
+1858,syriac rukkakha
+1859,syriac two vertical dots above
+1860,syriac two vertical dots below
+1861,syriac three dots above
+1862,syriac three dots below
+1863,syriac oblique line above
+1864,syriac oblique line below
+1865,syriac music
+1866,syriac barrekh
+1869,syriac letter sogdian zhain
+1870,syriac letter sogdian khaph

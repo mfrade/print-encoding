@@ -1,0 +1,25 @@
+73440,makasar letter ka
+73441,makasar letter ga
+73442,makasar letter nga
+73443,makasar letter pa
+73444,makasar letter ba
+73445,makasar letter ma
+73446,makasar letter ta
+73447,makasar letter da
+73448,makasar letter na
+73449,makasar letter ca
+73450,makasar letter ja
+73451,makasar letter nya
+73452,makasar letter ya
+73453,makasar letter ra
+73454,makasar letter la
+73455,makasar letter va
+73456,makasar letter sa
+73457,makasar letter a
+73458,makasar angka
+73459,makasar vowel sign i
+73460,makasar vowel sign u
+73461,makasar vowel sign e
+73462,makasar vowel sign o
+73463,makasar passimbang
+73464,makasar end of section

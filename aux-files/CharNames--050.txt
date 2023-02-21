@@ -1,0 +1,158 @@
+6144,mongolian birga
+6145,mongolian ellipsis
+6146,mongolian comma
+6147,mongolian full stop
+6148,mongolian colon
+6149,mongolian four dots
+6150,mongolian todo soft hyphen
+6151,mongolian sibe syllable boundary marker
+6152,mongolian manchu comma
+6153,mongolian manchu full stop
+6154,mongolian nirugu
+6155,mongolian free variation selector one
+6156,mongolian free variation selector two
+6157,mongolian free variation selector three
+6158,mongolian vowel separator
+6159,mongolian free variation selector four
+6160,mongolian digit zero
+6161,mongolian digit one
+6162,mongolian digit two
+6163,mongolian digit three
+6164,mongolian digit four
+6165,mongolian digit five
+6166,mongolian digit six
+6167,mongolian digit seven
+6168,mongolian digit eight
+6169,mongolian digit nine
+6176,mongolian letter a
+6177,mongolian letter e
+6178,mongolian letter i
+6179,mongolian letter o
+6180,mongolian letter u
+6181,mongolian letter oe
+6182,mongolian letter ue
+6183,mongolian letter ee
+6184,mongolian letter na
+6185,mongolian letter ang
+6186,mongolian letter ba
+6187,mongolian letter pa
+6188,mongolian letter qa
+6189,mongolian letter ga
+6190,mongolian letter ma
+6191,mongolian letter la
+6192,mongolian letter sa
+6193,mongolian letter sha
+6194,mongolian letter ta
+6195,mongolian letter da
+6196,mongolian letter cha
+6197,mongolian letter ja
+6198,mongolian letter ya
+6199,mongolian letter ra
+6200,mongolian letter wa
+6201,mongolian letter fa
+6202,mongolian letter ka
+6203,mongolian letter kha
+6204,mongolian letter tsa
+6205,mongolian letter za
+6206,mongolian letter haa
+6207,mongolian letter zra
+6208,mongolian letter lha
+6209,mongolian letter zhi
+6210,mongolian letter chi
+6211,mongolian letter todo long vowel sign
+6212,mongolian letter todo e
+6213,mongolian letter todo i
+6214,mongolian letter todo o
+6215,mongolian letter todo u
+6216,mongolian letter todo oe
+6217,mongolian letter todo ue
+6218,mongolian letter todo ang
+6219,mongolian letter todo ba
+6220,mongolian letter todo pa
+6221,mongolian letter todo qa
+6222,mongolian letter todo ga
+6223,mongolian letter todo ma
+6224,mongolian letter todo ta
+6225,mongolian letter todo da
+6226,mongolian letter todo cha
+6227,mongolian letter todo ja
+6228,mongolian letter todo tsa
+6229,mongolian letter todo ya
+6230,mongolian letter todo wa
+6231,mongolian letter todo ka
+6232,mongolian letter todo gaa
+6233,mongolian letter todo haa
+6234,mongolian letter todo jia
+6235,mongolian letter todo nia
+6236,mongolian letter todo dza
+6237,mongolian letter sibe e
+6238,mongolian letter sibe i
+6239,mongolian letter sibe iy
+6240,mongolian letter sibe ue
+6241,mongolian letter sibe u
+6242,mongolian letter sibe ang
+6243,mongolian letter sibe ka
+6244,mongolian letter sibe ga
+6245,mongolian letter sibe ha
+6246,mongolian letter sibe pa
+6247,mongolian letter sibe sha
+6248,mongolian letter sibe ta
+6249,mongolian letter sibe da
+6250,mongolian letter sibe ja
+6251,mongolian letter sibe fa
+6252,mongolian letter sibe gaa
+6253,mongolian letter sibe haa
+6254,mongolian letter sibe tsa
+6255,mongolian letter sibe za
+6256,mongolian letter sibe raa
+6257,mongolian letter sibe cha
+6258,mongolian letter sibe zha
+6259,mongolian letter manchu i
+6260,mongolian letter manchu ka
+6261,mongolian letter manchu ra
+6262,mongolian letter manchu fa
+6263,mongolian letter manchu zha
+6264,mongolian letter cha with two dots
+6272,mongolian letter ali gali anusvara one
+6273,mongolian letter ali gali visarga one
+6274,mongolian letter ali gali damaru
+6275,mongolian letter ali gali ubadama
+6276,mongolian letter ali gali inverted ubadama
+6277,mongolian letter ali gali baluda
+6278,mongolian letter ali gali three baluda
+6279,mongolian letter ali gali a
+6280,mongolian letter ali gali i
+6281,mongolian letter ali gali ka
+6282,mongolian letter ali gali nga
+6283,mongolian letter ali gali ca
+6284,mongolian letter ali gali tta
+6285,mongolian letter ali gali ttha
+6286,mongolian letter ali gali dda
+6287,mongolian letter ali gali nna
+6288,mongolian letter ali gali ta
+6289,mongolian letter ali gali da
+6290,mongolian letter ali gali pa
+6291,mongolian letter ali gali pha
+6292,mongolian letter ali gali ssa
+6293,mongolian letter ali gali zha
+6294,mongolian letter ali gali za
+6295,mongolian letter ali gali ah
+6296,mongolian letter todo ali gali ta
+6297,mongolian letter todo ali gali zha
+6298,mongolian letter manchu ali gali gha
+6299,mongolian letter manchu ali gali nga
+6300,mongolian letter manchu ali gali ca
+6301,mongolian letter manchu ali gali jha
+6302,mongolian letter manchu ali gali tta
+6303,mongolian letter manchu ali gali ddha
+6304,mongolian letter manchu ali gali ta
+6305,mongolian letter manchu ali gali dha
+6306,mongolian letter manchu ali gali ssa
+6307,mongolian letter manchu ali gali cya
+6308,mongolian letter manchu ali gali zha
+6309,mongolian letter manchu ali gali za
+6310,mongolian letter ali gali half u
+6311,mongolian letter ali gali half ya
+6312,mongolian letter manchu ali gali bha
+6313,mongolian letter ali gali dagalga
+6314,mongolian letter manchu ali gali lha

@@ -1,0 +1,71 @@
+43648,tai viet letter low ko
+43649,tai viet letter high ko
+43650,tai viet letter low kho
+43651,tai viet letter high kho
+43652,tai viet letter low khho
+43653,tai viet letter high khho
+43654,tai viet letter low go
+43655,tai viet letter high go
+43656,tai viet letter low ngo
+43657,tai viet letter high ngo
+43658,tai viet letter low co
+43659,tai viet letter high co
+43660,tai viet letter low cho
+43661,tai viet letter high cho
+43662,tai viet letter low so
+43663,tai viet letter high so
+43664,tai viet letter low nyo
+43665,tai viet letter high nyo
+43666,tai viet letter low do
+43667,tai viet letter high do
+43668,tai viet letter low to
+43669,tai viet letter high to
+43670,tai viet letter low tho
+43671,tai viet letter high tho
+43672,tai viet letter low no
+43673,tai viet letter high no
+43674,tai viet letter low bo
+43675,tai viet letter high bo
+43676,tai viet letter low po
+43677,tai viet letter high po
+43678,tai viet letter low pho
+43679,tai viet letter high pho
+43680,tai viet letter low fo
+43681,tai viet letter high fo
+43682,tai viet letter low mo
+43683,tai viet letter high mo
+43684,tai viet letter low yo
+43685,tai viet letter high yo
+43686,tai viet letter low ro
+43687,tai viet letter high ro
+43688,tai viet letter low lo
+43689,tai viet letter high lo
+43690,tai viet letter low vo
+43691,tai viet letter high vo
+43692,tai viet letter low ho
+43693,tai viet letter high ho
+43694,tai viet letter low o
+43695,tai viet letter high o
+43696,tai viet mai kang
+43697,tai viet vowel aa
+43698,tai viet vowel i
+43699,tai viet vowel ue
+43700,tai viet vowel u
+43701,tai viet vowel e
+43702,tai viet vowel o
+43703,tai viet mai khit
+43704,tai viet vowel ia
+43705,tai viet vowel uea
+43706,tai viet vowel ua
+43707,tai viet vowel aue
+43708,tai viet vowel ay
+43709,tai viet vowel an
+43710,tai viet vowel am
+43711,tai viet tone mai ek
+43712,tai viet tone mai nueng
+43713,tai viet tone mai tho
+43714,tai viet tone mai song
+43739,tai viet symbol kon
+43740,tai viet symbol nueng
+43741,tai viet symbol sam
+43742,tai viet symbol ho hoi

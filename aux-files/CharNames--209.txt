@@ -1,0 +1,47 @@
+69248,yezidi letter elif
+69249,yezidi letter be
+69250,yezidi letter pe
+69251,yezidi letter phe
+69252,yezidi letter the
+69253,yezidi letter se
+69254,yezidi letter cim
+69255,yezidi letter chim
+69256,yezidi letter chhim
+69257,yezidi letter hha
+69258,yezidi letter xa
+69259,yezidi letter dal
+69260,yezidi letter zal
+69261,yezidi letter ra
+69262,yezidi letter rha
+69263,yezidi letter za
+69264,yezidi letter ja
+69265,yezidi letter sin
+69266,yezidi letter shin
+69267,yezidi letter sad
+69268,yezidi letter dad
+69269,yezidi letter ta
+69270,yezidi letter ze
+69271,yezidi letter eyn
+69272,yezidi letter xheyn
+69273,yezidi letter fa
+69274,yezidi letter va
+69275,yezidi letter va alternate form
+69276,yezidi letter qaf
+69277,yezidi letter kaf
+69278,yezidi letter khaf
+69279,yezidi letter gaf
+69280,yezidi letter lam
+69281,yezidi letter mim
+69282,yezidi letter nun
+69283,yezidi letter um
+69284,yezidi letter waw
+69285,yezidi letter ow
+69286,yezidi letter ew
+69287,yezidi letter hay
+69288,yezidi letter yot
+69289,yezidi letter et
+69291,yezidi combining hamza mark
+69292,yezidi combining madda mark
+69293,yezidi hyphenation mark
+69296,yezidi letter lam with dot above
+69297,yezidi letter yot with circumflex above

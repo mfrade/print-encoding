@@ -1,0 +1,196 @@
+74880,cuneiform sign ab times nun tenu
+74881,cuneiform sign ab times shu2
+74882,cuneiform sign ad times esh2
+74883,cuneiform sign bad times dish tenu
+74884,cuneiform sign bahar2 times ab2
+74885,cuneiform sign bahar2 times ni
+74886,cuneiform sign bahar2 times za
+74887,cuneiform sign bu over bu times na2
+74888,cuneiform sign da times tak4
+74889,cuneiform sign dag times kur
+74890,cuneiform sign dim times igi
+74891,cuneiform sign dim times u u u
+74892,cuneiform sign dim2 times ud
+74893,cuneiform sign dug times anshe
+74894,cuneiform sign dug times ash
+74895,cuneiform sign dug times ash at left
+74896,cuneiform sign dug times din
+74897,cuneiform sign dug times dun
+74898,cuneiform sign dug times erin2
+74899,cuneiform sign dug times ga
+74900,cuneiform sign dug times gi
+74901,cuneiform sign dug times gir2 gunu
+74902,cuneiform sign dug times gish
+74903,cuneiform sign dug times ha
+74904,cuneiform sign dug times hi
+74905,cuneiform sign dug times igi gunu
+74906,cuneiform sign dug times kaskal
+74907,cuneiform sign dug times kur
+74908,cuneiform sign dug times kushu2
+74909,cuneiform sign dug times kushu2 plus kaskal
+74910,cuneiform sign dug times lak-020
+74911,cuneiform sign dug times lam
+74912,cuneiform sign dug times lam times kur
+74913,cuneiform sign dug times luh plus gish
+74914,cuneiform sign dug times mash
+74915,cuneiform sign dug times mes
+74916,cuneiform sign dug times mi
+74917,cuneiform sign dug times ni
+74918,cuneiform sign dug times pi
+74919,cuneiform sign dug times she
+74920,cuneiform sign dug times si gunu
+74921,cuneiform sign e2 times kur
+74922,cuneiform sign e2 times pap
+74923,cuneiform sign erin2 x
+74924,cuneiform sign esh2 crossing esh2
+74925,cuneiform sign ezen sheshig times ash
+74926,cuneiform sign ezen sheshig times hi
+74927,cuneiform sign ezen sheshig times igi gunu
+74928,cuneiform sign ezen sheshig times la
+74929,cuneiform sign ezen sheshig times lal
+74930,cuneiform sign ezen sheshig times me
+74931,cuneiform sign ezen sheshig times mes
+74932,cuneiform sign ezen sheshig times su
+74933,cuneiform sign ezen times su
+74934,cuneiform sign ga2 times bahar2
+74935,cuneiform sign ga2 times dim gunu
+74936,cuneiform sign ga2 times dug times igi gunu
+74937,cuneiform sign ga2 times dug times kaskal
+74938,cuneiform sign ga2 times eren
+74939,cuneiform sign ga2 times ga
+74940,cuneiform sign ga2 times gar plus di
+74941,cuneiform sign ga2 times gar plus ne
+74942,cuneiform sign ga2 times ha plus a
+74943,cuneiform sign ga2 times kushu2 plus kaskal
+74944,cuneiform sign ga2 times lam
+74945,cuneiform sign ga2 times lam times kur
+74946,cuneiform sign ga2 times luh
+74947,cuneiform sign ga2 times mush
+74948,cuneiform sign ga2 times ne
+74949,cuneiform sign ga2 times ne plus e2
+74950,cuneiform sign ga2 times ne plus gi
+74951,cuneiform sign ga2 times shim
+74952,cuneiform sign ga2 times ziz2
+74953,cuneiform sign gaba rotated ninety degrees
+74954,cuneiform sign geshtin times u
+74955,cuneiform sign gish times gish crossing gish
+74956,cuneiform sign gu2 times igi gunu
+74957,cuneiform sign gud plus gish times tak4
+74958,cuneiform sign ha tenu gunu
+74959,cuneiform sign hi times ash over hi times ash
+74960,cuneiform sign ka times bu
+74961,cuneiform sign ka times ka
+74962,cuneiform sign ka times u u u
+74963,cuneiform sign ka times ur
+74964,cuneiform sign lagab times zu over zu
+74965,cuneiform sign lak-003
+74966,cuneiform sign lak-021
+74967,cuneiform sign lak-025
+74968,cuneiform sign lak-030
+74969,cuneiform sign lak-050
+74970,cuneiform sign lak-051
+74971,cuneiform sign lak-062
+74972,cuneiform sign lak-079 over lak-079 gunu
+74973,cuneiform sign lak-080
+74974,cuneiform sign lak-081 over lak-081
+74975,cuneiform sign lak-092
+74976,cuneiform sign lak-130
+74977,cuneiform sign lak-142
+74978,cuneiform sign lak-210
+74979,cuneiform sign lak-219
+74980,cuneiform sign lak-220
+74981,cuneiform sign lak-225
+74982,cuneiform sign lak-228
+74983,cuneiform sign lak-238
+74984,cuneiform sign lak-265
+74985,cuneiform sign lak-266
+74986,cuneiform sign lak-343
+74987,cuneiform sign lak-347
+74988,cuneiform sign lak-348
+74989,cuneiform sign lak-383
+74990,cuneiform sign lak-384
+74991,cuneiform sign lak-390
+74992,cuneiform sign lak-441
+74993,cuneiform sign lak-449
+74994,cuneiform sign lak-449 times gu
+74995,cuneiform sign lak-449 times igi
+74996,cuneiform sign lak-449 times pap plus lu3
+74997,cuneiform sign lak-449 times pap plus pap plus lu3
+74998,cuneiform sign lak-449 times u2 plus ba
+74999,cuneiform sign lak-450
+75000,cuneiform sign lak-457
+75001,cuneiform sign lak-470
+75002,cuneiform sign lak-483
+75003,cuneiform sign lak-490
+75004,cuneiform sign lak-492
+75005,cuneiform sign lak-493
+75006,cuneiform sign lak-495
+75007,cuneiform sign lak-550
+75008,cuneiform sign lak-608
+75009,cuneiform sign lak-617
+75010,cuneiform sign lak-617 times ash
+75011,cuneiform sign lak-617 times bad
+75012,cuneiform sign lak-617 times dun3 gunu gunu
+75013,cuneiform sign lak-617 times ku3
+75014,cuneiform sign lak-617 times la
+75015,cuneiform sign lak-617 times tar
+75016,cuneiform sign lak-617 times te
+75017,cuneiform sign lak-617 times u2
+75018,cuneiform sign lak-617 times ud
+75019,cuneiform sign lak-617 times uruda
+75020,cuneiform sign lak-636
+75021,cuneiform sign lak-648
+75022,cuneiform sign lak-648 times dub
+75023,cuneiform sign lak-648 times ga
+75024,cuneiform sign lak-648 times igi
+75025,cuneiform sign lak-648 times igi gunu
+75026,cuneiform sign lak-648 times ni
+75027,cuneiform sign lak-648 times pap plus pap plus lu3
+75028,cuneiform sign lak-648 times shesh plus ki
+75029,cuneiform sign lak-648 times ud
+75030,cuneiform sign lak-648 times uruda
+75031,cuneiform sign lak-724
+75032,cuneiform sign lak-749
+75033,cuneiform sign lu2 gunu times ash
+75034,cuneiform sign lu2 times dish
+75035,cuneiform sign lu2 times hal
+75036,cuneiform sign lu2 times pap
+75037,cuneiform sign lu2 times pap plus pap plus lu3
+75038,cuneiform sign lu2 times tak4
+75039,cuneiform sign mi plus za7
+75040,cuneiform sign mush over mush times ga
+75041,cuneiform sign mush over mush times kak
+75042,cuneiform sign ninda2 times dim gunu
+75043,cuneiform sign ninda2 times gish
+75044,cuneiform sign ninda2 times gul
+75045,cuneiform sign ninda2 times hi
+75046,cuneiform sign ninda2 times kesh2
+75047,cuneiform sign ninda2 times lak-050
+75048,cuneiform sign ninda2 times mash
+75049,cuneiform sign ninda2 times pap plus pap
+75050,cuneiform sign ninda2 times u
+75051,cuneiform sign ninda2 times u plus u
+75052,cuneiform sign ninda2 times uruda
+75053,cuneiform sign sag gunu times ha
+75054,cuneiform sign sag times en
+75055,cuneiform sign sag times she at left
+75056,cuneiform sign sag times tak4
+75057,cuneiform sign sha6 tenu
+75058,cuneiform sign she over she
+75059,cuneiform sign she plus hub2
+75060,cuneiform sign she plus nam2
+75061,cuneiform sign she plus sar
+75062,cuneiform sign shu2 plus dug times ni
+75063,cuneiform sign shu2 plus e2 times an
+75064,cuneiform sign si times tak4
+75065,cuneiform sign tak4 plus sag
+75066,cuneiform sign tum times gan2 tenu
+75067,cuneiform sign tum times three dish
+75068,cuneiform sign ur2 inverted
+75069,cuneiform sign ur2 times ud
+75070,cuneiform sign uru times dara3
+75071,cuneiform sign uru times lak-668
+75072,cuneiform sign uru times lu3
+75073,cuneiform sign za7
+75074,cuneiform sign zu over zu plus sar
+75075,cuneiform sign zu5 times three dish tenu

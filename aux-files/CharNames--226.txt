@@ -1,0 +1,86 @@
+70400,grantha sign combining anusvara above
+70401,grantha sign candrabindu
+70402,grantha sign anusvara
+70403,grantha sign visarga
+70405,grantha letter a
+70406,grantha letter aa
+70407,grantha letter i
+70408,grantha letter ii
+70409,grantha letter u
+70410,grantha letter uu
+70411,grantha letter vocalic r
+70412,grantha letter vocalic l
+70415,grantha letter ee
+70416,grantha letter ai
+70419,grantha letter oo
+70420,grantha letter au
+70421,grantha letter ka
+70422,grantha letter kha
+70423,grantha letter ga
+70424,grantha letter gha
+70425,grantha letter nga
+70426,grantha letter ca
+70427,grantha letter cha
+70428,grantha letter ja
+70429,grantha letter jha
+70430,grantha letter nya
+70431,grantha letter tta
+70432,grantha letter ttha
+70433,grantha letter dda
+70434,grantha letter ddha
+70435,grantha letter nna
+70436,grantha letter ta
+70437,grantha letter tha
+70438,grantha letter da
+70439,grantha letter dha
+70440,grantha letter na
+70442,grantha letter pa
+70443,grantha letter pha
+70444,grantha letter ba
+70445,grantha letter bha
+70446,grantha letter ma
+70447,grantha letter ya
+70448,grantha letter ra
+70450,grantha letter la
+70451,grantha letter lla
+70453,grantha letter va
+70454,grantha letter sha
+70455,grantha letter ssa
+70456,grantha letter sa
+70457,grantha letter ha
+70459,combining bindu below
+70460,grantha sign nukta
+70461,grantha sign avagraha
+70462,grantha vowel sign aa
+70463,grantha vowel sign i
+70464,grantha vowel sign ii
+70465,grantha vowel sign u
+70466,grantha vowel sign uu
+70467,grantha vowel sign vocalic r
+70468,grantha vowel sign vocalic rr
+70471,grantha vowel sign ee
+70472,grantha vowel sign ai
+70475,grantha vowel sign oo
+70476,grantha vowel sign au
+70477,grantha sign virama
+70480,grantha om
+70487,grantha au length mark
+70493,grantha sign pluta
+70494,grantha letter vedic anusvara
+70495,grantha letter vedic double anusvara
+70496,grantha letter vocalic rr
+70497,grantha letter vocalic ll
+70498,grantha vowel sign vocalic l
+70499,grantha vowel sign vocalic ll
+70502,combining grantha digit zero
+70503,combining grantha digit one
+70504,combining grantha digit two
+70505,combining grantha digit three
+70506,combining grantha digit four
+70507,combining grantha digit five
+70508,combining grantha digit six
+70512,combining grantha letter a
+70513,combining grantha letter ka
+70514,combining grantha letter na
+70515,combining grantha letter vi
+70516,combining grantha letter pa

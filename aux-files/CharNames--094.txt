@@ -1,0 +1,127 @@
+10624,triple vertical bar delimiter
+10625,z notation spot
+10626,z notation type colon
+10627,left white curly bracket
+10628,right white curly bracket
+10629,left white parenthesis
+10630,right white parenthesis
+10631,z notation left image bracket
+10632,z notation right image bracket
+10633,z notation left binding bracket
+10634,z notation right binding bracket
+10635,left square bracket with underbar
+10636,right square bracket with underbar
+10637,left square bracket with tick in top corner
+10638,right square bracket with tick in bottom corner
+10639,left square bracket with tick in bottom corner
+10640,right square bracket with tick in top corner
+10641,left angle bracket with dot
+10642,right angle bracket with dot
+10643,left arc less-than bracket
+10644,right arc greater-than bracket
+10645,double left arc greater-than bracket
+10646,double right arc less-than bracket
+10647,left black tortoise shell bracket
+10648,right black tortoise shell bracket
+10649,dotted fence
+10650,vertical zigzag line
+10651,measured angle opening left
+10652,right angle variant with square
+10653,measured right angle with dot
+10654,angle with s inside
+10655,acute angle
+10656,spherical angle opening left
+10657,spherical angle opening up
+10658,turned angle
+10659,reversed angle
+10660,angle with underbar
+10661,reversed angle with underbar
+10662,oblique angle opening up
+10663,oblique angle opening down
+10664,measured angle with open arm ending in arrow pointing up and right
+10665,measured angle with open arm ending in arrow pointing up and left
+10666,measured angle with open arm ending in arrow pointing down and right
+10667,measured angle with open arm ending in arrow pointing down and left
+10668,measured angle with open arm ending in arrow pointing right and up
+10669,measured angle with open arm ending in arrow pointing left and up
+10670,measured angle with open arm ending in arrow pointing right and down
+10671,measured angle with open arm ending in arrow pointing left and down
+10672,reversed empty set
+10673,empty set with overbar
+10674,empty set with small circle above
+10675,empty set with right arrow above
+10676,empty set with left arrow above
+10677,circle with horizontal bar
+10678,circled vertical bar
+10679,circled parallel
+10680,circled reverse solidus
+10681,circled perpendicular
+10682,circle divided by horizontal bar and top half divided by vertical bar
+10683,circle with superimposed x
+10684,circled anticlockwise-rotated division sign
+10685,up arrow through circle
+10686,circled white bullet
+10687,circled bullet
+10688,circled less-than
+10689,circled greater-than
+10690,circle with small circle to the right
+10691,circle with two horizontal strokes to the right
+10692,squared rising diagonal slash
+10693,squared falling diagonal slash
+10694,squared asterisk
+10695,squared small circle
+10696,squared square
+10697,two joined squares
+10698,triangle with dot above
+10699,triangle with underbar
+10700,s in triangle
+10701,triangle with serifs at bottom
+10702,right triangle above left triangle
+10703,left triangle beside vertical bar
+10704,vertical bar beside right triangle
+10705,bowtie with left half black
+10706,bowtie with right half black
+10707,black bowtie
+10708,times with left half black
+10709,times with right half black
+10710,white hourglass
+10711,black hourglass
+10712,left wiggly fence
+10713,right wiggly fence
+10714,left double wiggly fence
+10715,right double wiggly fence
+10716,incomplete infinity
+10717,tie over infinity
+10718,infinity negated with vertical bar
+10719,double-ended multimap
+10720,square with contoured outline
+10721,increases as
+10722,shuffle product
+10723,equals sign and slanted parallel
+10724,equals sign and slanted parallel with tilde above
+10725,identical to and slanted parallel
+10726,gleich stark
+10727,thermodynamic
+10728,down-pointing triangle with left half black
+10729,down-pointing triangle with right half black
+10730,black diamond with down arrow
+10731,black lozenge
+10732,white circle with down arrow
+10733,black circle with down arrow
+10734,error-barred white square
+10735,error-barred black square
+10736,error-barred white diamond
+10737,error-barred black diamond
+10738,error-barred white circle
+10739,error-barred black circle
+10740,rule-delayed
+10741,reverse solidus operator
+10742,solidus with overbar
+10743,reverse solidus with horizontal stroke
+10744,big solidus
+10745,big reverse solidus
+10746,double plus
+10747,triple plus
+10748,left-pointing curved angle bracket
+10749,right-pointing curved angle bracket
+10750,tiny

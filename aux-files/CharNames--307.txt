@@ -1,0 +1,47 @@
+128592,north west pointing leaf
+128593,south west pointing leaf
+128594,north east pointing leaf
+128595,south east pointing leaf
+128596,turned north west pointing leaf
+128597,turned south west pointing leaf
+128598,turned north east pointing leaf
+128599,turned south east pointing leaf
+128600,north west pointing vine leaf
+128601,south west pointing vine leaf
+128602,north east pointing vine leaf
+128603,south east pointing vine leaf
+128604,heavy north west pointing vine leaf
+128605,heavy south west pointing vine leaf
+128606,heavy north east pointing vine leaf
+128607,heavy south east pointing vine leaf
+128608,north west pointing bud
+128609,south west pointing bud
+128610,north east pointing bud
+128611,south east pointing bud
+128612,heavy north west pointing bud
+128613,heavy south west pointing bud
+128614,heavy north east pointing bud
+128615,heavy south east pointing bud
+128616,hollow quilt square ornament
+128617,hollow quilt square ornament in black square
+128618,solid quilt square ornament
+128619,solid quilt square ornament in black square
+128620,leftwards rocket
+128621,upwards rocket
+128622,rightwards rocket
+128623,downwards rocket
+128624,script ligature et ornament
+128625,heavy script ligature et ornament
+128626,ligature open et ornament
+128627,heavy ligature open et ornament
+128628,heavy ampersand ornament
+128629,swash ampersand ornament
+128630,sans-serif heavy double turned comma quotation mark ornament
+128631,sans-serif heavy double comma quotation mark ornament
+128632,sans-serif heavy low double comma quotation mark ornament
+128633,heavy interrobang ornament
+128634,sans-serif interrobang ornament
+128635,heavy sans-serif interrobang ornament
+128636,very heavy solidus
+128637,very heavy reverse solidus
+128638,checker board

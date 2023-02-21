@@ -1,0 +1,31 @@
+123536,toto letter pa
+123537,toto letter ba
+123538,toto letter ta
+123539,toto letter da
+123540,toto letter ka
+123541,toto letter ga
+123542,toto letter ma
+123543,toto letter na
+123544,toto letter nga
+123545,toto letter sa
+123546,toto letter cha
+123547,toto letter ya
+123548,toto letter wa
+123549,toto letter ja
+123550,toto letter ha
+123551,toto letter ra
+123552,toto letter la
+123553,toto letter i
+123554,toto letter breathy i
+123555,toto letter iu
+123556,toto letter breathy iu
+123557,toto letter u
+123558,toto letter e
+123559,toto letter breathy e
+123560,toto letter eo
+123561,toto letter breathy eo
+123562,toto letter o
+123563,toto letter ae
+123564,toto letter breathy ae
+123565,toto letter a
+123566,toto sign rising tone

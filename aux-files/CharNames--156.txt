@@ -1,0 +1,662 @@
+64336,arabic letter alef wasla isolated form
+64337,arabic letter alef wasla final form
+64338,arabic letter beeh isolated form
+64339,arabic letter beeh final form
+64340,arabic letter beeh initial form
+64341,arabic letter beeh medial form
+64342,arabic letter peh isolated form
+64343,arabic letter peh final form
+64344,arabic letter peh initial form
+64345,arabic letter peh medial form
+64346,arabic letter beheh isolated form
+64347,arabic letter beheh final form
+64348,arabic letter beheh initial form
+64349,arabic letter beheh medial form
+64350,arabic letter tteheh isolated form
+64351,arabic letter tteheh final form
+64352,arabic letter tteheh initial form
+64353,arabic letter tteheh medial form
+64354,arabic letter teheh isolated form
+64355,arabic letter teheh final form
+64356,arabic letter teheh initial form
+64357,arabic letter teheh medial form
+64358,arabic letter tteh isolated form
+64359,arabic letter tteh final form
+64360,arabic letter tteh initial form
+64361,arabic letter tteh medial form
+64362,arabic letter veh isolated form
+64363,arabic letter veh final form
+64364,arabic letter veh initial form
+64365,arabic letter veh medial form
+64366,arabic letter peheh isolated form
+64367,arabic letter peheh final form
+64368,arabic letter peheh initial form
+64369,arabic letter peheh medial form
+64370,arabic letter dyeh isolated form
+64371,arabic letter dyeh final form
+64372,arabic letter dyeh initial form
+64373,arabic letter dyeh medial form
+64374,arabic letter nyeh isolated form
+64375,arabic letter nyeh final form
+64376,arabic letter nyeh initial form
+64377,arabic letter nyeh medial form
+64378,arabic letter tcheh isolated form
+64379,arabic letter tcheh final form
+64380,arabic letter tcheh initial form
+64381,arabic letter tcheh medial form
+64382,arabic letter tcheheh isolated form
+64383,arabic letter tcheheh final form
+64384,arabic letter tcheheh initial form
+64385,arabic letter tcheheh medial form
+64386,arabic letter ddahal isolated form
+64387,arabic letter ddahal final form
+64388,arabic letter dahal isolated form
+64389,arabic letter dahal final form
+64390,arabic letter dul isolated form
+64391,arabic letter dul final form
+64392,arabic letter ddal isolated form
+64393,arabic letter ddal final form
+64394,arabic letter jeh isolated form
+64395,arabic letter jeh final form
+64396,arabic letter rreh isolated form
+64397,arabic letter rreh final form
+64398,arabic letter keheh isolated form
+64399,arabic letter keheh final form
+64400,arabic letter keheh initial form
+64401,arabic letter keheh medial form
+64402,arabic letter gaf isolated form
+64403,arabic letter gaf final form
+64404,arabic letter gaf initial form
+64405,arabic letter gaf medial form
+64406,arabic letter gueh isolated form
+64407,arabic letter gueh final form
+64408,arabic letter gueh initial form
+64409,arabic letter gueh medial form
+64410,arabic letter ngoeh isolated form
+64411,arabic letter ngoeh final form
+64412,arabic letter ngoeh initial form
+64413,arabic letter ngoeh medial form
+64414,arabic letter noon ghunna isolated form
+64415,arabic letter noon ghunna final form
+64416,arabic letter rnoon isolated form
+64417,arabic letter rnoon final form
+64418,arabic letter rnoon initial form
+64419,arabic letter rnoon medial form
+64420,arabic letter heh with yeh above isolated form
+64421,arabic letter heh with yeh above final form
+64422,arabic letter heh goal isolated form
+64423,arabic letter heh goal final form
+64424,arabic letter heh goal initial form
+64425,arabic letter heh goal medial form
+64426,arabic letter heh doachashmee isolated form
+64427,arabic letter heh doachashmee final form
+64428,arabic letter heh doachashmee initial form
+64429,arabic letter heh doachashmee medial form
+64430,arabic letter yeh barree isolated form
+64431,arabic letter yeh barree final form
+64432,arabic letter yeh barree with hamza above isolated form
+64433,arabic letter yeh barree with hamza above final form
+64434,arabic symbol dot above
+64435,arabic symbol dot below
+64436,arabic symbol two dots above
+64437,arabic symbol two dots below
+64438,arabic symbol three dots above
+64439,arabic symbol three dots below
+64440,arabic symbol three dots pointing downwards above
+64441,arabic symbol three dots pointing downwards below
+64442,arabic symbol four dots above
+64443,arabic symbol four dots below
+64444,arabic symbol double vertical bar below
+64445,arabic symbol two dots vertically above
+64446,arabic symbol two dots vertically below
+64447,arabic symbol ring
+64448,arabic symbol small tah above
+64449,arabic symbol small tah below
+64450,arabic symbol wasla above
+64467,arabic letter ng isolated form
+64468,arabic letter ng final form
+64469,arabic letter ng initial form
+64470,arabic letter ng medial form
+64471,arabic letter u isolated form
+64472,arabic letter u final form
+64473,arabic letter oe isolated form
+64474,arabic letter oe final form
+64475,arabic letter yu isolated form
+64476,arabic letter yu final form
+64477,arabic letter u with hamza above isolated form
+64478,arabic letter ve isolated form
+64479,arabic letter ve final form
+64480,arabic letter kirghiz oe isolated form
+64481,arabic letter kirghiz oe final form
+64482,arabic letter kirghiz yu isolated form
+64483,arabic letter kirghiz yu final form
+64484,arabic letter e isolated form
+64485,arabic letter e final form
+64486,arabic letter e initial form
+64487,arabic letter e medial form
+64488,arabic letter uighur kazakh kirghiz alef maksura initial form
+64489,arabic letter uighur kazakh kirghiz alef maksura medial form
+64490,arabic ligature yeh with hamza above with alef isolated form
+64491,arabic ligature yeh with hamza above with alef final form
+64492,arabic ligature yeh with hamza above with ae isolated form
+64493,arabic ligature yeh with hamza above with ae final form
+64494,arabic ligature yeh with hamza above with waw isolated form
+64495,arabic ligature yeh with hamza above with waw final form
+64496,arabic ligature yeh with hamza above with u isolated form
+64497,arabic ligature yeh with hamza above with u final form
+64498,arabic ligature yeh with hamza above with oe isolated form
+64499,arabic ligature yeh with hamza above with oe final form
+64500,arabic ligature yeh with hamza above with yu isolated form
+64501,arabic ligature yeh with hamza above with yu final form
+64502,arabic ligature yeh with hamza above with e isolated form
+64503,arabic ligature yeh with hamza above with e final form
+64504,arabic ligature yeh with hamza above with e initial form
+64505,arabic ligature uighur kirghiz yeh with hamza above with alef maksura isolated form
+64506,arabic ligature uighur kirghiz yeh with hamza above with alef maksura final form
+64507,arabic ligature uighur kirghiz yeh with hamza above with alef maksura initial form
+64508,arabic letter farsi yeh isolated form
+64509,arabic letter farsi yeh final form
+64510,arabic letter farsi yeh initial form
+64511,arabic letter farsi yeh medial form
+64512,arabic ligature yeh with hamza above with jeem isolated form
+64513,arabic ligature yeh with hamza above with hah isolated form
+64514,arabic ligature yeh with hamza above with meem isolated form
+64515,arabic ligature yeh with hamza above with alef maksura isolated form
+64516,arabic ligature yeh with hamza above with yeh isolated form
+64517,arabic ligature beh with jeem isolated form
+64518,arabic ligature beh with hah isolated form
+64519,arabic ligature beh with khah isolated form
+64520,arabic ligature beh with meem isolated form
+64521,arabic ligature beh with alef maksura isolated form
+64522,arabic ligature beh with yeh isolated form
+64523,arabic ligature teh with jeem isolated form
+64524,arabic ligature teh with hah isolated form
+64525,arabic ligature teh with khah isolated form
+64526,arabic ligature teh with meem isolated form
+64527,arabic ligature teh with alef maksura isolated form
+64528,arabic ligature teh with yeh isolated form
+64529,arabic ligature theh with jeem isolated form
+64530,arabic ligature theh with meem isolated form
+64531,arabic ligature theh with alef maksura isolated form
+64532,arabic ligature theh with yeh isolated form
+64533,arabic ligature jeem with hah isolated form
+64534,arabic ligature jeem with meem isolated form
+64535,arabic ligature hah with jeem isolated form
+64536,arabic ligature hah with meem isolated form
+64537,arabic ligature khah with jeem isolated form
+64538,arabic ligature khah with hah isolated form
+64539,arabic ligature khah with meem isolated form
+64540,arabic ligature seen with jeem isolated form
+64541,arabic ligature seen with hah isolated form
+64542,arabic ligature seen with khah isolated form
+64543,arabic ligature seen with meem isolated form
+64544,arabic ligature sad with hah isolated form
+64545,arabic ligature sad with meem isolated form
+64546,arabic ligature dad with jeem isolated form
+64547,arabic ligature dad with hah isolated form
+64548,arabic ligature dad with khah isolated form
+64549,arabic ligature dad with meem isolated form
+64550,arabic ligature tah with hah isolated form
+64551,arabic ligature tah with meem isolated form
+64552,arabic ligature zah with meem isolated form
+64553,arabic ligature ain with jeem isolated form
+64554,arabic ligature ain with meem isolated form
+64555,arabic ligature ghain with jeem isolated form
+64556,arabic ligature ghain with meem isolated form
+64557,arabic ligature feh with jeem isolated form
+64558,arabic ligature feh with hah isolated form
+64559,arabic ligature feh with khah isolated form
+64560,arabic ligature feh with meem isolated form
+64561,arabic ligature feh with alef maksura isolated form
+64562,arabic ligature feh with yeh isolated form
+64563,arabic ligature qaf with hah isolated form
+64564,arabic ligature qaf with meem isolated form
+64565,arabic ligature qaf with alef maksura isolated form
+64566,arabic ligature qaf with yeh isolated form
+64567,arabic ligature kaf with alef isolated form
+64568,arabic ligature kaf with jeem isolated form
+64569,arabic ligature kaf with hah isolated form
+64570,arabic ligature kaf with khah isolated form
+64571,arabic ligature kaf with lam isolated form
+64572,arabic ligature kaf with meem isolated form
+64573,arabic ligature kaf with alef maksura isolated form
+64574,arabic ligature kaf with yeh isolated form
+64575,arabic ligature lam with jeem isolated form
+64576,arabic ligature lam with hah isolated form
+64577,arabic ligature lam with khah isolated form
+64578,arabic ligature lam with meem isolated form
+64579,arabic ligature lam with alef maksura isolated form
+64580,arabic ligature lam with yeh isolated form
+64581,arabic ligature meem with jeem isolated form
+64582,arabic ligature meem with hah isolated form
+64583,arabic ligature meem with khah isolated form
+64584,arabic ligature meem with meem isolated form
+64585,arabic ligature meem with alef maksura isolated form
+64586,arabic ligature meem with yeh isolated form
+64587,arabic ligature noon with jeem isolated form
+64588,arabic ligature noon with hah isolated form
+64589,arabic ligature noon with khah isolated form
+64590,arabic ligature noon with meem isolated form
+64591,arabic ligature noon with alef maksura isolated form
+64592,arabic ligature noon with yeh isolated form
+64593,arabic ligature heh with jeem isolated form
+64594,arabic ligature heh with meem isolated form
+64595,arabic ligature heh with alef maksura isolated form
+64596,arabic ligature heh with yeh isolated form
+64597,arabic ligature yeh with jeem isolated form
+64598,arabic ligature yeh with hah isolated form
+64599,arabic ligature yeh with khah isolated form
+64600,arabic ligature yeh with meem isolated form
+64601,arabic ligature yeh with alef maksura isolated form
+64602,arabic ligature yeh with yeh isolated form
+64603,arabic ligature thal with superscript alef isolated form
+64604,arabic ligature reh with superscript alef isolated form
+64605,arabic ligature alef maksura with superscript alef isolated form
+64606,arabic ligature shadda with dammatan isolated form
+64607,arabic ligature shadda with kasratan isolated form
+64608,arabic ligature shadda with fatha isolated form
+64609,arabic ligature shadda with damma isolated form
+64610,arabic ligature shadda with kasra isolated form
+64611,arabic ligature shadda with superscript alef isolated form
+64612,arabic ligature yeh with hamza above with reh final form
+64613,arabic ligature yeh with hamza above with zain final form
+64614,arabic ligature yeh with hamza above with meem final form
+64615,arabic ligature yeh with hamza above with noon final form
+64616,arabic ligature yeh with hamza above with alef maksura final form
+64617,arabic ligature yeh with hamza above with yeh final form
+64618,arabic ligature beh with reh final form
+64619,arabic ligature beh with zain final form
+64620,arabic ligature beh with meem final form
+64621,arabic ligature beh with noon final form
+64622,arabic ligature beh with alef maksura final form
+64623,arabic ligature beh with yeh final form
+64624,arabic ligature teh with reh final form
+64625,arabic ligature teh with zain final form
+64626,arabic ligature teh with meem final form
+64627,arabic ligature teh with noon final form
+64628,arabic ligature teh with alef maksura final form
+64629,arabic ligature teh with yeh final form
+64630,arabic ligature theh with reh final form
+64631,arabic ligature theh with zain final form
+64632,arabic ligature theh with meem final form
+64633,arabic ligature theh with noon final form
+64634,arabic ligature theh with alef maksura final form
+64635,arabic ligature theh with yeh final form
+64636,arabic ligature feh with alef maksura final form
+64637,arabic ligature feh with yeh final form
+64638,arabic ligature qaf with alef maksura final form
+64639,arabic ligature qaf with yeh final form
+64640,arabic ligature kaf with alef final form
+64641,arabic ligature kaf with lam final form
+64642,arabic ligature kaf with meem final form
+64643,arabic ligature kaf with alef maksura final form
+64644,arabic ligature kaf with yeh final form
+64645,arabic ligature lam with meem final form
+64646,arabic ligature lam with alef maksura final form
+64647,arabic ligature lam with yeh final form
+64648,arabic ligature meem with alef final form
+64649,arabic ligature meem with meem final form
+64650,arabic ligature noon with reh final form
+64651,arabic ligature noon with zain final form
+64652,arabic ligature noon with meem final form
+64653,arabic ligature noon with noon final form
+64654,arabic ligature noon with alef maksura final form
+64655,arabic ligature noon with yeh final form
+64656,arabic ligature alef maksura with superscript alef final form
+64657,arabic ligature yeh with reh final form
+64658,arabic ligature yeh with zain final form
+64659,arabic ligature yeh with meem final form
+64660,arabic ligature yeh with noon final form
+64661,arabic ligature yeh with alef maksura final form
+64662,arabic ligature yeh with yeh final form
+64663,arabic ligature yeh with hamza above with jeem initial form
+64664,arabic ligature yeh with hamza above with hah initial form
+64665,arabic ligature yeh with hamza above with khah initial form
+64666,arabic ligature yeh with hamza above with meem initial form
+64667,arabic ligature yeh with hamza above with heh initial form
+64668,arabic ligature beh with jeem initial form
+64669,arabic ligature beh with hah initial form
+64670,arabic ligature beh with khah initial form
+64671,arabic ligature beh with meem initial form
+64672,arabic ligature beh with heh initial form
+64673,arabic ligature teh with jeem initial form
+64674,arabic ligature teh with hah initial form
+64675,arabic ligature teh with khah initial form
+64676,arabic ligature teh with meem initial form
+64677,arabic ligature teh with heh initial form
+64678,arabic ligature theh with meem initial form
+64679,arabic ligature jeem with hah initial form
+64680,arabic ligature jeem with meem initial form
+64681,arabic ligature hah with jeem initial form
+64682,arabic ligature hah with meem initial form
+64683,arabic ligature khah with jeem initial form
+64684,arabic ligature khah with meem initial form
+64685,arabic ligature seen with jeem initial form
+64686,arabic ligature seen with hah initial form
+64687,arabic ligature seen with khah initial form
+64688,arabic ligature seen with meem initial form
+64689,arabic ligature sad with hah initial form
+64690,arabic ligature sad with khah initial form
+64691,arabic ligature sad with meem initial form
+64692,arabic ligature dad with jeem initial form
+64693,arabic ligature dad with hah initial form
+64694,arabic ligature dad with khah initial form
+64695,arabic ligature dad with meem initial form
+64696,arabic ligature tah with hah initial form
+64697,arabic ligature zah with meem initial form
+64698,arabic ligature ain with jeem initial form
+64699,arabic ligature ain with meem initial form
+64700,arabic ligature ghain with jeem initial form
+64701,arabic ligature ghain with meem initial form
+64702,arabic ligature feh with jeem initial form
+64703,arabic ligature feh with hah initial form
+64704,arabic ligature feh with khah initial form
+64705,arabic ligature feh with meem initial form
+64706,arabic ligature qaf with hah initial form
+64707,arabic ligature qaf with meem initial form
+64708,arabic ligature kaf with jeem initial form
+64709,arabic ligature kaf with hah initial form
+64710,arabic ligature kaf with khah initial form
+64711,arabic ligature kaf with lam initial form
+64712,arabic ligature kaf with meem initial form
+64713,arabic ligature lam with jeem initial form
+64714,arabic ligature lam with hah initial form
+64715,arabic ligature lam with khah initial form
+64716,arabic ligature lam with meem initial form
+64717,arabic ligature lam with heh initial form
+64718,arabic ligature meem with jeem initial form
+64719,arabic ligature meem with hah initial form
+64720,arabic ligature meem with khah initial form
+64721,arabic ligature meem with meem initial form
+64722,arabic ligature noon with jeem initial form
+64723,arabic ligature noon with hah initial form
+64724,arabic ligature noon with khah initial form
+64725,arabic ligature noon with meem initial form
+64726,arabic ligature noon with heh initial form
+64727,arabic ligature heh with jeem initial form
+64728,arabic ligature heh with meem initial form
+64729,arabic ligature heh with superscript alef initial form
+64730,arabic ligature yeh with jeem initial form
+64731,arabic ligature yeh with hah initial form
+64732,arabic ligature yeh with khah initial form
+64733,arabic ligature yeh with meem initial form
+64734,arabic ligature yeh with heh initial form
+64735,arabic ligature yeh with hamza above with meem medial form
+64736,arabic ligature yeh with hamza above with heh medial form
+64737,arabic ligature beh with meem medial form
+64738,arabic ligature beh with heh medial form
+64739,arabic ligature teh with meem medial form
+64740,arabic ligature teh with heh medial form
+64741,arabic ligature theh with meem medial form
+64742,arabic ligature theh with heh medial form
+64743,arabic ligature seen with meem medial form
+64744,arabic ligature seen with heh medial form
+64745,arabic ligature sheen with meem medial form
+64746,arabic ligature sheen with heh medial form
+64747,arabic ligature kaf with lam medial form
+64748,arabic ligature kaf with meem medial form
+64749,arabic ligature lam with meem medial form
+64750,arabic ligature noon with meem medial form
+64751,arabic ligature noon with heh medial form
+64752,arabic ligature yeh with meem medial form
+64753,arabic ligature yeh with heh medial form
+64754,arabic ligature shadda with fatha medial form
+64755,arabic ligature shadda with damma medial form
+64756,arabic ligature shadda with kasra medial form
+64757,arabic ligature tah with alef maksura isolated form
+64758,arabic ligature tah with yeh isolated form
+64759,arabic ligature ain with alef maksura isolated form
+64760,arabic ligature ain with yeh isolated form
+64761,arabic ligature ghain with alef maksura isolated form
+64762,arabic ligature ghain with yeh isolated form
+64763,arabic ligature seen with alef maksura isolated form
+64764,arabic ligature seen with yeh isolated form
+64765,arabic ligature sheen with alef maksura isolated form
+64766,arabic ligature sheen with yeh isolated form
+64767,arabic ligature hah with alef maksura isolated form
+64768,arabic ligature hah with yeh isolated form
+64769,arabic ligature jeem with alef maksura isolated form
+64770,arabic ligature jeem with yeh isolated form
+64771,arabic ligature khah with alef maksura isolated form
+64772,arabic ligature khah with yeh isolated form
+64773,arabic ligature sad with alef maksura isolated form
+64774,arabic ligature sad with yeh isolated form
+64775,arabic ligature dad with alef maksura isolated form
+64776,arabic ligature dad with yeh isolated form
+64777,arabic ligature sheen with jeem isolated form
+64778,arabic ligature sheen with hah isolated form
+64779,arabic ligature sheen with khah isolated form
+64780,arabic ligature sheen with meem isolated form
+64781,arabic ligature sheen with reh isolated form
+64782,arabic ligature seen with reh isolated form
+64783,arabic ligature sad with reh isolated form
+64784,arabic ligature dad with reh isolated form
+64785,arabic ligature tah with alef maksura final form
+64786,arabic ligature tah with yeh final form
+64787,arabic ligature ain with alef maksura final form
+64788,arabic ligature ain with yeh final form
+64789,arabic ligature ghain with alef maksura final form
+64790,arabic ligature ghain with yeh final form
+64791,arabic ligature seen with alef maksura final form
+64792,arabic ligature seen with yeh final form
+64793,arabic ligature sheen with alef maksura final form
+64794,arabic ligature sheen with yeh final form
+64795,arabic ligature hah with alef maksura final form
+64796,arabic ligature hah with yeh final form
+64797,arabic ligature jeem with alef maksura final form
+64798,arabic ligature jeem with yeh final form
+64799,arabic ligature khah with alef maksura final form
+64800,arabic ligature khah with yeh final form
+64801,arabic ligature sad with alef maksura final form
+64802,arabic ligature sad with yeh final form
+64803,arabic ligature dad with alef maksura final form
+64804,arabic ligature dad with yeh final form
+64805,arabic ligature sheen with jeem final form
+64806,arabic ligature sheen with hah final form
+64807,arabic ligature sheen with khah final form
+64808,arabic ligature sheen with meem final form
+64809,arabic ligature sheen with reh final form
+64810,arabic ligature seen with reh final form
+64811,arabic ligature sad with reh final form
+64812,arabic ligature dad with reh final form
+64813,arabic ligature sheen with jeem initial form
+64814,arabic ligature sheen with hah initial form
+64815,arabic ligature sheen with khah initial form
+64816,arabic ligature sheen with meem initial form
+64817,arabic ligature seen with heh initial form
+64818,arabic ligature sheen with heh initial form
+64819,arabic ligature tah with meem initial form
+64820,arabic ligature seen with jeem medial form
+64821,arabic ligature seen with hah medial form
+64822,arabic ligature seen with khah medial form
+64823,arabic ligature sheen with jeem medial form
+64824,arabic ligature sheen with hah medial form
+64825,arabic ligature sheen with khah medial form
+64826,arabic ligature tah with meem medial form
+64827,arabic ligature zah with meem medial form
+64828,arabic ligature alef with fathatan final form
+64829,arabic ligature alef with fathatan isolated form
+64830,ornate left parenthesis
+64831,ornate right parenthesis
+64832,arabic ligature rahimahu allaah
+64833,arabic ligature radi allaahu anh
+64834,arabic ligature radi allaahu anhaa
+64835,arabic ligature radi allaahu anhum
+64836,arabic ligature radi allaahu anhumaa
+64837,arabic ligature radi allaahu anhunna
+64838,arabic ligature sallallaahu alayhi wa-aalih
+64839,arabic ligature alayhi as-salaam
+64840,arabic ligature alayhim as-salaam
+64841,arabic ligature alayhimaa as-salaam
+64842,arabic ligature alayhi as-salaatu was-salaam
+64843,arabic ligature quddisa sirrah
+64844,arabic ligature sallallahu alayhi waaalihee wa-sallam
+64845,arabic ligature alayhaa as-salaam
+64846,arabic ligature tabaaraka wa-taaalaa
+64847,arabic ligature rahimahum allaah
+64848,arabic ligature teh with jeem with meem initial form
+64849,arabic ligature teh with hah with jeem final form
+64850,arabic ligature teh with hah with jeem initial form
+64851,arabic ligature teh with hah with meem initial form
+64852,arabic ligature teh with khah with meem initial form
+64853,arabic ligature teh with meem with jeem initial form
+64854,arabic ligature teh with meem with hah initial form
+64855,arabic ligature teh with meem with khah initial form
+64856,arabic ligature jeem with meem with hah final form
+64857,arabic ligature jeem with meem with hah initial form
+64858,arabic ligature hah with meem with yeh final form
+64859,arabic ligature hah with meem with alef maksura final form
+64860,arabic ligature seen with hah with jeem initial form
+64861,arabic ligature seen with jeem with hah initial form
+64862,arabic ligature seen with jeem with alef maksura final form
+64863,arabic ligature seen with meem with hah final form
+64864,arabic ligature seen with meem with hah initial form
+64865,arabic ligature seen with meem with jeem initial form
+64866,arabic ligature seen with meem with meem final form
+64867,arabic ligature seen with meem with meem initial form
+64868,arabic ligature sad with hah with hah final form
+64869,arabic ligature sad with hah with hah initial form
+64870,arabic ligature sad with meem with meem final form
+64871,arabic ligature sheen with hah with meem final form
+64872,arabic ligature sheen with hah with meem initial form
+64873,arabic ligature sheen with jeem with yeh final form
+64874,arabic ligature sheen with meem with khah final form
+64875,arabic ligature sheen with meem with khah initial form
+64876,arabic ligature sheen with meem with meem final form
+64877,arabic ligature sheen with meem with meem initial form
+64878,arabic ligature dad with hah with alef maksura final form
+64879,arabic ligature dad with khah with meem final form
+64880,arabic ligature dad with khah with meem initial form
+64881,arabic ligature tah with meem with hah final form
+64882,arabic ligature tah with meem with hah initial form
+64883,arabic ligature tah with meem with meem initial form
+64884,arabic ligature tah with meem with yeh final form
+64885,arabic ligature ain with jeem with meem final form
+64886,arabic ligature ain with meem with meem final form
+64887,arabic ligature ain with meem with meem initial form
+64888,arabic ligature ain with meem with alef maksura final form
+64889,arabic ligature ghain with meem with meem final form
+64890,arabic ligature ghain with meem with yeh final form
+64891,arabic ligature ghain with meem with alef maksura final form
+64892,arabic ligature feh with khah with meem final form
+64893,arabic ligature feh with khah with meem initial form
+64894,arabic ligature qaf with meem with hah final form
+64895,arabic ligature qaf with meem with meem final form
+64896,arabic ligature lam with hah with meem final form
+64897,arabic ligature lam with hah with yeh final form
+64898,arabic ligature lam with hah with alef maksura final form
+64899,arabic ligature lam with jeem with jeem initial form
+64900,arabic ligature lam with jeem with jeem final form
+64901,arabic ligature lam with khah with meem final form
+64902,arabic ligature lam with khah with meem initial form
+64903,arabic ligature lam with meem with hah final form
+64904,arabic ligature lam with meem with hah initial form
+64905,arabic ligature meem with hah with jeem initial form
+64906,arabic ligature meem with hah with meem initial form
+64907,arabic ligature meem with hah with yeh final form
+64908,arabic ligature meem with jeem with hah initial form
+64909,arabic ligature meem with jeem with meem initial form
+64910,arabic ligature meem with khah with jeem initial form
+64911,arabic ligature meem with khah with meem initial form
+64914,arabic ligature meem with jeem with khah initial form
+64915,arabic ligature heh with meem with jeem initial form
+64916,arabic ligature heh with meem with meem initial form
+64917,arabic ligature noon with hah with meem initial form
+64918,arabic ligature noon with hah with alef maksura final form
+64919,arabic ligature noon with jeem with meem final form
+64920,arabic ligature noon with jeem with meem initial form
+64921,arabic ligature noon with jeem with alef maksura final form
+64922,arabic ligature noon with meem with yeh final form
+64923,arabic ligature noon with meem with alef maksura final form
+64924,arabic ligature yeh with meem with meem final form
+64925,arabic ligature yeh with meem with meem initial form
+64926,arabic ligature beh with khah with yeh final form
+64927,arabic ligature teh with jeem with yeh final form
+64928,arabic ligature teh with jeem with alef maksura final form
+64929,arabic ligature teh with khah with yeh final form
+64930,arabic ligature teh with khah with alef maksura final form
+64931,arabic ligature teh with meem with yeh final form
+64932,arabic ligature teh with meem with alef maksura final form
+64933,arabic ligature jeem with meem with yeh final form
+64934,arabic ligature jeem with hah with alef maksura final form
+64935,arabic ligature jeem with meem with alef maksura final form
+64936,arabic ligature seen with khah with alef maksura final form
+64937,arabic ligature sad with hah with yeh final form
+64938,arabic ligature sheen with hah with yeh final form
+64939,arabic ligature dad with hah with yeh final form
+64940,arabic ligature lam with jeem with yeh final form
+64941,arabic ligature lam with meem with yeh final form
+64942,arabic ligature yeh with hah with yeh final form
+64943,arabic ligature yeh with jeem with yeh final form
+64944,arabic ligature yeh with meem with yeh final form
+64945,arabic ligature meem with meem with yeh final form
+64946,arabic ligature qaf with meem with yeh final form
+64947,arabic ligature noon with hah with yeh final form
+64948,arabic ligature qaf with meem with hah initial form
+64949,arabic ligature lam with hah with meem initial form
+64950,arabic ligature ain with meem with yeh final form
+64951,arabic ligature kaf with meem with yeh final form
+64952,arabic ligature noon with jeem with hah initial form
+64953,arabic ligature meem with khah with yeh final form
+64954,arabic ligature lam with jeem with meem initial form
+64955,arabic ligature kaf with meem with meem final form
+64956,arabic ligature lam with jeem with meem final form
+64957,arabic ligature noon with jeem with hah final form
+64958,arabic ligature jeem with hah with yeh final form
+64959,arabic ligature hah with jeem with yeh final form
+64960,arabic ligature meem with jeem with yeh final form
+64961,arabic ligature feh with meem with yeh final form
+64962,arabic ligature beh with hah with yeh final form
+64963,arabic ligature kaf with meem with meem initial form
+64964,arabic ligature ain with jeem with meem initial form
+64965,arabic ligature sad with meem with meem initial form
+64966,arabic ligature seen with khah with yeh final form
+64967,arabic ligature noon with jeem with yeh final form
+64975,arabic ligature salaamuhu alaynaa
+64976,<not a character>
+64977,<not a character>
+64978,<not a character>
+64979,<not a character>
+64980,<not a character>
+64981,<not a character>
+64982,<not a character>
+64983,<not a character>
+64984,<not a character>
+64985,<not a character>
+64986,<not a character>
+64987,<not a character>
+64988,<not a character>
+64989,<not a character>
+64990,<not a character>
+64991,<not a character>
+64992,<not a character>
+64993,<not a character>
+64994,<not a character>
+64995,<not a character>
+64996,<not a character>
+64997,<not a character>
+64998,<not a character>
+64999,<not a character>
+65000,<not a character>
+65001,<not a character>
+65002,<not a character>
+65003,<not a character>
+65004,<not a character>
+65005,<not a character>
+65006,<not a character>
+65007,<not a character>
+65008,arabic ligature salla used as koranic stop sign isolated form
+65009,arabic ligature qala used as koranic stop sign isolated form
+65010,arabic ligature allah isolated form
+65011,arabic ligature akbar isolated form
+65012,arabic ligature mohammad isolated form
+65013,arabic ligature salam isolated form
+65014,arabic ligature rasoul isolated form
+65015,arabic ligature alayhe isolated form
+65016,arabic ligature wasallam isolated form
+65017,arabic ligature salla isolated form
+65018,arabic ligature sallallahou alayhe wasallam
+65019,arabic ligature jallajalalouhou
+65020,rial sign
+65021,arabic ligature bismillah ar-rahman ar-raheem
+65022,arabic ligature subhaanahu wa taaalaa

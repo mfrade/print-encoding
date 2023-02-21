@@ -1,0 +1,70 @@
+123136,nyiakeng puachue hmong letter ma
+123137,nyiakeng puachue hmong letter tsa
+123138,nyiakeng puachue hmong letter nta
+123139,nyiakeng puachue hmong letter ta
+123140,nyiakeng puachue hmong letter ha
+123141,nyiakeng puachue hmong letter na
+123142,nyiakeng puachue hmong letter xa
+123143,nyiakeng puachue hmong letter nka
+123144,nyiakeng puachue hmong letter ca
+123145,nyiakeng puachue hmong letter la
+123146,nyiakeng puachue hmong letter sa
+123147,nyiakeng puachue hmong letter za
+123148,nyiakeng puachue hmong letter nca
+123149,nyiakeng puachue hmong letter ntsa
+123150,nyiakeng puachue hmong letter ka
+123151,nyiakeng puachue hmong letter da
+123152,nyiakeng puachue hmong letter nya
+123153,nyiakeng puachue hmong letter nra
+123154,nyiakeng puachue hmong letter va
+123155,nyiakeng puachue hmong letter ntxa
+123156,nyiakeng puachue hmong letter txa
+123157,nyiakeng puachue hmong letter fa
+123158,nyiakeng puachue hmong letter ra
+123159,nyiakeng puachue hmong letter qa
+123160,nyiakeng puachue hmong letter ya
+123161,nyiakeng puachue hmong letter nqa
+123162,nyiakeng puachue hmong letter pa
+123163,nyiakeng puachue hmong letter xya
+123164,nyiakeng puachue hmong letter npa
+123165,nyiakeng puachue hmong letter dla
+123166,nyiakeng puachue hmong letter npla
+123167,nyiakeng puachue hmong letter hah
+123168,nyiakeng puachue hmong letter mla
+123169,nyiakeng puachue hmong letter pla
+123170,nyiakeng puachue hmong letter ga
+123171,nyiakeng puachue hmong letter rra
+123172,nyiakeng puachue hmong letter a
+123173,nyiakeng puachue hmong letter aa
+123174,nyiakeng puachue hmong letter i
+123175,nyiakeng puachue hmong letter u
+123176,nyiakeng puachue hmong letter o
+123177,nyiakeng puachue hmong letter oo
+123178,nyiakeng puachue hmong letter e
+123179,nyiakeng puachue hmong letter ee
+123180,nyiakeng puachue hmong letter w
+123184,nyiakeng puachue hmong tone-b
+123185,nyiakeng puachue hmong tone-m
+123186,nyiakeng puachue hmong tone-j
+123187,nyiakeng puachue hmong tone-v
+123188,nyiakeng puachue hmong tone-s
+123189,nyiakeng puachue hmong tone-g
+123190,nyiakeng puachue hmong tone-d
+123191,nyiakeng puachue hmong sign for person
+123192,nyiakeng puachue hmong sign for thing
+123193,nyiakeng puachue hmong sign for location
+123194,nyiakeng puachue hmong sign for animal
+123195,nyiakeng puachue hmong sign for invertebrate
+123196,nyiakeng puachue hmong sign xw xw
+123197,nyiakeng puachue hmong syllable lengthener
+123200,nyiakeng puachue hmong digit zero
+123201,nyiakeng puachue hmong digit one
+123202,nyiakeng puachue hmong digit two
+123203,nyiakeng puachue hmong digit three
+123204,nyiakeng puachue hmong digit four
+123205,nyiakeng puachue hmong digit five
+123206,nyiakeng puachue hmong digit six
+123207,nyiakeng puachue hmong digit seven
+123208,nyiakeng puachue hmong digit eight
+123209,nyiakeng puachue hmong digit nine
+123214,nyiakeng puachue hmong logogram nyaj

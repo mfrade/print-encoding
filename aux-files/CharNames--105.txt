@@ -1,0 +1,115 @@
+11904,cjk radical repeat
+11905,cjk radical cliff
+11906,cjk radical second one
+11907,cjk radical second two
+11908,cjk radical second three
+11909,cjk radical person
+11910,cjk radical box
+11911,cjk radical table
+11912,cjk radical knife one
+11913,cjk radical knife two
+11914,cjk radical divination
+11915,cjk radical seal
+11916,cjk radical small one
+11917,cjk radical small two
+11918,cjk radical lame one
+11919,cjk radical lame two
+11920,cjk radical lame three
+11921,cjk radical lame four
+11922,cjk radical snake
+11923,cjk radical thread
+11924,cjk radical snout one
+11925,cjk radical snout two
+11926,cjk radical heart one
+11927,cjk radical heart two
+11928,cjk radical hand
+11929,cjk radical rap
+11931,cjk radical choke
+11932,cjk radical sun
+11933,cjk radical moon
+11934,cjk radical death
+11935,cjk radical mother
+11936,cjk radical civilian
+11937,cjk radical water one
+11938,cjk radical water two
+11939,cjk radical fire
+11940,cjk radical paw one
+11941,cjk radical paw two
+11942,cjk radical simplified half tree trunk
+11943,cjk radical cow
+11944,cjk radical dog
+11945,cjk radical jade
+11946,cjk radical bolt of cloth
+11947,cjk radical eye
+11948,cjk radical spirit one
+11949,cjk radical spirit two
+11950,cjk radical bamboo
+11951,cjk radical silk
+11952,cjk radical c-simplified silk
+11953,cjk radical net one
+11954,cjk radical net two
+11955,cjk radical net three
+11956,cjk radical net four
+11957,cjk radical mesh
+11958,cjk radical sheep
+11959,cjk radical ram
+11960,cjk radical ewe
+11961,cjk radical old
+11962,cjk radical brush one
+11963,cjk radical brush two
+11964,cjk radical meat
+11965,cjk radical mortar
+11966,cjk radical grass one
+11967,cjk radical grass two
+11968,cjk radical grass three
+11969,cjk radical tiger
+11970,cjk radical clothes
+11971,cjk radical west one
+11972,cjk radical west two
+11973,cjk radical c-simplified see
+11974,cjk radical simplified horn
+11975,cjk radical horn
+11976,cjk radical c-simplified speech
+11977,cjk radical c-simplified shell
+11978,cjk radical foot
+11979,cjk radical c-simplified cart
+11980,cjk radical simplified walk
+11981,cjk radical walk one
+11982,cjk radical walk two
+11983,cjk radical city
+11984,cjk radical c-simplified gold
+11985,cjk radical long one
+11986,cjk radical long two
+11987,cjk radical c-simplified long
+11988,cjk radical c-simplified gate
+11989,cjk radical mound one
+11990,cjk radical mound two
+11991,cjk radical rain
+11992,cjk radical blue
+11993,cjk radical c-simplified tanned leather
+11994,cjk radical c-simplified leaf
+11995,cjk radical c-simplified wind
+11996,cjk radical c-simplified fly
+11997,cjk radical eat one
+11998,cjk radical eat two
+11999,cjk radical eat three
+12000,cjk radical c-simplified eat
+12001,cjk radical head
+12002,cjk radical c-simplified horse
+12003,cjk radical bone
+12004,cjk radical ghost
+12005,cjk radical c-simplified fish
+12006,cjk radical c-simplified bird
+12007,cjk radical c-simplified salt
+12008,cjk radical simplified wheat
+12009,cjk radical simplified yellow
+12010,cjk radical c-simplified frog
+12011,cjk radical j-simplified even
+12012,cjk radical c-simplified even
+12013,cjk radical j-simplified tooth
+12014,cjk radical c-simplified tooth
+12015,cjk radical j-simplified dragon
+12016,cjk radical c-simplified dragon
+12017,cjk radical turtle
+12018,cjk radical j-simplified turtle
+12019,cjk radical c-simplified turtle

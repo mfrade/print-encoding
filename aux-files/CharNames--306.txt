@@ -1,0 +1,79 @@
+128512,grinning face
+128513,grinning face with smiling eyes
+128514,face with tears of joy
+128515,smiling face with open mouth
+128516,smiling face with open mouth and smiling eyes
+128517,smiling face with open mouth and cold sweat
+128518,smiling face with open mouth and tightly-closed eyes
+128519,smiling face with halo
+128520,smiling face with horns
+128521,winking face
+128522,smiling face with smiling eyes
+128523,face savouring delicious food
+128524,relieved face
+128525,smiling face with heart-shaped eyes
+128526,smiling face with sunglasses
+128527,smirking face
+128528,neutral face
+128529,expressionless face
+128530,unamused face
+128531,face with cold sweat
+128532,pensive face
+128533,confused face
+128534,confounded face
+128535,kissing face
+128536,face throwing a kiss
+128537,kissing face with smiling eyes
+128538,kissing face with closed eyes
+128539,face with stuck-out tongue
+128540,face with stuck-out tongue and winking eye
+128541,face with stuck-out tongue and tightly-closed eyes
+128542,disappointed face
+128543,worried face
+128544,angry face
+128545,pouting face
+128546,crying face
+128547,persevering face
+128548,face with look of triumph
+128549,disappointed but relieved face
+128550,frowning face with open mouth
+128551,anguished face
+128552,fearful face
+128553,weary face
+128554,sleepy face
+128555,tired face
+128556,grimacing face
+128557,loudly crying face
+128558,face with open mouth
+128559,hushed face
+128560,face with open mouth and cold sweat
+128561,face screaming in fear
+128562,astonished face
+128563,flushed face
+128564,sleeping face
+128565,dizzy face
+128566,face without mouth
+128567,face with medical mask
+128568,grinning cat face with smiling eyes
+128569,cat face with tears of joy
+128570,smiling cat face with open mouth
+128571,smiling cat face with heart-shaped eyes
+128572,cat face with wry smile
+128573,kissing cat face with closed eyes
+128574,pouting cat face
+128575,crying cat face
+128576,weary cat face
+128577,slightly frowning face
+128578,slightly smiling face
+128579,upside-down face
+128580,face with rolling eyes
+128581,face with no good gesture
+128582,face with ok gesture
+128583,person bowing deeply
+128584,see-no-evil monkey
+128585,hear-no-evil monkey
+128586,speak-no-evil monkey
+128587,happy person raising one hand
+128588,person raising both hands in celebration
+128589,person frowning
+128590,person with pouting face

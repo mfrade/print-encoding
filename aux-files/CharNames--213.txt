@@ -1,0 +1,26 @@
+69488,old uyghur letter aleph
+69489,old uyghur letter beth
+69490,old uyghur letter gimel-heth
+69491,old uyghur letter waw
+69492,old uyghur letter zayin
+69493,old uyghur letter final heth
+69494,old uyghur letter yodh
+69495,old uyghur letter kaph
+69496,old uyghur letter lamedh
+69497,old uyghur letter mem
+69498,old uyghur letter nun
+69499,old uyghur letter samekh
+69500,old uyghur letter pe
+69501,old uyghur letter sadhe
+69502,old uyghur letter resh
+69503,old uyghur letter shin
+69504,old uyghur letter taw
+69505,old uyghur letter lesh
+69506,old uyghur combining dot above
+69507,old uyghur combining dot below
+69508,old uyghur combining two dots above
+69509,old uyghur combining two dots below
+69510,old uyghur punctuation bar
+69511,old uyghur punctuation two bars
+69512,old uyghur punctuation two dots
+69513,old uyghur punctuation four dots

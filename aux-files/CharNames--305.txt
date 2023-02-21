@@ -1,0 +1,767 @@
+127744,cyclone
+127745,foggy
+127746,closed umbrella
+127747,night with stars
+127748,sunrise over mountains
+127749,sunrise
+127750,cityscape at dusk
+127751,sunset over buildings
+127752,rainbow
+127753,bridge at night
+127754,water wave
+127755,volcano
+127756,milky way
+127757,earth globe europe-africa
+127758,earth globe americas
+127759,earth globe asia-australia
+127760,globe with meridians
+127761,new moon symbol
+127762,waxing crescent moon symbol
+127763,first quarter moon symbol
+127764,waxing gibbous moon symbol
+127765,full moon symbol
+127766,waning gibbous moon symbol
+127767,last quarter moon symbol
+127768,waning crescent moon symbol
+127769,crescent moon
+127770,new moon with face
+127771,first quarter moon with face
+127772,last quarter moon with face
+127773,full moon with face
+127774,sun with face
+127775,glowing star
+127776,shooting star
+127777,thermometer
+127778,black droplet
+127779,white sun
+127780,white sun with small cloud
+127781,white sun behind cloud
+127782,white sun behind cloud with rain
+127783,cloud with rain
+127784,cloud with snow
+127785,cloud with lightning
+127786,cloud with tornado
+127787,fog
+127788,wind blowing face
+127789,hot dog
+127790,taco
+127791,burrito
+127792,chestnut
+127793,seedling
+127794,evergreen tree
+127795,deciduous tree
+127796,palm tree
+127797,cactus
+127798,hot pepper
+127799,tulip
+127800,cherry blossom
+127801,rose
+127802,hibiscus
+127803,sunflower
+127804,blossom
+127805,ear of maize
+127806,ear of rice
+127807,herb
+127808,four leaf clover
+127809,maple leaf
+127810,fallen leaf
+127811,leaf fluttering in wind
+127812,mushroom
+127813,tomato
+127814,aubergine
+127815,grapes
+127816,melon
+127817,watermelon
+127818,tangerine
+127819,lemon
+127820,banana
+127821,pineapple
+127822,red apple
+127823,green apple
+127824,pear
+127825,peach
+127826,cherries
+127827,strawberry
+127828,hamburger
+127829,slice of pizza
+127830,meat on bone
+127831,poultry leg
+127832,rice cracker
+127833,rice ball
+127834,cooked rice
+127835,curry and rice
+127836,steaming bowl
+127837,spaghetti
+127838,bread
+127839,french fries
+127840,roasted sweet potato
+127841,dango
+127842,oden
+127843,sushi
+127844,fried shrimp
+127845,fish cake with swirl design
+127846,soft ice cream
+127847,shaved ice
+127848,ice cream
+127849,doughnut
+127850,cookie
+127851,chocolate bar
+127852,candy
+127853,lollipop
+127854,custard
+127855,honey pot
+127856,shortcake
+127857,bento box
+127858,pot of food
+127859,cooking
+127860,fork and knife
+127861,teacup without handle
+127862,sake bottle and cup
+127863,wine glass
+127864,cocktail glass
+127865,tropical drink
+127866,beer mug
+127867,clinking beer mugs
+127868,baby bottle
+127869,fork and knife with plate
+127870,bottle with popping cork
+127871,popcorn
+127872,ribbon
+127873,wrapped present
+127874,birthday cake
+127875,jack-o-lantern
+127876,christmas tree
+127877,father christmas
+127878,fireworks
+127879,firework sparkler
+127880,balloon
+127881,party popper
+127882,confetti ball
+127883,tanabata tree
+127884,crossed flags
+127885,pine decoration
+127886,japanese dolls
+127887,carp streamer
+127888,wind chime
+127889,moon viewing ceremony
+127890,school satchel
+127891,graduation cap
+127892,heart with tip on the left
+127893,bouquet of flowers
+127894,military medal
+127895,reminder ribbon
+127896,musical keyboard with jacks
+127897,studio microphone
+127898,level slider
+127899,control knobs
+127900,beamed ascending musical notes
+127901,beamed descending musical notes
+127902,film frames
+127903,admission tickets
+127904,carousel horse
+127905,ferris wheel
+127906,roller coaster
+127907,fishing pole and fish
+127908,microphone
+127909,movie camera
+127910,cinema
+127911,headphone
+127912,artist palette
+127913,top hat
+127914,circus tent
+127915,ticket
+127916,clapper board
+127917,performing arts
+127918,video game
+127919,direct hit
+127920,slot machine
+127921,billiards
+127922,game die
+127923,bowling
+127924,flower playing cards
+127925,musical note
+127926,multiple musical notes
+127927,saxophone
+127928,guitar
+127929,musical keyboard
+127930,trumpet
+127931,violin
+127932,musical score
+127933,running shirt with sash
+127934,tennis racquet and ball
+127935,ski and ski boot
+127936,basketball and hoop
+127937,chequered flag
+127938,snowboarder
+127939,runner
+127940,surfer
+127941,sports medal
+127942,trophy
+127943,horse racing
+127944,american football
+127945,rugby football
+127946,swimmer
+127947,weight lifter
+127948,golfer
+127949,racing motorcycle
+127950,racing car
+127951,cricket bat and ball
+127952,volleyball
+127953,field hockey stick and ball
+127954,ice hockey stick and puck
+127955,table tennis paddle and ball
+127956,snow capped mountain
+127957,camping
+127958,beach with umbrella
+127959,building construction
+127960,house buildings
+127961,cityscape
+127962,derelict house building
+127963,classical building
+127964,desert
+127965,desert island
+127966,national park
+127967,stadium
+127968,house building
+127969,house with garden
+127970,office building
+127971,japanese post office
+127972,european post office
+127973,hospital
+127974,bank
+127975,automated teller machine
+127976,hotel
+127977,love hotel
+127978,convenience store
+127979,school
+127980,department store
+127981,factory
+127982,izakaya lantern
+127983,japanese castle
+127984,european castle
+127985,white pennant
+127986,black pennant
+127987,waving white flag
+127988,waving black flag
+127989,rosette
+127990,black rosette
+127991,label
+127992,badminton racquet and shuttlecock
+127993,bow and arrow
+127994,amphora
+127995,emoji modifier fitzpatrick type-1-2
+127996,emoji modifier fitzpatrick type-3
+127997,emoji modifier fitzpatrick type-4
+127998,emoji modifier fitzpatrick type-5
+127999,emoji modifier fitzpatrick type-6
+128000,rat
+128001,mouse
+128002,ox
+128003,water buffalo
+128004,cow
+128005,tiger
+128006,leopard
+128007,rabbit
+128008,cat
+128009,dragon
+128010,crocodile
+128011,whale
+128012,snail
+128013,snake
+128014,horse
+128015,ram
+128016,goat
+128017,sheep
+128018,monkey
+128019,rooster
+128020,chicken
+128021,dog
+128022,pig
+128023,boar
+128024,elephant
+128025,octopus
+128026,spiral shell
+128027,bug
+128028,ant
+128029,honeybee
+128030,lady beetle
+128031,fish
+128032,tropical fish
+128033,blowfish
+128034,turtle
+128035,hatching chick
+128036,baby chick
+128037,front-facing baby chick
+128038,bird
+128039,penguin
+128040,koala
+128041,poodle
+128042,dromedary camel
+128043,bactrian camel
+128044,dolphin
+128045,mouse face
+128046,cow face
+128047,tiger face
+128048,rabbit face
+128049,cat face
+128050,dragon face
+128051,spouting whale
+128052,horse face
+128053,monkey face
+128054,dog face
+128055,pig face
+128056,frog face
+128057,hamster face
+128058,wolf face
+128059,bear face
+128060,panda face
+128061,pig nose
+128062,paw prints
+128063,chipmunk
+128064,eyes
+128065,eye
+128066,ear
+128067,nose
+128068,mouth
+128069,tongue
+128070,white up pointing backhand index
+128071,white down pointing backhand index
+128072,white left pointing backhand index
+128073,white right pointing backhand index
+128074,fisted hand sign
+128075,waving hand sign
+128076,ok hand sign
+128077,thumbs up sign
+128078,thumbs down sign
+128079,clapping hands sign
+128080,open hands sign
+128081,crown
+128082,womans hat
+128083,eyeglasses
+128084,necktie
+128085,t-shirt
+128086,jeans
+128087,dress
+128088,kimono
+128089,bikini
+128090,womans clothes
+128091,purse
+128092,handbag
+128093,pouch
+128094,mans shoe
+128095,athletic shoe
+128096,high-heeled shoe
+128097,womans sandal
+128098,womans boots
+128099,footprints
+128100,bust in silhouette
+128101,busts in silhouette
+128102,boy
+128103,girl
+128104,man
+128105,woman
+128106,family
+128107,man and woman holding hands
+128108,two men holding hands
+128109,two women holding hands
+128110,police officer
+128111,woman with bunny ears
+128112,bride with veil
+128113,person with blond hair
+128114,man with gua pi mao
+128115,man with turban
+128116,older man
+128117,older woman
+128118,baby
+128119,construction worker
+128120,princess
+128121,japanese ogre
+128122,japanese goblin
+128123,ghost
+128124,baby angel
+128125,extraterrestrial alien
+128126,alien monster
+128127,imp
+128128,skull
+128129,information desk person
+128130,guardsman
+128131,dancer
+128132,lipstick
+128133,nail polish
+128134,face massage
+128135,haircut
+128136,barber pole
+128137,syringe
+128138,pill
+128139,kiss mark
+128140,love letter
+128141,ring
+128142,gem stone
+128143,kiss
+128144,bouquet
+128145,couple with heart
+128146,wedding
+128147,beating heart
+128148,broken heart
+128149,two hearts
+128150,sparkling heart
+128151,growing heart
+128152,heart with arrow
+128153,blue heart
+128154,green heart
+128155,yellow heart
+128156,purple heart
+128157,heart with ribbon
+128158,revolving hearts
+128159,heart decoration
+128160,diamond shape with a dot inside
+128161,electric light bulb
+128162,anger symbol
+128163,bomb
+128164,sleeping symbol
+128165,collision symbol
+128166,splashing sweat symbol
+128167,droplet
+128168,dash symbol
+128169,pile of poo
+128170,flexed biceps
+128171,dizzy symbol
+128172,speech balloon
+128173,thought balloon
+128174,white flower
+128175,hundred points symbol
+128176,money bag
+128177,currency exchange
+128178,heavy dollar sign
+128179,credit card
+128180,banknote with yen sign
+128181,banknote with dollar sign
+128182,banknote with euro sign
+128183,banknote with pound sign
+128184,money with wings
+128185,chart with upwards trend and yen sign
+128186,seat
+128187,personal computer
+128188,briefcase
+128189,minidisc
+128190,floppy disk
+128191,optical disc
+128192,dvd
+128193,file folder
+128194,open file folder
+128195,page with curl
+128196,page facing up
+128197,calendar
+128198,tear-off calendar
+128199,card index
+128200,chart with upwards trend
+128201,chart with downwards trend
+128202,bar chart
+128203,clipboard
+128204,pushpin
+128205,round pushpin
+128206,paperclip
+128207,straight ruler
+128208,triangular ruler
+128209,bookmark tabs
+128210,ledger
+128211,notebook
+128212,notebook with decorative cover
+128213,closed book
+128214,open book
+128215,green book
+128216,blue book
+128217,orange book
+128218,books
+128219,name badge
+128220,scroll
+128221,memo
+128222,telephone receiver
+128223,pager
+128224,fax machine
+128225,satellite antenna
+128226,public address loudspeaker
+128227,cheering megaphone
+128228,outbox tray
+128229,inbox tray
+128230,package
+128231,e-mail symbol
+128232,incoming envelope
+128233,envelope with downwards arrow above
+128234,closed mailbox with lowered flag
+128235,closed mailbox with raised flag
+128236,open mailbox with raised flag
+128237,open mailbox with lowered flag
+128238,postbox
+128239,postal horn
+128240,newspaper
+128241,mobile phone
+128242,mobile phone with rightwards arrow at left
+128243,vibration mode
+128244,mobile phone off
+128245,no mobile phones
+128246,antenna with bars
+128247,camera
+128248,camera with flash
+128249,video camera
+128250,television
+128251,radio
+128252,videocassette
+128253,film projector
+128254,portable stereo
+128255,prayer beads
+128256,twisted rightwards arrows
+128257,clockwise rightwards and leftwards open circle arrows
+128258,clockwise rightwards and leftwards open circle arrows with circled one overlay
+128259,clockwise downwards and upwards open circle arrows
+128260,anticlockwise downwards and upwards open circle arrows
+128261,low brightness symbol
+128262,high brightness symbol
+128263,speaker with cancellation stroke
+128264,speaker
+128265,speaker with one sound wave
+128266,speaker with three sound waves
+128267,battery
+128268,electric plug
+128269,left-pointing magnifying glass
+128270,right-pointing magnifying glass
+128271,lock with ink pen
+128272,closed lock with key
+128273,key
+128274,lock
+128275,open lock
+128276,bell
+128277,bell with cancellation stroke
+128278,bookmark
+128279,link symbol
+128280,radio button
+128281,back with leftwards arrow above
+128282,end with leftwards arrow above
+128283,on with exclamation mark with left right arrow above
+128284,soon with rightwards arrow above
+128285,top with upwards arrow above
+128286,no one under eighteen symbol
+128287,keycap ten
+128288,input symbol for latin capital letters
+128289,input symbol for latin small letters
+128290,input symbol for numbers
+128291,input symbol for symbols
+128292,input symbol for latin letters
+128293,fire
+128294,electric torch
+128295,wrench
+128296,hammer
+128297,nut and bolt
+128298,hocho
+128299,pistol
+128300,microscope
+128301,telescope
+128302,crystal ball
+128303,six pointed star with middle dot
+128304,japanese symbol for beginner
+128305,trident emblem
+128306,black square button
+128307,white square button
+128308,large red circle
+128309,large blue circle
+128310,large orange diamond
+128311,large blue diamond
+128312,small orange diamond
+128313,small blue diamond
+128314,up-pointing red triangle
+128315,down-pointing red triangle
+128316,up-pointing small red triangle
+128317,down-pointing small red triangle
+128318,lower right shadowed white circle
+128319,upper right shadowed white circle
+128320,circled cross pommee
+128321,cross pommee with half-circle below
+128322,cross pommee
+128323,notched left semicircle with three dots
+128324,notched right semicircle with three dots
+128325,symbol for marks chapter
+128326,white latin cross
+128327,heavy latin cross
+128328,celtic cross
+128329,om symbol
+128330,dove of peace
+128331,kaaba
+128332,mosque
+128333,synagogue
+128334,menorah with nine branches
+128335,bowl of hygieia
+128336,clock face one oclock
+128337,clock face two oclock
+128338,clock face three oclock
+128339,clock face four oclock
+128340,clock face five oclock
+128341,clock face six oclock
+128342,clock face seven oclock
+128343,clock face eight oclock
+128344,clock face nine oclock
+128345,clock face ten oclock
+128346,clock face eleven oclock
+128347,clock face twelve oclock
+128348,clock face one-thirty
+128349,clock face two-thirty
+128350,clock face three-thirty
+128351,clock face four-thirty
+128352,clock face five-thirty
+128353,clock face six-thirty
+128354,clock face seven-thirty
+128355,clock face eight-thirty
+128356,clock face nine-thirty
+128357,clock face ten-thirty
+128358,clock face eleven-thirty
+128359,clock face twelve-thirty
+128360,right speaker
+128361,right speaker with one sound wave
+128362,right speaker with three sound waves
+128363,bullhorn
+128364,bullhorn with sound waves
+128365,ringing bell
+128366,book
+128367,candle
+128368,mantelpiece clock
+128369,black skull and crossbones
+128370,no piracy
+128371,hole
+128372,man in business suit levitating
+128373,sleuth or spy
+128374,dark sunglasses
+128375,spider
+128376,spider web
+128377,joystick
+128378,man dancing
+128379,left hand telephone receiver
+128380,telephone receiver with page
+128381,right hand telephone receiver
+128382,white touchtone telephone
+128383,black touchtone telephone
+128384,telephone on top of modem
+128385,clamshell mobile phone
+128386,back of envelope
+128387,stamped envelope
+128388,envelope with lightning
+128389,flying envelope
+128390,pen over stamped envelope
+128391,linked paperclips
+128392,black pushpin
+128393,lower left pencil
+128394,lower left ballpoint pen
+128395,lower left fountain pen
+128396,lower left paintbrush
+128397,lower left crayon
+128398,left writing hand
+128399,turned ok hand sign
+128400,raised hand with fingers splayed
+128401,reversed raised hand with fingers splayed
+128402,reversed thumbs up sign
+128403,reversed thumbs down sign
+128404,reversed victory hand
+128405,reversed hand with middle finger extended
+128406,raised hand with part between middle and ring fingers
+128407,white down pointing left hand index
+128408,sideways white left pointing index
+128409,sideways white right pointing index
+128410,sideways black left pointing index
+128411,sideways black right pointing index
+128412,black left pointing backhand index
+128413,black right pointing backhand index
+128414,sideways white up pointing index
+128415,sideways white down pointing index
+128416,sideways black up pointing index
+128417,sideways black down pointing index
+128418,black up pointing backhand index
+128419,black down pointing backhand index
+128420,black heart
+128421,desktop computer
+128422,keyboard and mouse
+128423,three networked computers
+128424,printer
+128425,pocket calculator
+128426,black hard shell floppy disk
+128427,white hard shell floppy disk
+128428,soft shell floppy disk
+128429,tape cartridge
+128430,wired keyboard
+128431,one button mouse
+128432,two button mouse
+128433,three button mouse
+128434,trackball
+128435,old personal computer
+128436,hard disk
+128437,screen
+128438,printer icon
+128439,fax icon
+128440,optical disc icon
+128441,document with text
+128442,document with text and picture
+128443,document with picture
+128444,frame with picture
+128445,frame with tiles
+128446,frame with an x
+128447,black folder
+128448,folder
+128449,open folder
+128450,card index dividers
+128451,card file box
+128452,file cabinet
+128453,empty note
+128454,empty note page
+128455,empty note pad
+128456,note
+128457,note page
+128458,note pad
+128459,empty document
+128460,empty page
+128461,empty pages
+128462,document
+128463,page
+128464,pages
+128465,wastebasket
+128466,spiral note pad
+128467,spiral calendar pad
+128468,desktop window
+128469,minimize
+128470,maximize
+128471,overlap
+128472,clockwise right and left semicircle arrows
+128473,cancellation x
+128474,increase font size symbol
+128475,decrease font size symbol
+128476,compression
+128477,old key
+128478,rolled-up newspaper
+128479,page with circled text
+128480,stock chart
+128481,dagger knife
+128482,lips
+128483,speaking head in silhouette
+128484,three rays above
+128485,three rays below
+128486,three rays left
+128487,three rays right
+128488,left speech bubble
+128489,right speech bubble
+128490,two speech bubbles
+128491,three speech bubbles
+128492,left thought bubble
+128493,right thought bubble
+128494,left anger bubble
+128495,right anger bubble
+128496,mood bubble
+128497,lightning mood bubble
+128498,lightning mood
+128499,ballot box with ballot
+128500,ballot script x
+128501,ballot box with script x
+128502,ballot bold script x
+128503,ballot box with bold script x
+128504,light check mark
+128505,ballot box with bold check
+128506,world map
+128507,mount fuji
+128508,tokyo tower
+128509,statue of liberty
+128510,silhouette of japan

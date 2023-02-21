@@ -1,0 +1,914 @@
+131072,the sound made by breathing in; oh! (cf. u+311b bopomofo letter o, which is derived from this character) | cjk ideograph
+131073,the original form for 七 u+4e03 | cjk ideograph
+131077,an alternate form of u+4ea5 亥 | cjk ideograph
+131081,(the same as u+4e18 丘) a hill; elder; empty; a name | cjk ideograph
+131085,(same as u+4e16 世) generation; world; era | cjk ideograph
+131093,variant of u+4e99 亙 | cjk ideograph
+131137,a flagon | cjk ideograph
+131173,the horns of a sheep | cjk ideograph
+131220,to stop | cjk ideograph
+131229,full circle; encircle | cjk ideograph
+131234,to branch | cjk ideograph
+131236,to store up, to pile up | cjk ideograph
+131284,allow; right; sincere | cjk ideograph
+131318,disorder | cjk ideograph
+131340,hook | cjk ideograph
+131363,stretch continuously | cjk ideograph
+131417,bright, clear | cjk ideograph
+131468,(variant of u+5eb8 庸) usual, common; to use | cjk ideograph
+131497,(cant.) to play | cjk ideograph
+131526,look up to | cjk ideograph
+131569,a kind of music | cjk ideograph
+131690,small, light; insignificant | cjk ideograph
+131751,even, together; to reduce, equalize | cjk ideograph
+131877,(cant.) to bow, stoop | cjk ideograph
+131905,(cant.) an undesirable situation | cjk ideograph
+131965,to pull up; tear | cjk ideograph
+132274,dg | cjk ideograph
+132302,ton | cjk ideograph
+132303,quintal | cjk ideograph
+132348,(cant.) a wedge; to thrust in | cjk ideograph
+132355,an interjection of doubt or inquiry | cjk ideograph
+132361,a roll | cjk ideograph
+132403,economical; incorruptable | cjk ideograph
+132420,(cant.) 酒𠕄, a dimple | cjk ideograph
+132517,kindness, grace, esteem | cjk ideograph
+132582,to lean on; to trust in | cjk ideograph
+132710,lonely | cjk ideograph
+132733,sod | cjk ideograph
+132793,to mow | cjk ideograph
+132794,to make an eyelet hole | cjk ideograph
+132818,to cut; to slice | cjk ideograph
+132842,to cut open, sever | cjk ideograph
+132844,punish, torture | cjk ideograph
+132878,to castrate a fowl, a capon | cjk ideograph
+132913,to peel, pare | cjk ideograph
+132924,to claw; to pinch with the fingers | cjk ideograph
+132973,(cant.) to fell, cut; to sweep away | cjk ideograph
+132985,(cant.) to cut with a knife or scissors | cjk ideograph
+133037,to carve; to hollow out | cjk ideograph
+133040,to attack, destroy; to fatigue | cjk ideograph
+133043,sedge; surname | cjk ideograph
+133069,pierce | cjk ideograph
+133284,to urge, compel | cjk ideograph
+133390,seven | cjk ideograph
+133391,a tithing | cjk ideograph
+133516,forty | cjk ideograph
+133532,forty | cjk ideograph
+133609,an archaic form of u+6094 悔, to repent | cjk ideograph
+133662,spouse; minister | cjk ideograph
+133749,to pass, go through | cjk ideograph
+133754,to split, rive, crack | cjk ideograph
+133785,tent; caravan | cjk ideograph
+133860,stingy | cjk ideograph
+133869,to join | cjk ideograph
+133915,to dive under water | cjk ideograph
+133917,submit | cjk ideograph
+133922,slippery | cjk ideograph
+133942,to invade | cjk ideograph
+134004,(same as u+3441 㑁) short; of short stature | cjk ideograph
+134056,(cant.) to tie, tow; bring along | cjk ideograph
+134057,(cant.) an interjection; rare, specialized | cjk ideograph
+134088,phonetic | cjk ideograph
+134091,(cant.) naughty, inferior | cjk ideograph
+134097,tongue | cjk ideograph
+134103,nipple; to suck | cjk ideograph
+134118,(cant.) to eat, take a meal | cjk ideograph
+134122,(dialect) to eat | cjk ideograph
+134126,(j) nonstandard variant of 品 u+54c1, an article, product, commodity | cjk ideograph
+134141,(cant.) a final particle indicating affirmation | cjk ideograph
+134155,(cant.) left-handed | cjk ideograph
+134156,to compress the lips | cjk ideograph
+134194,(cant.) to belch | cjk ideograph
+134209,(cant.) to fool, trick, cheat | cjk ideograph
+134210,(cant.) to put something or sit wherever one wishes; to rebuke, reproach | cjk ideograph
+134211,(cant.) thin, flat; poor | cjk ideograph
+134227,(cant.) to importune, beg | cjk ideograph
+134232,(cant.) contrary, opposing, against; disobedient | cjk ideograph
+134245,(cant.) wrangling, a noise; fitful; a soft fabric with no body | cjk ideograph
+134263,(cant.) small | cjk ideograph
+134264,(cant.) phonetic | cjk ideograph
+134294,to grin, laugh | cjk ideograph
+134300,(cant.) to owe | cjk ideograph
+134325,(cant.) phonetic | cjk ideograph
+134335,to suck in | cjk ideograph
+134337,to confine | cjk ideograph
+134351,(cant.) interjection | cjk ideograph
+134357,(cant.) to search | cjk ideograph
+134358,(cant.) to strike, pound | cjk ideograph
+134390,tongue-tied; to lisp | cjk ideograph
+134421,(cant.) to purse the lips; to wriggle | cjk ideograph
+134448,(cant.) classifier for a piece or lump of something | cjk ideograph
+134451,(cant.) a tiger or demon's howl; to argue, quarrel | cjk ideograph
+134470,to carry on a pole; to bear; a burden | cjk ideograph
+134471,(cant.) peculiar, strange | cjk ideograph
+134472,(cant.) to suck or chew without using the teeth | cjk ideograph
+134473,(cant.) hope | cjk ideograph
+134488,phonetic | cjk ideograph
+134502,resist | cjk ideograph
+134505,(cant.) that | cjk ideograph
+134511,(cant.) onomatopoetic | cjk ideograph
+134524,(cant.) scars on the eyelid; phonetic | cjk ideograph
+134525,phonetic | cjk ideograph
+134526,(cant.) eloquent, sharp-tongued | cjk ideograph
+134527,(cant.) a pair (from the engl.); to stagger | cjk ideograph
+134536,excellent | cjk ideograph
+134556,(cant.) to do, work; to be willing | cjk ideograph
+134565,a bunch, branch | cjk ideograph
+134567,(cant.) straight, vertical; ok; to pick up with the fingers; verbal aspect marker of successful completion | cjk ideograph
+134574,joy | cjk ideograph
+134578,(cant.) to stare at; to take a big bite | cjk ideograph
+134665,(cant.) to block, obstruct | cjk ideograph
+134666,(cant.) an intensifying particle | cjk ideograph
+134670,(cant.) and, with | cjk ideograph
+134671,(cant.) final particle | cjk ideograph
+134672,(cant.) to endure, last | cjk ideograph
+134673,(cant.) soft, sodden | cjk ideograph
+134674,(cant.) 生𠸒人, a stranger | cjk ideograph
+134714,(cant.) contrary, opposing | cjk ideograph
+134732,(cant.) uncommon, rare; penis (vulg.) | cjk ideograph
+134765,(cant.) to call (engl. loan-word) | cjk ideograph
+134771,(cant.) thick, viscous, dense | cjk ideograph
+134775,(cant.) to speak tirelessly | cjk ideograph
+134776,(cant.) to cover, close up | cjk ideograph
+134777,to hurry | cjk ideograph
+134778,(cant.) verbal aspect marker for completion or movement towards | cjk ideograph
+134779,(cant.) classifier for smells | cjk ideograph
+134791,joy | cjk ideograph
+134796,(cant.) timid | cjk ideograph
+134808,(cant.) hard to get along with; to rinse, spread thin | cjk ideograph
+134813,(cant.) final particle | cjk ideograph
+134818,(cant.) final particle | cjk ideograph
+134826,(cant.) in a rush; slovenly | cjk ideograph
+134827,(cant.) strange, peculiar | cjk ideograph
+134828,(cant.) final particle | cjk ideograph
+134871,(cant.) imperative final particle | cjk ideograph
+134872,(cant.) sound of eating (onomatopoetic) | cjk ideograph
+134900,(cant.) to rinse | cjk ideograph
+134906,(cant.) final particle | cjk ideograph
+134907,(cant.) noise, clamor | cjk ideograph
+134908,father | cjk ideograph
+134933,(cant.) a suffix indicating time | cjk ideograph
+134935,to blink | cjk ideograph
+134942,ammonia (obsolete) | cjk ideograph
+134957,(cant.) sound of a car-horn (onomatopoetic) | cjk ideograph
+134958,(cant.) to urge, importune; a lie, fib | cjk ideograph
+134961,(cant.) to spit out; to pester, nag | cjk ideograph
+134971,a particle used in transliteration | cjk ideograph
+134979,a handful, tuft | cjk ideograph
+134988,(cant.) sound of something rushing by | cjk ideograph
+134994,(cant.) classifier for hats | cjk ideograph
+135012,(cant.) to block, obstruct; head; phonetic | cjk ideograph
+135053,(cant.) to flick something off in a disorderly way | cjk ideograph
+135055,(cant.) interjection | cjk ideograph
+135085,(cant.) soft fabric with no body | cjk ideograph
+135092,(cant.) phonetic | cjk ideograph
+135093,(cant.) final particle | cjk ideograph
+135100,(cant.) phonetic | cjk ideograph
+135131,cry used in calling pigs | cjk ideograph
+135146,(cant.) final particle | cjk ideograph
+135147,(cant.) shabby | cjk ideograph
+135148,(cant.) ignorant | cjk ideograph
+135149,(cant.) to go somewhere to have a good time | cjk ideograph
+135188,used in transliteration | cjk ideograph
+135197,(cant.) sound asleep | cjk ideograph
+135198,(cant.) a jeep; to wave, beckon | cjk ideograph
+135200,or; emphatic particle; (cant.) particle implying doubt | cjk ideograph
+135209,(cant.) onomatopoetic | cjk ideograph
+135218,(cant.) phonetic | cjk ideograph
+135247,(cant.) soft rice or food for a baby | cjk ideograph
+135260,(cant.) particle to close a quote | cjk ideograph
+135279,(cant.) to pout | cjk ideograph
+135285,(cant.) aspect marker for continuous action | cjk ideograph
+135286,(cant.) to scratch an itch | cjk ideograph
+135287,(cant.) a sharp point; to peck | cjk ideograph
+135288,(cant.) a circle, ring | cjk ideograph
+135291,(cant.) to beat someone up | cjk ideograph
+135304,(cant.) to lie prone; to bend over | cjk ideograph
+135318,(cant.) unrestrained | cjk ideograph
+135325,(cant.) to choke and cough | cjk ideograph
+135338,(cant.) only, merely; a final particle of intimacy | cjk ideograph
+135360,(cant.) a musical instrument | cjk ideograph
+135361,(cant.) member of a triad; young | cjk ideograph
+135367,(cant.) exclamation | cjk ideograph
+135368,(cant.) a lasso; a circle, frame | cjk ideograph
+135369,(cant.) final particle | cjk ideograph
+135375,(cant.) to droop, hang down | cjk ideograph
+135379,(cant.) final particle for emphasis | cjk ideograph
+135382,call for pigs | cjk ideograph
+135396,(cant.) to leave behind, omit | cjk ideograph
+135399,to puff, sigh | cjk ideograph
+135412,(cant.) smell, odor | cjk ideograph
+135413,(cant.) to cover, bury; push from behind | cjk ideograph
+135414,(cant.) to like, love; to kiss | cjk ideograph
+135438,embroidered; surname | cjk ideograph
+135455,(cant.) onomatopoetic, the sound of panting | cjk ideograph
+135457,(cant.) emphatic particle | cjk ideograph
+135471,(cant.) hiccough | cjk ideograph
+135477,(cant.) to grin, laugh | cjk ideograph
+135485,(cant.) to slide down | cjk ideograph
+135496,(cant.) a particle implying completion, certainty, or urgency | cjk ideograph
+135503,(cant.) to accuse, slander; to turn, sprain | cjk ideograph
+135552,(cant.) special relationship | cjk ideograph
+135559,(cant.) a watt (engl. loan-word) | cjk ideograph
+135641,(cant.) round and full | cjk ideograph
+135694,a decoy; to inveigle | cjk ideograph
+135705,decoy | cjk ideograph
+135741,variant of u+571f 土 | cjk ideograph
+135748,rascal | cjk ideograph
+135854,long robe | cjk ideograph
+136046,to droop; descend | cjk ideograph
+136116,phonetic | cjk ideograph
+136232,country | cjk ideograph
+136286,tunnel, underground passage | cjk ideograph
+136303,soda; alkaline | cjk ideograph
+136323,a shore, bay; winter quarters | cjk ideograph
+136324,disappointed | cjk ideograph
+136560,fly | cjk ideograph
+136663,folded hands | cjk ideograph
+136676,tall | cjk ideograph
+136734,dustpan, shovel | cjk ideograph
+136833,used-up, malpractices; (cant.) bad, vile, corrupt | cjk ideograph
+136870,(cant.) vulgar term for female sex organ | cjk ideograph
+137009,to envy, to be angry with; (cant.) pregnant | cjk ideograph
+137060,surname; sixteenth of the twenty-eight lunar mansions | cjk ideograph
+137150,soft, delicate | cjk ideograph
+137196,lay hand on | cjk ideograph
+137244,a good but ugly woman | cjk ideograph
+137273,cunning; wicked, spoiled; coddled | cjk ideograph
+137429,a concubine, wife | cjk ideograph
+137545,filial | cjk ideograph
+137596,(cant.) to carry on the back | cjk ideograph
+137676,traitor | cjk ideograph
+137732,to stop up | cjk ideograph
+137780,rather; it is better; it is easier | cjk ideograph
+137803,repse, serenity, peace; peaceful; nanking | cjk ideograph
+138009,to wake from sleep | cjk ideograph
+138038,to look for; ordinary | cjk ideograph
+138100,fissure | cjk ideograph
+138109,fissure | cjk ideograph
+138114,fissure | cjk ideograph
+138150,worn out, spoiled | cjk ideograph
+138190,shaggy dog; piebald; confusion | cjk ideograph
+138282,(cant.) end, bottom, rump | cjk ideograph
+138296,patterns | cjk ideograph
+138310,to belong to; allied | cjk ideograph
+138326,female genitalia; vulva | cjk ideograph
+138389,tray, drawer | cjk ideograph
+138402,(cant.) shit | cjk ideograph
+138412,(cant.) blunt | cjk ideograph
+138462,(minnan dialect) male genitals/penis | cjk ideograph
+138510,hill | cjk ideograph
+138965,year of age | cjk ideograph
+139121,a high hill; the name of a hill | cjk ideograph
+139167,danger | cjk ideograph
+139239,floods | cjk ideograph
+139258,brain | cjk ideograph
+139281,ancient form of 巨 | cjk ideograph
+139409,to wipe , rub clean | cjk ideograph
+139463,(cant.) a sail | cjk ideograph
+139477,a covering, awning, screen | cjk ideograph
+139574,the noise of tearing silk; to tear | cjk ideograph
+139599,blinds, window screens | cjk ideograph
+139606,curtain, screen | cjk ideograph
+139621,variant of 㡡 u+3861, a screen to make a temporary kitchen; bed curtain | cjk ideograph
+139678,a bunch, a handful | cjk ideograph
+139681,(cant.) female breast, milk | cjk ideograph
+139713,silk; shredded | cjk ideograph
+139714,connected | cjk ideograph
+139719,to run threads though a web in weaving | cjk ideograph
+139784,(cant.) dimple | cjk ideograph
+139800,variant of 鹿 u+9e7f, a deer; surname | cjk ideograph
+139917,variant of 厨 u+53a8, a kitchen; a closet; a cupboard | cjk ideograph
+140060,(royal) court | cjk ideograph
+140159,spike | cjk ideograph
+140275,pulled taut | cjk ideograph
+140327,a stand, frame | cjk ideograph
+140411,None
+140412,None
+140413,None
+140414,None
+140415,None
+140416,None
+140417,None
+140418,None
+140419,None
+140420,None
+140421,None
+140422,None
+140423,None
+140424,None
+140425,None
+140426,None
+140427,None
+140428,None
+140429,None
+140430,None
+140431,None
+140432,None
+140433,None
+140434,None
+140435,None
+140436,None
+140437,None
+140438,None
+140439,None
+140440,None
+140441,None
+140442,None
+140443,None
+140444,None
+140445,None
+140446,None
+140447,None
+140448,None
+140449,None
+140450,None
+140473,surname | cjk ideograph
+140752,sincere, enthusiastic | cjk ideograph
+140805,(cant.) flurried, flustered; arbitrarily | cjk ideograph
+140856,to hate; willful | cjk ideograph
+140898,to fear | cjk ideograph
+140913,to impose upon; stupid | cjk ideograph
+140950,(cant.) intensifier | cjk ideograph
+141044,(cant.) annoyed, impatient, restless | cjk ideograph
+141045,(cant.) annoyed, irritated | cjk ideograph
+141099,intelligent, tranquil | cjk ideograph
+141100,to estimate, calculate | cjk ideograph
+141112,worthless, inferior, trashy | cjk ideograph
+141173,(cant.) 花𢝵, to be fashionable | cjk ideograph
+141237,(cant.) to brush, whisk | cjk ideograph
+141255,compliant | cjk ideograph
+141315,(cant.) to guard against; to take precautions | cjk ideograph
+141363,irritable, surly; sad | cjk ideograph
+141365,alarmed, agitated | cjk ideograph
+141498,confused | cjk ideograph
+141625,(cant.) satisfied, comfortable | cjk ideograph
+141656,dissent | cjk ideograph
+141662,same as 忡; a sad, uneasy countenance | cjk ideograph
+141664,terrified, afraid | cjk ideograph
+141698,(cant.) to brag, praise oneself | cjk ideograph
+141711,to cut, wound, hurt | cjk ideograph
+141788,large profit | cjk ideograph
+141926,(cant.) to squeeze out (as from a tube); to tickle | cjk ideograph
+142031,(cant.) to cover | cjk ideograph
+142037,(cant.) to throw away | cjk ideograph
+142054,variant of 拍, to clap, tap, beat; a beat or rhythm | cjk ideograph
+142056,(cant.) to push from behind | cjk ideograph
+142059,(cant.) to rub | cjk ideograph
+142082,firm hand | cjk ideograph
+142143,(cant.) sections or wedges (as of fruit); to take in the hand; to use | cjk ideograph
+142147,(cant.) to touch; to bump into; to take, get, receive; to lightly support something with the hand | cjk ideograph
+142150,to draw out; to levy; to strike | cjk ideograph
+142225,(cant.) classifier for lengths of cylindrically shaped objects | cjk ideograph
+142282,(cant.) determination, resolution | cjk ideograph
+142286,(cant.) to scratch | cjk ideograph
+142321,public opinion; to assemble; to seek | cjk ideograph
+142322,wrist | cjk ideograph
+142392,(cant.) rotten, bad, spoiled | cjk ideograph
+142398,general, overall, chief | cjk ideograph
+142417,(cant.) to scratch | cjk ideograph
+142421,(cant.) to beat, pound; to get drenched | cjk ideograph
+142431,to strike, flog | cjk ideograph
+142434,to select; (cant.) a wedge of a fruit such as an orange | cjk ideograph
+142472,to tie a knot; join or tie fast | cjk ideograph
+142497,(cant.) to grab with the hands; and, with | cjk ideograph
+142505,(cant.) to affix a chop or seal to a document | cjk ideograph
+142514,to shore up, put on trestles | cjk ideograph
+142517,(cant.) to save up (money), to save up bit-by-bit | cjk ideograph
+142519,to search; (cant.) to scratch | cjk ideograph
+142520,(cant.) to shake violently, stir; to strip | cjk ideograph
+142530,(cant.) to scoop up, ladle out | cjk ideograph
+142534,(cant.) to shake, rattle | cjk ideograph
+142556,to waste | cjk ideograph
+142600,(cant.) to throw down, fall down | cjk ideograph
+142610,(cant.) to chase, drive away | cjk ideograph
+142660,(cant.) to save up (money) | cjk ideograph
+142668,(cant.) to goad, incite | cjk ideograph
+142675,(cant.) to rush; chase someone out, drive out | cjk ideograph
+142695,(cant.) to draw lines | cjk ideograph
+142725,to divine; to fold | cjk ideograph
+142733,(cant.) garbage | cjk ideograph
+142737,(same as u+22e23 𢸣) to select, pick | cjk ideograph
+142748,(cant.) to push; pull open | cjk ideograph
+142752,(cant.) to take without asking | cjk ideograph
+142755,to fold, double | cjk ideograph
+142756,(cant.) to pester, nag; to wallow; to roll around on the floor | cjk ideograph
+142767,(cant.) to pull, turn | cjk ideograph
+142798,to visit; honor | cjk ideograph
+142820,to expel, reject | cjk ideograph
+142830,(cant.) to poke, nudge; stretch out | cjk ideograph
+142883,to select, pick | cjk ideograph
+142929,(cant.) to widen with force | cjk ideograph
+142987,(cant.) to stitch together, quilt | cjk ideograph
+143006,handle | cjk ideograph
+143027,to push, pull, port the helm; (cant.) to hold to, cling to; to cock a gun | cjk ideograph
+143160,small | cjk ideograph
+143220,(cant.) to poke, jab | cjk ideograph
+143378,to enter abruptly, a nod | cjk ideograph
+143560,hack | cjk ideograph
+143641,a sign for a tavern or shop | cjk ideograph
+143842,to try fruit, etc., in the sun | cjk ideograph
+143848,dark | cjk ideograph
+143966,white, clear | cjk ideograph
+144262,animals with short hair | cjk ideograph
+144308,stump of a tree | cjk ideograph
+144322,place name | cjk ideograph
+144331,leaf | cjk ideograph
+144372,(cant.) a kind of fruit | cjk ideograph
+144382,(j) non-standard variant of 材 u+6750, material, stuff; timber; talent; (cant.) a peg, row of pegs | cjk ideograph
+144449,to leap, skip | cjk ideograph
+144577,print | cjk ideograph
+144588,a well-sweep | cjk ideograph
+144618,abandon | cjk ideograph
+144680,(cant.) to be entangled, twisted; (of alcohol and tobacco) to be strong | cjk ideograph
+144691,rattle | cjk ideograph
+144700,a cane, rod, pole, staff | cjk ideograph
+144789,(cant.) the back of a chair for one to lean against | cjk ideograph
+144919,a tree a thousand feet high | cjk ideograph
+144922,(cant.) a bar; to bolt, lock | cjk ideograph
+144934,ebony | cjk ideograph
+145045,(cant.) to wave, beckon with the hand | cjk ideograph
+145082,(cant.) a young chicken | cjk ideograph
+145388,same as 欄 u+6b04, a railing, balustrade; an animal pan | cjk ideograph
+145393,zelkova tree | cjk ideograph
+145469,same as 欛 u+6b1b, a handle | cjk ideograph
+145598,treat; sum; item | cjk ideograph
+145858,(cant.) untidy | cjk ideograph
+145887,confused | cjk ideograph
+145967,die | cjk ideograph
+146037,funeral | cjk ideograph
+146080,to attack | cjk ideograph
+146101,palace; rear | cjk ideograph
+146106,gauze | cjk ideograph
+146114,hub, car; push | cjk ideograph
+146117,tremble; rough; wrestle | cjk ideograph
+146123,a kind of tree | cjk ideograph
+146439,down | cjk ideograph
+146615,(cant.) sticky; not smooth; slow | cjk ideograph
+146664,to store up, pile up | cjk ideograph
+146684,(cant.) salivating | cjk ideograph
+146707,北𣴓省, bắc kạn province in northern vietnam | cjk ideograph
+146834,abyss | cjk ideograph
+147273,to soak; delay | cjk ideograph
+147325,floods (of tears) | cjk ideograph
+147571,river name | cjk ideograph
+147702,swept away, as by a flood; soaked, saturated; to settle, as with alum; to strain; to drain off | cjk ideograph
+147853,red; communist, 'red'; bare | cjk ideograph
+147875,(cant.) to cook in boiling water | cjk ideograph
+147966,brilliant | cjk ideograph
+148114,(cant.) to scald with boiling water | cjk ideograph
+148237,(cant.) to fry | cjk ideograph
+148309,to gather wood for a burnt sacrifice to heaven | cjk ideograph
+148320,hot (in temperature) | cjk ideograph
+148324,a flaming explosion, a flash | cjk ideograph
+148401,to make chowder | cjk ideograph
+148466,to set on fire | cjk ideograph
+148565,smoke, fog, vapor; smoke, cure | cjk ideograph
+148691,smoky or burning smell | cjk ideograph
+148756,to govern | cjk ideograph
+148845,to get hold of, take | cjk ideograph
+148847,a syrupy liquid | cjk ideograph
+148936,(cant.) to squeeze in, to stuff in | cjk ideograph
+148997,a very young child | cjk ideograph
+149016,cattle, domestic animals | cjk ideograph
+149108,(cant.) gore | cjk ideograph
+149295,(cant.) to bite | cjk ideograph
+149342,a lemur of the genus cynocephalus | cjk ideograph
+149477,dog | cjk ideograph
+149521,sea otter | cjk ideograph
+149566,lynx, wildcat | cjk ideograph
+149614,a kind of monkey | cjk ideograph
+149653,to ruin; to tire of; to explain | cjk ideograph
+149674,to hunt | cjk ideograph
+149733,dark; mystic | cjk ideograph
+149847,a kind of gem; diamond | cjk ideograph
+149903,turquoise | cjk ideograph
+149978,turquoise | cjk ideograph
+150249,(same as u+73b2 玲) tinkling of jade pendants | cjk ideograph
+150299,a gourd | cjk ideograph
+150400,pottery | cjk ideograph
+150440,to grind; a hull; a mill | cjk ideograph
+150445,a jug for boiling congee | cjk ideograph
+150515,same as 甦 u+7526 to be reborn; to resuscitate, revive | cjk ideograph
+150535,prepare | cjk ideograph
+150549,channels | cjk ideograph
+150557,channels | cjk ideograph
+150561,farmers | cjk ideograph
+150636,to clear land | cjk ideograph
+150800,thunder | cjk ideograph
+150804,foot (obs.); bale | cjk ideograph
+150831,ulcer | cjk ideograph
+150874,humpback | cjk ideograph
+150968,(cant.) a scar | cjk ideograph
+150983,(cant.) severe pain | cjk ideograph
+151018,(cant.) impatient, restless | cjk ideograph
+151019,(cant.) a prickling pain, ache | cjk ideograph
+151045,suffer | cjk ideograph
+151099,(cant.) a scar, scab; and, with | cjk ideograph
+151120,(cant.) a knot | cjk ideograph
+151187,suppurating ulcer; to restrain | cjk ideograph
+151207,(cant.) annoyed | cjk ideograph
+151226,to suffer | cjk ideograph
+151256,rash; addiction, craving, habit | cjk ideograph
+151490,(cant.) unattractive, pale | cjk ideograph
+151502,to split | cjk ideograph
+151530,(cant.) wrinkled, crumpled | cjk ideograph
+151596,(cant.) a scar | cjk ideograph
+151633,to clean | cjk ideograph
+151634,(cant.) warped | cjk ideograph
+151635,a small bowl | cjk ideograph
+151637,compassionate; to feed a prisoner | cjk ideograph
+151681,salt | cjk ideograph
+151721,covered vessel | cjk ideograph
+151822,(cant.) to pull, lift up | cjk ideograph
+151848,to look at | cjk ideograph
+151851,(cant.) to stare, peep at | cjk ideograph
+151860,looking about eagerly | cjk ideograph
+151880,(cant.) to look, scan | cjk ideograph
+151903,bopeep, peekaboo | cjk ideograph
+151904,(cant.) to fix one's eyes on, gaze at | cjk ideograph
+151934,(cant.) to peek or peep at | cjk ideograph
+152035,(cant.) to glance | cjk ideograph
+152095,blind; no pupil in the eye | cjk ideograph
+152114,(cant.) to keep a close eye on, to control | cjk ideograph
+152118,(cant.) sound asleep | cjk ideograph
+152181,blurred eyes | cjk ideograph
+152204,(cant.) wrinkled, folded, creased, crumpled | cjk ideograph
+152210,near-closed | cjk ideograph
+152217,(cant.) to peep at, look at secretly | cjk ideograph
+152263,(cant.) to open the eyes wide | cjk ideograph
+152268,to glance at, catch sight of | cjk ideograph
+152280,(cant.) to sweep the eyes over something | cjk ideograph
+152287,to wink | cjk ideograph
+152347,(cant.) to gaze greedily at | cjk ideograph
+152600,a stone, rock | cjk ideograph
+152606,a crude saltpeter | cjk ideograph
+152674,boron (obsolete; see u+787c 硼) | cjk ideograph
+152682,impure ammonium chloride | cjk ideograph
+152720,tearing sound | cjk ideograph
+152831,stone roller, weight | cjk ideograph
+152832,roar, crash | cjk ideograph
+152846,cape; spit; promontory | cjk ideograph
+152881,(cant.) to slip | cjk ideograph
+152885,variant of u+78c1 磁, magnetic; magnetism; porcelain | cjk ideograph
+152895,(cant.) classifier for cannons, large guns, etc. | cjk ideograph
+153356,a coat, jacket, robe | cjk ideograph
+153362,to pray to the gods | cjk ideograph
+153381,the duration of a dynasty or reign | cjk ideograph
+153442,to take advantage of; sharp (of weapons); profitable; profit | cjk ideograph
+153499,a stack, pile | cjk ideograph
+153700,to shrink | cjk ideograph
+153716,surname | cjk ideograph
+153925,(cant.) a hole, hollow; cavity | cjk ideograph
+154105,(cant.) puddle | cjk ideograph
+154226,a god; to raise | cjk ideograph
+154261,classifier | cjk ideograph
+154327,bamboo; surname | cjk ideograph
+154353,to hoard | cjk ideograph
+154415,a basket | cjk ideograph
+154583,bell-beam | cjk ideograph
+154829,nettle | cjk ideograph
+154918,flute | cjk ideograph
+154919,rough mat; ugly | cjk ideograph
+154970,thorns, brambles | cjk ideograph
+155209,(cant.) sticky | cjk ideograph
+155351,(bound form) coarsely ground maize | cjk ideograph
+155354,agreeable | cjk ideograph
+155359,glutinous rice | cjk ideograph
+155391,to stick; sticky | cjk ideograph
+155480,broken grain, bran | cjk ideograph
+155599,None
+155600,None
+155601,None
+155602,None
+155603,None
+155604,None
+155605,None
+155606,None
+155607,None
+155608,None
+155609,None
+155610,None
+155611,None
+155612,None
+155613,None
+155614,None
+155615,None
+155616,None
+155617,None
+155618,None
+155619,None
+155620,None
+155621,None
+155622,None
+155624,None
+155626,None
+155627,None
+155628,None
+155629,None
+155630,None
+155631,None
+155633,None
+155634,None
+155635,None
+155636,None
+155639,None
+155655,the past; a classic | cjk ideograph
+155799,(cant.) to tighten | cjk ideograph
+155813,(cant.) to drop down | cjk ideograph
+155906,girdle; zone | cjk ideograph
+156063,tangled | cjk ideograph
+156079,confused | cjk ideograph
+156230,to break off; a potsherd, a flaw | cjk ideograph
+156248,(cant.) a cooking pot, cooker | cjk ideograph
+156313,net | cjk ideograph
+156319,net | cjk ideograph
+156417,a net | cjk ideograph
+156521,a ram | cjk ideograph
+156679,the sound of wings, whir | cjk ideograph
+156680,to fly, soar | cjk ideograph
+156855,senility | cjk ideograph
+156974,surname | cjk ideograph
+156995,big ears; laozi | cjk ideograph
+157000,small | cjk ideograph
+157010,to spy, peep | cjk ideograph
+157119,(cant.) to hang down; to lower one's head | cjk ideograph
+157120,earring | cjk ideograph
+157225,(cant.) chin | cjk ideograph
+157301,the wrist; universal joint | cjk ideograph
+157302,thighs, rump, leg; division; share of stock | cjk ideograph
+157308,a putrid carcase | cjk ideograph
+157331,fat | cjk ideograph
+157334,(cant.) to wink | cjk ideograph
+157351,county name | cjk ideograph
+157391,buttocks | cjk ideograph
+157402,oily | cjk ideograph
+157462,to stretch, spread | cjk ideograph
+157537,the side of the body | cjk ideograph
+157603,rank; rancid; fetid | cjk ideograph
+157644,muscle | cjk ideograph
+157668,viands, delicacies | cjk ideograph
+157766,(cant., vulg.) anus | cjk ideograph
+157834,(cant.) blister | cjk ideograph
+157836,an abortion, miscarriage | cjk ideograph
+157843,(cant.) mole on skin | cjk ideograph
+157895,(cant.) buttocks | cjk ideograph
+157917,chin | cjk ideograph
+157918,chin | cjk ideograph
+157937,mysterious, occult | cjk ideograph
+157966,a marsh, pool; high; the fifth month | cjk ideograph
+157990,(cant.) a smell, scent | cjk ideograph
+158023,come to; complete | cjk ideograph
+158043,stick in, ram | cjk ideograph
+158063,to learn | cjk ideograph
+158105,variant of 挙 u+6319, to raise, lift up; to recommend | cjk ideograph
+158177,blaze | cjk ideograph
+158194,(cant.) to dribble, spit; to pester, nag | cjk ideograph
+158202,(cant.) to lick, lap up | cjk ideograph
+158344,(cant.) to kneel | cjk ideograph
+158761,distress | cjk ideograph
+158788,mushroom | cjk ideograph
+158804,castor oil plant | cjk ideograph
+158806,wolfsbane | cjk ideograph
+158903,to arrive, enter | cjk ideograph
+159055,to bury | cjk ideograph
+159154,cardamom seeds | cjk ideograph
+159197,to cut grass; hay | cjk ideograph
+159388,to weed; a plant | cjk ideograph
+159440,(cant.) to fry in oil | cjk ideograph
+159535,dock | cjk ideograph
+159562,a chestnut horse | cjk ideograph
+159801,sugar cane | cjk ideograph
+160056,asparagus | cjk ideograph
+160178,sacrificial vessel | cjk ideograph
+160339,grubs; to destroy | cjk ideograph
+160389,(cant.) frog, toad | cjk ideograph
+160437,rainbow | cjk ideograph
+160438,(cant.) insect sting | cjk ideograph
+160458,(cant.) a large butterfly | cjk ideograph
+160461,to sting, a sting | cjk ideograph
+160486,(cant.) a dragonfly; a small boat without a sail | cjk ideograph
+160519,(cant.) a large butterfly | cjk ideograph
+160531,a grasshopper, locust | cjk ideograph
+160773,maggots, centipedes | cjk ideograph
+160802,an oyster | cjk ideograph
+160836,locust | cjk ideograph
+160973,pearl oyster | cjk ideograph
+161103,restless; limp | cjk ideograph
+161140,(cant.) a pimple, an insect bite | cjk ideograph
+161239,same as 衄 u+8844, a nosebleed | cjk ideograph
+161268,a raised path | cjk ideograph
+161271,(j) non-standard variant of 術 u+8853, art, skill, special feat; method | cjk ideograph
+161282,to rush at, dash against | cjk ideograph
+161337,(cant.) a necktie | cjk ideograph
+161344,old or badly fitting clothes; untidy | cjk ideograph
+161413,(cant.) crotch | cjk ideograph
+161428,(cant.) a kind of skirt | cjk ideograph
+161536,rug | cjk ideograph
+161537,to make smaller, fit; seam | cjk ideograph
+161589,arid; dry; parched | cjk ideograph
+161630,(cant.) 卡𧝞, khaki | cjk ideograph
+161706,old or badly fitting clothes; untidy | cjk ideograph
+161885,blush; shy | cjk ideograph
+161891,to look at something unhappily | cjk ideograph
+161949,(cant.) to stare angrily | cjk ideograph
+161992,(cant.) to gore | cjk ideograph
+162036,a cup | cjk ideograph
+162170,(cant.) to fool, deceive, hoodwink | cjk ideograph
+162208,(cant.) to deceive | cjk ideograph
+162269,(cant.) 𧧝𧨊, to bar the way, obstruct | cjk ideograph
+162314,(cant.) 𧧝𧨊, to bar the way, obstruct | cjk ideograph
+162366,(cant.) to fool, trick, cheat | cjk ideograph
+162393,birthday; to be born, give birth to | cjk ideograph
+162600,ringing, spacious | cjk ideograph
+162652,to deceive | cjk ideograph
+162826,a rumbling sound | cjk ideograph
+162855,to assemble | cjk ideograph
+162876,elephant; likeness | cjk ideograph
+163114,fragments | cjk ideograph
+163119,(cant.) to carry on the back | cjk ideograph
+163187,a loss; to lose (e.g., money in trade) | cjk ideograph
+163204,(cant.) to owe | cjk ideograph
+163254,to peddle, trade, deal in | cjk ideograph
+163271,parting gift | cjk ideograph
+163350,to earn, sell at a profit | cjk ideograph
+163465,surname | cjk ideograph
+163545,(cant.) 轉灣𧻙角, not straightforward | cjk ideograph
+163630,to wade | cjk ideograph
+163661,to jolt in trotting | cjk ideograph
+163666,to walk, sprain | cjk ideograph
+163704,to step, jump | cjk ideograph
+163767,foot; ample | cjk ideograph
+163794,(cant.) to stamp (one's foot) | cjk ideograph
+163819,(cant.) to have a rest | cjk ideograph
+163833,thumb, big toe | cjk ideograph
+163875,(cant.) a home, house | cjk ideograph
+163876,(cant.) to suddenly fall or drop down | cjk ideograph
+163907,tripping | cjk ideograph
+163912,(cant.) to ford, wade | cjk ideograph
+163984,(cant.) to suddenly fall or drop down | cjk ideograph
+164029,(cant.) to stamp the foot | cjk ideograph
+164030,(cant.) to step across | cjk ideograph
+164062,to sit cross-legged | cjk ideograph
+164063,to sit cross-legged | cjk ideograph
+164073,(cant.) to slip, slide | cjk ideograph
+164175,(cant.) to step over, step across | cjk ideograph
+164189,(cant.) to press down or out with the foot; to kick; to tread on | cjk ideograph
+164266,(cant.) to press down or push out with the foot | cjk ideograph
+164271,(cant.) to lie prone, bend over | cjk ideograph
+164324,to totter | cjk ideograph
+164359,(cant.) to step over, step across | cjk ideograph
+164378,weak | cjk ideograph
+164425,weak | cjk ideograph
+164438,(cant.) to hide oneself | cjk ideograph
+164476,(cant.) to stoop, bow | cjk ideograph
+164507,(cant.) nude, naked | cjk ideograph
+164556,rumble; bombard | cjk ideograph
+164557,(cant.) a van | cjk ideograph
+164578,(cant.) an elevator (from the british 'lift') | cjk ideograph
+164591,potholes | cjk ideograph
+164649,a time; row | cjk ideograph
+164723,distant; an open carriage | cjk ideograph
+164788,vertical pegs of wood used to keep the axle-tree of a cart in its place | cjk ideograph
+164946,a disciple | cjk ideograph
+165321,so; then; succeed | cjk ideograph
+165906,evil spirits or influences | cjk ideograph
+165910,face boil | cjk ideograph
+166053,(same as 䤍) rotten paste or soybean sauce; to grow mildewed | cjk ideograph
+166118,clear; strained | cjk ideograph
+166336,dubnium (chemistry) | cjk ideograph
+166364,a broad hoe, a mattock | cjk ideograph
+166375,to strike, attack | cjk ideograph
+166415,bohrium (chemistry) | cjk ideograph
+166421,a bit | cjk ideograph
+166504,cymbals | cjk ideograph
+166726,hassium (chemistry) | cjk ideograph
+166732,(cant.) bang; pan (eng. loanwords) | cjk ideograph
+166734,seaborgium (chemistry) | cjk ideograph
+166808,a fine grade of steel | cjk ideograph
+166991,technetium | cjk ideograph
+167114,(cant.) penis (vulg.) | cjk ideograph
+167117,(cant.) penis (vulg.) | cjk ideograph
+167122,(cant.) sexual intercourse (vulg.) | cjk ideograph
+167185,the frame of a door or window fixed in a wall | cjk ideograph
+167295,connection; pass; surname | cjk ideograph
+167321,(cant., vulg.) penis | cjk ideograph
+167353,to close, shut | cjk ideograph
+167450,series, rank, grade | cjk ideograph
+167468,battle-field, battle array | cjk ideograph
+167609,mournful, narrow; used for u+6e6b 湫 | cjk ideograph
+167666,a crack, fissure | cjk ideograph
+167670,a crevice, fissure; time, leisure; unpreparedness | cjk ideograph
+167756,bevel | cjk ideograph
+167933,though | cjk ideograph
+168066,place; to settle, punish | cjk ideograph
+168115,non-standard variant of 靈 u+9748, a spirit, soul; the spiritual world | cjk ideograph
+168315,pelting rain | cjk ideograph
+168403,thunder | cjk ideograph
+168411,cyanogen | cjk ideograph
+168602,strap, hide | cjk ideograph
+168660,shoe | cjk ideograph
+168664,shoes | cjk ideograph
+168679,shoes; the name of a drum | cjk ideograph
+168791,the lining of a shoe; the vamp or upper part of a shoe or boot | cjk ideograph
+168863,red | cjk ideograph
+169082,long beard, whiskers | cjk ideograph
+169189,(cant.) to raise the head | cjk ideograph
+169238,kinds | cjk ideograph
+169239,kind, species; to be similar to | cjk ideograph
+169284,fontanel; crown | cjk ideograph
+169325,the top of a skull | cjk ideograph
+169460,(cant.) classifier for odors | cjk ideograph
+169735,thin wafers in which meat and other foods are rolled and eaten | cjk ideograph
+169760,(cant.) soft rice for a small child | cjk ideograph
+169795,None
+169796,None
+169797,None
+169798,None
+169799,None
+169800,None
+169801,None
+169802,None
+169803,None
+169804,None
+169805,None
+169806,None
+169807,None
+169808,None
+169809,None
+169810,None
+169811,None
+169812,None
+169813,None
+169814,None
+169815,None
+169816,None
+169817,None
+169818,None
+169820,None
+169821,None
+169822,None
+169823,None
+169824,None
+169825,None
+169826,None
+169827,None
+169828,None
+169829,None
+169830,None
+169831,None
+169833,None
+169834,None
+169835,None
+169837,None
+169924,sacrificial grain | cjk ideograph
+169940,(cant., vulg.) to eat | cjk ideograph
+170001,top, head, summit | cjk ideograph
+170162,to drive; hasten; navigate | cjk ideograph
+170193,(same as u+978d 鞍) saddle; a saddle-like terrain or thing | cjk ideograph
+170315,to gallop wildly | cjk ideograph
+170402,to provide for; anxious; danger | cjk ideograph
+170466,variant of 騁|骋[cheng3] | cjk ideograph
+170514,muscle | cjk ideograph
+170520,arm, side | cjk ideograph
+170541,stiffness in the joints | cjk ideograph
+170573,(cant.) ribs, rib-cage | cjk ideograph
+170647,tailbones, the coccyx | cjk ideograph
+170671,knee-cap | cjk ideograph
+170766,(cant.) bangs (hair) | cjk ideograph
+170989,hair on the temples | cjk ideograph
+171339,(j) nonstandard variant of 魚 u+9b5a, fish | cjk ideograph
+171397,mackerel | cjk ideograph
+171401,river porpoise; torpedo | cjk ideograph
+171416,a general name for perch, etc. | cjk ideograph
+171436,herring | cjk ideograph
+171512,(same as u+9b74 魴) triangular bream | cjk ideograph
+171560,male whale | cjk ideograph
+171634,ray | cjk ideograph
+171784,a variety of perch | cjk ideograph
+171998,to whisper, twitter | cjk ideograph
+172050,variant of 鴟 u+9d1f, a kite (bird) | cjk ideograph
+172287,a goose | cjk ideograph
+172406,crane down; fine wool; a cloak | cjk ideograph
+172508,a kind of bird | cjk ideograph
+172649,variant of 塩 u+5869, salt | cjk ideograph
+172920,young wheat | cjk ideograph
+173017,a yolk | cjk ideograph
+173056,(cant.) relationship; together | cjk ideograph
+173228,(cant.) burned | cjk ideograph
+173264,colorful | cjk ideograph
+173314,tripod | cjk ideograph
+173374,a rat, mouse | cjk ideograph
+173465,to snore | cjk ideograph
+173569,(cant.) to bite | cjk ideograph
+173618,(cant.) to grin, smile | cjk ideograph
+173659,(cant.) decayed teeth; tongue-tied | cjk ideograph
+173737,(cant.) sound of shouting | cjk ideograph
+173783,gongche character he with downward slash | cjk ideograph
+173784,gongche character si with downward slash | cjk ideograph
+173785,gongche character yi with downward slash | cjk ideograph
+173786,gongche character shang with downward slash | cjk ideograph
+173787,gongche character che with downward slash | cjk ideograph
+173788,gongche character gong with downward slash | cjk ideograph
+173789,gongche character fan with downward slash | cjk ideograph

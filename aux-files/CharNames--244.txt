@@ -1,0 +1,68 @@
+72816,marchen head mark
+72817,marchen mark shad
+72818,marchen letter ka
+72819,marchen letter kha
+72820,marchen letter ga
+72821,marchen letter nga
+72822,marchen letter ca
+72823,marchen letter cha
+72824,marchen letter ja
+72825,marchen letter nya
+72826,marchen letter ta
+72827,marchen letter tha
+72828,marchen letter da
+72829,marchen letter na
+72830,marchen letter pa
+72831,marchen letter pha
+72832,marchen letter ba
+72833,marchen letter ma
+72834,marchen letter tsa
+72835,marchen letter tsha
+72836,marchen letter dza
+72837,marchen letter wa
+72838,marchen letter zha
+72839,marchen letter za
+72840,marchen letter -a
+72841,marchen letter ya
+72842,marchen letter ra
+72843,marchen letter la
+72844,marchen letter sha
+72845,marchen letter sa
+72846,marchen letter ha
+72847,marchen letter a
+72850,marchen subjoined letter ka
+72851,marchen subjoined letter kha
+72852,marchen subjoined letter ga
+72853,marchen subjoined letter nga
+72854,marchen subjoined letter ca
+72855,marchen subjoined letter cha
+72856,marchen subjoined letter ja
+72857,marchen subjoined letter nya
+72858,marchen subjoined letter ta
+72859,marchen subjoined letter tha
+72860,marchen subjoined letter da
+72861,marchen subjoined letter na
+72862,marchen subjoined letter pa
+72863,marchen subjoined letter pha
+72864,marchen subjoined letter ba
+72865,marchen subjoined letter ma
+72866,marchen subjoined letter tsa
+72867,marchen subjoined letter tsha
+72868,marchen subjoined letter dza
+72869,marchen subjoined letter wa
+72870,marchen subjoined letter zha
+72871,marchen subjoined letter za
+72873,marchen subjoined letter ya
+72874,marchen subjoined letter ra
+72875,marchen subjoined letter la
+72876,marchen subjoined letter sha
+72877,marchen subjoined letter sa
+72878,marchen subjoined letter ha
+72879,marchen subjoined letter a
+72880,marchen vowel sign aa
+72881,marchen vowel sign i
+72882,marchen vowel sign u
+72883,marchen vowel sign e
+72884,marchen vowel sign o
+72885,marchen sign anusvara
+72886,marchen sign candrabindu

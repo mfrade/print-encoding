@@ -1,0 +1,25 @@
+119648,counting rod unit digit one
+119649,counting rod unit digit two
+119650,counting rod unit digit three
+119651,counting rod unit digit four
+119652,counting rod unit digit five
+119653,counting rod unit digit six
+119654,counting rod unit digit seven
+119655,counting rod unit digit eight
+119656,counting rod unit digit nine
+119657,counting rod tens digit one
+119658,counting rod tens digit two
+119659,counting rod tens digit three
+119660,counting rod tens digit four
+119661,counting rod tens digit five
+119662,counting rod tens digit six
+119663,counting rod tens digit seven
+119664,counting rod tens digit eight
+119665,counting rod tens digit nine
+119666,ideographic tally mark one
+119667,ideographic tally mark two
+119668,ideographic tally mark three
+119669,ideographic tally mark four
+119670,ideographic tally mark five
+119671,tally mark one
+119672,tally mark five

@@ -1,0 +1,22 @@
+5888,tagalog letter a
+5889,tagalog letter i
+5890,tagalog letter u
+5891,tagalog letter ka
+5892,tagalog letter ga
+5893,tagalog letter nga
+5894,tagalog letter ta
+5895,tagalog letter da
+5896,tagalog letter na
+5897,tagalog letter pa
+5898,tagalog letter ba
+5899,tagalog letter ma
+5900,tagalog letter ya
+5901,tagalog letter ra
+5902,tagalog letter la
+5903,tagalog letter wa
+5904,tagalog letter sa
+5905,tagalog letter ha
+5906,tagalog vowel sign i
+5907,tagalog vowel sign u
+5908,tagalog sign virama
+5909,tagalog sign pamudpod

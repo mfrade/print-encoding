@@ -1,0 +1,31 @@
+6832,combining doubled circumflex accent
+6833,combining diaeresis-ring
+6834,combining infinity
+6835,combining downwards arrow
+6836,combining triple dot
+6837,combining x-x below
+6838,combining wiggly line below
+6839,combining open mark below
+6840,combining double open mark below
+6841,combining light centralization stroke below
+6842,combining strong centralization stroke below
+6843,combining parentheses above
+6844,combining double parentheses above
+6845,combining parentheses below
+6846,combining parentheses overlay
+6847,combining latin small letter w below
+6848,combining latin small letter turned w below
+6849,combining left parenthesis above left
+6850,combining right parenthesis above right
+6851,combining left parenthesis below left
+6852,combining right parenthesis below right
+6853,combining square brackets above
+6854,combining number sign above
+6855,combining inverted double arch above
+6856,combining plus sign above
+6857,combining double plus sign above
+6858,combining double plus sign below
+6859,combining triple acute accent
+6860,combining latin small letter insular g
+6861,combining latin small letter insular r
+6862,combining latin small letter insular t

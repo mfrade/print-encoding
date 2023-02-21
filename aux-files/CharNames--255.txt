@@ -1,0 +1,1071 @@
+77824,seated man | egyptian hieroglyph a001
+77825,man with hand to mouth | egyptian hieroglyph a002
+77826,man sitting on heel | egyptian hieroglyph a003
+77827,seated man with hands raised | egyptian hieroglyph a004
+77828,crouching man hiding behind wall | egyptian hieroglyph a005
+77829,seated man hiding behind wall | egyptian hieroglyph a005a
+77830,seated man under vase from which water flows | egyptian hieroglyph a006
+77831,seated man reaching for libation stone, under vase from which water flows | egyptian hieroglyph a006a
+77832,seated man reaching down, under vase from which water flows | egyptian hieroglyph a006b
+77833,fatigued man | egyptian hieroglyph a007
+77834,man performing hnw-rite | egyptian hieroglyph a008
+77835,man steadying basket on head | egyptian hieroglyph a009
+77836,seated man holding oar | egyptian hieroglyph a010
+77837,seated man holding scepter of authority and shepherd's crook | egyptian hieroglyph a011
+77838,soldier with bow and quiver | egyptian hieroglyph a012
+77839,man with arms tied behind his back | egyptian hieroglyph a013
+77840,falling man with blood streaming from his head | egyptian hieroglyph a014
+77841,man whose head is hit with an axe | egyptian hieroglyph a014a
+77842,man falling | egyptian hieroglyph a015
+77843,man bowing down | egyptian hieroglyph a016
+77844,child sitting with hand to mouth | egyptian hieroglyph a017
+77845,child sitting with arms hanging down | egyptian hieroglyph a017a
+77846,child wearing red crown | egyptian hieroglyph a018
+77847,bent man leaning on staff | egyptian hieroglyph a019
+77848,man leaning on forked staff | egyptian hieroglyph a020
+77849,man holding staff with handkerchief | egyptian hieroglyph a021
+77850,statue of man with staff and scepter of authority | egyptian hieroglyph a022
+77851,king with staff and mace with round head | egyptian hieroglyph a023
+77852,man striking with both hands | egyptian hieroglyph a024
+77853,man striking, with left arm hanging behind back | egyptian hieroglyph a025
+77854,man with one arm pointing forward | egyptian hieroglyph a026
+77855,hastening man | egyptian hieroglyph a027
+77856,man with hands raised on either side | egyptian hieroglyph a028
+77857,man upside down | egyptian hieroglyph a029
+77858,man with hands raised in front | egyptian hieroglyph a030
+77859,man with hands raised behind him | egyptian hieroglyph a031
+77860,man dancing with arms to the back | egyptian hieroglyph a032
+77861,man dancing with arms to the front | egyptian hieroglyph a032a
+77862,man with stick and bundle on shoulder | egyptian hieroglyph a033
+77863,man pounding in a mortar | egyptian hieroglyph a034
+77864,man building wall | egyptian hieroglyph a035
+77865,man kneading into vessel | egyptian hieroglyph a036
+77866,man in vessel | egyptian hieroglyph a037
+77867,man holding necks of two emblematic animals with panther heads | egyptian hieroglyph a038
+77868,man on two giraffes | egyptian hieroglyph a039
+77869,seated god | egyptian hieroglyph a040
+77870,seated god with sceptre | egyptian hieroglyph a040a
+77871,king with uraeus | egyptian hieroglyph a041
+77872,king with uraeus and flagellum | egyptian hieroglyph a042
+77873,king with uraeus and flagellum | egyptian hieroglyph a042a
+77874,king wearing white crown | egyptian hieroglyph a043
+77875,king wearing white crown with sceptre | egyptian hieroglyph a043a
+77876,king wearing white crown with flagellum | egyptian hieroglyph a044
+77877,king wearing red crown | egyptian hieroglyph a045
+77878,king wearing red crown with sceptre | egyptian hieroglyph a045a
+77879,king wearing red crown with flagellum | egyptian hieroglyph a046
+77880,shepherd seated and wrapped in mantle, holding stick | egyptian hieroglyph a047
+77881,beardless man seated and holding knife | egyptian hieroglyph a048
+77882,seated syrian holding stick | egyptian hieroglyph a049
+77883,noble on chair | egyptian hieroglyph a050
+77884,noble on chair with flagellum | egyptian hieroglyph a051
+77885,noble squatting with flagellum | egyptian hieroglyph a052
+77886,standing mummy | egyptian hieroglyph a053
+77887,lying mummy | egyptian hieroglyph a054
+77888,mummy on bed | egyptian hieroglyph a055
+77889,seated man holding stick | egyptian hieroglyph a056
+77890,man holding loaf on mat | egyptian hieroglyph a057
+77891,man applying hoe to ground | egyptian hieroglyph a058
+77892,man threatening with stick | egyptian hieroglyph a059
+77893,man sowing seeds | egyptian hieroglyph a060
+77894,man looking over his shoulder | egyptian hieroglyph a061
+77895,asiatic | egyptian hieroglyph a062
+77896,king on throne holding staff | egyptian hieroglyph a063
+77897,man sitting on heels holding forward cup | egyptian hieroglyph a064
+77898,man wearing tunic with fringes and holding mace | egyptian hieroglyph a065
+77899,man holding sistrum | egyptian hieroglyph a066
+77900,dwarf | egyptian hieroglyph a067
+77901,man holding up knife | egyptian hieroglyph a068
+77902,seated man with raised right arm and left arm hanging down | egyptian hieroglyph a069
+77903,seated man with raised arms | egyptian hieroglyph a070
+77904,seated woman | egyptian hieroglyph b001
+77905,pregnant woman | egyptian hieroglyph b002
+77906,woman giving birth | egyptian hieroglyph b003
+77907,combination of woman giving birth and three skins tied together | egyptian hieroglyph b004
+77908,woman suckling child | egyptian hieroglyph b005
+77909,woman suckling child (simplified) | egyptian hieroglyph b005a
+77910,woman on chair with child on lap | egyptian hieroglyph b006
+77911,queen wearing diadem and holding flower | egyptian hieroglyph b007
+77912,woman holding lotus flower | egyptian hieroglyph b008
+77913,woman holding sistrum | egyptian hieroglyph b009
+77914,god with sun-disk and uraeus | egyptian hieroglyph c001
+77915,god with falcon head and sun-disk holding ankh | egyptian hieroglyph c002
+77916,god with falcon head and sun-disk | egyptian hieroglyph c002a
+77917,god with falcon head and sun-disk (reversed) | egyptian hieroglyph c002b
+77918,god with falcon head and sun-disk holding ankh (reversed) | egyptian hieroglyph c002c
+77919,god with ibis head | egyptian hieroglyph c003
+77920,god with ram head | egyptian hieroglyph c004
+77921,god with ram head holding ankh | egyptian hieroglyph c005
+77922,god with jackal head | egyptian hieroglyph c006
+77923,god with seth-animal head | egyptian hieroglyph c007
+77924,ithyphallic god with two plumes, uplifted arm and flagellum | egyptian hieroglyph c008
+77925,goddess with horned sun-disk | egyptian hieroglyph c009
+77926,goddess with feather | egyptian hieroglyph c010
+77927,goddess with feather holding ankh | egyptian hieroglyph c010a
+77928,god with arms supporting the sky and palm branch on head | egyptian hieroglyph c011
+77929,god with two plumes and scepter | egyptian hieroglyph c012
+77930,god with two plumes and scepter (reversed) | egyptian hieroglyph c013
+77931,god with two plumes and scimitar | egyptian hieroglyph c014
+77932,god with two plumes and scimitar (reversed) | egyptian hieroglyph c015
+77933,god wearing red crown with ankh | egyptian hieroglyph c016
+77934,god with falcon head and two plumes | egyptian hieroglyph c017
+77935,squatting god | egyptian hieroglyph c018
+77936,mummy-shaped god | egyptian hieroglyph c019
+77937,mummy-shaped god in shrine | egyptian hieroglyph c020
+77938,bes | egyptian hieroglyph c021
+77939,god with falcon head and moon | egyptian hieroglyph c022
+77940,goddess with feline head and sun with uraeus | egyptian hieroglyph c023
+77941,god wearing red crown with scepter | egyptian hieroglyph c024
+77942,head | egyptian hieroglyph d001
+77943,face | egyptian hieroglyph d002
+77944,hair | egyptian hieroglyph d003
+77945,eye | egyptian hieroglyph d004
+77946,eye touched up with paint | egyptian hieroglyph d005
+77947,eye with painted upper lid | egyptian hieroglyph d006
+77948,eye with painted lower lid | egyptian hieroglyph d007
+77949,eye enclosed in sandy tract | egyptian hieroglyph d008
+77950,eye with painted lower lid enclosed in sandy tract | egyptian hieroglyph d008a
+77951,eye with flowing tears | egyptian hieroglyph d009
+77952,eye of horus | egyptian hieroglyph d010
+77953,left part of the eye of horus | egyptian hieroglyph d011
+77954,pupil | egyptian hieroglyph d012
+77955,eyebrow | egyptian hieroglyph d013
+77956,right part of eye of horus | egyptian hieroglyph d014
+77957,diagonal marking of eye of horus | egyptian hieroglyph d015
+77958,vertical marking of eye of horus | egyptian hieroglyph d016
+77959,diagonal and vertical markings of eye of horus | egyptian hieroglyph d017
+77960,ear | egyptian hieroglyph d018
+77961,nose, eye and cheek | egyptian hieroglyph d019
+77962,nose, eye and cheek (cursive) | egyptian hieroglyph d020
+77963,mouth | egyptian hieroglyph d021
+77964,mouth with two strokes | egyptian hieroglyph d022
+77965,mouth with three strokes | egyptian hieroglyph d023
+77966,upper lip with teeth | egyptian hieroglyph d024
+77967,lips | egyptian hieroglyph d025
+77968,liquid issuing from lips | egyptian hieroglyph d026
+77969,small breast | egyptian hieroglyph d027
+77970,large breast | egyptian hieroglyph d027a
+77971,two arms upraised | egyptian hieroglyph d028
+77972,combination of hieroglyphs d28 and r12 | egyptian hieroglyph d029
+77973,two arms upraised with tail | egyptian hieroglyph d030
+77974,arms embracing club | egyptian hieroglyph d031
+77975,two arms uppraised and club | egyptian hieroglyph d031a
+77976,arms embracing | egyptian hieroglyph d032
+77977,arms rowing | egyptian hieroglyph d033
+77978,arms with shield and battle axe | egyptian hieroglyph d034
+77979,arms with shield and mace | egyptian hieroglyph d034a
+77980,arms in gesture of negation | egyptian hieroglyph d035
+77981,forearm (palm upwards) | egyptian hieroglyph d036
+77982,forearm with bread cone | egyptian hieroglyph d037
+77983,forearm with rounded loaf | egyptian hieroglyph d038
+77984,forearm with bowl | egyptian hieroglyph d039
+77985,forearm with stick | egyptian hieroglyph d040
+77986,forearm with palm down and bent upper arm | egyptian hieroglyph d041
+77987,forearm with palm down and straight upper arm | egyptian hieroglyph d042
+77988,forearm with flail | egyptian hieroglyph d043
+77989,arm with sekhem scepter | egyptian hieroglyph d044
+77990,arm with wand | egyptian hieroglyph d045
+77991,hand | egyptian hieroglyph d046
+77992,liquid falling from hand | egyptian hieroglyph d046a
+77993,hand with palm up | egyptian hieroglyph d047
+77994,hand without thumb | egyptian hieroglyph d048
+77995,hand holding egg | egyptian hieroglyph d048a
+77996,fist | egyptian hieroglyph d049
+77997,one finger | egyptian hieroglyph d050
+77998,two fingers | egyptian hieroglyph d050a
+77999,three fingers | egyptian hieroglyph d050b
+78000,four fingers | egyptian hieroglyph d050c
+78001,five fingers | egyptian hieroglyph d050d
+78002,six fingers | egyptian hieroglyph d050e
+78003,seven fingers | egyptian hieroglyph d050f
+78004,eight fingers | egyptian hieroglyph d050g
+78005,nine fingers | egyptian hieroglyph d050h
+78006,five fingers (row) | egyptian hieroglyph d050i
+78007,one finger (horizontal) | egyptian hieroglyph d051
+78008,penis, phallus | egyptian hieroglyph d052
+78009,penis, phallus with folded cloth | egyptian hieroglyph d052a
+78010,penis, phallus with emission | egyptian hieroglyph d053
+78011,legs walking | egyptian hieroglyph d054
+78012,hieratic legs walking | egyptian hieroglyph d054a
+78013,legs walking backwards | egyptian hieroglyph d055
+78014,leg | egyptian hieroglyph d056
+78015,leg with knife | egyptian hieroglyph d057
+78016,foot | egyptian hieroglyph d058
+78017,foot and forearm | egyptian hieroglyph d059
+78018,foot under vase from which water flows | egyptian hieroglyph d060
+78019,three toes oriented leftward | egyptian hieroglyph d061
+78020,three toes oriented rightward | egyptian hieroglyph d062
+78021,two toes oriented leftward | egyptian hieroglyph d063
+78022,hand with palm down | egyptian hieroglyph d064
+78023,lock of hair | egyptian hieroglyph d065
+78024,arm with reed pen | egyptian hieroglyph d066
+78025,one dot | egyptian hieroglyph d067
+78026,two dots | egyptian hieroglyph d067a
+78027,three dots | egyptian hieroglyph d067b
+78028,four dots | egyptian hieroglyph d067c
+78029,five dots | egyptian hieroglyph d067d
+78030,six dots | egyptian hieroglyph d067e
+78031,seven dots | egyptian hieroglyph d067f
+78032,eight dots | egyptian hieroglyph d067g
+78033,nine dots | egyptian hieroglyph d067h
+78034,bull | egyptian hieroglyph e001
+78035,bull charging | egyptian hieroglyph e002
+78036,calf | egyptian hieroglyph e003
+78037,sacred cow | egyptian hieroglyph e004
+78038,cow suckling calf | egyptian hieroglyph e005
+78039,horse | egyptian hieroglyph e006
+78040,donkey | egyptian hieroglyph e007
+78041,kid | egyptian hieroglyph e008
+78042,kid jumping | egyptian hieroglyph e008a
+78043,newborn hartebeest | egyptian hieroglyph e009
+78044,mature bovine lying down | egyptian hieroglyph e009a
+78045,ram | egyptian hieroglyph e010
+78046,ram | egyptian hieroglyph e011
+78047,pig | egyptian hieroglyph e012
+78048,cat | egyptian hieroglyph e013
+78049,dog | egyptian hieroglyph e014
+78050,lying canine | egyptian hieroglyph e015
+78051,lying canine on shrine | egyptian hieroglyph e016
+78052,lying canine on shrine with flagellum | egyptian hieroglyph e016a
+78053,jackal | egyptian hieroglyph e017
+78054,jackal looking back | egyptian hieroglyph e017a
+78055,wolf on standard | egyptian hieroglyph e018
+78056,wolf on standard with mace | egyptian hieroglyph e019
+78057,set-animal | egyptian hieroglyph e020
+78058,set-animal on basket | egyptian hieroglyph e020a
+78059,lying set-animal | egyptian hieroglyph e021
+78060,lion | egyptian hieroglyph e022
+78061,lying lion | egyptian hieroglyph e023
+78062,panther | egyptian hieroglyph e024
+78063,hippopotamus | egyptian hieroglyph e025
+78064,elephant | egyptian hieroglyph e026
+78065,giraffe | egyptian hieroglyph e027
+78066,oryx | egyptian hieroglyph e028
+78067,oryx with irrigation system | egyptian hieroglyph e028a
+78068,gazelle | egyptian hieroglyph e029
+78069,ibex | egyptian hieroglyph e030
+78070,goat with collar | egyptian hieroglyph e031
+78071,baboon | egyptian hieroglyph e032
+78072,monkey | egyptian hieroglyph e033
+78073,hare | egyptian hieroglyph e034
+78074,hare (low) | egyptian hieroglyph e034a
+78075,baboon | egyptian hieroglyph e036
+78076,baboon with receptacle and basket | egyptian hieroglyph e037
+78077,long-horned bull | egyptian hieroglyph e038
+78078,ox head | egyptian hieroglyph f001
+78079,bovine head | egyptian hieroglyph f001a
+78080,charging ox head | egyptian hieroglyph f002
+78081,hippopotamus head | egyptian hieroglyph f003
+78082,forepart of lion | egyptian hieroglyph f004
+78083,hartebeest head | egyptian hieroglyph f005
+78084,forepart of hartebeest | egyptian hieroglyph f006
+78085,ram head | egyptian hieroglyph f007
+78086,forepart of ram | egyptian hieroglyph f008
+78087,leopard head | egyptian hieroglyph f009
+78088,head and neck of animal | egyptian hieroglyph f010
+78089,head and neck of animal | egyptian hieroglyph f011
+78090,head and neck of animal | egyptian hieroglyph f012
+78091,horns | egyptian hieroglyph f013
+78092,horns | egyptian hieroglyph f013a
+78093,horns with palm branch | egyptian hieroglyph f014
+78094,horns with palm branch and sun | egyptian hieroglyph f015
+78095,horn | egyptian hieroglyph f016
+78096,horn and vase from which water flows | egyptian hieroglyph f017
+78097,tusk | egyptian hieroglyph f018
+78098,lower jaw-bone of ox | egyptian hieroglyph f019
+78099,tongue | egyptian hieroglyph f020
+78100,ear of bovine | egyptian hieroglyph f021
+78101,hieratic ear of bovine | egyptian hieroglyph f021a
+78102,hind-quarters of lion | egyptian hieroglyph f022
+78103,foreleg of ox | egyptian hieroglyph f023
+78104,foreleg of ox (reversed) | egyptian hieroglyph f024
+78105,leg of ox | egyptian hieroglyph f025
+78106,skin of goat | egyptian hieroglyph f026
+78107,skin of cow with bent tail | egyptian hieroglyph f027
+78108,skin of cow with straight tail | egyptian hieroglyph f028
+78109,cow's skin pierced by arrow | egyptian hieroglyph f029
+78110,water-skin | egyptian hieroglyph f030
+78111,three skins tied together | egyptian hieroglyph f031
+78112,three skins tied together | egyptian hieroglyph f031a
+78113,animal's belly | egyptian hieroglyph f032
+78114,tail | egyptian hieroglyph f033
+78115,heart | egyptian hieroglyph f034
+78116,heart and windpipe | egyptian hieroglyph f035
+78117,lung and windpipe | egyptian hieroglyph f036
+78118,backbone and ribs and spinal cord | egyptian hieroglyph f037
+78119,backbone and ribs | egyptian hieroglyph f037a
+78120,backbone and ribs | egyptian hieroglyph f038
+78121,backbone and ribs and spinal cord | egyptian hieroglyph f038a
+78122,backbone and spinal cord | egyptian hieroglyph f039
+78123,backbone and spinal cords | egyptian hieroglyph f040
+78124,vertebrae | egyptian hieroglyph f041
+78125,rib | egyptian hieroglyph f042
+78126,ribs | egyptian hieroglyph f043
+78127,bone with meat | egyptian hieroglyph f044
+78128,uterus | egyptian hieroglyph f045
+78129,uterus | egyptian hieroglyph f045a
+78130,intestine | egyptian hieroglyph f046
+78131,intestine | egyptian hieroglyph f046a
+78132,intestine | egyptian hieroglyph f047
+78133,intestine | egyptian hieroglyph f047a
+78134,intestine | egyptian hieroglyph f048
+78135,intestine | egyptian hieroglyph f049
+78136,combination of intestine and folded cloth | egyptian hieroglyph f050
+78137,piece of flesh | egyptian hieroglyph f051
+78138,three pieces of flesh horizontally | egyptian hieroglyph f051a
+78139,three pieces of flesh vertically | egyptian hieroglyph f051b
+78140,piece of flesh (reversed) | egyptian hieroglyph f051c
+78141,excrement | egyptian hieroglyph f052
+78142,divine rod with ram head | egyptian hieroglyph f053
+78143,egyptian vulture | egyptian hieroglyph g001
+78144,two egyptian vultures | egyptian hieroglyph g002
+78145,combination of egyptian vulture and sickle | egyptian hieroglyph g003
+78146,buzzard | egyptian hieroglyph g004
+78147,falcon | egyptian hieroglyph g005
+78148,combination of falcon and flaggellum | egyptian hieroglyph g006
+78149,falcon on basket | egyptian hieroglyph g006a
+78150,falcon on standard | egyptian hieroglyph g007
+78151,falcon in boat | egyptian hieroglyph g007a
+78152,falcon in boat | egyptian hieroglyph g007b
+78153,falcon on collar of beads | egyptian hieroglyph g008
+78154,falcon with sun on head | egyptian hieroglyph g009
+78155,falcon in sokar barque | egyptian hieroglyph g010
+78156,image of falcon | egyptian hieroglyph g011
+78157,image of falcon on standard | egyptian hieroglyph g011a
+78158,combination of image of falcon and flagellum | egyptian hieroglyph g012
+78159,image of falcon with two plumes | egyptian hieroglyph g013
+78160,vulture | egyptian hieroglyph g014
+78161,combination of vulture and flagellum | egyptian hieroglyph g015
+78162,vulture and cobra each on a basket | egyptian hieroglyph g016
+78163,owl | egyptian hieroglyph g017
+78164,two owls | egyptian hieroglyph g018
+78165,combination of owl and forearm with conical loaf | egyptian hieroglyph g019
+78166,combination of owl and forearm | egyptian hieroglyph g020
+78167,combination of owl and mouth | egyptian hieroglyph g020a
+78168,guinea-fowl | egyptian hieroglyph g021
+78169,hoopoe | egyptian hieroglyph g022
+78170,lapwing | egyptian hieroglyph g023
+78171,lapwing with twisted wings | egyptian hieroglyph g024
+78172,northern bald ibis | egyptian hieroglyph g025
+78173,sacred ibis on standard | egyptian hieroglyph g026
+78174,sacred ibis | egyptian hieroglyph g026a
+78175,flamingo | egyptian hieroglyph g027
+78176,glossy ibis | egyptian hieroglyph g028
+78177,saddle-billed stork | egyptian hieroglyph g029
+78178,three saddle-billed storks | egyptian hieroglyph g030
+78179,heron | egyptian hieroglyph g031
+78180,heron on perch | egyptian hieroglyph g032
+78181,cattle egret | egyptian hieroglyph g033
+78182,ostrich | egyptian hieroglyph g034
+78183,cormorant | egyptian hieroglyph g035
+78184,swallow | egyptian hieroglyph g036
+78185,swallow (low) | egyptian hieroglyph g036a
+78186,sparrow | egyptian hieroglyph g037
+78187,sparrow (low) | egyptian hieroglyph g037a
+78188,white-fronted goose | egyptian hieroglyph g038
+78189,pintail | egyptian hieroglyph g039
+78190,pintail flying | egyptian hieroglyph g040
+78191,pintail alighting | egyptian hieroglyph g041
+78192,widgeon | egyptian hieroglyph g042
+78193,quail chick | egyptian hieroglyph g043
+78194,combination of quail chick and flat loaf | egyptian hieroglyph g043a
+78195,two quail chicks | egyptian hieroglyph g044
+78196,combination of quail chick and forearm | egyptian hieroglyph g045
+78197,combination of quail chick and forearm with conical loaf | egyptian hieroglyph g045a
+78198,combination of quail chick and sickle | egyptian hieroglyph g046
+78199,duckling | egyptian hieroglyph g047
+78200,three ducklings in nest | egyptian hieroglyph g048
+78201,three ducklings in pool | egyptian hieroglyph g049
+78202,two plovers | egyptian hieroglyph g050
+78203,bird pecking at fish | egyptian hieroglyph g051
+78204,goose picking up grain | egyptian hieroglyph g052
+78205,human-headed bird with bowl with smoke | egyptian hieroglyph g053
+78206,plucked bird | egyptian hieroglyph g054
+78207,head of pintail | egyptian hieroglyph h001
+78208,head of crested bird | egyptian hieroglyph h002
+78209,head of spoonbill | egyptian hieroglyph h003
+78210,head of vulture | egyptian hieroglyph h004
+78211,wing | egyptian hieroglyph h005
+78212,feather | egyptian hieroglyph h006
+78213,hieratic feather | egyptian hieroglyph h006a
+78214,claw | egyptian hieroglyph h007
+78215,egg | egyptian hieroglyph h008
+78216,gecko | egyptian hieroglyph i001
+78217,turtle | egyptian hieroglyph i002
+78218,crocodile | egyptian hieroglyph i003
+78219,crocodile on shrine | egyptian hieroglyph i004
+78220,crocodile with curved tail | egyptian hieroglyph i005
+78221,image of crocodile | egyptian hieroglyph i005a
+78222,crocodile scales | egyptian hieroglyph i006
+78223,frog | egyptian hieroglyph i007
+78224,tadpole | egyptian hieroglyph i008
+78225,horned viper | egyptian hieroglyph i009
+78226,horned viper crawling out of enclosure | egyptian hieroglyph i009a
+78227,cobra | egyptian hieroglyph i010
+78228,cobra with feather | egyptian hieroglyph i010a
+78229,two cobras | egyptian hieroglyph i011
+78230,combination of cobra, flat loaf and sandy tract | egyptian hieroglyph i011a
+78231,erect cobra | egyptian hieroglyph i012
+78232,erect cobra on basket | egyptian hieroglyph i013
+78233,snake | egyptian hieroglyph i014
+78234,snake | egyptian hieroglyph i015
+78235,tilapia | egyptian hieroglyph k001
+78236,barbel | egyptian hieroglyph k002
+78237,mullet | egyptian hieroglyph k003
+78238,elephant-snout fish | egyptian hieroglyph k004
+78239,petrocephalus bane | egyptian hieroglyph k005
+78240,fish scale | egyptian hieroglyph k006
+78241,puffer | egyptian hieroglyph k007
+78242,catfish | egyptian hieroglyph k008
+78243,dung beetle | egyptian hieroglyph l001
+78244,bee | egyptian hieroglyph l002
+78245,combination of bee, sedge and two flat loafs | egyptian hieroglyph l002a
+78246,fly | egyptian hieroglyph l003
+78247,locust | egyptian hieroglyph l004
+78248,centipede | egyptian hieroglyph l005
+78249,shell | egyptian hieroglyph l006
+78250,shell (reversed) | egyptian hieroglyph l006a
+78251,scorpion | egyptian hieroglyph l007
+78252,egyptian hieroglyph l008
+78253,tree | egyptian hieroglyph m001
+78254,combination of tree and branch | egyptian hieroglyph m001a
+78255,combination of tree and horned viper | egyptian hieroglyph m001b
+78256,plant | egyptian hieroglyph m002
+78257,branch | egyptian hieroglyph m003
+78258,combination of owl and branch | egyptian hieroglyph m003a
+78259,palm branch | egyptian hieroglyph m004
+78260,combination of palm branch and flat loaf | egyptian hieroglyph m005
+78261,combination of palm branch and mouth | egyptian hieroglyph m006
+78262,combination of palm branch and stool | egyptian hieroglyph m007
+78263,pool with lotus flowers | egyptian hieroglyph m008
+78264,lotus flower | egyptian hieroglyph m009
+78265,lotus bud with straight stem | egyptian hieroglyph m010
+78266,lotus bud with winding stem | egyptian hieroglyph m010a
+78267,flower on long twisted stalk | egyptian hieroglyph m011
+78268,one lotus plant | egyptian hieroglyph m012
+78269,two lotus plants | egyptian hieroglyph m012a
+78270,three lotus plants | egyptian hieroglyph m012b
+78271,four lotus plants | egyptian hieroglyph m012c
+78272,five lotus plants | egyptian hieroglyph m012d
+78273,six lotus plants | egyptian hieroglyph m012e
+78274,seven lotus plants | egyptian hieroglyph m012f
+78275,eight lotus plants | egyptian hieroglyph m012g
+78276,nine lotus plants | egyptian hieroglyph m012h
+78277,papyrus stem | egyptian hieroglyph m013
+78278,combination of papyrus and cobra | egyptian hieroglyph m014
+78279,clump of papyrus with buds | egyptian hieroglyph m015
+78280,combination of clump of papyrus with buds and village | egyptian hieroglyph m015a
+78281,clump of papyrus | egyptian hieroglyph m016
+78282,combination of clump of papyrus and village | egyptian hieroglyph m016a
+78283,reed | egyptian hieroglyph m017
+78284,two reeds | egyptian hieroglyph m017a
+78285,combination of reed and legs walking | egyptian hieroglyph m018
+78286,heaped conical cakes between reed and club | egyptian hieroglyph m019
+78287,field of reeds | egyptian hieroglyph m020
+78288,reeds with root | egyptian hieroglyph m021
+78289,rush | egyptian hieroglyph m022
+78290,two rushes | egyptian hieroglyph m022a
+78291,sedge | egyptian hieroglyph m023
+78292,combination of sedge and mouth | egyptian hieroglyph m024
+78293,lily | egyptian hieroglyph m024a
+78294,combination of flowering sedge and mouth | egyptian hieroglyph m025
+78295,flowering sedge | egyptian hieroglyph m026
+78296,combination of flowering sedge and forearm | egyptian hieroglyph m027
+78297,combination of flowering sedge and hobble | egyptian hieroglyph m028
+78298,three lilies on village | egyptian hieroglyph m028a
+78299,seed-pod | egyptian hieroglyph m029
+78300,root | egyptian hieroglyph m030
+78301,rhizome | egyptian hieroglyph m031
+78302,tree in vase | egyptian hieroglyph m031a
+78303,rhizome | egyptian hieroglyph m032
+78304,3 grains horizontally | egyptian hieroglyph m033
+78305,3 grains vertically | egyptian hieroglyph m033a
+78306,3 grains in triangular arrangement | egyptian hieroglyph m033b
+78307,ear of emmer | egyptian hieroglyph m034
+78308,stack (of grain) | egyptian hieroglyph m035
+78309,bundle of flax | egyptian hieroglyph m036
+78310,bundle of flax | egyptian hieroglyph m037
+78311,wide bundle of flax | egyptian hieroglyph m038
+78312,basket of fruit or grain | egyptian hieroglyph m039
+78313,bundle of reeds | egyptian hieroglyph m040
+78314,bundle of reeds | egyptian hieroglyph m040a
+78315,piece of wood | egyptian hieroglyph m041
+78316,flower | egyptian hieroglyph m042
+78317,vine on trellis | egyptian hieroglyph m043
+78318,thorn | egyptian hieroglyph m044
+78319,sky | egyptian hieroglyph n001
+78320,sky with sceptre | egyptian hieroglyph n002
+78321,sky with sceptre | egyptian hieroglyph n003
+78322,sky with rain | egyptian hieroglyph n004
+78323,sun | egyptian hieroglyph n005
+78324,sun with uraeus | egyptian hieroglyph n006
+78325,combination of sun and butcher's block | egyptian hieroglyph n007
+78326,sunshine | egyptian hieroglyph n008
+78327,moon with lower half obscured | egyptian hieroglyph n009
+78328,moon with lower section obscured | egyptian hieroglyph n010
+78329,crescent moon | egyptian hieroglyph n011
+78330,crescent moon | egyptian hieroglyph n012
+78331,combination of crescent moon and star | egyptian hieroglyph n013
+78332,star | egyptian hieroglyph n014
+78333,star in circle | egyptian hieroglyph n015
+78334,land with grains | egyptian hieroglyph n016
+78335,land | egyptian hieroglyph n017
+78336,sandy tract | egyptian hieroglyph n018
+78337,combination of sandy tract and ripple of water | egyptian hieroglyph n018a
+78338,combination of roll of bread and bolt | egyptian hieroglyph n018b
+78339,two sandy tracts | egyptian hieroglyph n019
+78340,tongue of land | egyptian hieroglyph n020
+78341,short tongue of land | egyptian hieroglyph n021
+78342,broad tongue of land | egyptian hieroglyph n022
+78343,irrigation canal | egyptian hieroglyph n023
+78344,irrigation canal system | egyptian hieroglyph n024
+78345,three hills | egyptian hieroglyph n025
+78346,three hills (low) | egyptian hieroglyph n025a
+78347,two hills | egyptian hieroglyph n026
+78348,sun over mountain | egyptian hieroglyph n027
+78349,rays of sun over hill | egyptian hieroglyph n028
+78350,slope of hill | egyptian hieroglyph n029
+78351,mound of earth | egyptian hieroglyph n030
+78352,road with shrubs | egyptian hieroglyph n031
+78353,lump of clay | egyptian hieroglyph n032
+78354,grain | egyptian hieroglyph n033
+78355,three grains | egyptian hieroglyph n033a
+78356,ingot of metal | egyptian hieroglyph n034
+78357,ingot of metal | egyptian hieroglyph n034a
+78358,ripple of water | egyptian hieroglyph n035
+78359,three ripples of water | egyptian hieroglyph n035a
+78360,canal | egyptian hieroglyph n036
+78361,pool | egyptian hieroglyph n037
+78362,pool | egyptian hieroglyph n037a
+78363,deep pool | egyptian hieroglyph n038
+78364,pool with water | egyptian hieroglyph n039
+78365,pool with legs | egyptian hieroglyph n040
+78366,well with ripple of water | egyptian hieroglyph n041
+78367,well with line of water | egyptian hieroglyph n042
+78368,egyptian hieroglyph nl001
+78369,egyptian hieroglyph nl002
+78370,egyptian hieroglyph nl003
+78371,egyptian hieroglyph nl004
+78372,egyptian hieroglyph nl005
+78373,egyptian hieroglyph nl005a
+78374,egyptian hieroglyph nl006
+78375,egyptian hieroglyph nl007
+78376,egyptian hieroglyph nl008
+78377,egyptian hieroglyph nl009
+78378,egyptian hieroglyph nl010
+78379,egyptian hieroglyph nl011
+78380,egyptian hieroglyph nl012
+78381,egyptian hieroglyph nl013
+78382,egyptian hieroglyph nl014
+78383,egyptian hieroglyph nl015
+78384,egyptian hieroglyph nl016
+78385,egyptian hieroglyph nl017
+78386,egyptian hieroglyph nl017a
+78387,egyptian hieroglyph nl018
+78388,egyptian hieroglyph nl019
+78389,egyptian hieroglyph nl020
+78390,egyptian hieroglyph nu001
+78391,egyptian hieroglyph nu002
+78392,egyptian hieroglyph nu003
+78393,egyptian hieroglyph nu004
+78394,egyptian hieroglyph nu005
+78395,egyptian hieroglyph nu006
+78396,egyptian hieroglyph nu007
+78397,egyptian hieroglyph nu008
+78398,egyptian hieroglyph nu009
+78399,egyptian hieroglyph nu010
+78400,egyptian hieroglyph nu010a
+78401,egyptian hieroglyph nu011
+78402,egyptian hieroglyph nu011a
+78403,egyptian hieroglyph nu012
+78404,egyptian hieroglyph nu013
+78405,egyptian hieroglyph nu014
+78406,egyptian hieroglyph nu015
+78407,egyptian hieroglyph nu016
+78408,egyptian hieroglyph nu017
+78409,egyptian hieroglyph nu018
+78410,egyptian hieroglyph nu018a
+78411,egyptian hieroglyph nu019
+78412,egyptian hieroglyph nu020
+78413,egyptian hieroglyph nu021
+78414,egyptian hieroglyph nu022
+78415,egyptian hieroglyph nu022a
+78416,house | egyptian hieroglyph o001
+78417,egyptian hieroglyph o001a
+78418,combination of house and mace with round head | egyptian hieroglyph o002
+78419,combination of house, oar, tall loaf and beer jug | egyptian hieroglyph o003
+78420,shelter | egyptian hieroglyph o004
+78421,winding wall from upper-left corner | egyptian hieroglyph o005
+78422,winding wall from lower-left corner | egyptian hieroglyph o005a
+78423,enclosure | egyptian hieroglyph o006
+78424,opening of ḥwt-enclosure | egyptian hieroglyph o006a
+78425,opening of ḥwt-enclosure | egyptian hieroglyph o006b
+78426,opening of ḥwt-enclosure | egyptian hieroglyph o006c
+78427,closing of ḥwt-enclosure | egyptian hieroglyph o006d
+78428,closing of ḥwt-enclosure | egyptian hieroglyph o006e
+78429,closing of ḥwt-enclosure | egyptian hieroglyph o006f
+78430,combination of enclosure and flat loaf | egyptian hieroglyph o007
+78431,combination of enclosure, flat loaf and wooden column | egyptian hieroglyph o008
+78432,combination of enclosure, flat loaf and basket | egyptian hieroglyph o009
+78433,combination of enclosure and falcon | egyptian hieroglyph o010
+78434,combination of enclosure and sandal-strap | egyptian hieroglyph o010a
+78435,combination of enclosure and bee | egyptian hieroglyph o010b
+78436,combination of shrine in profile and face | egyptian hieroglyph o010c
+78437,palace | egyptian hieroglyph o011
+78438,combination of palace and forearm | egyptian hieroglyph o012
+78439,battlemented enclosure | egyptian hieroglyph o013
+78440,part of battlemented enclosure | egyptian hieroglyph o014
+78441,enclosure with cup and flat loaf | egyptian hieroglyph o015
+78442,gateway with serpents | egyptian hieroglyph o016
+78443,open gateway with serpents | egyptian hieroglyph o017
+78444,shrine in profile | egyptian hieroglyph o018
+78445,shrine with fence | egyptian hieroglyph o019
+78446,shrine | egyptian hieroglyph o019a
+78447,shrine | egyptian hieroglyph o020
+78448,shrine | egyptian hieroglyph o020a
+78449,façade of shrine | egyptian hieroglyph o021
+78450,booth with pole | egyptian hieroglyph o022
+78451,double platform | egyptian hieroglyph o023
+78452,pyramid | egyptian hieroglyph o024
+78453,pedestal of sun temple | egyptian hieroglyph o024a
+78454,obelisk | egyptian hieroglyph o025
+78455,obelisk and pedestal of sun temple | egyptian hieroglyph o025a
+78456,stela | egyptian hieroglyph o026
+78457,hall of columns | egyptian hieroglyph o027
+78458,column | egyptian hieroglyph o028
+78459,horizontal wooden column | egyptian hieroglyph o029
+78460,vertical wooden column | egyptian hieroglyph o029a
+78461,support | egyptian hieroglyph o030
+78462,four supports | egyptian hieroglyph o030a
+78463,door | egyptian hieroglyph o031
+78464,gateway | egyptian hieroglyph o032
+78465,façade of palace | egyptian hieroglyph o033
+78466,closing of srḫ-enclosure | egyptian hieroglyph o033a
+78467,door bolt | egyptian hieroglyph o034
+78468,combination of bolt and legs | egyptian hieroglyph o035
+78469,wall | egyptian hieroglyph o036
+78470,opening of oval fortified wall enclosure | egyptian hieroglyph o036a
+78471,closing of oval fortified wall enclosure | egyptian hieroglyph o036b
+78472,opening of square fortified wall enclosure | egyptian hieroglyph o036c
+78473,closure of square fortified wall enclosure | egyptian hieroglyph o036d
+78474,falling wall | egyptian hieroglyph o037
+78475,corner of wall | egyptian hieroglyph o038
+78476,stone | egyptian hieroglyph o039
+78477,stair single | egyptian hieroglyph o040
+78478,double stairway | egyptian hieroglyph o041
+78479,fence | egyptian hieroglyph o042
+78480,low fence | egyptian hieroglyph o043
+78481,emblem of min | egyptian hieroglyph o044
+78482,domed building | egyptian hieroglyph o045
+78483,domed building | egyptian hieroglyph o046
+78484,enclosed mound | egyptian hieroglyph o047
+78485,enclosed mound | egyptian hieroglyph o048
+78486,village | egyptian hieroglyph o049
+78487,threshing floor | egyptian hieroglyph o050
+78488,hieratic threshing floor | egyptian hieroglyph o050a
+78489,hieratic threshing floor (reversed) | egyptian hieroglyph o050b
+78490,pile of grain | egyptian hieroglyph o051
+78491,boat | egyptian hieroglyph p001
+78492,boat upside down | egyptian hieroglyph p001a
+78493,ship under sail | egyptian hieroglyph p002
+78494,sacred barque | egyptian hieroglyph p003
+78495,sacred barque without steering oar | egyptian hieroglyph p003a
+78496,boat with net | egyptian hieroglyph p004
+78497,sail | egyptian hieroglyph p005
+78498,mast | egyptian hieroglyph p006
+78499,combination of mast and forearm | egyptian hieroglyph p007
+78500,oar | egyptian hieroglyph p008
+78501,combination of oar and horned viper | egyptian hieroglyph p009
+78502,rudder | egyptian hieroglyph p010
+78503,mooring post | egyptian hieroglyph p011
+78504,seat throne | egyptian hieroglyph q001
+78505,carrying chair | egyptian hieroglyph q002
+78506,stool | egyptian hieroglyph q003
+78507,headrest | egyptian hieroglyph q004
+78508,chest | egyptian hieroglyph q005
+78509,sarcophagus | egyptian hieroglyph q006
+78510,brazier | egyptian hieroglyph q007
+78511,high table with offerings | egyptian hieroglyph r001
+78512,table with slices of bread | egyptian hieroglyph r002
+78513,high table with offerings | egyptian hieroglyph r002a
+78514,low table with offerings | egyptian hieroglyph r003
+78515,low table | egyptian hieroglyph r003a
+78516,low table with offerings (simplified) | egyptian hieroglyph r003b
+78517,loaf on mat | egyptian hieroglyph r004
+78518,narrow censer | egyptian hieroglyph r005
+78519,broad censer | egyptian hieroglyph r006
+78520,bowl with smoke | egyptian hieroglyph r007
+78521,cloth on pole | egyptian hieroglyph r008
+78522,combination of cloth on pole and bag | egyptian hieroglyph r009
+78523,combination of cloth on pole, butcher's block and slope of hill | egyptian hieroglyph r010
+78524,combination of cloth on pole and butcher's block | egyptian hieroglyph r010a
+78525,reed column | egyptian hieroglyph r011
+78526,standard | egyptian hieroglyph r012
+78527,falcon and feather on standard | egyptian hieroglyph r013
+78528,emblem of the west | egyptian hieroglyph r014
+78529,spear, emblem of the east | egyptian hieroglyph r015
+78530,sceptre with feathers and string | egyptian hieroglyph r016
+78531,sceptre with feathers | egyptian hieroglyph r016a
+78532,wig on pole | egyptian hieroglyph r017
+78533,combination of wig on pole and irrigation canal system | egyptian hieroglyph r018
+78534,scepter with feather | egyptian hieroglyph r019
+78535,flower with horns | egyptian hieroglyph r020
+78536,flower with horns | egyptian hieroglyph r021
+78537,two narrow belemnites | egyptian hieroglyph r022
+78538,two broad belemnites | egyptian hieroglyph r023
+78539,two bows tied horizontally | egyptian hieroglyph r024
+78540,two bows tied vertically | egyptian hieroglyph r025
+78541,combination of land, lung and windpipe, lily, and papyrus | egyptian hieroglyph r026
+78542,two arrows crossed over a shield | egyptian hieroglyph r027
+78543,bat | egyptian hieroglyph r028
+78544,niche with serpent | egyptian hieroglyph r029
+78545,white crown | egyptian hieroglyph s001
+78546,combination of white crown and basket | egyptian hieroglyph s002
+78547,combination of white crown and village | egyptian hieroglyph s002a
+78548,red crown | egyptian hieroglyph s003
+78549,combination of red crown and basket | egyptian hieroglyph s004
+78550,pschent crown | egyptian hieroglyph s005
+78551,combination of pschent crown and basket | egyptian hieroglyph s006
+78552,combination of red crown and village | egyptian hieroglyph s006a
+78553,blue crown | egyptian hieroglyph s007
+78554,atef crown | egyptian hieroglyph s008
+78555,shuti two-feather adornment | egyptian hieroglyph s009
+78556,headband | egyptian hieroglyph s010
+78557,broad collar | egyptian hieroglyph s011
+78558,collar of beads | egyptian hieroglyph s012
+78559,combination of collar of beads and foot | egyptian hieroglyph s013
+78560,combination of collar of beads and mace with round head | egyptian hieroglyph s014
+78561,combination of collar of beads and sceptre | egyptian hieroglyph s014a
+78562,combination of collar of beads and sceptre | egyptian hieroglyph s014b
+78563,pectoral | egyptian hieroglyph s015
+78564,pectoral | egyptian hieroglyph s016
+78565,pectoral | egyptian hieroglyph s017
+78566,girdle | egyptian hieroglyph s017a
+78567,menat necklace and counterpoise | egyptian hieroglyph s018
+78568,seal with necklace | egyptian hieroglyph s019
+78569,necklace with seal | egyptian hieroglyph s020
+78570,ring | egyptian hieroglyph s021
+78571,shoulder-knot | egyptian hieroglyph s022
+78572,two whips with shen ring | egyptian hieroglyph s023
+78573,girdle knot | egyptian hieroglyph s024
+78574,garment with ties | egyptian hieroglyph s025
+78575,apron | egyptian hieroglyph s026
+78576,apron | egyptian hieroglyph s026a
+78577,apron | egyptian hieroglyph s026b
+78578,cloth with two strands | egyptian hieroglyph s027
+78579,cloth with fringe on top and folded cloth | egyptian hieroglyph s028
+78580,folded cloth | egyptian hieroglyph s029
+78581,combination of folded cloth and horned viper | egyptian hieroglyph s030
+78582,combination of folded cloth and sickle | egyptian hieroglyph s031
+78583,cloth with fringe on the side | egyptian hieroglyph s032
+78584,sandal | egyptian hieroglyph s033
+78585,life sandal-strap | egyptian hieroglyph s034
+78586,sunshade | egyptian hieroglyph s035
+78587,sunshade | egyptian hieroglyph s035a
+78588,sunshade | egyptian hieroglyph s036
+78589,fan | egyptian hieroglyph s037
+78590,crook | egyptian hieroglyph s038
+78591,shepherd's crook | egyptian hieroglyph s039
+78592,wꜣssceptre (uꜣs) | egyptian hieroglyph s040
+78593,sceptre | egyptian hieroglyph s041
+78594,sekhem scepter | egyptian hieroglyph s042
+78595,walking stick | egyptian hieroglyph s043
+78596,walking stick with flagellum | egyptian hieroglyph s044
+78597,flagellum | egyptian hieroglyph s045
+78598,covering for head and neck | egyptian hieroglyph s046
+78599,mace with flat head | egyptian hieroglyph t001
+78600,mace with round head | egyptian hieroglyph t002
+78601,mace with round head | egyptian hieroglyph t003
+78602,combination of mace with round head and two hills | egyptian hieroglyph t003a
+78603,mace with strap | egyptian hieroglyph t004
+78604,combination of mace with round head and cobra | egyptian hieroglyph t005
+78605,combination of mace with round head and two cobras | egyptian hieroglyph t006
+78606,axe | egyptian hieroglyph t007
+78607,axe | egyptian hieroglyph t007a
+78608,dagger | egyptian hieroglyph t008
+78609,dagger | egyptian hieroglyph t008a
+78610,bow | egyptian hieroglyph t009
+78611,bow | egyptian hieroglyph t009a
+78612,composite bow | egyptian hieroglyph t010
+78613,arrow | egyptian hieroglyph t011
+78614,two crossed arrows | egyptian hieroglyph t011a
+78615,bowstring | egyptian hieroglyph t012
+78616,joined pieces of wood | egyptian hieroglyph t013
+78617,throw stick vertically | egyptian hieroglyph t014
+78618,throw stick slanted | egyptian hieroglyph t015
+78619,scimitar | egyptian hieroglyph t016
+78620,scimitar | egyptian hieroglyph t016a
+78621,chariot | egyptian hieroglyph t017
+78622,crook with package attached | egyptian hieroglyph t018
+78623,harpoon head | egyptian hieroglyph t019
+78624,harpoon head | egyptian hieroglyph t020
+78625,harpoon | egyptian hieroglyph t021
+78626,arrowhead | egyptian hieroglyph t022
+78627,arrowhead | egyptian hieroglyph t023
+78628,fishingnet | egyptian hieroglyph t024
+78629,float | egyptian hieroglyph t025
+78630,birdtrap | egyptian hieroglyph t026
+78631,trap | egyptian hieroglyph t027
+78632,butcher's block | egyptian hieroglyph t028
+78633,butcher's block with knife | egyptian hieroglyph t029
+78634,knife | egyptian hieroglyph t030
+78635,knife-sharpener | egyptian hieroglyph t031
+78636,combination of knife and legs | egyptian hieroglyph t032
+78637,combination of knife and folded cloth | egyptian hieroglyph t032a
+78638,knife-sharpener of butcher | egyptian hieroglyph t033
+78639,combination of knife-sharpener and folded cloth | egyptian hieroglyph t033a
+78640,butcher's knife | egyptian hieroglyph t034
+78641,butcher's knife | egyptian hieroglyph t035
+78642,shield | egyptian hieroglyph t036
+78643,sickle | egyptian hieroglyph u001
+78644,sickle | egyptian hieroglyph u002
+78645,egyptian hieroglyph u003
+78646,egyptian hieroglyph u004
+78647,egyptian hieroglyph u005
+78648,egyptian hieroglyph u006
+78649,egyptian hieroglyph u006a
+78650,egyptian hieroglyph u006b
+78651,hoe | egyptian hieroglyph u007
+78652,egyptian hieroglyph u008
+78653,egyptian hieroglyph u009
+78654,grain measure (with plural, for grain particles) | egyptian hieroglyph u010
+78655,egyptian hieroglyph u011
+78656,egyptian hieroglyph u012
+78657,egyptian hieroglyph u013
+78658,egyptian hieroglyph u014
+78659,sled (sledge) | egyptian hieroglyph u015
+78660,egyptian hieroglyph u016
+78661,pick, opening earth | egyptian hieroglyph u017
+78662,egyptian hieroglyph u018
+78663,egyptian hieroglyph u019
+78664,egyptian hieroglyph u020
+78665,adze-on-block | egyptian hieroglyph u021
+78666,clapper-(of-bell) tool/instrument forked-staff, etc. | egyptian hieroglyph u022
+78667,chisel | egyptian hieroglyph u023
+78668,egyptian hieroglyph u023a
+78669,hand drill | egyptian hieroglyph u024
+78670,egyptian hieroglyph u025
+78671,egyptian hieroglyph u026
+78672,egyptian hieroglyph u027
+78673,fire-drill | egyptian hieroglyph u028
+78674,egyptian hieroglyph u029
+78675,egyptian hieroglyph u029a
+78676,kiln | egyptian hieroglyph u030
+78677,egyptian hieroglyph u031
+78678,egyptian hieroglyph u032
+78679,egyptian hieroglyph u032a
+78680,'pestle'-(curved top) | egyptian hieroglyph u033
+78681,egyptian hieroglyph u034
+78682,egyptian hieroglyph u035
+78683,fuller's-club | egyptian hieroglyph u036
+78684,egyptian hieroglyph u037
+78685,scale | egyptian hieroglyph u038
+78686,egyptian hieroglyph u039
+78687,a support-(to lift) | egyptian hieroglyph u040
+78688,plummet | egyptian hieroglyph u041
+78689,pitchfork | egyptian hieroglyph u042
+78690,egyptian hieroglyph v001
+78691,egyptian hieroglyph v001a
+78692,egyptian hieroglyph v001b
+78693,egyptian hieroglyph v001c
+78694,egyptian hieroglyph v001d
+78695,egyptian hieroglyph v001e
+78696,egyptian hieroglyph v001f
+78697,egyptian hieroglyph v001g
+78698,egyptian hieroglyph v001h
+78699,egyptian hieroglyph v001i
+78700,egyptian hieroglyph v002
+78701,egyptian hieroglyph v002a
+78702,egyptian hieroglyph v003
+78703,lasso | egyptian hieroglyph v004
+78704,egyptian hieroglyph v005
+78705,rope-(shape) | egyptian hieroglyph v006
+78706,rope-(shape) | egyptian hieroglyph v007
+78707,egyptian hieroglyph v007a
+78708,egyptian hieroglyph v007b
+78709,egyptian hieroglyph v008
+78710,shen ring | egyptian hieroglyph v009
+78711,cartouche | egyptian hieroglyph v010
+78712,cartouche-(divided) | egyptian hieroglyph v011
+78713,egyptian hieroglyph v011a
+78714,egyptian hieroglyph v011b
+78715,egyptian hieroglyph v011c
+78716,egyptian hieroglyph v012
+78717,egyptian hieroglyph v012a
+78718,egyptian hieroglyph v012b
+78719,egyptian hieroglyph v013
+78720,egyptian hieroglyph v014
+78721,tethering rope with walking legs | egyptian hieroglyph v015
+78722,cattle hobble (bil.) | egyptian hieroglyph v016
+78723,lifesaver | egyptian hieroglyph v017
+78724,egyptian hieroglyph v018
+78725,egyptian hieroglyph v019
+78726,"cattle hobble" | egyptian hieroglyph v020
+78727,egyptian hieroglyph v020a
+78728,egyptian hieroglyph v020b
+78729,egyptian hieroglyph v020c
+78730,egyptian hieroglyph v020d
+78731,egyptian hieroglyph v020e
+78732,egyptian hieroglyph v020f
+78733,egyptian hieroglyph v020g
+78734,egyptian hieroglyph v020h
+78735,egyptian hieroglyph v020i
+78736,egyptian hieroglyph v020j
+78737,egyptian hieroglyph v020k
+78738,egyptian hieroglyph v020l
+78739,fetter + cobra | egyptian hieroglyph v021
+78740,whip | egyptian hieroglyph v022
+78741,egyptian hieroglyph v023
+78742,egyptian hieroglyph v023a
+78743,egyptian hieroglyph v024
+78744,"command staff" | egyptian hieroglyph v025
+78745,egyptian hieroglyph v026
+78746,egyptian hieroglyph v027
+78747,'eternity', a-long-timeperiod | egyptian hieroglyph v028
+78748,egyptian hieroglyph v028a
+78749,(fiber) swab (straw broom) | egyptian hieroglyph v029
+78750,egyptian hieroglyph v029a
+78751,basket | egyptian hieroglyph v030
+78752,egyptian hieroglyph v030a
+78753,basket-with-handle | egyptian hieroglyph v031
+78754,egyptian hieroglyph v031a
+78755,egyptian hieroglyph v032
+78756,egyptian hieroglyph v033
+78757,egyptian hieroglyph v033a
+78758,egyptian hieroglyph v034
+78759,egyptian hieroglyph v035
+78760,doubled container, many spellings | egyptian hieroglyph v036
+78761,egyptian hieroglyph v037
+78762,egyptian hieroglyph v037a
+78763,egyptian hieroglyph v038
+78764,stylized ankh (for isis) | egyptian hieroglyph v039
+78765,egyptian hieroglyph v040
+78766,egyptian hieroglyph v040a
+78767,oil jar | egyptian hieroglyph w001
+78768,oil-jar without ties | egyptian hieroglyph w002
+78769,alabaster basin | egyptian hieroglyph w003
+78770,alabaster basin | egyptian hieroglyph w003a
+78771,festival chamber, (the tail is also vertical 'great': 'ꜣ) | egyptian hieroglyph w004
+78772,egyptian hieroglyph w005
+78773,metal vessel | egyptian hieroglyph w006
+78774,granite bowl | egyptian hieroglyph w007
+78775,granite bowl | egyptian hieroglyph w008
+78776,stone jug | egyptian hieroglyph w009
+78777,egyptian hieroglyph w009a
+78778,cup | egyptian hieroglyph w010
+78779,pot | egyptian hieroglyph w010a
+78780,jar stand | egyptian hieroglyph w011
+78781,jar stand | egyptian hieroglyph w012
+78782,pot | egyptian hieroglyph w013
+78783,water jar | egyptian hieroglyph w014
+78784,water jar with water | egyptian hieroglyph w014a
+78785,water jar with rack | egyptian hieroglyph w015
+78786,water jar with rack | egyptian hieroglyph w016
+78787,water jar with rack | egyptian hieroglyph w017
+78788,egyptian hieroglyph w017a
+78789,water jar with rack | egyptian hieroglyph w018
+78790,egyptian hieroglyph w018a
+78791,milk jug with handle | egyptian hieroglyph w019
+78792,milk jug with cover | egyptian hieroglyph w020
+78793,wine jars | egyptian hieroglyph w021
+78794,beer jug | egyptian hieroglyph w022
+78795,beer jug | egyptian hieroglyph w023
+78796,pot | egyptian hieroglyph w024
+78797,three pots | egyptian hieroglyph w024a
+78798,pot with legs | egyptian hieroglyph w025
+78799,loaf of bread | egyptian hieroglyph x001
+78800,egyptian hieroglyph x002
+78801,egyptian hieroglyph x003
+78802,egyptian hieroglyph x004
+78803,egyptian hieroglyph x004a
+78804,egyptian hieroglyph x004b
+78805,egyptian hieroglyph x005
+78806,loaf-with-decoration | egyptian hieroglyph x006
+78807,egyptian hieroglyph x006a
+78808,egyptian hieroglyph x007
+78809,cone-shaped bread | egyptian hieroglyph x008
+78810,egyptian hieroglyph x008a
+78811,papyrus roll | egyptian hieroglyph y001
+78812,egyptian hieroglyph y001a
+78813,egyptian hieroglyph y002
+78814,scribe's outfit | egyptian hieroglyph y003
+78815,scribe's outfit | egyptian hieroglyph y004
+78816,senet board | egyptian hieroglyph y005
+78817,game piece | egyptian hieroglyph y006
+78818,harp | egyptian hieroglyph y007
+78819,sistrum | egyptian hieroglyph y008
+78820,single stroke | egyptian hieroglyph z001
+78821,plural stroke (horizontal) | egyptian hieroglyph z002
+78822,egyptian hieroglyph z002a
+78823,egyptian hieroglyph z002b
+78824,egyptian hieroglyph z002c
+78825,egyptian hieroglyph z002d
+78826,plural strokes (vertical) | egyptian hieroglyph z003
+78827,egyptian hieroglyph z003a
+78828,egyptian hieroglyph z003b
+78829,dual stroke | egyptian hieroglyph z004
+78830,egyptian hieroglyph z004a
+78831,diagonal stroke (from hieratic) | egyptian hieroglyph z005
+78832,egyptian hieroglyph z005a
+78833,substitute for various human figures | egyptian hieroglyph z006
+78834,coil (hieratic equivalent) | egyptian hieroglyph z007
+78835,oval | egyptian hieroglyph z008
+78836,crossed diagonal sticks | egyptian hieroglyph z009
+78837,crossed diagonal sticks | egyptian hieroglyph z010
+78838,two planks crossed and joined | egyptian hieroglyph z011
+78839,egyptian hieroglyph z012
+78840,egyptian hieroglyph z013
+78841,egyptian hieroglyph z014
+78842,egyptian hieroglyph z015
+78843,egyptian hieroglyph z015a
+78844,egyptian hieroglyph z015b
+78845,egyptian hieroglyph z015c
+78846,egyptian hieroglyph z015d
+78847,egyptian hieroglyph z015e
+78848,egyptian hieroglyph z015f
+78849,egyptian hieroglyph z015g
+78850,egyptian hieroglyph z015h
+78851,egyptian hieroglyph z015i
+78852,egyptian hieroglyph z016
+78853,egyptian hieroglyph z016a
+78854,egyptian hieroglyph z016b
+78855,egyptian hieroglyph z016c
+78856,egyptian hieroglyph z016d
+78857,egyptian hieroglyph z016e
+78858,egyptian hieroglyph z016f
+78859,egyptian hieroglyph z016g
+78860,egyptian hieroglyph z016h
+78861,placenta or sieve | egyptian hieroglyph aa001
+78862,pustule | egyptian hieroglyph aa002
+78863,pustule with liquid issuing from it | egyptian hieroglyph aa003
+78864,egyptian hieroglyph aa004
+78865,part of steering gear of a ship | egyptian hieroglyph aa005
+78866,egyptian hieroglyph aa006
+78867,a smiting-blade | egyptian hieroglyph aa007
+78868,egyptian hieroglyph aa007a
+78869,egyptian hieroglyph aa007b
+78870,irrigation tunnels | egyptian hieroglyph aa008
+78871,egyptian hieroglyph aa009
+78872,egyptian hieroglyph aa010
+78873,egyptian hieroglyph aa011
+78874,egyptian hieroglyph aa012
+78875,egyptian hieroglyph aa013
+78876,egyptian hieroglyph aa014
+78877,egyptian hieroglyph aa015
+78878,egyptian hieroglyph aa016
+78879,egyptian hieroglyph aa017
+78880,egyptian hieroglyph aa018
+78881,egyptian hieroglyph aa019
+78882,egyptian hieroglyph aa020
+78883,egyptian hieroglyph aa021
+78884,egyptian hieroglyph aa022
+78885,egyptian hieroglyph aa023
+78886,egyptian hieroglyph aa024
+78887,egyptian hieroglyph aa025
+78888,egyptian hieroglyph aa026
+78889,egyptian hieroglyph aa027
+78890,egyptian hieroglyph aa028
+78891,egyptian hieroglyph aa029
+78892,egyptian hieroglyph aa030
+78893,egyptian hieroglyph aa031
+78894,egyptian hieroglyph aa032

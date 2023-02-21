@@ -1,0 +1,127 @@
+128,<control>
+129,<control>
+130,break permitted here
+131,no break here
+132,<control>
+133,next line (nel)
+134,start of selected area
+135,end of selected area
+136,character tabulation set
+137,character tabulation with justification
+138,line tabulation set
+139,partial line forward
+140,partial line backward
+141,reverse line feed
+142,single shift two
+143,single shift three
+144,device control string
+145,private use one
+146,private use two
+147,set transmit state
+148,cancel character
+149,message waiting
+150,start of guarded area
+151,end of guarded area
+152,start of string
+153,<control>
+154,single character introducer
+155,control sequence introducer
+156,string terminator
+157,operating system command
+158,privacy message
+159,application program command
+160,no-break space
+161,inverted exclamation mark
+162,cent sign
+163,pound sign
+164,currency sign
+165,yen sign
+166,broken bar
+167,section sign
+168,diaeresis
+169,copyright sign
+170,feminine ordinal indicator
+171,left-pointing double angle quotation mark
+172,not sign
+173,soft hyphen
+174,registered sign
+175,macron
+176,degree sign
+177,plus-minus sign
+178,superscript two
+179,superscript three
+180,acute accent
+181,micro sign
+182,pilcrow sign
+183,middle dot
+184,cedilla
+185,superscript one
+186,masculine ordinal indicator
+187,right-pointing double angle quotation mark
+188,vulgar fraction one quarter
+189,vulgar fraction one half
+190,vulgar fraction three quarters
+191,inverted question mark
+192,latin capital letter a with grave
+193,latin capital letter a with acute
+194,latin capital letter a with circumflex
+195,latin capital letter a with tilde
+196,latin capital letter a with diaeresis
+197,latin capital letter a with ring above
+198,latin capital letter ae
+199,latin capital letter c with cedilla
+200,latin capital letter e with grave
+201,latin capital letter e with acute
+202,latin capital letter e with circumflex
+203,latin capital letter e with diaeresis
+204,latin capital letter i with grave
+205,latin capital letter i with acute
+206,latin capital letter i with circumflex
+207,latin capital letter i with diaeresis
+208,latin capital letter eth
+209,latin capital letter n with tilde
+210,latin capital letter o with grave
+211,latin capital letter o with acute
+212,latin capital letter o with circumflex
+213,latin capital letter o with tilde
+214,latin capital letter o with diaeresis
+215,multiplication sign
+216,latin capital letter o with stroke
+217,latin capital letter u with grave
+218,latin capital letter u with acute
+219,latin capital letter u with circumflex
+220,latin capital letter u with diaeresis
+221,latin capital letter y with acute
+222,latin capital letter thorn
+223,latin small letter sharp s
+224,latin small letter a with grave
+225,latin small letter a with acute
+226,latin small letter a with circumflex
+227,latin small letter a with tilde
+228,latin small letter a with diaeresis
+229,latin small letter a with ring above
+230,latin small letter ae
+231,latin small letter c with cedilla
+232,latin small letter e with grave
+233,latin small letter e with acute
+234,latin small letter e with circumflex
+235,latin small letter e with diaeresis
+236,latin small letter i with grave
+237,latin small letter i with acute
+238,latin small letter i with circumflex
+239,latin small letter i with diaeresis
+240,latin small letter eth
+241,latin small letter n with tilde
+242,latin small letter o with grave
+243,latin small letter o with acute
+244,latin small letter o with circumflex
+245,latin small letter o with tilde
+246,latin small letter o with diaeresis
+247,division sign
+248,latin small letter o with stroke
+249,latin small letter u with grave
+250,latin small letter u with acute
+251,latin small letter u with circumflex
+252,latin small letter u with diaeresis
+253,latin small letter y with acute
+254,latin small letter thorn

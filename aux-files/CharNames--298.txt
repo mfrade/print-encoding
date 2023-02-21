@@ -1,0 +1,61 @@
+126209,ottoman siyaq number one
+126210,ottoman siyaq number two
+126211,ottoman siyaq number three
+126212,ottoman siyaq number four
+126213,ottoman siyaq number five
+126214,ottoman siyaq number six
+126215,ottoman siyaq number seven
+126216,ottoman siyaq number eight
+126217,ottoman siyaq number nine
+126218,ottoman siyaq number ten
+126219,ottoman siyaq number twenty
+126220,ottoman siyaq number thirty
+126221,ottoman siyaq number forty
+126222,ottoman siyaq number fifty
+126223,ottoman siyaq number sixty
+126224,ottoman siyaq number seventy
+126225,ottoman siyaq number eighty
+126226,ottoman siyaq number ninety
+126227,ottoman siyaq number one hundred
+126228,ottoman siyaq number two hundred
+126229,ottoman siyaq number three hundred
+126230,ottoman siyaq number four hundred
+126231,ottoman siyaq number five hundred
+126232,ottoman siyaq number six hundred
+126233,ottoman siyaq number seven hundred
+126234,ottoman siyaq number eight hundred
+126235,ottoman siyaq number nine hundred
+126236,ottoman siyaq number one thousand
+126237,ottoman siyaq number two thousand
+126238,ottoman siyaq number three thousand
+126239,ottoman siyaq number four thousand
+126240,ottoman siyaq number five thousand
+126241,ottoman siyaq number six thousand
+126242,ottoman siyaq number seven thousand
+126243,ottoman siyaq number eight thousand
+126244,ottoman siyaq number nine thousand
+126245,ottoman siyaq number ten thousand
+126246,ottoman siyaq number twenty thousand
+126247,ottoman siyaq number thirty thousand
+126248,ottoman siyaq number forty thousand
+126249,ottoman siyaq number fifty thousand
+126250,ottoman siyaq number sixty thousand
+126251,ottoman siyaq number seventy thousand
+126252,ottoman siyaq number eighty thousand
+126253,ottoman siyaq number ninety thousand
+126254,ottoman siyaq marratan
+126255,ottoman siyaq alternate number two
+126256,ottoman siyaq alternate number three
+126257,ottoman siyaq alternate number four
+126258,ottoman siyaq alternate number five
+126259,ottoman siyaq alternate number six
+126260,ottoman siyaq alternate number seven
+126261,ottoman siyaq alternate number eight
+126262,ottoman siyaq alternate number nine
+126263,ottoman siyaq alternate number ten
+126264,ottoman siyaq alternate number four hundred
+126265,ottoman siyaq alternate number six hundred
+126266,ottoman siyaq alternate number two thousand
+126267,ottoman siyaq alternate number ten thousand
+126268,ottoman siyaq fraction one half
+126269,ottoman siyaq fraction one sixth

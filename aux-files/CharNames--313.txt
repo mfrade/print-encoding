@@ -1,0 +1,98 @@
+129536,neutral chess king
+129537,neutral chess queen
+129538,neutral chess rook
+129539,neutral chess bishop
+129540,neutral chess knight
+129541,neutral chess pawn
+129542,white chess knight rotated forty-five degrees
+129543,black chess knight rotated forty-five degrees
+129544,neutral chess knight rotated forty-five degrees
+129545,white chess king rotated ninety degrees
+129546,white chess queen rotated ninety degrees
+129547,white chess rook rotated ninety degrees
+129548,white chess bishop rotated ninety degrees
+129549,white chess knight rotated ninety degrees
+129550,white chess pawn rotated ninety degrees
+129551,black chess king rotated ninety degrees
+129552,black chess queen rotated ninety degrees
+129553,black chess rook rotated ninety degrees
+129554,black chess bishop rotated ninety degrees
+129555,black chess knight rotated ninety degrees
+129556,black chess pawn rotated ninety degrees
+129557,neutral chess king rotated ninety degrees
+129558,neutral chess queen rotated ninety degrees
+129559,neutral chess rook rotated ninety degrees
+129560,neutral chess bishop rotated ninety degrees
+129561,neutral chess knight rotated ninety degrees
+129562,neutral chess pawn rotated ninety degrees
+129563,white chess knight rotated one hundred thirty-five degrees
+129564,black chess knight rotated one hundred thirty-five degrees
+129565,neutral chess knight rotated one hundred thirty-five degrees
+129566,white chess turned king
+129567,white chess turned queen
+129568,white chess turned rook
+129569,white chess turned bishop
+129570,white chess turned knight
+129571,white chess turned pawn
+129572,black chess turned king
+129573,black chess turned queen
+129574,black chess turned rook
+129575,black chess turned bishop
+129576,black chess turned knight
+129577,black chess turned pawn
+129578,neutral chess turned king
+129579,neutral chess turned queen
+129580,neutral chess turned rook
+129581,neutral chess turned bishop
+129582,neutral chess turned knight
+129583,neutral chess turned pawn
+129584,white chess knight rotated two hundred twenty-five degrees
+129585,black chess knight rotated two hundred twenty-five degrees
+129586,neutral chess knight rotated two hundred twenty-five degrees
+129587,white chess king rotated two hundred seventy degrees
+129588,white chess queen rotated two hundred seventy degrees
+129589,white chess rook rotated two hundred seventy degrees
+129590,white chess bishop rotated two hundred seventy degrees
+129591,white chess knight rotated two hundred seventy degrees
+129592,white chess pawn rotated two hundred seventy degrees
+129593,black chess king rotated two hundred seventy degrees
+129594,black chess queen rotated two hundred seventy degrees
+129595,black chess rook rotated two hundred seventy degrees
+129596,black chess bishop rotated two hundred seventy degrees
+129597,black chess knight rotated two hundred seventy degrees
+129598,black chess pawn rotated two hundred seventy degrees
+129599,neutral chess king rotated two hundred seventy degrees
+129600,neutral chess queen rotated two hundred seventy degrees
+129601,neutral chess rook rotated two hundred seventy degrees
+129602,neutral chess bishop rotated two hundred seventy degrees
+129603,neutral chess knight rotated two hundred seventy degrees
+129604,neutral chess pawn rotated two hundred seventy degrees
+129605,white chess knight rotated three hundred fifteen degrees
+129606,black chess knight rotated three hundred fifteen degrees
+129607,neutral chess knight rotated three hundred fifteen degrees
+129608,white chess equihopper
+129609,black chess equihopper
+129610,neutral chess equihopper
+129611,white chess equihopper rotated ninety degrees
+129612,black chess equihopper rotated ninety degrees
+129613,neutral chess equihopper rotated ninety degrees
+129614,white chess knight-queen
+129615,white chess knight-rook
+129616,white chess knight-bishop
+129617,black chess knight-queen
+129618,black chess knight-rook
+129619,black chess knight-bishop
+129632,xiangqi red general
+129633,xiangqi red mandarin
+129634,xiangqi red elephant
+129635,xiangqi red horse
+129636,xiangqi red chariot
+129637,xiangqi red cannon
+129638,xiangqi red soldier
+129639,xiangqi black general
+129640,xiangqi black mandarin
+129641,xiangqi black elephant
+129642,xiangqi black horse
+129643,xiangqi black chariot
+129644,xiangqi black cannon
+129645,xiangqi black soldier

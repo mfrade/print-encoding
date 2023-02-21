@@ -1,0 +1,97 @@
+72704,bhaiksuki letter a
+72705,bhaiksuki letter aa
+72706,bhaiksuki letter i
+72707,bhaiksuki letter ii
+72708,bhaiksuki letter u
+72709,bhaiksuki letter uu
+72710,bhaiksuki letter vocalic r
+72711,bhaiksuki letter vocalic rr
+72712,bhaiksuki letter vocalic l
+72714,bhaiksuki letter e
+72715,bhaiksuki letter ai
+72716,bhaiksuki letter o
+72717,bhaiksuki letter au
+72718,bhaiksuki letter ka
+72719,bhaiksuki letter kha
+72720,bhaiksuki letter ga
+72721,bhaiksuki letter gha
+72722,bhaiksuki letter nga
+72723,bhaiksuki letter ca
+72724,bhaiksuki letter cha
+72725,bhaiksuki letter ja
+72726,bhaiksuki letter jha
+72727,bhaiksuki letter nya
+72728,bhaiksuki letter tta
+72729,bhaiksuki letter ttha
+72730,bhaiksuki letter dda
+72731,bhaiksuki letter ddha
+72732,bhaiksuki letter nna
+72733,bhaiksuki letter ta
+72734,bhaiksuki letter tha
+72735,bhaiksuki letter da
+72736,bhaiksuki letter dha
+72737,bhaiksuki letter na
+72738,bhaiksuki letter pa
+72739,bhaiksuki letter pha
+72740,bhaiksuki letter ba
+72741,bhaiksuki letter bha
+72742,bhaiksuki letter ma
+72743,bhaiksuki letter ya
+72744,bhaiksuki letter ra
+72745,bhaiksuki letter la
+72746,bhaiksuki letter va
+72747,bhaiksuki letter sha
+72748,bhaiksuki letter ssa
+72749,bhaiksuki letter sa
+72750,bhaiksuki letter ha
+72751,bhaiksuki vowel sign aa
+72752,bhaiksuki vowel sign i
+72753,bhaiksuki vowel sign ii
+72754,bhaiksuki vowel sign u
+72755,bhaiksuki vowel sign uu
+72756,bhaiksuki vowel sign vocalic r
+72757,bhaiksuki vowel sign vocalic rr
+72758,bhaiksuki vowel sign vocalic l
+72760,bhaiksuki vowel sign e
+72761,bhaiksuki vowel sign ai
+72762,bhaiksuki vowel sign o
+72763,bhaiksuki vowel sign au
+72764,bhaiksuki sign candrabindu
+72765,bhaiksuki sign anusvara
+72766,bhaiksuki sign visarga
+72767,bhaiksuki sign virama
+72768,bhaiksuki sign avagraha
+72769,bhaiksuki danda
+72770,bhaiksuki double danda
+72771,bhaiksuki word separator
+72772,bhaiksuki gap filler-1
+72773,bhaiksuki gap filler-2
+72784,bhaiksuki digit zero
+72785,bhaiksuki digit one
+72786,bhaiksuki digit two
+72787,bhaiksuki digit three
+72788,bhaiksuki digit four
+72789,bhaiksuki digit five
+72790,bhaiksuki digit six
+72791,bhaiksuki digit seven
+72792,bhaiksuki digit eight
+72793,bhaiksuki digit nine
+72794,bhaiksuki number one
+72795,bhaiksuki number two
+72796,bhaiksuki number three
+72797,bhaiksuki number four
+72798,bhaiksuki number five
+72799,bhaiksuki number six
+72800,bhaiksuki number seven
+72801,bhaiksuki number eight
+72802,bhaiksuki number nine
+72803,bhaiksuki number ten
+72804,bhaiksuki number twenty
+72805,bhaiksuki number thirty
+72806,bhaiksuki number forty
+72807,bhaiksuki number fifty
+72808,bhaiksuki number sixty
+72809,bhaiksuki number seventy
+72810,bhaiksuki number eighty
+72811,bhaiksuki number ninety
+72812,bhaiksuki hundreds unit mark

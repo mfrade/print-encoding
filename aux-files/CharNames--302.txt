@@ -1,0 +1,82 @@
+127136,playing card back
+127137,playing card ace of spades
+127138,playing card two of spades
+127139,playing card three of spades
+127140,playing card four of spades
+127141,playing card five of spades
+127142,playing card six of spades
+127143,playing card seven of spades
+127144,playing card eight of spades
+127145,playing card nine of spades
+127146,playing card ten of spades
+127147,playing card jack of spades
+127148,playing card knight of spades
+127149,playing card queen of spades
+127150,playing card king of spades
+127153,playing card ace of hearts
+127154,playing card two of hearts
+127155,playing card three of hearts
+127156,playing card four of hearts
+127157,playing card five of hearts
+127158,playing card six of hearts
+127159,playing card seven of hearts
+127160,playing card eight of hearts
+127161,playing card nine of hearts
+127162,playing card ten of hearts
+127163,playing card jack of hearts
+127164,playing card knight of hearts
+127165,playing card queen of hearts
+127166,playing card king of hearts
+127167,playing card red joker
+127169,playing card ace of diamonds
+127170,playing card two of diamonds
+127171,playing card three of diamonds
+127172,playing card four of diamonds
+127173,playing card five of diamonds
+127174,playing card six of diamonds
+127175,playing card seven of diamonds
+127176,playing card eight of diamonds
+127177,playing card nine of diamonds
+127178,playing card ten of diamonds
+127179,playing card jack of diamonds
+127180,playing card knight of diamonds
+127181,playing card queen of diamonds
+127182,playing card king of diamonds
+127183,playing card black joker
+127185,playing card ace of clubs
+127186,playing card two of clubs
+127187,playing card three of clubs
+127188,playing card four of clubs
+127189,playing card five of clubs
+127190,playing card six of clubs
+127191,playing card seven of clubs
+127192,playing card eight of clubs
+127193,playing card nine of clubs
+127194,playing card ten of clubs
+127195,playing card jack of clubs
+127196,playing card knight of clubs
+127197,playing card queen of clubs
+127198,playing card king of clubs
+127199,playing card white joker
+127200,playing card fool
+127201,playing card trump-1
+127202,playing card trump-2
+127203,playing card trump-3
+127204,playing card trump-4
+127205,playing card trump-5
+127206,playing card trump-6
+127207,playing card trump-7
+127208,playing card trump-8
+127209,playing card trump-9
+127210,playing card trump-10
+127211,playing card trump-11
+127212,playing card trump-12
+127213,playing card trump-13
+127214,playing card trump-14
+127215,playing card trump-15
+127216,playing card trump-16
+127217,playing card trump-17
+127218,playing card trump-18
+127219,playing card trump-19
+127220,playing card trump-20
+127221,playing card trump-21

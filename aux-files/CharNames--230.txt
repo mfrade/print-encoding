@@ -1,0 +1,79 @@
+71168,modi letter a
+71169,modi letter aa
+71170,modi letter i
+71171,modi letter ii
+71172,modi letter u
+71173,modi letter uu
+71174,modi letter vocalic r
+71175,modi letter vocalic rr
+71176,modi letter vocalic l
+71177,modi letter vocalic ll
+71178,modi letter e
+71179,modi letter ai
+71180,modi letter o
+71181,modi letter au
+71182,modi letter ka
+71183,modi letter kha
+71184,modi letter ga
+71185,modi letter gha
+71186,modi letter nga
+71187,modi letter ca
+71188,modi letter cha
+71189,modi letter ja
+71190,modi letter jha
+71191,modi letter nya
+71192,modi letter tta
+71193,modi letter ttha
+71194,modi letter dda
+71195,modi letter ddha
+71196,modi letter nna
+71197,modi letter ta
+71198,modi letter tha
+71199,modi letter da
+71200,modi letter dha
+71201,modi letter na
+71202,modi letter pa
+71203,modi letter pha
+71204,modi letter ba
+71205,modi letter bha
+71206,modi letter ma
+71207,modi letter ya
+71208,modi letter ra
+71209,modi letter la
+71210,modi letter va
+71211,modi letter sha
+71212,modi letter ssa
+71213,modi letter sa
+71214,modi letter ha
+71215,modi letter lla
+71216,modi vowel sign aa
+71217,modi vowel sign i
+71218,modi vowel sign ii
+71219,modi vowel sign u
+71220,modi vowel sign uu
+71221,modi vowel sign vocalic r
+71222,modi vowel sign vocalic rr
+71223,modi vowel sign vocalic l
+71224,modi vowel sign vocalic ll
+71225,modi vowel sign e
+71226,modi vowel sign ai
+71227,modi vowel sign o
+71228,modi vowel sign au
+71229,modi sign anusvara
+71230,modi sign visarga
+71231,modi sign virama
+71232,modi sign ardhacandra
+71233,modi danda
+71234,modi double danda
+71235,modi abbreviation sign
+71236,modi sign huva
+71248,modi digit zero
+71249,modi digit one
+71250,modi digit two
+71251,modi digit three
+71252,modi digit four
+71253,modi digit five
+71254,modi digit six
+71255,modi digit seven
+71256,modi digit eight
+71257,modi digit nine

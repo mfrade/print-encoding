@@ -1,0 +1,31 @@
+12704,bopomofo letter bu
+12705,bopomofo letter zi
+12706,bopomofo letter ji
+12707,bopomofo letter gu
+12708,bopomofo letter ee
+12709,bopomofo letter enn
+12710,bopomofo letter oo
+12711,bopomofo letter onn
+12712,bopomofo letter ir
+12713,bopomofo letter ann
+12714,bopomofo letter inn
+12715,bopomofo letter unn
+12716,bopomofo letter im
+12717,bopomofo letter ngg
+12718,bopomofo letter ainn
+12719,bopomofo letter aunn
+12720,bopomofo letter am
+12721,bopomofo letter om
+12722,bopomofo letter ong
+12723,bopomofo letter innn
+12724,bopomofo final letter p
+12725,bopomofo final letter t
+12726,bopomofo final letter k
+12727,bopomofo final letter h
+12728,bopomofo letter gh
+12729,bopomofo letter lh
+12730,bopomofo letter zy
+12731,bopomofo final letter g
+12732,bopomofo letter gw
+12733,bopomofo letter kw
+12734,bopomofo letter oe

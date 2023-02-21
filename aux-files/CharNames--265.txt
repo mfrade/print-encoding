@@ -1,0 +1,7 @@
+94176,tangut iteration mark
+94177,nushu iteration mark
+94178,old chinese hook mark
+94179,old chinese iteration mark
+94180,khitan small script filler
+94192,vietnamese alternate reading mark ca
+94193,vietnamese alternate reading mark nhay

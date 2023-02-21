@@ -1,0 +1,107 @@
+68736,old hungarian capital letter a
+68737,old hungarian capital letter aa
+68738,old hungarian capital letter eb
+68739,old hungarian capital letter amb
+68740,old hungarian capital letter ec
+68741,old hungarian capital letter enc
+68742,old hungarian capital letter ecs
+68743,old hungarian capital letter ed
+68744,old hungarian capital letter and
+68745,old hungarian capital letter e
+68746,old hungarian capital letter close e
+68747,old hungarian capital letter ee
+68748,old hungarian capital letter ef
+68749,old hungarian capital letter eg
+68750,old hungarian capital letter egy
+68751,old hungarian capital letter eh
+68752,old hungarian capital letter i
+68753,old hungarian capital letter ii
+68754,old hungarian capital letter ej
+68755,old hungarian capital letter ek
+68756,old hungarian capital letter ak
+68757,old hungarian capital letter unk
+68758,old hungarian capital letter el
+68759,old hungarian capital letter ely
+68760,old hungarian capital letter em
+68761,old hungarian capital letter en
+68762,old hungarian capital letter eny
+68763,old hungarian capital letter o
+68764,old hungarian capital letter oo
+68765,old hungarian capital letter nikolsburg oe
+68766,old hungarian capital letter rudimenta oe
+68767,old hungarian capital letter oee
+68768,old hungarian capital letter ep
+68769,old hungarian capital letter emp
+68770,old hungarian capital letter er
+68771,old hungarian capital letter short er
+68772,old hungarian capital letter es
+68773,old hungarian capital letter esz
+68774,old hungarian capital letter et
+68775,old hungarian capital letter ent
+68776,old hungarian capital letter ety
+68777,old hungarian capital letter ech
+68778,old hungarian capital letter u
+68779,old hungarian capital letter uu
+68780,old hungarian capital letter nikolsburg ue
+68781,old hungarian capital letter rudimenta ue
+68782,old hungarian capital letter ev
+68783,old hungarian capital letter ez
+68784,old hungarian capital letter ezs
+68785,old hungarian capital letter ent-shaped sign
+68786,old hungarian capital letter us
+68800,old hungarian small letter a
+68801,old hungarian small letter aa
+68802,old hungarian small letter eb
+68803,old hungarian small letter amb
+68804,old hungarian small letter ec
+68805,old hungarian small letter enc
+68806,old hungarian small letter ecs
+68807,old hungarian small letter ed
+68808,old hungarian small letter and
+68809,old hungarian small letter e
+68810,old hungarian small letter close e
+68811,old hungarian small letter ee
+68812,old hungarian small letter ef
+68813,old hungarian small letter eg
+68814,old hungarian small letter egy
+68815,old hungarian small letter eh
+68816,old hungarian small letter i
+68817,old hungarian small letter ii
+68818,old hungarian small letter ej
+68819,old hungarian small letter ek
+68820,old hungarian small letter ak
+68821,old hungarian small letter unk
+68822,old hungarian small letter el
+68823,old hungarian small letter ely
+68824,old hungarian small letter em
+68825,old hungarian small letter en
+68826,old hungarian small letter eny
+68827,old hungarian small letter o
+68828,old hungarian small letter oo
+68829,old hungarian small letter nikolsburg oe
+68830,old hungarian small letter rudimenta oe
+68831,old hungarian small letter oee
+68832,old hungarian small letter ep
+68833,old hungarian small letter emp
+68834,old hungarian small letter er
+68835,old hungarian small letter short er
+68836,old hungarian small letter es
+68837,old hungarian small letter esz
+68838,old hungarian small letter et
+68839,old hungarian small letter ent
+68840,old hungarian small letter ety
+68841,old hungarian small letter ech
+68842,old hungarian small letter u
+68843,old hungarian small letter uu
+68844,old hungarian small letter nikolsburg ue
+68845,old hungarian small letter rudimenta ue
+68846,old hungarian small letter ev
+68847,old hungarian small letter ez
+68848,old hungarian small letter ezs
+68849,old hungarian small letter ent-shaped sign
+68850,old hungarian small letter us
+68858,old hungarian number one
+68859,old hungarian number five
+68860,old hungarian number ten
+68861,old hungarian number fifty
+68862,old hungarian number one hundred

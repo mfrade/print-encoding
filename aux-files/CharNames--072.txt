@@ -1,0 +1,233 @@
+7936,greek small letter alpha with psili
+7937,greek small letter alpha with dasia
+7938,greek small letter alpha with psili and varia
+7939,greek small letter alpha with dasia and varia
+7940,greek small letter alpha with psili and oxia
+7941,greek small letter alpha with dasia and oxia
+7942,greek small letter alpha with psili and perispomeni
+7943,greek small letter alpha with dasia and perispomeni
+7944,greek capital letter alpha with psili
+7945,greek capital letter alpha with dasia
+7946,greek capital letter alpha with psili and varia
+7947,greek capital letter alpha with dasia and varia
+7948,greek capital letter alpha with psili and oxia
+7949,greek capital letter alpha with dasia and oxia
+7950,greek capital letter alpha with psili and perispomeni
+7951,greek capital letter alpha with dasia and perispomeni
+7952,greek small letter epsilon with psili
+7953,greek small letter epsilon with dasia
+7954,greek small letter epsilon with psili and varia
+7955,greek small letter epsilon with dasia and varia
+7956,greek small letter epsilon with psili and oxia
+7957,greek small letter epsilon with dasia and oxia
+7960,greek capital letter epsilon with psili
+7961,greek capital letter epsilon with dasia
+7962,greek capital letter epsilon with psili and varia
+7963,greek capital letter epsilon with dasia and varia
+7964,greek capital letter epsilon with psili and oxia
+7965,greek capital letter epsilon with dasia and oxia
+7968,greek small letter eta with psili
+7969,greek small letter eta with dasia
+7970,greek small letter eta with psili and varia
+7971,greek small letter eta with dasia and varia
+7972,greek small letter eta with psili and oxia
+7973,greek small letter eta with dasia and oxia
+7974,greek small letter eta with psili and perispomeni
+7975,greek small letter eta with dasia and perispomeni
+7976,greek capital letter eta with psili
+7977,greek capital letter eta with dasia
+7978,greek capital letter eta with psili and varia
+7979,greek capital letter eta with dasia and varia
+7980,greek capital letter eta with psili and oxia
+7981,greek capital letter eta with dasia and oxia
+7982,greek capital letter eta with psili and perispomeni
+7983,greek capital letter eta with dasia and perispomeni
+7984,greek small letter iota with psili
+7985,greek small letter iota with dasia
+7986,greek small letter iota with psili and varia
+7987,greek small letter iota with dasia and varia
+7988,greek small letter iota with psili and oxia
+7989,greek small letter iota with dasia and oxia
+7990,greek small letter iota with psili and perispomeni
+7991,greek small letter iota with dasia and perispomeni
+7992,greek capital letter iota with psili
+7993,greek capital letter iota with dasia
+7994,greek capital letter iota with psili and varia
+7995,greek capital letter iota with dasia and varia
+7996,greek capital letter iota with psili and oxia
+7997,greek capital letter iota with dasia and oxia
+7998,greek capital letter iota with psili and perispomeni
+7999,greek capital letter iota with dasia and perispomeni
+8000,greek small letter omicron with psili
+8001,greek small letter omicron with dasia
+8002,greek small letter omicron with psili and varia
+8003,greek small letter omicron with dasia and varia
+8004,greek small letter omicron with psili and oxia
+8005,greek small letter omicron with dasia and oxia
+8008,greek capital letter omicron with psili
+8009,greek capital letter omicron with dasia
+8010,greek capital letter omicron with psili and varia
+8011,greek capital letter omicron with dasia and varia
+8012,greek capital letter omicron with psili and oxia
+8013,greek capital letter omicron with dasia and oxia
+8016,greek small letter upsilon with psili
+8017,greek small letter upsilon with dasia
+8018,greek small letter upsilon with psili and varia
+8019,greek small letter upsilon with dasia and varia
+8020,greek small letter upsilon with psili and oxia
+8021,greek small letter upsilon with dasia and oxia
+8022,greek small letter upsilon with psili and perispomeni
+8023,greek small letter upsilon with dasia and perispomeni
+8025,greek capital letter upsilon with dasia
+8027,greek capital letter upsilon with dasia and varia
+8029,greek capital letter upsilon with dasia and oxia
+8031,greek capital letter upsilon with dasia and perispomeni
+8032,greek small letter omega with psili
+8033,greek small letter omega with dasia
+8034,greek small letter omega with psili and varia
+8035,greek small letter omega with dasia and varia
+8036,greek small letter omega with psili and oxia
+8037,greek small letter omega with dasia and oxia
+8038,greek small letter omega with psili and perispomeni
+8039,greek small letter omega with dasia and perispomeni
+8040,greek capital letter omega with psili
+8041,greek capital letter omega with dasia
+8042,greek capital letter omega with psili and varia
+8043,greek capital letter omega with dasia and varia
+8044,greek capital letter omega with psili and oxia
+8045,greek capital letter omega with dasia and oxia
+8046,greek capital letter omega with psili and perispomeni
+8047,greek capital letter omega with dasia and perispomeni
+8048,greek small letter alpha with varia
+8049,greek small letter alpha with oxia
+8050,greek small letter epsilon with varia
+8051,greek small letter epsilon with oxia
+8052,greek small letter eta with varia
+8053,greek small letter eta with oxia
+8054,greek small letter iota with varia
+8055,greek small letter iota with oxia
+8056,greek small letter omicron with varia
+8057,greek small letter omicron with oxia
+8058,greek small letter upsilon with varia
+8059,greek small letter upsilon with oxia
+8060,greek small letter omega with varia
+8061,greek small letter omega with oxia
+8064,greek small letter alpha with psili and ypogegrammeni
+8065,greek small letter alpha with dasia and ypogegrammeni
+8066,greek small letter alpha with psili and varia and ypogegrammeni
+8067,greek small letter alpha with dasia and varia and ypogegrammeni
+8068,greek small letter alpha with psili and oxia and ypogegrammeni
+8069,greek small letter alpha with dasia and oxia and ypogegrammeni
+8070,greek small letter alpha with psili and perispomeni and ypogegrammeni
+8071,greek small letter alpha with dasia and perispomeni and ypogegrammeni
+8072,greek capital letter alpha with psili and prosgegrammeni
+8073,greek capital letter alpha with dasia and prosgegrammeni
+8074,greek capital letter alpha with psili and varia and prosgegrammeni
+8075,greek capital letter alpha with dasia and varia and prosgegrammeni
+8076,greek capital letter alpha with psili and oxia and prosgegrammeni
+8077,greek capital letter alpha with dasia and oxia and prosgegrammeni
+8078,greek capital letter alpha with psili and perispomeni and prosgegrammeni
+8079,greek capital letter alpha with dasia and perispomeni and prosgegrammeni
+8080,greek small letter eta with psili and ypogegrammeni
+8081,greek small letter eta with dasia and ypogegrammeni
+8082,greek small letter eta with psili and varia and ypogegrammeni
+8083,greek small letter eta with dasia and varia and ypogegrammeni
+8084,greek small letter eta with psili and oxia and ypogegrammeni
+8085,greek small letter eta with dasia and oxia and ypogegrammeni
+8086,greek small letter eta with psili and perispomeni and ypogegrammeni
+8087,greek small letter eta with dasia and perispomeni and ypogegrammeni
+8088,greek capital letter eta with psili and prosgegrammeni
+8089,greek capital letter eta with dasia and prosgegrammeni
+8090,greek capital letter eta with psili and varia and prosgegrammeni
+8091,greek capital letter eta with dasia and varia and prosgegrammeni
+8092,greek capital letter eta with psili and oxia and prosgegrammeni
+8093,greek capital letter eta with dasia and oxia and prosgegrammeni
+8094,greek capital letter eta with psili and perispomeni and prosgegrammeni
+8095,greek capital letter eta with dasia and perispomeni and prosgegrammeni
+8096,greek small letter omega with psili and ypogegrammeni
+8097,greek small letter omega with dasia and ypogegrammeni
+8098,greek small letter omega with psili and varia and ypogegrammeni
+8099,greek small letter omega with dasia and varia and ypogegrammeni
+8100,greek small letter omega with psili and oxia and ypogegrammeni
+8101,greek small letter omega with dasia and oxia and ypogegrammeni
+8102,greek small letter omega with psili and perispomeni and ypogegrammeni
+8103,greek small letter omega with dasia and perispomeni and ypogegrammeni
+8104,greek capital letter omega with psili and prosgegrammeni
+8105,greek capital letter omega with dasia and prosgegrammeni
+8106,greek capital letter omega with psili and varia and prosgegrammeni
+8107,greek capital letter omega with dasia and varia and prosgegrammeni
+8108,greek capital letter omega with psili and oxia and prosgegrammeni
+8109,greek capital letter omega with dasia and oxia and prosgegrammeni
+8110,greek capital letter omega with psili and perispomeni and prosgegrammeni
+8111,greek capital letter omega with dasia and perispomeni and prosgegrammeni
+8112,greek small letter alpha with vrachy
+8113,greek small letter alpha with macron
+8114,greek small letter alpha with varia and ypogegrammeni
+8115,greek small letter alpha with ypogegrammeni
+8116,greek small letter alpha with oxia and ypogegrammeni
+8118,greek small letter alpha with perispomeni
+8119,greek small letter alpha with perispomeni and ypogegrammeni
+8120,greek capital letter alpha with vrachy
+8121,greek capital letter alpha with macron
+8122,greek capital letter alpha with varia
+8123,greek capital letter alpha with oxia
+8124,greek capital letter alpha with prosgegrammeni
+8125,greek koronis
+8126,greek prosgegrammeni
+8127,greek psili
+8128,greek perispomeni
+8129,greek dialytika and perispomeni
+8130,greek small letter eta with varia and ypogegrammeni
+8131,greek small letter eta with ypogegrammeni
+8132,greek small letter eta with oxia and ypogegrammeni
+8134,greek small letter eta with perispomeni
+8135,greek small letter eta with perispomeni and ypogegrammeni
+8136,greek capital letter epsilon with varia
+8137,greek capital letter epsilon with oxia
+8138,greek capital letter eta with varia
+8139,greek capital letter eta with oxia
+8140,greek capital letter eta with prosgegrammeni
+8141,greek psili and varia
+8142,greek psili and oxia
+8143,greek psili and perispomeni
+8144,greek small letter iota with vrachy
+8145,greek small letter iota with macron
+8146,greek small letter iota with dialytika and varia
+8147,greek small letter iota with dialytika and oxia
+8150,greek small letter iota with perispomeni
+8151,greek small letter iota with dialytika and perispomeni
+8152,greek capital letter iota with vrachy
+8153,greek capital letter iota with macron
+8154,greek capital letter iota with varia
+8155,greek capital letter iota with oxia
+8157,greek dasia and varia
+8158,greek dasia and oxia
+8159,greek dasia and perispomeni
+8160,greek small letter upsilon with vrachy
+8161,greek small letter upsilon with macron
+8162,greek small letter upsilon with dialytika and varia
+8163,greek small letter upsilon with dialytika and oxia
+8164,greek small letter rho with psili
+8165,greek small letter rho with dasia
+8166,greek small letter upsilon with perispomeni
+8167,greek small letter upsilon with dialytika and perispomeni
+8168,greek capital letter upsilon with vrachy
+8169,greek capital letter upsilon with macron
+8170,greek capital letter upsilon with varia
+8171,greek capital letter upsilon with oxia
+8172,greek capital letter rho with dasia
+8173,greek dialytika and varia
+8174,greek dialytika and oxia
+8175,greek varia
+8178,greek small letter omega with varia and ypogegrammeni
+8179,greek small letter omega with ypogegrammeni
+8180,greek small letter omega with oxia and ypogegrammeni
+8182,greek small letter omega with perispomeni
+8183,greek small letter omega with perispomeni and ypogegrammeni
+8184,greek capital letter omicron with varia
+8185,greek capital letter omicron with oxia
+8186,greek capital letter omega with varia
+8187,greek capital letter omega with oxia
+8188,greek capital letter omega with prosgegrammeni
+8189,greek oxia
+8190,greek dasia

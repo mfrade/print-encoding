@@ -1,0 +1,225 @@
+65281,fullwidth exclamation mark
+65282,fullwidth quotation mark
+65283,fullwidth number sign
+65284,fullwidth dollar sign
+65285,fullwidth percent sign
+65286,fullwidth ampersand
+65287,fullwidth apostrophe
+65288,fullwidth left parenthesis
+65289,fullwidth right parenthesis
+65290,fullwidth asterisk
+65291,fullwidth plus sign
+65292,fullwidth comma
+65293,fullwidth hyphen-minus
+65294,fullwidth full stop
+65295,fullwidth solidus
+65296,fullwidth digit zero
+65297,fullwidth digit one
+65298,fullwidth digit two
+65299,fullwidth digit three
+65300,fullwidth digit four
+65301,fullwidth digit five
+65302,fullwidth digit six
+65303,fullwidth digit seven
+65304,fullwidth digit eight
+65305,fullwidth digit nine
+65306,fullwidth colon
+65307,fullwidth semicolon
+65308,fullwidth less-than sign
+65309,fullwidth equals sign
+65310,fullwidth greater-than sign
+65311,fullwidth question mark
+65312,fullwidth commercial at
+65313,fullwidth latin capital letter a
+65314,fullwidth latin capital letter b
+65315,fullwidth latin capital letter c
+65316,fullwidth latin capital letter d
+65317,fullwidth latin capital letter e
+65318,fullwidth latin capital letter f
+65319,fullwidth latin capital letter g
+65320,fullwidth latin capital letter h
+65321,fullwidth latin capital letter i
+65322,fullwidth latin capital letter j
+65323,fullwidth latin capital letter k
+65324,fullwidth latin capital letter l
+65325,fullwidth latin capital letter m
+65326,fullwidth latin capital letter n
+65327,fullwidth latin capital letter o
+65328,fullwidth latin capital letter p
+65329,fullwidth latin capital letter q
+65330,fullwidth latin capital letter r
+65331,fullwidth latin capital letter s
+65332,fullwidth latin capital letter t
+65333,fullwidth latin capital letter u
+65334,fullwidth latin capital letter v
+65335,fullwidth latin capital letter w
+65336,fullwidth latin capital letter x
+65337,fullwidth latin capital letter y
+65338,fullwidth latin capital letter z
+65339,fullwidth left square bracket
+65340,fullwidth reverse solidus
+65341,fullwidth right square bracket
+65342,fullwidth circumflex accent
+65343,fullwidth low line
+65344,fullwidth grave accent
+65345,fullwidth latin small letter a
+65346,fullwidth latin small letter b
+65347,fullwidth latin small letter c
+65348,fullwidth latin small letter d
+65349,fullwidth latin small letter e
+65350,fullwidth latin small letter f
+65351,fullwidth latin small letter g
+65352,fullwidth latin small letter h
+65353,fullwidth latin small letter i
+65354,fullwidth latin small letter j
+65355,fullwidth latin small letter k
+65356,fullwidth latin small letter l
+65357,fullwidth latin small letter m
+65358,fullwidth latin small letter n
+65359,fullwidth latin small letter o
+65360,fullwidth latin small letter p
+65361,fullwidth latin small letter q
+65362,fullwidth latin small letter r
+65363,fullwidth latin small letter s
+65364,fullwidth latin small letter t
+65365,fullwidth latin small letter u
+65366,fullwidth latin small letter v
+65367,fullwidth latin small letter w
+65368,fullwidth latin small letter x
+65369,fullwidth latin small letter y
+65370,fullwidth latin small letter z
+65371,fullwidth left curly bracket
+65372,fullwidth vertical line
+65373,fullwidth right curly bracket
+65374,fullwidth tilde
+65375,fullwidth left white parenthesis
+65376,fullwidth right white parenthesis
+65377,halfwidth ideographic full stop
+65378,halfwidth left corner bracket
+65379,halfwidth right corner bracket
+65380,halfwidth ideographic comma
+65381,halfwidth katakana middle dot
+65382,halfwidth katakana letter wo
+65383,halfwidth katakana letter small a
+65384,halfwidth katakana letter small i
+65385,halfwidth katakana letter small u
+65386,halfwidth katakana letter small e
+65387,halfwidth katakana letter small o
+65388,halfwidth katakana letter small ya
+65389,halfwidth katakana letter small yu
+65390,halfwidth katakana letter small yo
+65391,halfwidth katakana letter small tu
+65392,halfwidth katakana-hiragana prolonged sound mark
+65393,halfwidth katakana letter a
+65394,halfwidth katakana letter i
+65395,halfwidth katakana letter u
+65396,halfwidth katakana letter e
+65397,halfwidth katakana letter o
+65398,halfwidth katakana letter ka
+65399,halfwidth katakana letter ki
+65400,halfwidth katakana letter ku
+65401,halfwidth katakana letter ke
+65402,halfwidth katakana letter ko
+65403,halfwidth katakana letter sa
+65404,halfwidth katakana letter si
+65405,halfwidth katakana letter su
+65406,halfwidth katakana letter se
+65407,halfwidth katakana letter so
+65408,halfwidth katakana letter ta
+65409,halfwidth katakana letter ti
+65410,halfwidth katakana letter tu
+65411,halfwidth katakana letter te
+65412,halfwidth katakana letter to
+65413,halfwidth katakana letter na
+65414,halfwidth katakana letter ni
+65415,halfwidth katakana letter nu
+65416,halfwidth katakana letter ne
+65417,halfwidth katakana letter no
+65418,halfwidth katakana letter ha
+65419,halfwidth katakana letter hi
+65420,halfwidth katakana letter hu
+65421,halfwidth katakana letter he
+65422,halfwidth katakana letter ho
+65423,halfwidth katakana letter ma
+65424,halfwidth katakana letter mi
+65425,halfwidth katakana letter mu
+65426,halfwidth katakana letter me
+65427,halfwidth katakana letter mo
+65428,halfwidth katakana letter ya
+65429,halfwidth katakana letter yu
+65430,halfwidth katakana letter yo
+65431,halfwidth katakana letter ra
+65432,halfwidth katakana letter ri
+65433,halfwidth katakana letter ru
+65434,halfwidth katakana letter re
+65435,halfwidth katakana letter ro
+65436,halfwidth katakana letter wa
+65437,halfwidth katakana letter n
+65438,halfwidth katakana voiced sound mark
+65439,halfwidth katakana semi-voiced sound mark
+65440,halfwidth hangul filler
+65441,halfwidth hangul letter kiyeok
+65442,halfwidth hangul letter ssangkiyeok
+65443,halfwidth hangul letter kiyeok-sios
+65444,halfwidth hangul letter nieun
+65445,halfwidth hangul letter nieun-cieuc
+65446,halfwidth hangul letter nieun-hieuh
+65447,halfwidth hangul letter tikeut
+65448,halfwidth hangul letter ssangtikeut
+65449,halfwidth hangul letter rieul
+65450,halfwidth hangul letter rieul-kiyeok
+65451,halfwidth hangul letter rieul-mieum
+65452,halfwidth hangul letter rieul-pieup
+65453,halfwidth hangul letter rieul-sios
+65454,halfwidth hangul letter rieul-thieuth
+65455,halfwidth hangul letter rieul-phieuph
+65456,halfwidth hangul letter rieul-hieuh
+65457,halfwidth hangul letter mieum
+65458,halfwidth hangul letter pieup
+65459,halfwidth hangul letter ssangpieup
+65460,halfwidth hangul letter pieup-sios
+65461,halfwidth hangul letter sios
+65462,halfwidth hangul letter ssangsios
+65463,halfwidth hangul letter ieung
+65464,halfwidth hangul letter cieuc
+65465,halfwidth hangul letter ssangcieuc
+65466,halfwidth hangul letter chieuch
+65467,halfwidth hangul letter khieukh
+65468,halfwidth hangul letter thieuth
+65469,halfwidth hangul letter phieuph
+65470,halfwidth hangul letter hieuh
+65474,halfwidth hangul letter a
+65475,halfwidth hangul letter ae
+65476,halfwidth hangul letter ya
+65477,halfwidth hangul letter yae
+65478,halfwidth hangul letter eo
+65479,halfwidth hangul letter e
+65482,halfwidth hangul letter yeo
+65483,halfwidth hangul letter ye
+65484,halfwidth hangul letter o
+65485,halfwidth hangul letter wa
+65486,halfwidth hangul letter wae
+65487,halfwidth hangul letter oe
+65490,halfwidth hangul letter yo
+65491,halfwidth hangul letter u
+65492,halfwidth hangul letter weo
+65493,halfwidth hangul letter we
+65494,halfwidth hangul letter wi
+65495,halfwidth hangul letter yu
+65498,halfwidth hangul letter eu
+65499,halfwidth hangul letter yi
+65500,halfwidth hangul letter i
+65504,fullwidth cent sign
+65505,fullwidth pound sign
+65506,fullwidth not sign
+65507,fullwidth macron
+65508,fullwidth broken bar
+65509,fullwidth yen sign
+65510,fullwidth won sign
+65512,halfwidth forms light vertical
+65513,halfwidth leftwards arrow
+65514,halfwidth upwards arrow
+65515,halfwidth rightwards arrow
+65516,halfwidth downwards arrow
+65517,halfwidth black square
+65518,halfwidth white circle

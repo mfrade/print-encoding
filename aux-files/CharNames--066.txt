@@ -1,0 +1,8 @@
+7360,sundanese punctuation bindu surya
+7361,sundanese punctuation bindu panglong
+7362,sundanese punctuation bindu purnama
+7363,sundanese punctuation bindu cakra
+7364,sundanese punctuation bindu leu satanga
+7365,sundanese punctuation bindu ka satanga
+7366,sundanese punctuation bindu da satanga
+7367,sundanese punctuation bindu ba satanga

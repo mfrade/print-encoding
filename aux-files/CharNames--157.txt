@@ -1,0 +1,15 @@
+65024,variation selector-1
+65025,variation selector-2
+65026,variation selector-3
+65027,variation selector-4
+65028,variation selector-5
+65029,variation selector-6
+65030,variation selector-7
+65031,variation selector-8
+65032,variation selector-9
+65033,variation selector-10
+65034,variation selector-11
+65035,variation selector-12
+65036,variation selector-13
+65037,variation selector-14
+65038,variation selector-15

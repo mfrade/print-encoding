@@ -1,0 +1,31 @@
+43232,combining devanagari digit zero
+43233,combining devanagari digit one
+43234,combining devanagari digit two
+43235,combining devanagari digit three
+43236,combining devanagari digit four
+43237,combining devanagari digit five
+43238,combining devanagari digit six
+43239,combining devanagari digit seven
+43240,combining devanagari digit eight
+43241,combining devanagari digit nine
+43242,combining devanagari letter a
+43243,combining devanagari letter u
+43244,combining devanagari letter ka
+43245,combining devanagari letter na
+43246,combining devanagari letter pa
+43247,combining devanagari letter ra
+43248,combining devanagari letter vi
+43249,combining devanagari sign avagraha
+43250,devanagari sign spacing candrabindu
+43251,devanagari sign candrabindu virama
+43252,devanagari sign double candrabindu virama
+43253,devanagari sign candrabindu two
+43254,devanagari sign candrabindu three
+43255,devanagari sign candrabindu avagraha
+43256,devanagari sign pushpika
+43257,devanagari gap filler
+43258,devanagari caret
+43259,devanagari headstroke
+43260,devanagari sign siddham
+43261,devanagari jain om
+43262,devanagari letter ay

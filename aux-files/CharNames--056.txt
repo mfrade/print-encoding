@@ -1,0 +1,29 @@
+6656,buginese letter ka
+6657,buginese letter ga
+6658,buginese letter nga
+6659,buginese letter ngka
+6660,buginese letter pa
+6661,buginese letter ba
+6662,buginese letter ma
+6663,buginese letter mpa
+6664,buginese letter ta
+6665,buginese letter da
+6666,buginese letter na
+6667,buginese letter nra
+6668,buginese letter ca
+6669,buginese letter ja
+6670,buginese letter nya
+6671,buginese letter nyca
+6672,buginese letter ya
+6673,buginese letter ra
+6674,buginese letter la
+6675,buginese letter va
+6676,buginese letter sa
+6677,buginese letter a
+6678,buginese letter ha
+6679,buginese vowel sign i
+6680,buginese vowel sign u
+6681,buginese vowel sign e
+6682,buginese vowel sign o
+6683,buginese vowel sign ae
+6686,buginese pallawa

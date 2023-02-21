@@ -1,0 +1,87 @@
+125184,adlam capital letter alif
+125185,adlam capital letter daali
+125186,adlam capital letter laam
+125187,adlam capital letter miim
+125188,adlam capital letter ba
+125189,adlam capital letter sinnyiiyhe
+125190,adlam capital letter pe
+125191,adlam capital letter bhe
+125192,adlam capital letter ra
+125193,adlam capital letter e
+125194,adlam capital letter fa
+125195,adlam capital letter i
+125196,adlam capital letter o
+125197,adlam capital letter dha
+125198,adlam capital letter yhe
+125199,adlam capital letter waw
+125200,adlam capital letter nun
+125201,adlam capital letter kaf
+125202,adlam capital letter ya
+125203,adlam capital letter u
+125204,adlam capital letter jiim
+125205,adlam capital letter chi
+125206,adlam capital letter ha
+125207,adlam capital letter qaaf
+125208,adlam capital letter ga
+125209,adlam capital letter nya
+125210,adlam capital letter tu
+125211,adlam capital letter nha
+125212,adlam capital letter va
+125213,adlam capital letter kha
+125214,adlam capital letter gbe
+125215,adlam capital letter zal
+125216,adlam capital letter kpo
+125217,adlam capital letter sha
+125218,adlam small letter alif
+125219,adlam small letter daali
+125220,adlam small letter laam
+125221,adlam small letter miim
+125222,adlam small letter ba
+125223,adlam small letter sinnyiiyhe
+125224,adlam small letter pe
+125225,adlam small letter bhe
+125226,adlam small letter ra
+125227,adlam small letter e
+125228,adlam small letter fa
+125229,adlam small letter i
+125230,adlam small letter o
+125231,adlam small letter dha
+125232,adlam small letter yhe
+125233,adlam small letter waw
+125234,adlam small letter nun
+125235,adlam small letter kaf
+125236,adlam small letter ya
+125237,adlam small letter u
+125238,adlam small letter jiim
+125239,adlam small letter chi
+125240,adlam small letter ha
+125241,adlam small letter qaaf
+125242,adlam small letter ga
+125243,adlam small letter nya
+125244,adlam small letter tu
+125245,adlam small letter nha
+125246,adlam small letter va
+125247,adlam small letter kha
+125248,adlam small letter gbe
+125249,adlam small letter zal
+125250,adlam small letter kpo
+125251,adlam small letter sha
+125252,adlam alif lengthener
+125253,adlam vowel lengthener
+125254,adlam gemination mark
+125255,adlam hamza
+125256,adlam consonant modifier
+125257,adlam geminate consonant modifier
+125258,adlam nukta
+125259,adlam nasalization mark
+125264,adlam digit zero
+125265,adlam digit one
+125266,adlam digit two
+125267,adlam digit three
+125268,adlam digit four
+125269,adlam digit five
+125270,adlam digit six
+125271,adlam digit seven
+125272,adlam digit eight
+125273,adlam digit nine
+125278,adlam initial exclamation mark

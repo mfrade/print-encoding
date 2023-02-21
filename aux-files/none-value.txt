@@ -1,0 +1,176 @@
+26931,the pivots, at the top and bottom of a chinese door, on which the door turns | cjk ideograph
+26932,poplar, aspen | cjk ideograph
+26933,pompelmous; canque (breech, rump, buttock) | cjk ideograph
+26934,palm tree | cjk ideograph
+26935,box; casket; letter; envelope | cjk ideograph
+26936,rack | cjk ideograph
+26937,a chopping board | cjk ideograph
+26938,beam of a house | cjk ideograph
+26941,beams, rafters, supports | cjk ideograph
+26942,variant of 箋|笺[jian1] | cjk ideograph
+26943,father; a plant with white flowers | cjk ideograph
+26944,name of tree; surname | cjk ideograph
+26946,a raft, to hew, to fell trees | cjk ideograph
+26948,block | cjk ideograph
+26949,wooden board | cjk ideograph
+26954,willow, poplar, aspen; surname | cjk ideograph
+26955,to plant trees (old) | cjk ideograph
+26963,maple tree | cjk ideograph
+26964,wedge; gatepost; foreword | cjk ideograph
+26965,oval-shaped, elliptical, tubular | cjk ideograph
+26967,bar of door, bolt of lock | cjk ideograph
+26968,band | cjk ideograph
+26969,name of plant; lush | cjk ideograph
+26971,coarse, crude; plant | cjk ideograph
+36465,to stagger along; to fall | cjk ideograph
+36466,squat, crouch; idle about | cjk ideograph
+36468,kick; tread on; leap; solemn | cjk ideograph
+36469,to tread on; to kick | cjk ideograph
+36470,stumble, fall down; trample | cjk ideograph
+36471,to kick back; to stumble, slip, fall | cjk ideograph
+36473,to tread on; to stamp; to walk | cjk ideograph
+36474,raise one's foot | cjk ideograph
+36475,to raise the feet; to cross the legs; brave; sandals | cjk ideograph
+36476,webbed feet of waterfowl | cjk ideograph
+36477,to run/to slip away/to stride | cjk ideograph
+36478,to squat; to crouch | cjk ideograph
+36479,leap; to jump; to spurt out | cjk ideograph
+36480,(cant.) to stumble over, to fall | cjk ideograph
+36481,tense, excited, irritable | cjk ideograph
+36482,stumble, slip | cjk ideograph
+36483,variant of 躄[bi4] | cjk ideograph
+36484,cripple, lame | cjk ideograph
+36485,walk carefully; hesitate, falter | cjk ideograph
+36487,hesitate, falter, be undecided | cjk ideograph
+36489,sell or buy wholesale; store | cjk ideograph
+36490,hesitate, falter; smug, self-satisfied | cjk ideograph
+36491,ascend, go up, rise | cjk ideograph
+36493,skip, jump, frolic | cjk ideograph
+36495,trample down, oppress, overrun | cjk ideograph
+36496,to stride over; to step across | cjk ideograph
+36497,waver, hesitate, be irresolute | cjk ideograph
+36498,walk, move | cjk ideograph
+36499,stumble, totter; fail, be frustrated | cjk ideograph
+36500,follow in, imitate; rut, path | cjk ideograph
+36501,hesitate, waver, falter | cjk ideograph
+36503,exaggerate | cjk ideograph
+36504,to walk | cjk ideograph
+36505,trample down, oppress, overrun | cjk ideograph
+36506,wander about, walk around; revolve | cjk ideograph
+46398,hangul syllable ddalp
+46399,hangul syllable ddalh
+46400,hangul syllable ddam
+46401,hangul syllable ddab
+46402,hangul syllable ddabs
+46403,hangul syllable ddas
+46404,hangul syllable ddass
+46405,hangul syllable ddang
+46406,hangul syllable ddaj
+46407,hangul syllable ddac
+46408,hangul syllable ddak
+46409,hangul syllable ddat
+46410,hangul syllable ddap
+46411,hangul syllable ddah
+46412,hangul syllable ddae
+46413,hangul syllable ddaeg
+46414,hangul syllable ddaegg
+46415,hangul syllable ddaegs
+46416,hangul syllable ddaen
+46417,hangul syllable ddaenj
+46418,hangul syllable ddaenh
+46419,hangul syllable ddaed
+46420,hangul syllable ddael
+46421,hangul syllable ddaelg
+46422,hangul syllable ddaelm
+46423,hangul syllable ddaelb
+46424,hangul syllable ddaels
+46425,hangul syllable ddaelt
+46426,hangul syllable ddaelp
+46427,hangul syllable ddaelh
+46428,hangul syllable ddaem
+46429,hangul syllable ddaeb
+46430,hangul syllable ddaebs
+46431,hangul syllable ddaes
+46432,hangul syllable ddaess
+46433,hangul syllable ddaeng
+46434,hangul syllable ddaej
+46435,hangul syllable ddaec
+46436,hangul syllable ddaek
+46437,hangul syllable ddaet
+46439,hangul syllable ddaeh
+46441,hangul syllable ddyag
+46448,hangul syllable ddyal
+67289,linear a sign a549
+67290,linear a sign a550
+67291,linear a sign a551
+67292,linear a sign a552
+67293,linear a sign a553
+67294,linear a sign a554
+67295,linear a sign a555
+67296,linear a sign a556
+67297,linear a sign a557
+67298,linear a sign a559
+67299,linear a sign a563
+67300,linear a sign a564
+67301,linear a sign a565
+67302,linear a sign a566
+67303,linear a sign a568
+67304,linear a sign a569
+67305,linear a sign a570
+67306,linear a sign a571
+67307,linear a sign a572
+67308,linear a sign a573
+67309,linear a sign a574
+67310,linear a sign a575
+67311,linear a sign a576
+67312,linear a sign a577
+67313,linear a sign a578
+67314,linear a sign a579
+67315,linear a sign a580
+67316,linear a sign a581
+67317,linear a sign a582
+67318,linear a sign a583
+67319,linear a sign a584
+67320,linear a sign a585
+67321,linear a sign a586
+67322,linear a sign a587
+67323,linear a sign a588
+67324,linear a sign a589
+67325,linear a sign a591
+67326,linear a sign a592
+67327,linear a sign a594
+67328,linear a sign a595
+67719,nabataean letter he
+67720,nabataean letter waw
+67721,nabataean letter zayin
+67722,nabataean letter heth
+67723,nabataean letter teth
+67724,nabataean letter final yodh
+67725,nabataean letter yodh
+67726,nabataean letter final kaph
+67727,nabataean letter kaph
+67728,nabataean letter final lamedh
+67729,nabataean letter lamedh
+67730,nabataean letter final mem
+67731,nabataean letter mem
+67732,nabataean letter final nun
+67733,nabataean letter nun
+67734,nabataean letter samekh
+67735,nabataean letter ayin
+67736,nabataean letter pe
+67737,nabataean letter sadhe
+67738,nabataean letter qoph
+67739,nabataean letter resh
+67740,nabataean letter final shin
+67741,nabataean letter shin
+67742,nabataean letter taw
+67751,nabataean number one
+67752,nabataean number two
+67753,nabataean number three
+67754,nabataean number four
+67755,nabataean cruciform number four
+67756,nabataean number five
+67757,nabataean number ten
+67758,nabataean number twenty
+140425,a surname | cjk ideograph
+169824,spoiled provisions | cjk ideograph

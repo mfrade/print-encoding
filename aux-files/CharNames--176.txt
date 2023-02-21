@@ -1,0 +1,43 @@
+66384,old permic letter an
+66385,old permic letter bur
+66386,old permic letter gai
+66387,old permic letter doi
+66388,old permic letter e
+66389,old permic letter zhoi
+66390,old permic letter dzhoi
+66391,old permic letter zata
+66392,old permic letter dzita
+66393,old permic letter i
+66394,old permic letter koke
+66395,old permic letter lei
+66396,old permic letter menoe
+66397,old permic letter nenoe
+66398,old permic letter vooi
+66399,old permic letter peei
+66400,old permic letter rei
+66401,old permic letter sii
+66402,old permic letter tai
+66403,old permic letter u
+66404,old permic letter chery
+66405,old permic letter shooi
+66406,old permic letter shchooi
+66407,old permic letter yry
+66408,old permic letter yeru
+66409,old permic letter o
+66410,old permic letter oo
+66411,old permic letter ef
+66412,old permic letter ha
+66413,old permic letter tsiu
+66414,old permic letter ver
+66415,old permic letter yer
+66416,old permic letter yeri
+66417,old permic letter yat
+66418,old permic letter ie
+66419,old permic letter yu
+66420,old permic letter ya
+66421,old permic letter ia
+66422,combining old permic letter an
+66423,combining old permic letter doi
+66424,combining old permic letter zata
+66425,combining old permic letter nenoe
+66426,combining old permic letter sii

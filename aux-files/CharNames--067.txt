@@ -1,0 +1,43 @@
+7376,vedic tone karshana
+7377,vedic tone shara
+7378,vedic tone prenkha
+7379,vedic sign nihshvasa
+7380,vedic sign yajurvedic midline svarita
+7381,vedic tone yajurvedic aggravated independent svarita
+7382,vedic tone yajurvedic independent svarita
+7383,vedic tone yajurvedic kathaka independent svarita
+7384,vedic tone candra below
+7385,vedic tone yajurvedic kathaka independent svarita schroeder
+7386,vedic tone double svarita
+7387,vedic tone triple svarita
+7388,vedic tone kathaka anudatta
+7389,vedic tone dot below
+7390,vedic tone two dots below
+7391,vedic tone three dots below
+7392,vedic tone rigvedic kashmiri independent svarita
+7393,vedic tone atharvavedic independent svarita
+7394,vedic sign visarga svarita
+7395,vedic sign visarga udatta
+7396,vedic sign reversed visarga udatta
+7397,vedic sign visarga anudatta
+7398,vedic sign reversed visarga anudatta
+7399,vedic sign visarga udatta with tail
+7400,vedic sign visarga anudatta with tail
+7401,vedic sign anusvara antargomukha
+7402,vedic sign anusvara bahirgomukha
+7403,vedic sign anusvara vamagomukha
+7404,vedic sign anusvara vamagomukha with tail
+7405,vedic sign tiryak
+7406,vedic sign hexiform long anusvara
+7407,vedic sign long anusvara
+7408,vedic sign rthang long anusvara
+7409,vedic sign anusvara ubhayato mukha
+7410,vedic sign ardhavisarga
+7411,vedic sign rotated ardhavisarga
+7412,vedic tone candra above
+7413,vedic sign jihvamuliya
+7414,vedic sign upadhmaniya
+7415,vedic sign atikrama
+7416,vedic tone ring above
+7417,vedic tone double ring above
+7418,vedic sign double anusvara antargomukha

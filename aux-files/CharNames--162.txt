@@ -1,0 +1,140 @@
+65136,arabic fathatan isolated form
+65137,arabic tatweel with fathatan above
+65138,arabic dammatan isolated form
+65139,arabic tail fragment
+65140,arabic kasratan isolated form
+65142,arabic fatha isolated form
+65143,arabic fatha medial form
+65144,arabic damma isolated form
+65145,arabic damma medial form
+65146,arabic kasra isolated form
+65147,arabic kasra medial form
+65148,arabic shadda isolated form
+65149,arabic shadda medial form
+65150,arabic sukun isolated form
+65151,arabic sukun medial form
+65152,arabic letter hamza isolated form
+65153,arabic letter alef with madda above isolated form
+65154,arabic letter alef with madda above final form
+65155,arabic letter alef with hamza above isolated form
+65156,arabic letter alef with hamza above final form
+65157,arabic letter waw with hamza above isolated form
+65158,arabic letter waw with hamza above final form
+65159,arabic letter alef with hamza below isolated form
+65160,arabic letter alef with hamza below final form
+65161,arabic letter yeh with hamza above isolated form
+65162,arabic letter yeh with hamza above final form
+65163,arabic letter yeh with hamza above initial form
+65164,arabic letter yeh with hamza above medial form
+65165,arabic letter alef isolated form
+65166,arabic letter alef final form
+65167,arabic letter beh isolated form
+65168,arabic letter beh final form
+65169,arabic letter beh initial form
+65170,arabic letter beh medial form
+65171,arabic letter teh marbuta isolated form
+65172,arabic letter teh marbuta final form
+65173,arabic letter teh isolated form
+65174,arabic letter teh final form
+65175,arabic letter teh initial form
+65176,arabic letter teh medial form
+65177,arabic letter theh isolated form
+65178,arabic letter theh final form
+65179,arabic letter theh initial form
+65180,arabic letter theh medial form
+65181,arabic letter jeem isolated form
+65182,arabic letter jeem final form
+65183,arabic letter jeem initial form
+65184,arabic letter jeem medial form
+65185,arabic letter hah isolated form
+65186,arabic letter hah final form
+65187,arabic letter hah initial form
+65188,arabic letter hah medial form
+65189,arabic letter khah isolated form
+65190,arabic letter khah final form
+65191,arabic letter khah initial form
+65192,arabic letter khah medial form
+65193,arabic letter dal isolated form
+65194,arabic letter dal final form
+65195,arabic letter thal isolated form
+65196,arabic letter thal final form
+65197,arabic letter reh isolated form
+65198,arabic letter reh final form
+65199,arabic letter zain isolated form
+65200,arabic letter zain final form
+65201,arabic letter seen isolated form
+65202,arabic letter seen final form
+65203,arabic letter seen initial form
+65204,arabic letter seen medial form
+65205,arabic letter sheen isolated form
+65206,arabic letter sheen final form
+65207,arabic letter sheen initial form
+65208,arabic letter sheen medial form
+65209,arabic letter sad isolated form
+65210,arabic letter sad final form
+65211,arabic letter sad initial form
+65212,arabic letter sad medial form
+65213,arabic letter dad isolated form
+65214,arabic letter dad final form
+65215,arabic letter dad initial form
+65216,arabic letter dad medial form
+65217,arabic letter tah isolated form
+65218,arabic letter tah final form
+65219,arabic letter tah initial form
+65220,arabic letter tah medial form
+65221,arabic letter zah isolated form
+65222,arabic letter zah final form
+65223,arabic letter zah initial form
+65224,arabic letter zah medial form
+65225,arabic letter ain isolated form
+65226,arabic letter ain final form
+65227,arabic letter ain initial form
+65228,arabic letter ain medial form
+65229,arabic letter ghain isolated form
+65230,arabic letter ghain final form
+65231,arabic letter ghain initial form
+65232,arabic letter ghain medial form
+65233,arabic letter feh isolated form
+65234,arabic letter feh final form
+65235,arabic letter feh initial form
+65236,arabic letter feh medial form
+65237,arabic letter qaf isolated form
+65238,arabic letter qaf final form
+65239,arabic letter qaf initial form
+65240,arabic letter qaf medial form
+65241,arabic letter kaf isolated form
+65242,arabic letter kaf final form
+65243,arabic letter kaf initial form
+65244,arabic letter kaf medial form
+65245,arabic letter lam isolated form
+65246,arabic letter lam final form
+65247,arabic letter lam initial form
+65248,arabic letter lam medial form
+65249,arabic letter meem isolated form
+65250,arabic letter meem final form
+65251,arabic letter meem initial form
+65252,arabic letter meem medial form
+65253,arabic letter noon isolated form
+65254,arabic letter noon final form
+65255,arabic letter noon initial form
+65256,arabic letter noon medial form
+65257,arabic letter heh isolated form
+65258,arabic letter heh final form
+65259,arabic letter heh initial form
+65260,arabic letter heh medial form
+65261,arabic letter waw isolated form
+65262,arabic letter waw final form
+65263,arabic letter alef maksura isolated form
+65264,arabic letter alef maksura final form
+65265,arabic letter yeh isolated form
+65266,arabic letter yeh final form
+65267,arabic letter yeh initial form
+65268,arabic letter yeh medial form
+65269,arabic ligature lam with alef with madda above isolated form
+65270,arabic ligature lam with alef with madda above final form
+65271,arabic ligature lam with alef with hamza above isolated form
+65272,arabic ligature lam with alef with hamza above final form
+65273,arabic ligature lam with alef with hamza below isolated form
+65274,arabic ligature lam with alef with hamza below final form
+65275,arabic ligature lam with alef isolated form
+65276,arabic ligature lam with alef final form

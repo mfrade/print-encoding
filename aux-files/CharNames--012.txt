@@ -1,0 +1,88 @@
+1425,hebrew accent etnahta
+1426,hebrew accent segol
+1427,hebrew accent shalshelet
+1428,hebrew accent zaqef qatan
+1429,hebrew accent zaqef gadol
+1430,hebrew accent tipeha
+1431,hebrew accent revia
+1432,hebrew accent zarqa
+1433,hebrew accent pashta
+1434,hebrew accent yetiv
+1435,hebrew accent tevir
+1436,hebrew accent geresh
+1437,hebrew accent geresh muqdam
+1438,hebrew accent gershayim
+1439,hebrew accent qarney para
+1440,hebrew accent telisha gedola
+1441,hebrew accent pazer
+1442,hebrew accent atnah hafukh
+1443,hebrew accent munah
+1444,hebrew accent mahapakh
+1445,hebrew accent merkha
+1446,hebrew accent merkha kefula
+1447,hebrew accent darga
+1448,hebrew accent qadma
+1449,hebrew accent telisha qetana
+1450,hebrew accent yerah ben yomo
+1451,hebrew accent ole
+1452,hebrew accent iluy
+1453,hebrew accent dehi
+1454,hebrew accent zinor
+1455,hebrew mark masora circle
+1456,hebrew point sheva
+1457,hebrew point hataf segol
+1458,hebrew point hataf patah
+1459,hebrew point hataf qamats
+1460,hebrew point hiriq
+1461,hebrew point tsere
+1462,hebrew point segol
+1463,hebrew point patah
+1464,hebrew point qamats
+1465,hebrew point holam
+1466,hebrew point holam haser for vav
+1467,hebrew point qubuts
+1468,hebrew point dagesh or mapiq
+1469,hebrew point meteg
+1470,hebrew punctuation maqaf
+1471,hebrew point rafe
+1472,hebrew punctuation paseq
+1473,hebrew point shin dot
+1474,hebrew point sin dot
+1475,hebrew punctuation sof pasuq
+1476,hebrew mark upper dot
+1477,hebrew mark lower dot
+1478,hebrew punctuation nun hafukha
+1479,hebrew point qamats qatan
+1488,hebrew letter alef
+1489,hebrew letter bet
+1490,hebrew letter gimel
+1491,hebrew letter dalet
+1492,hebrew letter he
+1493,hebrew letter vav
+1494,hebrew letter zayin
+1495,hebrew letter het
+1496,hebrew letter tet
+1497,hebrew letter yod
+1498,hebrew letter final kaf
+1499,hebrew letter kaf
+1500,hebrew letter lamed
+1501,hebrew letter final mem
+1502,hebrew letter mem
+1503,hebrew letter final nun
+1504,hebrew letter nun
+1505,hebrew letter samekh
+1506,hebrew letter ayin
+1507,hebrew letter final pe
+1508,hebrew letter pe
+1509,hebrew letter final tsadi
+1510,hebrew letter tsadi
+1511,hebrew letter qof
+1512,hebrew letter resh
+1513,hebrew letter shin
+1514,hebrew letter tav
+1519,hebrew yod triangle
+1520,hebrew ligature yiddish double vav
+1521,hebrew ligature yiddish vav yod
+1522,hebrew ligature yiddish double yod
+1523,hebrew punctuation geresh
+1524,hebrew punctuation gershayim

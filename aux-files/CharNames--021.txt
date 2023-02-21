@@ -1,0 +1,40 @@
+2160,arabic letter alef with attached fatha
+2161,arabic letter alef with attached top right fatha
+2162,arabic letter alef with right middle stroke
+2163,arabic letter alef with left middle stroke
+2164,arabic letter alef with attached kasra
+2165,arabic letter alef with attached bottom right kasra
+2166,arabic letter alef with attached round dot above
+2167,arabic letter alef with attached right round dot
+2168,arabic letter alef with attached left round dot
+2169,arabic letter alef with attached round dot below
+2170,arabic letter alef with dot above
+2171,arabic letter alef with attached top right fatha and dot above
+2172,arabic letter alef with right middle stroke and dot above
+2173,arabic letter alef with attached bottom right kasra and dot above
+2174,arabic letter alef with attached top right fatha and left ring
+2175,arabic letter alef with right middle stroke and left ring
+2176,arabic letter alef with attached bottom right kasra and left ring
+2177,arabic letter alef with attached right hamza
+2178,arabic letter alef with attached left hamza
+2179,arabic tatweel with overstruck hamza
+2180,arabic tatweel with overstruck waw
+2181,arabic tatweel with two dots below
+2182,arabic letter thin yeh
+2183,arabic baseline round dot
+2184,arabic raised round dot
+2185,arabic letter noon with inverted small v
+2186,arabic letter hah with inverted small v below
+2187,arabic letter tah with dot below
+2188,arabic letter tah with three dots below
+2189,arabic letter keheh with two dots vertically below
+2190,arabic vertical tail
+2192,arabic pound mark above
+2193,arabic piastre mark above
+2200,arabic small high word al-juz
+2201,arabic small low word ishmaam
+2202,arabic small low word imaala
+2203,arabic small low word tasheel
+2204,arabic madda waajib
+2205,arabic superscript alef mokhassas
+2206,arabic doubled madda

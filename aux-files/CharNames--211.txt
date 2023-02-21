@@ -1,0 +1,40 @@
+69376,old sogdian letter aleph
+69377,old sogdian letter final aleph
+69378,old sogdian letter beth
+69379,old sogdian letter final beth
+69380,old sogdian letter gimel
+69381,old sogdian letter he
+69382,old sogdian letter final he
+69383,old sogdian letter waw
+69384,old sogdian letter zayin
+69385,old sogdian letter heth
+69386,old sogdian letter yodh
+69387,old sogdian letter kaph
+69388,old sogdian letter lamedh
+69389,old sogdian letter mem
+69390,old sogdian letter nun
+69391,old sogdian letter final nun
+69392,old sogdian letter final nun with vertical tail
+69393,old sogdian letter samekh
+69394,old sogdian letter ayin
+69395,old sogdian letter alternate ayin
+69396,old sogdian letter pe
+69397,old sogdian letter sadhe
+69398,old sogdian letter final sadhe
+69399,old sogdian letter final sadhe with vertical tail
+69400,old sogdian letter resh-ayin-daleth
+69401,old sogdian letter shin
+69402,old sogdian letter taw
+69403,old sogdian letter final taw
+69404,old sogdian letter final taw with vertical tail
+69405,old sogdian number one
+69406,old sogdian number two
+69407,old sogdian number three
+69408,old sogdian number four
+69409,old sogdian number five
+69410,old sogdian number ten
+69411,old sogdian number twenty
+69412,old sogdian number thirty
+69413,old sogdian number one hundred
+69414,old sogdian fraction one half
+69415,old sogdian ligature ayin-daleth

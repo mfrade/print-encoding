@@ -1,0 +1,159 @@
+4096,myanmar letter ka
+4097,myanmar letter kha
+4098,myanmar letter ga
+4099,myanmar letter gha
+4100,myanmar letter nga
+4101,myanmar letter ca
+4102,myanmar letter cha
+4103,myanmar letter ja
+4104,myanmar letter jha
+4105,myanmar letter nya
+4106,myanmar letter nnya
+4107,myanmar letter tta
+4108,myanmar letter ttha
+4109,myanmar letter dda
+4110,myanmar letter ddha
+4111,myanmar letter nna
+4112,myanmar letter ta
+4113,myanmar letter tha
+4114,myanmar letter da
+4115,myanmar letter dha
+4116,myanmar letter na
+4117,myanmar letter pa
+4118,myanmar letter pha
+4119,myanmar letter ba
+4120,myanmar letter bha
+4121,myanmar letter ma
+4122,myanmar letter ya
+4123,myanmar letter ra
+4124,myanmar letter la
+4125,myanmar letter wa
+4126,myanmar letter sa
+4127,myanmar letter ha
+4128,myanmar letter lla
+4129,myanmar letter a
+4130,myanmar letter shan a
+4131,myanmar letter i
+4132,myanmar letter ii
+4133,myanmar letter u
+4134,myanmar letter uu
+4135,myanmar letter e
+4136,myanmar letter mon e
+4137,myanmar letter o
+4138,myanmar letter au
+4139,myanmar vowel sign tall aa
+4140,myanmar vowel sign aa
+4141,myanmar vowel sign i
+4142,myanmar vowel sign ii
+4143,myanmar vowel sign u
+4144,myanmar vowel sign uu
+4145,myanmar vowel sign e
+4146,myanmar vowel sign ai
+4147,myanmar vowel sign mon ii
+4148,myanmar vowel sign mon o
+4149,myanmar vowel sign e above
+4150,myanmar sign anusvara
+4151,myanmar sign dot below
+4152,myanmar sign visarga
+4153,myanmar sign virama
+4154,myanmar sign asat
+4155,myanmar consonant sign medial ya
+4156,myanmar consonant sign medial ra
+4157,myanmar consonant sign medial wa
+4158,myanmar consonant sign medial ha
+4159,myanmar letter great sa
+4160,myanmar digit zero
+4161,myanmar digit one
+4162,myanmar digit two
+4163,myanmar digit three
+4164,myanmar digit four
+4165,myanmar digit five
+4166,myanmar digit six
+4167,myanmar digit seven
+4168,myanmar digit eight
+4169,myanmar digit nine
+4170,myanmar sign little section
+4171,myanmar sign section
+4172,myanmar symbol locative
+4173,myanmar symbol completed
+4174,myanmar symbol aforementioned
+4175,myanmar symbol genitive
+4176,myanmar letter sha
+4177,myanmar letter ssa
+4178,myanmar letter vocalic r
+4179,myanmar letter vocalic rr
+4180,myanmar letter vocalic l
+4181,myanmar letter vocalic ll
+4182,myanmar vowel sign vocalic r
+4183,myanmar vowel sign vocalic rr
+4184,myanmar vowel sign vocalic l
+4185,myanmar vowel sign vocalic ll
+4186,myanmar letter mon nga
+4187,myanmar letter mon jha
+4188,myanmar letter mon bba
+4189,myanmar letter mon bbe
+4190,myanmar consonant sign mon medial na
+4191,myanmar consonant sign mon medial ma
+4192,myanmar consonant sign mon medial la
+4193,myanmar letter sgaw karen sha
+4194,myanmar vowel sign sgaw karen eu
+4195,myanmar tone mark sgaw karen hathi
+4196,myanmar tone mark sgaw karen ke pho
+4197,myanmar letter western pwo karen tha
+4198,myanmar letter western pwo karen pwa
+4199,myanmar vowel sign western pwo karen eu
+4200,myanmar vowel sign western pwo karen ue
+4201,myanmar sign western pwo karen tone-1
+4202,myanmar sign western pwo karen tone-2
+4203,myanmar sign western pwo karen tone-3
+4204,myanmar sign western pwo karen tone-4
+4205,myanmar sign western pwo karen tone-5
+4206,myanmar letter eastern pwo karen nna
+4207,myanmar letter eastern pwo karen ywa
+4208,myanmar letter eastern pwo karen ghwa
+4209,myanmar vowel sign geba karen i
+4210,myanmar vowel sign kayah oe
+4211,myanmar vowel sign kayah u
+4212,myanmar vowel sign kayah ee
+4213,myanmar letter shan ka
+4214,myanmar letter shan kha
+4215,myanmar letter shan ga
+4216,myanmar letter shan ca
+4217,myanmar letter shan za
+4218,myanmar letter shan nya
+4219,myanmar letter shan da
+4220,myanmar letter shan na
+4221,myanmar letter shan pha
+4222,myanmar letter shan fa
+4223,myanmar letter shan ba
+4224,myanmar letter shan tha
+4225,myanmar letter shan ha
+4226,myanmar consonant sign shan medial wa
+4227,myanmar vowel sign shan aa
+4228,myanmar vowel sign shan e
+4229,myanmar vowel sign shan e above
+4230,myanmar vowel sign shan final y
+4231,myanmar sign shan tone-2
+4232,myanmar sign shan tone-3
+4233,myanmar sign shan tone-5
+4234,myanmar sign shan tone-6
+4235,myanmar sign shan council tone-2
+4236,myanmar sign shan council tone-3
+4237,myanmar sign shan council emphatic tone
+4238,myanmar letter rumai palaung fa
+4239,myanmar sign rumai palaung tone-5
+4240,myanmar shan digit zero
+4241,myanmar shan digit one
+4242,myanmar shan digit two
+4243,myanmar shan digit three
+4244,myanmar shan digit four
+4245,myanmar shan digit five
+4246,myanmar shan digit six
+4247,myanmar shan digit seven
+4248,myanmar shan digit eight
+4249,myanmar shan digit nine
+4250,myanmar sign khamti tone-1
+4251,myanmar sign khamti tone-3
+4252,myanmar vowel sign aiton a
+4253,myanmar vowel sign aiton ai
+4254,myanmar symbol shan one

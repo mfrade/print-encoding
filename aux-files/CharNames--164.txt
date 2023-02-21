@@ -1,0 +1,6 @@
+65529,interlinear annotation anchor
+65530,interlinear annotation separator
+65531,interlinear annotation terminator
+65532,object replacement character
+65533,replacement character
+65534,<not a character>

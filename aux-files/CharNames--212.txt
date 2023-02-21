@@ -1,0 +1,42 @@
+69424,sogdian letter aleph
+69425,sogdian letter beth
+69426,sogdian letter gimel
+69427,sogdian letter he
+69428,sogdian letter waw
+69429,sogdian letter zayin
+69430,sogdian letter heth
+69431,sogdian letter yodh
+69432,sogdian letter kaph
+69433,sogdian letter lamedh
+69434,sogdian letter mem
+69435,sogdian letter nun
+69436,sogdian letter samekh
+69437,sogdian letter ayin
+69438,sogdian letter pe
+69439,sogdian letter sadhe
+69440,sogdian letter resh-ayin
+69441,sogdian letter shin
+69442,sogdian letter taw
+69443,sogdian letter feth
+69444,sogdian letter lesh
+69445,sogdian independent shin
+69446,sogdian combining dot below
+69447,sogdian combining two dots below
+69448,sogdian combining dot above
+69449,sogdian combining two dots above
+69450,sogdian combining curve above
+69451,sogdian combining curve below
+69452,sogdian combining hook above
+69453,sogdian combining hook below
+69454,sogdian combining long hook below
+69455,sogdian combining resh below
+69456,sogdian combining stroke below
+69457,sogdian number one
+69458,sogdian number ten
+69459,sogdian number twenty
+69460,sogdian number one hundred
+69461,sogdian punctuation two vertical bars
+69462,sogdian punctuation two vertical bars with dots
+69463,sogdian punctuation circle with dot
+69464,sogdian punctuation two circles with dots
+69465,sogdian punctuation half circle with dot

@@ -1,0 +1,95 @@
+592,latin small letter turned a
+593,latin small letter alpha
+594,latin small letter turned alpha
+595,latin small letter b with hook
+596,latin small letter open o
+597,latin small letter c with curl
+598,latin small letter d with tail
+599,latin small letter d with hook
+600,latin small letter reversed e
+601,latin small letter schwa
+602,latin small letter schwa with hook
+603,latin small letter open e
+604,latin small letter reversed open e
+605,latin small letter reversed open e with hook
+606,latin small letter closed reversed open e
+607,latin small letter dotless j with stroke
+608,latin small letter g with hook
+609,latin small letter script g
+610,latin letter small capital g
+611,latin small letter gamma
+612,latin small letter rams horn
+613,latin small letter turned h
+614,latin small letter h with hook
+615,latin small letter heng with hook
+616,latin small letter i with stroke
+617,latin small letter iota
+618,latin letter small capital i
+619,latin small letter l with middle tilde
+620,latin small letter l with belt
+621,latin small letter l with retroflex hook
+622,latin small letter lezh
+623,latin small letter turned m
+624,latin small letter turned m with long leg
+625,latin small letter m with hook
+626,latin small letter n with left hook
+627,latin small letter n with retroflex hook
+628,latin letter small capital n
+629,latin small letter barred o
+630,latin letter small capital oe
+631,latin small letter closed omega
+632,latin small letter phi
+633,latin small letter turned r
+634,latin small letter turned r with long leg
+635,latin small letter turned r with hook
+636,latin small letter r with long leg
+637,latin small letter r with tail
+638,latin small letter r with fishhook
+639,latin small letter reversed r with fishhook
+640,latin letter small capital r
+641,latin letter small capital inverted r
+642,latin small letter s with hook
+643,latin small letter esh
+644,latin small letter dotless j with stroke and hook
+645,latin small letter squat reversed esh
+646,latin small letter esh with curl
+647,latin small letter turned t
+648,latin small letter t with retroflex hook
+649,latin small letter u bar
+650,latin small letter upsilon
+651,latin small letter v with hook
+652,latin small letter turned v
+653,latin small letter turned w
+654,latin small letter turned y
+655,latin letter small capital y
+656,latin small letter z with retroflex hook
+657,latin small letter z with curl
+658,latin small letter ezh
+659,latin small letter ezh with curl
+660,latin letter glottal stop
+661,latin letter pharyngeal voiced fricative
+662,latin letter inverted glottal stop
+663,latin letter stretched c
+664,latin letter bilabial click
+665,latin letter small capital b
+666,latin small letter closed open e
+667,latin letter small capital g with hook
+668,latin letter small capital h
+669,latin small letter j with crossed-tail
+670,latin small letter turned k
+671,latin letter small capital l
+672,latin small letter q with hook
+673,latin letter glottal stop with stroke
+674,latin letter reversed glottal stop with stroke
+675,latin small letter dz digraph
+676,latin small letter dezh digraph
+677,latin small letter dz digraph with curl
+678,latin small letter ts digraph
+679,latin small letter tesh digraph
+680,latin small letter tc digraph with curl
+681,latin small letter feng digraph
+682,latin small letter ls digraph
+683,latin small letter lz digraph
+684,latin letter bilabial percussive
+685,latin letter bidental percussive
+686,latin small letter turned h with fishhook

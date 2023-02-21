@@ -1,0 +1,255 @@
+1024,cyrillic capital letter ie with grave
+1025,cyrillic capital letter io
+1026,cyrillic capital letter dje
+1027,cyrillic capital letter gje
+1028,cyrillic capital letter ukrainian ie
+1029,cyrillic capital letter dze
+1030,cyrillic capital letter byelorussian-ukrainian i
+1031,cyrillic capital letter yi
+1032,cyrillic capital letter je
+1033,cyrillic capital letter lje
+1034,cyrillic capital letter nje
+1035,cyrillic capital letter tshe
+1036,cyrillic capital letter kje
+1037,cyrillic capital letter i with grave
+1038,cyrillic capital letter short u
+1039,cyrillic capital letter dzhe
+1040,cyrillic capital letter a
+1041,cyrillic capital letter be
+1042,cyrillic capital letter ve
+1043,cyrillic capital letter ghe
+1044,cyrillic capital letter de
+1045,cyrillic capital letter ie
+1046,cyrillic capital letter zhe
+1047,cyrillic capital letter ze
+1048,cyrillic capital letter i
+1049,cyrillic capital letter short i
+1050,cyrillic capital letter ka
+1051,cyrillic capital letter el
+1052,cyrillic capital letter em
+1053,cyrillic capital letter en
+1054,cyrillic capital letter o
+1055,cyrillic capital letter pe
+1056,cyrillic capital letter er
+1057,cyrillic capital letter es
+1058,cyrillic capital letter te
+1059,cyrillic capital letter u
+1060,cyrillic capital letter ef
+1061,cyrillic capital letter ha
+1062,cyrillic capital letter tse
+1063,cyrillic capital letter che
+1064,cyrillic capital letter sha
+1065,cyrillic capital letter shcha
+1066,cyrillic capital letter hard sign
+1067,cyrillic capital letter yeru
+1068,cyrillic capital letter soft sign
+1069,cyrillic capital letter e
+1070,cyrillic capital letter yu
+1071,cyrillic capital letter ya
+1072,cyrillic small letter a
+1073,cyrillic small letter be
+1074,cyrillic small letter ve
+1075,cyrillic small letter ghe
+1076,cyrillic small letter de
+1077,cyrillic small letter ie
+1078,cyrillic small letter zhe
+1079,cyrillic small letter ze
+1080,cyrillic small letter i
+1081,cyrillic small letter short i
+1082,cyrillic small letter ka
+1083,cyrillic small letter el
+1084,cyrillic small letter em
+1085,cyrillic small letter en
+1086,cyrillic small letter o
+1087,cyrillic small letter pe
+1088,cyrillic small letter er
+1089,cyrillic small letter es
+1090,cyrillic small letter te
+1091,cyrillic small letter u
+1092,cyrillic small letter ef
+1093,cyrillic small letter ha
+1094,cyrillic small letter tse
+1095,cyrillic small letter che
+1096,cyrillic small letter sha
+1097,cyrillic small letter shcha
+1098,cyrillic small letter hard sign
+1099,cyrillic small letter yeru
+1100,cyrillic small letter soft sign
+1101,cyrillic small letter e
+1102,cyrillic small letter yu
+1103,cyrillic small letter ya
+1104,cyrillic small letter ie with grave
+1105,cyrillic small letter io
+1106,cyrillic small letter dje
+1107,cyrillic small letter gje
+1108,cyrillic small letter ukrainian ie
+1109,cyrillic small letter dze
+1110,cyrillic small letter byelorussian-ukrainian i
+1111,cyrillic small letter yi
+1112,cyrillic small letter je
+1113,cyrillic small letter lje
+1114,cyrillic small letter nje
+1115,cyrillic small letter tshe
+1116,cyrillic small letter kje
+1117,cyrillic small letter i with grave
+1118,cyrillic small letter short u
+1119,cyrillic small letter dzhe
+1120,cyrillic capital letter omega
+1121,cyrillic small letter omega
+1122,cyrillic capital letter yat
+1123,cyrillic small letter yat
+1124,cyrillic capital letter iotified e
+1125,cyrillic small letter iotified e
+1126,cyrillic capital letter little yus
+1127,cyrillic small letter little yus
+1128,cyrillic capital letter iotified little yus
+1129,cyrillic small letter iotified little yus
+1130,cyrillic capital letter big yus
+1131,cyrillic small letter big yus
+1132,cyrillic capital letter iotified big yus
+1133,cyrillic small letter iotified big yus
+1134,cyrillic capital letter ksi
+1135,cyrillic small letter ksi
+1136,cyrillic capital letter psi
+1137,cyrillic small letter psi
+1138,cyrillic capital letter fita
+1139,cyrillic small letter fita
+1140,cyrillic capital letter izhitsa
+1141,cyrillic small letter izhitsa
+1142,cyrillic capital letter izhitsa with double grave accent
+1143,cyrillic small letter izhitsa with double grave accent
+1144,cyrillic capital letter uk
+1145,cyrillic small letter uk
+1146,cyrillic capital letter round omega
+1147,cyrillic small letter round omega
+1148,cyrillic capital letter omega with titlo
+1149,cyrillic small letter omega with titlo
+1150,cyrillic capital letter ot
+1151,cyrillic small letter ot
+1152,cyrillic capital letter koppa
+1153,cyrillic small letter koppa
+1154,cyrillic thousands sign
+1155,combining cyrillic titlo
+1156,combining cyrillic palatalization
+1157,combining cyrillic dasia pneumata
+1158,combining cyrillic psili pneumata
+1159,combining cyrillic pokrytie
+1160,combining cyrillic hundred thousands sign
+1161,combining cyrillic millions sign
+1162,cyrillic capital letter short i with tail
+1163,cyrillic small letter short i with tail
+1164,cyrillic capital letter semisoft sign
+1165,cyrillic small letter semisoft sign
+1166,cyrillic capital letter er with tick
+1167,cyrillic small letter er with tick
+1168,cyrillic capital letter ghe with upturn
+1169,cyrillic small letter ghe with upturn
+1170,cyrillic capital letter ghe with stroke
+1171,cyrillic small letter ghe with stroke
+1172,cyrillic capital letter ghe with middle hook
+1173,cyrillic small letter ghe with middle hook
+1174,cyrillic capital letter zhe with descender
+1175,cyrillic small letter zhe with descender
+1176,cyrillic capital letter ze with descender
+1177,cyrillic small letter ze with descender
+1178,cyrillic capital letter ka with descender
+1179,cyrillic small letter ka with descender
+1180,cyrillic capital letter ka with vertical stroke
+1181,cyrillic small letter ka with vertical stroke
+1182,cyrillic capital letter ka with stroke
+1183,cyrillic small letter ka with stroke
+1184,cyrillic capital letter bashkir ka
+1185,cyrillic small letter bashkir ka
+1186,cyrillic capital letter en with descender
+1187,cyrillic small letter en with descender
+1188,cyrillic capital ligature en ghe
+1189,cyrillic small ligature en ghe
+1190,cyrillic capital letter pe with middle hook
+1191,cyrillic small letter pe with middle hook
+1192,cyrillic capital letter abkhasian ha
+1193,cyrillic small letter abkhasian ha
+1194,cyrillic capital letter es with descender
+1195,cyrillic small letter es with descender
+1196,cyrillic capital letter te with descender
+1197,cyrillic small letter te with descender
+1198,cyrillic capital letter straight u
+1199,cyrillic small letter straight u
+1200,cyrillic capital letter straight u with stroke
+1201,cyrillic small letter straight u with stroke
+1202,cyrillic capital letter ha with descender
+1203,cyrillic small letter ha with descender
+1204,cyrillic capital ligature te tse
+1205,cyrillic small ligature te tse
+1206,cyrillic capital letter che with descender
+1207,cyrillic small letter che with descender
+1208,cyrillic capital letter che with vertical stroke
+1209,cyrillic small letter che with vertical stroke
+1210,cyrillic capital letter shha
+1211,cyrillic small letter shha
+1212,cyrillic capital letter abkhasian che
+1213,cyrillic small letter abkhasian che
+1214,cyrillic capital letter abkhasian che with descender
+1215,cyrillic small letter abkhasian che with descender
+1216,cyrillic letter palochka
+1217,cyrillic capital letter zhe with breve
+1218,cyrillic small letter zhe with breve
+1219,cyrillic capital letter ka with hook
+1220,cyrillic small letter ka with hook
+1221,cyrillic capital letter el with tail
+1222,cyrillic small letter el with tail
+1223,cyrillic capital letter en with hook
+1224,cyrillic small letter en with hook
+1225,cyrillic capital letter en with tail
+1226,cyrillic small letter en with tail
+1227,cyrillic capital letter khakassian che
+1228,cyrillic small letter khakassian che
+1229,cyrillic capital letter em with tail
+1230,cyrillic small letter em with tail
+1231,cyrillic small letter palochka
+1232,cyrillic capital letter a with breve
+1233,cyrillic small letter a with breve
+1234,cyrillic capital letter a with diaeresis
+1235,cyrillic small letter a with diaeresis
+1236,cyrillic capital ligature a ie
+1237,cyrillic small ligature a ie
+1238,cyrillic capital letter ie with breve
+1239,cyrillic small letter ie with breve
+1240,cyrillic capital letter schwa
+1241,cyrillic small letter schwa
+1242,cyrillic capital letter schwa with diaeresis
+1243,cyrillic small letter schwa with diaeresis
+1244,cyrillic capital letter zhe with diaeresis
+1245,cyrillic small letter zhe with diaeresis
+1246,cyrillic capital letter ze with diaeresis
+1247,cyrillic small letter ze with diaeresis
+1248,cyrillic capital letter abkhasian dze
+1249,cyrillic small letter abkhasian dze
+1250,cyrillic capital letter i with macron
+1251,cyrillic small letter i with macron
+1252,cyrillic capital letter i with diaeresis
+1253,cyrillic small letter i with diaeresis
+1254,cyrillic capital letter o with diaeresis
+1255,cyrillic small letter o with diaeresis
+1256,cyrillic capital letter barred o
+1257,cyrillic small letter barred o
+1258,cyrillic capital letter barred o with diaeresis
+1259,cyrillic small letter barred o with diaeresis
+1260,cyrillic capital letter e with diaeresis
+1261,cyrillic small letter e with diaeresis
+1262,cyrillic capital letter u with macron
+1263,cyrillic small letter u with macron
+1264,cyrillic capital letter u with diaeresis
+1265,cyrillic small letter u with diaeresis
+1266,cyrillic capital letter u with double acute
+1267,cyrillic small letter u with double acute
+1268,cyrillic capital letter che with diaeresis
+1269,cyrillic small letter che with diaeresis
+1270,cyrillic capital letter ghe with descender
+1271,cyrillic small letter ghe with descender
+1272,cyrillic capital letter yeru with diaeresis
+1273,cyrillic small letter yeru with diaeresis
+1274,cyrillic capital letter ghe with stroke and hook
+1275,cyrillic small letter ghe with stroke and hook
+1276,cyrillic capital letter ha with hook
+1277,cyrillic small letter ha with hook
+1278,cyrillic capital letter ha with stroke

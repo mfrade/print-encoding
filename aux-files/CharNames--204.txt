@@ -1,0 +1,28 @@
+68480,psalter pahlavi letter aleph
+68481,psalter pahlavi letter beth
+68482,psalter pahlavi letter gimel
+68483,psalter pahlavi letter daleth
+68484,psalter pahlavi letter he
+68485,psalter pahlavi letter waw-ayin-resh
+68486,psalter pahlavi letter zayin
+68487,psalter pahlavi letter heth
+68488,psalter pahlavi letter yodh
+68489,psalter pahlavi letter kaph
+68490,psalter pahlavi letter lamedh
+68491,psalter pahlavi letter mem-qoph
+68492,psalter pahlavi letter nun
+68493,psalter pahlavi letter samekh
+68494,psalter pahlavi letter pe
+68495,psalter pahlavi letter sadhe
+68496,psalter pahlavi letter shin
+68497,psalter pahlavi letter taw
+68505,psalter pahlavi section mark
+68506,psalter pahlavi turned section mark
+68507,psalter pahlavi four dots with cross
+68508,psalter pahlavi four dots with dot
+68521,psalter pahlavi number one
+68522,psalter pahlavi number two
+68523,psalter pahlavi number three
+68524,psalter pahlavi number four
+68525,psalter pahlavi number ten
+68526,psalter pahlavi number twenty

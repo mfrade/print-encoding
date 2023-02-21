@@ -1,0 +1,87 @@
+119552,monogram for earth
+119553,digram for heavenly earth
+119554,digram for human earth
+119555,digram for earthly heaven
+119556,digram for earthly human
+119557,digram for earth
+119558,tetragram for centre
+119559,tetragram for full circle
+119560,tetragram for mired
+119561,tetragram for barrier
+119562,tetragram for keeping small
+119563,tetragram for contrariety
+119564,tetragram for ascent
+119565,tetragram for opposition
+119566,tetragram for branching out
+119567,tetragram for defectiveness or distortion
+119568,tetragram for divergence
+119569,tetragram for youthfulness
+119570,tetragram for increase
+119571,tetragram for penetration
+119572,tetragram for reach
+119573,tetragram for contact
+119574,tetragram for holding back
+119575,tetragram for waiting
+119576,tetragram for following
+119577,tetragram for advance
+119578,tetragram for release
+119579,tetragram for resistance
+119580,tetragram for ease
+119581,tetragram for joy
+119582,tetragram for contention
+119583,tetragram for endeavour
+119584,tetragram for duties
+119585,tetragram for change
+119586,tetragram for decisiveness
+119587,tetragram for bold resolution
+119588,tetragram for packing
+119589,tetragram for legion
+119590,tetragram for closeness
+119591,tetragram for kinship
+119592,tetragram for gathering
+119593,tetragram for strength
+119594,tetragram for purity
+119595,tetragram for fullness
+119596,tetragram for residence
+119597,tetragram for law or model
+119598,tetragram for response
+119599,tetragram for going to meet
+119600,tetragram for encounters
+119601,tetragram for stove
+119602,tetragram for greatness
+119603,tetragram for enlargement
+119604,tetragram for pattern
+119605,tetragram for ritual
+119606,tetragram for flight
+119607,tetragram for vastness or wasting
+119608,tetragram for constancy
+119609,tetragram for measure
+119610,tetragram for eternity
+119611,tetragram for unity
+119612,tetragram for diminishment
+119613,tetragram for closed mouth
+119614,tetragram for guardedness
+119615,tetragram for gathering in
+119616,tetragram for massing
+119617,tetragram for accumulation
+119618,tetragram for embellishment
+119619,tetragram for doubt
+119620,tetragram for watch
+119621,tetragram for sinking
+119622,tetragram for inner
+119623,tetragram for departure
+119624,tetragram for darkening
+119625,tetragram for dimming
+119626,tetragram for exhaustion
+119627,tetragram for severance
+119628,tetragram for stoppage
+119629,tetragram for hardness
+119630,tetragram for completion
+119631,tetragram for closure
+119632,tetragram for failure
+119633,tetragram for aggravation
+119634,tetragram for compliance
+119635,tetragram for on the verge
+119636,tetragram for difficulties
+119637,tetragram for labouring
+119638,tetragram for fostering

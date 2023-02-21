@@ -1,0 +1,233 @@
+119040,musical symbol single barline
+119041,musical symbol double barline
+119042,musical symbol final barline
+119043,musical symbol reverse final barline
+119044,musical symbol dashed barline
+119045,musical symbol short barline
+119046,musical symbol left repeat sign
+119047,musical symbol right repeat sign
+119048,musical symbol repeat dots
+119049,musical symbol dal segno
+119050,musical symbol da capo
+119051,musical symbol segno
+119052,musical symbol coda
+119053,musical symbol repeated figure-1
+119054,musical symbol repeated figure-2
+119055,musical symbol repeated figure-3
+119056,musical symbol fermata
+119057,musical symbol fermata below
+119058,musical symbol breath mark
+119059,musical symbol caesura
+119060,musical symbol brace
+119061,musical symbol bracket
+119062,musical symbol one-line staff
+119063,musical symbol two-line staff
+119064,musical symbol three-line staff
+119065,musical symbol four-line staff
+119066,musical symbol five-line staff
+119067,musical symbol six-line staff
+119068,musical symbol six-string fretboard
+119069,musical symbol four-string fretboard
+119070,musical symbol g clef
+119071,musical symbol g clef ottava alta
+119072,musical symbol g clef ottava bassa
+119073,musical symbol c clef
+119074,musical symbol f clef
+119075,musical symbol f clef ottava alta
+119076,musical symbol f clef ottava bassa
+119077,musical symbol drum clef-1
+119078,musical symbol drum clef-2
+119081,musical symbol multiple measure rest
+119082,musical symbol double sharp
+119083,musical symbol double flat
+119084,musical symbol flat up
+119085,musical symbol flat down
+119086,musical symbol natural up
+119087,musical symbol natural down
+119088,musical symbol sharp up
+119089,musical symbol sharp down
+119090,musical symbol quarter tone sharp
+119091,musical symbol quarter tone flat
+119092,musical symbol common time
+119093,musical symbol cut time
+119094,musical symbol ottava alta
+119095,musical symbol ottava bassa
+119096,musical symbol quindicesima alta
+119097,musical symbol quindicesima bassa
+119098,musical symbol multi rest
+119099,musical symbol whole rest
+119100,musical symbol half rest
+119101,musical symbol quarter rest
+119102,musical symbol eighth rest
+119103,musical symbol sixteenth rest
+119104,musical symbol thirty-second rest
+119105,musical symbol sixty-fourth rest
+119106,musical symbol one hundred twenty-eighth rest
+119107,musical symbol x notehead
+119108,musical symbol plus notehead
+119109,musical symbol circle x notehead
+119110,musical symbol square notehead white
+119111,musical symbol square notehead black
+119112,musical symbol triangle notehead up white
+119113,musical symbol triangle notehead up black
+119114,musical symbol triangle notehead left white
+119115,musical symbol triangle notehead left black
+119116,musical symbol triangle notehead right white
+119117,musical symbol triangle notehead right black
+119118,musical symbol triangle notehead down white
+119119,musical symbol triangle notehead down black
+119120,musical symbol triangle notehead up right white
+119121,musical symbol triangle notehead up right black
+119122,musical symbol moon notehead white
+119123,musical symbol moon notehead black
+119124,musical symbol triangle-round notehead down white
+119125,musical symbol triangle-round notehead down black
+119126,musical symbol parenthesis notehead
+119127,musical symbol void notehead
+119128,musical symbol notehead black
+119129,musical symbol null notehead
+119130,musical symbol cluster notehead white
+119131,musical symbol cluster notehead black
+119132,musical symbol breve
+119133,musical symbol whole note
+119134,musical symbol half note
+119135,musical symbol quarter note
+119136,musical symbol eighth note
+119137,musical symbol sixteenth note
+119138,musical symbol thirty-second note
+119139,musical symbol sixty-fourth note
+119140,musical symbol one hundred twenty-eighth note
+119141,musical symbol combining stem
+119142,musical symbol combining sprechgesang stem
+119143,musical symbol combining tremolo-1
+119144,musical symbol combining tremolo-2
+119145,musical symbol combining tremolo-3
+119146,musical symbol fingered tremolo-1
+119147,musical symbol fingered tremolo-2
+119148,musical symbol fingered tremolo-3
+119149,musical symbol combining augmentation dot
+119150,musical symbol combining flag-1
+119151,musical symbol combining flag-2
+119152,musical symbol combining flag-3
+119153,musical symbol combining flag-4
+119154,musical symbol combining flag-5
+119155,musical symbol begin beam
+119156,musical symbol end beam
+119157,musical symbol begin tie
+119158,musical symbol end tie
+119159,musical symbol begin slur
+119160,musical symbol end slur
+119161,musical symbol begin phrase
+119162,musical symbol end phrase
+119163,musical symbol combining accent
+119164,musical symbol combining staccato
+119165,musical symbol combining tenuto
+119166,musical symbol combining staccatissimo
+119167,musical symbol combining marcato
+119168,musical symbol combining marcato-staccato
+119169,musical symbol combining accent-staccato
+119170,musical symbol combining loure
+119171,musical symbol arpeggiato up
+119172,musical symbol arpeggiato down
+119173,musical symbol combining doit
+119174,musical symbol combining rip
+119175,musical symbol combining flip
+119176,musical symbol combining smear
+119177,musical symbol combining bend
+119178,musical symbol combining double tongue
+119179,musical symbol combining triple tongue
+119180,musical symbol rinforzando
+119181,musical symbol subito
+119182,musical symbol z
+119183,musical symbol piano
+119184,musical symbol mezzo
+119185,musical symbol forte
+119186,musical symbol crescendo
+119187,musical symbol decrescendo
+119188,musical symbol grace note slash
+119189,musical symbol grace note no slash
+119190,musical symbol tr
+119191,musical symbol turn
+119192,musical symbol inverted turn
+119193,musical symbol turn slash
+119194,musical symbol turn up
+119195,musical symbol ornament stroke-1
+119196,musical symbol ornament stroke-2
+119197,musical symbol ornament stroke-3
+119198,musical symbol ornament stroke-4
+119199,musical symbol ornament stroke-5
+119200,musical symbol ornament stroke-6
+119201,musical symbol ornament stroke-7
+119202,musical symbol ornament stroke-8
+119203,musical symbol ornament stroke-9
+119204,musical symbol ornament stroke-10
+119205,musical symbol ornament stroke-11
+119206,musical symbol hauptstimme
+119207,musical symbol nebenstimme
+119208,musical symbol end of stimme
+119209,musical symbol degree slash
+119210,musical symbol combining down bow
+119211,musical symbol combining up bow
+119212,musical symbol combining harmonic
+119213,musical symbol combining snap pizzicato
+119214,musical symbol pedal mark
+119215,musical symbol pedal up mark
+119216,musical symbol half pedal mark
+119217,musical symbol glissando up
+119218,musical symbol glissando down
+119219,musical symbol with fingernails
+119220,musical symbol damp
+119221,musical symbol damp all
+119222,musical symbol maxima
+119223,musical symbol longa
+119224,musical symbol brevis
+119225,musical symbol semibrevis white
+119226,musical symbol semibrevis black
+119227,musical symbol minima
+119228,musical symbol minima black
+119229,musical symbol semiminima white
+119230,musical symbol semiminima black
+119231,musical symbol fusa white
+119232,musical symbol fusa black
+119233,musical symbol longa perfecta rest
+119234,musical symbol longa imperfecta rest
+119235,musical symbol brevis rest
+119236,musical symbol semibrevis rest
+119237,musical symbol minima rest
+119238,musical symbol semiminima rest
+119239,musical symbol tempus perfectum cum prolatione perfecta
+119240,musical symbol tempus perfectum cum prolatione imperfecta
+119241,musical symbol tempus perfectum cum prolatione perfecta diminution-1
+119242,musical symbol tempus imperfectum cum prolatione perfecta
+119243,musical symbol tempus imperfectum cum prolatione imperfecta
+119244,musical symbol tempus imperfectum cum prolatione imperfecta diminution-1
+119245,musical symbol tempus imperfectum cum prolatione imperfecta diminution-2
+119246,musical symbol tempus imperfectum cum prolatione imperfecta diminution-3
+119247,musical symbol croix
+119248,musical symbol gregorian c clef
+119249,musical symbol gregorian f clef
+119250,musical symbol square b
+119251,musical symbol virga
+119252,musical symbol podatus
+119253,musical symbol clivis
+119254,musical symbol scandicus
+119255,musical symbol climacus
+119256,musical symbol torculus
+119257,musical symbol porrectus
+119258,musical symbol porrectus flexus
+119259,musical symbol scandicus flexus
+119260,musical symbol torculus resupinus
+119261,musical symbol pes subpunctis
+119262,musical symbol kievan c clef
+119263,musical symbol kievan end of piece
+119264,musical symbol kievan final note
+119265,musical symbol kievan recitative mark
+119266,musical symbol kievan whole note
+119267,musical symbol kievan half note
+119268,musical symbol kievan quarter note stem down
+119269,musical symbol kievan quarter note stem up
+119270,musical symbol kievan eighth note stem down
+119271,musical symbol kievan eighth note stem up
+119272,musical symbol kievan flat sign
+119273,musical symbol sori
+119274,musical symbol koron

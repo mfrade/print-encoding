@@ -1,0 +1,126 @@
+92928,pahawh hmong vowel keeb
+92929,pahawh hmong vowel keev
+92930,pahawh hmong vowel kib
+92931,pahawh hmong vowel kiv
+92932,pahawh hmong vowel kaub
+92933,pahawh hmong vowel kauv
+92934,pahawh hmong vowel kub
+92935,pahawh hmong vowel kuv
+92936,pahawh hmong vowel keb
+92937,pahawh hmong vowel kev
+92938,pahawh hmong vowel kaib
+92939,pahawh hmong vowel kaiv
+92940,pahawh hmong vowel koob
+92941,pahawh hmong vowel koov
+92942,pahawh hmong vowel kawb
+92943,pahawh hmong vowel kawv
+92944,pahawh hmong vowel kuab
+92945,pahawh hmong vowel kuav
+92946,pahawh hmong vowel kob
+92947,pahawh hmong vowel kov
+92948,pahawh hmong vowel kiab
+92949,pahawh hmong vowel kiav
+92950,pahawh hmong vowel kab
+92951,pahawh hmong vowel kav
+92952,pahawh hmong vowel kwb
+92953,pahawh hmong vowel kwv
+92954,pahawh hmong vowel kaab
+92955,pahawh hmong vowel kaav
+92956,pahawh hmong consonant vau
+92957,pahawh hmong consonant ntsau
+92958,pahawh hmong consonant lau
+92959,pahawh hmong consonant hau
+92960,pahawh hmong consonant nlau
+92961,pahawh hmong consonant rau
+92962,pahawh hmong consonant nkau
+92963,pahawh hmong consonant qhau
+92964,pahawh hmong consonant yau
+92965,pahawh hmong consonant hlau
+92966,pahawh hmong consonant mau
+92967,pahawh hmong consonant chau
+92968,pahawh hmong consonant nchau
+92969,pahawh hmong consonant hnau
+92970,pahawh hmong consonant plhau
+92971,pahawh hmong consonant nthau
+92972,pahawh hmong consonant nau
+92973,pahawh hmong consonant au
+92974,pahawh hmong consonant xau
+92975,pahawh hmong consonant cau
+92976,pahawh hmong mark cim tub
+92977,pahawh hmong mark cim so
+92978,pahawh hmong mark cim kes
+92979,pahawh hmong mark cim khav
+92980,pahawh hmong mark cim suam
+92981,pahawh hmong mark cim hom
+92982,pahawh hmong mark cim taum
+92983,pahawh hmong sign vos thom
+92984,pahawh hmong sign vos tshab ceeb
+92985,pahawh hmong sign cim cheem
+92986,pahawh hmong sign vos thiab
+92987,pahawh hmong sign vos feem
+92988,pahawh hmong sign xyeem ntxiv
+92989,pahawh hmong sign xyeem rho
+92990,pahawh hmong sign xyeem tov
+92991,pahawh hmong sign xyeem faib
+92992,pahawh hmong sign vos seev
+92993,pahawh hmong sign meej suab
+92994,pahawh hmong sign vos nrua
+92995,pahawh hmong sign ib yam
+92996,pahawh hmong sign xaus
+92997,pahawh hmong sign cim tsov rog
+93008,pahawh hmong digit zero
+93009,pahawh hmong digit one
+93010,pahawh hmong digit two
+93011,pahawh hmong digit three
+93012,pahawh hmong digit four
+93013,pahawh hmong digit five
+93014,pahawh hmong digit six
+93015,pahawh hmong digit seven
+93016,pahawh hmong digit eight
+93017,pahawh hmong digit nine
+93019,pahawh hmong number tens
+93020,pahawh hmong number hundreds
+93021,pahawh hmong number ten thousands
+93022,pahawh hmong number millions
+93023,pahawh hmong number hundred millions
+93024,pahawh hmong number ten billions
+93025,pahawh hmong number trillions
+93027,pahawh hmong sign vos lub
+93028,pahawh hmong sign xyoo
+93029,pahawh hmong sign hli
+93030,pahawh hmong sign third-stage hli
+93031,pahawh hmong sign zwj thaj
+93032,pahawh hmong sign hnub
+93033,pahawh hmong sign nqig
+93034,pahawh hmong sign xiab
+93035,pahawh hmong sign ntuj
+93036,pahawh hmong sign av
+93037,pahawh hmong sign txheej ceev
+93038,pahawh hmong sign meej tseeb
+93039,pahawh hmong sign tau
+93040,pahawh hmong sign los
+93041,pahawh hmong sign mus
+93042,pahawh hmong sign cim hais lus ntog ntog
+93043,pahawh hmong sign cim cuam tshooj
+93044,pahawh hmong sign cim txwv
+93045,pahawh hmong sign cim txwv chwv
+93046,pahawh hmong sign cim pub dawb
+93047,pahawh hmong sign cim nres tos
+93053,pahawh hmong clan sign tsheej
+93054,pahawh hmong clan sign yeeg
+93055,pahawh hmong clan sign lis
+93056,pahawh hmong clan sign lauj
+93057,pahawh hmong clan sign xyooj
+93058,pahawh hmong clan sign koo
+93059,pahawh hmong clan sign hawj
+93060,pahawh hmong clan sign muas
+93061,pahawh hmong clan sign thoj
+93062,pahawh hmong clan sign tsab
+93063,pahawh hmong clan sign phab
+93064,pahawh hmong clan sign khab
+93065,pahawh hmong clan sign ham
+93066,pahawh hmong clan sign vaj
+93067,pahawh hmong clan sign faj
+93068,pahawh hmong clan sign yaj
+93069,pahawh hmong clan sign tswb
+93070,pahawh hmong clan sign kwm

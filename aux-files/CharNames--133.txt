@@ -1,0 +1,82 @@
+43136,saurashtra sign anusvara
+43137,saurashtra sign visarga
+43138,saurashtra letter a
+43139,saurashtra letter aa
+43140,saurashtra letter i
+43141,saurashtra letter ii
+43142,saurashtra letter u
+43143,saurashtra letter uu
+43144,saurashtra letter vocalic r
+43145,saurashtra letter vocalic rr
+43146,saurashtra letter vocalic l
+43147,saurashtra letter vocalic ll
+43148,saurashtra letter e
+43149,saurashtra letter ee
+43150,saurashtra letter ai
+43151,saurashtra letter o
+43152,saurashtra letter oo
+43153,saurashtra letter au
+43154,saurashtra letter ka
+43155,saurashtra letter kha
+43156,saurashtra letter ga
+43157,saurashtra letter gha
+43158,saurashtra letter nga
+43159,saurashtra letter ca
+43160,saurashtra letter cha
+43161,saurashtra letter ja
+43162,saurashtra letter jha
+43163,saurashtra letter nya
+43164,saurashtra letter tta
+43165,saurashtra letter ttha
+43166,saurashtra letter dda
+43167,saurashtra letter ddha
+43168,saurashtra letter nna
+43169,saurashtra letter ta
+43170,saurashtra letter tha
+43171,saurashtra letter da
+43172,saurashtra letter dha
+43173,saurashtra letter na
+43174,saurashtra letter pa
+43175,saurashtra letter pha
+43176,saurashtra letter ba
+43177,saurashtra letter bha
+43178,saurashtra letter ma
+43179,saurashtra letter ya
+43180,saurashtra letter ra
+43181,saurashtra letter la
+43182,saurashtra letter va
+43183,saurashtra letter sha
+43184,saurashtra letter ssa
+43185,saurashtra letter sa
+43186,saurashtra letter ha
+43187,saurashtra letter lla
+43188,saurashtra consonant sign haaru
+43189,saurashtra vowel sign aa
+43190,saurashtra vowel sign i
+43191,saurashtra vowel sign ii
+43192,saurashtra vowel sign u
+43193,saurashtra vowel sign uu
+43194,saurashtra vowel sign vocalic r
+43195,saurashtra vowel sign vocalic rr
+43196,saurashtra vowel sign vocalic l
+43197,saurashtra vowel sign vocalic ll
+43198,saurashtra vowel sign e
+43199,saurashtra vowel sign ee
+43200,saurashtra vowel sign ai
+43201,saurashtra vowel sign o
+43202,saurashtra vowel sign oo
+43203,saurashtra vowel sign au
+43204,saurashtra sign virama
+43205,saurashtra sign candrabindu
+43214,saurashtra danda
+43215,saurashtra double danda
+43216,saurashtra digit zero
+43217,saurashtra digit one
+43218,saurashtra digit two
+43219,saurashtra digit three
+43220,saurashtra digit four
+43221,saurashtra digit five
+43222,saurashtra digit six
+43223,saurashtra digit seven
+43224,saurashtra digit eight
+43225,saurashtra digit nine

@@ -1,0 +1,83 @@
+71840,warang citi capital letter ngaa
+71841,warang citi capital letter a
+71842,warang citi capital letter wi
+71843,warang citi capital letter yu
+71844,warang citi capital letter ya
+71845,warang citi capital letter yo
+71846,warang citi capital letter ii
+71847,warang citi capital letter uu
+71848,warang citi capital letter e
+71849,warang citi capital letter o
+71850,warang citi capital letter ang
+71851,warang citi capital letter ga
+71852,warang citi capital letter ko
+71853,warang citi capital letter eny
+71854,warang citi capital letter yuj
+71855,warang citi capital letter uc
+71856,warang citi capital letter enn
+71857,warang citi capital letter odd
+71858,warang citi capital letter tte
+71859,warang citi capital letter nung
+71860,warang citi capital letter da
+71861,warang citi capital letter at
+71862,warang citi capital letter am
+71863,warang citi capital letter bu
+71864,warang citi capital letter pu
+71865,warang citi capital letter hiyo
+71866,warang citi capital letter holo
+71867,warang citi capital letter horr
+71868,warang citi capital letter har
+71869,warang citi capital letter ssuu
+71870,warang citi capital letter sii
+71871,warang citi capital letter viyo
+71872,warang citi small letter ngaa
+71873,warang citi small letter a
+71874,warang citi small letter wi
+71875,warang citi small letter yu
+71876,warang citi small letter ya
+71877,warang citi small letter yo
+71878,warang citi small letter ii
+71879,warang citi small letter uu
+71880,warang citi small letter e
+71881,warang citi small letter o
+71882,warang citi small letter ang
+71883,warang citi small letter ga
+71884,warang citi small letter ko
+71885,warang citi small letter eny
+71886,warang citi small letter yuj
+71887,warang citi small letter uc
+71888,warang citi small letter enn
+71889,warang citi small letter odd
+71890,warang citi small letter tte
+71891,warang citi small letter nung
+71892,warang citi small letter da
+71893,warang citi small letter at
+71894,warang citi small letter am
+71895,warang citi small letter bu
+71896,warang citi small letter pu
+71897,warang citi small letter hiyo
+71898,warang citi small letter holo
+71899,warang citi small letter horr
+71900,warang citi small letter har
+71901,warang citi small letter ssuu
+71902,warang citi small letter sii
+71903,warang citi small letter viyo
+71904,warang citi digit zero
+71905,warang citi digit one
+71906,warang citi digit two
+71907,warang citi digit three
+71908,warang citi digit four
+71909,warang citi digit five
+71910,warang citi digit six
+71911,warang citi digit seven
+71912,warang citi digit eight
+71913,warang citi digit nine
+71914,warang citi number ten
+71915,warang citi number twenty
+71916,warang citi number thirty
+71917,warang citi number forty
+71918,warang citi number fifty
+71919,warang citi number sixty
+71920,warang citi number seventy
+71921,warang citi number eighty
+71922,warang citi number ninety

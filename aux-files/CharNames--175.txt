@@ -1,0 +1,27 @@
+66352,gothic letter ahsa
+66353,gothic letter bairkan
+66354,gothic letter giba
+66355,gothic letter dags
+66356,gothic letter aihvus
+66357,gothic letter qairthra
+66358,gothic letter iuja
+66359,gothic letter hagl
+66360,gothic letter thiuth
+66361,gothic letter eis
+66362,gothic letter kusma
+66363,gothic letter lagus
+66364,gothic letter manna
+66365,gothic letter nauths
+66366,gothic letter jer
+66367,gothic letter urus
+66368,gothic letter pairthra
+66369,gothic letter ninety
+66370,gothic letter raida
+66371,gothic letter sauil
+66372,gothic letter teiws
+66373,gothic letter winja
+66374,gothic letter faihu
+66375,gothic letter iggws
+66376,gothic letter hwair
+66377,gothic letter othal
+66378,gothic letter nine hundred

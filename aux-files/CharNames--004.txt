@@ -1,0 +1,207 @@
+384,latin small letter b with stroke
+385,latin capital letter b with hook
+386,latin capital letter b with topbar
+387,latin small letter b with topbar
+388,latin capital letter tone six
+389,latin small letter tone six
+390,latin capital letter open o
+391,latin capital letter c with hook
+392,latin small letter c with hook
+393,latin capital letter african d
+394,latin capital letter d with hook
+395,latin capital letter d with topbar
+396,latin small letter d with topbar
+397,latin small letter turned delta
+398,latin capital letter reversed e
+399,latin capital letter schwa
+400,latin capital letter open e
+401,latin capital letter f with hook
+402,latin small letter f with hook
+403,latin capital letter g with hook
+404,latin capital letter gamma
+405,latin small letter hv
+406,latin capital letter iota
+407,latin capital letter i with stroke
+408,latin capital letter k with hook
+409,latin small letter k with hook
+410,latin small letter l with bar
+411,latin small letter lambda with stroke
+412,latin capital letter turned m
+413,latin capital letter n with left hook
+414,latin small letter n with long right leg
+415,latin capital letter o with middle tilde
+416,latin capital letter o with horn
+417,latin small letter o with horn
+418,latin capital letter oi
+419,latin small letter oi
+420,latin capital letter p with hook
+421,latin small letter p with hook
+422,latin letter yr
+423,latin capital letter tone two
+424,latin small letter tone two
+425,latin capital letter esh
+426,latin letter reversed esh loop
+427,latin small letter t with palatal hook
+428,latin capital letter t with hook
+429,latin small letter t with hook
+430,latin capital letter t with retroflex hook
+431,latin capital letter u with horn
+432,latin small letter u with horn
+433,latin capital letter upsilon
+434,latin capital letter v with hook
+435,latin capital letter y with hook
+436,latin small letter y with hook
+437,latin capital letter z with stroke
+438,latin small letter z with stroke
+439,latin capital letter ezh
+440,latin capital letter ezh reversed
+441,latin small letter ezh reversed
+442,latin small letter ezh with tail
+443,latin letter two with stroke
+444,latin capital letter tone five
+445,latin small letter tone five
+446,latin letter inverted glottal stop with stroke
+447,latin letter wynn
+448,latin letter dental click
+449,latin letter lateral click
+450,latin letter alveolar click
+451,latin letter retroflex click
+452,latin capital letter dz with caron
+453,latin capital letter d with small letter z with caron
+454,latin small letter dz with caron
+455,latin capital letter lj
+456,latin capital letter l with small letter j
+457,latin small letter lj
+458,latin capital letter nj
+459,latin capital letter n with small letter j
+460,latin small letter nj
+461,latin capital letter a with caron
+462,latin small letter a with caron
+463,latin capital letter i with caron
+464,latin small letter i with caron
+465,latin capital letter o with caron
+466,latin small letter o with caron
+467,latin capital letter u with caron
+468,latin small letter u with caron
+469,latin capital letter u with diaeresis and macron
+470,latin small letter u with diaeresis and macron
+471,latin capital letter u with diaeresis and acute
+472,latin small letter u with diaeresis and acute
+473,latin capital letter u with diaeresis and caron
+474,latin small letter u with diaeresis and caron
+475,latin capital letter u with diaeresis and grave
+476,latin small letter u with diaeresis and grave
+477,latin small letter turned e
+478,latin capital letter a with diaeresis and macron
+479,latin small letter a with diaeresis and macron
+480,latin capital letter a with dot above and macron
+481,latin small letter a with dot above and macron
+482,latin capital letter ae with macron
+483,latin small letter ae with macron
+484,latin capital letter g with stroke
+485,latin small letter g with stroke
+486,latin capital letter g with caron
+487,latin small letter g with caron
+488,latin capital letter k with caron
+489,latin small letter k with caron
+490,latin capital letter o with ogonek
+491,latin small letter o with ogonek
+492,latin capital letter o with ogonek and macron
+493,latin small letter o with ogonek and macron
+494,latin capital letter ezh with caron
+495,latin small letter ezh with caron
+496,latin small letter j with caron
+497,latin capital letter dz
+498,latin capital letter d with small letter z
+499,latin small letter dz
+500,latin capital letter g with acute
+501,latin small letter g with acute
+502,latin capital letter hwair
+503,latin capital letter wynn
+504,latin capital letter n with grave
+505,latin small letter n with grave
+506,latin capital letter a with ring above and acute
+507,latin small letter a with ring above and acute
+508,latin capital letter ae with acute
+509,latin small letter ae with acute
+510,latin capital letter o with stroke and acute
+511,latin small letter o with stroke and acute
+512,latin capital letter a with double grave
+513,latin small letter a with double grave
+514,latin capital letter a with inverted breve
+515,latin small letter a with inverted breve
+516,latin capital letter e with double grave
+517,latin small letter e with double grave
+518,latin capital letter e with inverted breve
+519,latin small letter e with inverted breve
+520,latin capital letter i with double grave
+521,latin small letter i with double grave
+522,latin capital letter i with inverted breve
+523,latin small letter i with inverted breve
+524,latin capital letter o with double grave
+525,latin small letter o with double grave
+526,latin capital letter o with inverted breve
+527,latin small letter o with inverted breve
+528,latin capital letter r with double grave
+529,latin small letter r with double grave
+530,latin capital letter r with inverted breve
+531,latin small letter r with inverted breve
+532,latin capital letter u with double grave
+533,latin small letter u with double grave
+534,latin capital letter u with inverted breve
+535,latin small letter u with inverted breve
+536,latin capital letter s with comma below
+537,latin small letter s with comma below
+538,latin capital letter t with comma below
+539,latin small letter t with comma below
+540,latin capital letter yogh
+541,latin small letter yogh
+542,latin capital letter h with caron
+543,latin small letter h with caron
+544,latin capital letter n with long right leg
+545,latin small letter d with curl
+546,latin capital letter ou
+547,latin small letter ou
+548,latin capital letter z with hook
+549,latin small letter z with hook
+550,latin capital letter a with dot above
+551,latin small letter a with dot above
+552,latin capital letter e with cedilla
+553,latin small letter e with cedilla
+554,latin capital letter o with diaeresis and macron
+555,latin small letter o with diaeresis and macron
+556,latin capital letter o with tilde and macron
+557,latin small letter o with tilde and macron
+558,latin capital letter o with dot above
+559,latin small letter o with dot above
+560,latin capital letter o with dot above and macron
+561,latin small letter o with dot above and macron
+562,latin capital letter y with macron
+563,latin small letter y with macron
+564,latin small letter l with curl
+565,latin small letter n with curl
+566,latin small letter t with curl
+567,latin small letter dotless j
+568,latin small letter db digraph
+569,latin small letter qp digraph
+570,latin capital letter a with stroke
+571,latin capital letter c with stroke
+572,latin small letter c with stroke
+573,latin capital letter l with bar
+574,latin capital letter t with diagonal stroke
+575,latin small letter s with swash tail
+576,latin small letter z with swash tail
+577,latin capital letter glottal stop
+578,latin small letter glottal stop
+579,latin capital letter b with stroke
+580,latin capital letter u bar
+581,latin capital letter turned v
+582,latin capital letter e with stroke
+583,latin small letter e with stroke
+584,latin capital letter j with stroke
+585,latin small letter j with stroke
+586,latin capital letter small q with hook tail
+587,latin small letter q with hook tail
+588,latin capital letter r with stroke
+589,latin small letter r with stroke
+590,latin capital letter y with stroke

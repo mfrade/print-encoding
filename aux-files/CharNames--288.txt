@@ -1,0 +1,38 @@
+122880,combining glagolitic letter azu
+122881,combining glagolitic letter buky
+122882,combining glagolitic letter vede
+122883,combining glagolitic letter glagoli
+122884,combining glagolitic letter dobro
+122885,combining glagolitic letter yestu
+122886,combining glagolitic letter zhivete
+122888,combining glagolitic letter zemlja
+122889,combining glagolitic letter izhe
+122890,combining glagolitic letter initial izhe
+122891,combining glagolitic letter i
+122892,combining glagolitic letter djervi
+122893,combining glagolitic letter kako
+122894,combining glagolitic letter ljudije
+122895,combining glagolitic letter myslite
+122896,combining glagolitic letter nashi
+122897,combining glagolitic letter onu
+122898,combining glagolitic letter pokoji
+122899,combining glagolitic letter ritsi
+122900,combining glagolitic letter slovo
+122901,combining glagolitic letter tvrido
+122902,combining glagolitic letter uku
+122903,combining glagolitic letter fritu
+122904,combining glagolitic letter heru
+122907,combining glagolitic letter shta
+122908,combining glagolitic letter tsi
+122909,combining glagolitic letter chrivi
+122910,combining glagolitic letter sha
+122911,combining glagolitic letter yeru
+122912,combining glagolitic letter yeri
+122913,combining glagolitic letter yati
+122915,combining glagolitic letter yu
+122916,combining glagolitic letter small yus
+122918,combining glagolitic letter yo
+122919,combining glagolitic letter iotated small yus
+122920,combining glagolitic letter big yus
+122921,combining glagolitic letter iotated big yus
+122922,combining glagolitic letter fita

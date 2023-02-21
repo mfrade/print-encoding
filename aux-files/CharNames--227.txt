@@ -1,0 +1,97 @@
+70656,newa letter a
+70657,newa letter aa
+70658,newa letter i
+70659,newa letter ii
+70660,newa letter u
+70661,newa letter uu
+70662,newa letter vocalic r
+70663,newa letter vocalic rr
+70664,newa letter vocalic l
+70665,newa letter vocalic ll
+70666,newa letter e
+70667,newa letter ai
+70668,newa letter o
+70669,newa letter au
+70670,newa letter ka
+70671,newa letter kha
+70672,newa letter ga
+70673,newa letter gha
+70674,newa letter nga
+70675,newa letter ngha
+70676,newa letter ca
+70677,newa letter cha
+70678,newa letter ja
+70679,newa letter jha
+70680,newa letter nya
+70681,newa letter nyha
+70682,newa letter tta
+70683,newa letter ttha
+70684,newa letter dda
+70685,newa letter ddha
+70686,newa letter nna
+70687,newa letter ta
+70688,newa letter tha
+70689,newa letter da
+70690,newa letter dha
+70691,newa letter na
+70692,newa letter nha
+70693,newa letter pa
+70694,newa letter pha
+70695,newa letter ba
+70696,newa letter bha
+70697,newa letter ma
+70698,newa letter mha
+70699,newa letter ya
+70700,newa letter ra
+70701,newa letter rha
+70702,newa letter la
+70703,newa letter lha
+70704,newa letter wa
+70705,newa letter sha
+70706,newa letter ssa
+70707,newa letter sa
+70708,newa letter ha
+70709,newa vowel sign aa
+70710,newa vowel sign i
+70711,newa vowel sign ii
+70712,newa vowel sign u
+70713,newa vowel sign uu
+70714,newa vowel sign vocalic r
+70715,newa vowel sign vocalic rr
+70716,newa vowel sign vocalic l
+70717,newa vowel sign vocalic ll
+70718,newa vowel sign e
+70719,newa vowel sign ai
+70720,newa vowel sign o
+70721,newa vowel sign au
+70722,newa sign virama
+70723,newa sign candrabindu
+70724,newa sign anusvara
+70725,newa sign visarga
+70726,newa sign nukta
+70727,newa sign avagraha
+70728,newa sign final anusvara
+70729,newa om
+70730,newa siddhi
+70731,newa danda
+70732,newa double danda
+70733,newa comma
+70734,newa gap filler
+70735,newa abbreviation sign
+70736,newa digit zero
+70737,newa digit one
+70738,newa digit two
+70739,newa digit three
+70740,newa digit four
+70741,newa digit five
+70742,newa digit six
+70743,newa digit seven
+70744,newa digit eight
+70745,newa digit nine
+70746,newa double comma
+70747,newa placeholder mark
+70749,newa insertion sign
+70750,newa sandhi mark
+70751,newa letter vedic anusvara
+70752,newa sign jihvamuliya
+70753,newa sign upadhmaniya

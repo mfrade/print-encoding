@@ -1,0 +1,33 @@
+8400,combining left harpoon above
+8401,combining right harpoon above
+8402,combining long vertical line overlay
+8403,combining short vertical line overlay
+8404,combining anticlockwise arrow above
+8405,combining clockwise arrow above
+8406,combining left arrow above
+8407,combining right arrow above
+8408,combining ring overlay
+8409,combining clockwise ring overlay
+8410,combining anticlockwise ring overlay
+8411,combining three dots above
+8412,combining four dots above
+8413,combining enclosing circle
+8414,combining enclosing square
+8415,combining enclosing diamond
+8416,combining enclosing circle backslash
+8417,combining left right arrow above
+8418,combining enclosing screen
+8419,combining enclosing keycap
+8420,combining enclosing upward pointing triangle
+8421,combining reverse solidus overlay
+8422,combining double vertical stroke overlay
+8423,combining annuity symbol
+8424,combining triple underdot
+8425,combining wide bridge above
+8426,combining leftwards arrow overlay
+8427,combining long double solidus overlay
+8428,combining rightwards harpoon with barb downwards
+8429,combining leftwards harpoon with barb downwards
+8430,combining left arrow below
+8431,combining right arrow below
+8432,combining asterisk above

@@ -1,0 +1,28 @@
+124896,ethiopic syllable hhya
+124897,ethiopic syllable hhyu
+124898,ethiopic syllable hhyi
+124899,ethiopic syllable hhyaa
+124900,ethiopic syllable hhyee
+124901,ethiopic syllable hhye
+124902,ethiopic syllable hhyo
+124904,ethiopic syllable gurage hhwa
+124905,ethiopic syllable hhwi
+124906,ethiopic syllable hhwee
+124907,ethiopic syllable hhwe
+124909,ethiopic syllable gurage mwi
+124910,ethiopic syllable gurage mwee
+124912,ethiopic syllable gurage qwi
+124913,ethiopic syllable gurage qwee
+124914,ethiopic syllable gurage qwe
+124915,ethiopic syllable gurage bwi
+124916,ethiopic syllable gurage bwee
+124917,ethiopic syllable gurage kwi
+124918,ethiopic syllable gurage kwee
+124919,ethiopic syllable gurage kwe
+124920,ethiopic syllable gurage gwi
+124921,ethiopic syllable gurage gwee
+124922,ethiopic syllable gurage gwe
+124923,ethiopic syllable gurage fwi
+124924,ethiopic syllable gurage fwee
+124925,ethiopic syllable gurage pwi
+124926,ethiopic syllable gurage pwee

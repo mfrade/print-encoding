@@ -1,0 +1,79 @@
+65856,greek acrophonic attic one quarter
+65857,greek acrophonic attic one half
+65858,greek acrophonic attic one drachma
+65859,greek acrophonic attic five
+65860,greek acrophonic attic fifty
+65861,greek acrophonic attic five hundred
+65862,greek acrophonic attic five thousand
+65863,greek acrophonic attic fifty thousand
+65864,greek acrophonic attic five talents
+65865,greek acrophonic attic ten talents
+65866,greek acrophonic attic fifty talents
+65867,greek acrophonic attic one hundred talents
+65868,greek acrophonic attic five hundred talents
+65869,greek acrophonic attic one thousand talents
+65870,greek acrophonic attic five thousand talents
+65871,greek acrophonic attic five staters
+65872,greek acrophonic attic ten staters
+65873,greek acrophonic attic fifty staters
+65874,greek acrophonic attic one hundred staters
+65875,greek acrophonic attic five hundred staters
+65876,greek acrophonic attic one thousand staters
+65877,greek acrophonic attic ten thousand staters
+65878,greek acrophonic attic fifty thousand staters
+65879,greek acrophonic attic ten mnas
+65880,greek acrophonic heraeum one plethron
+65881,greek acrophonic thespian one
+65882,greek acrophonic hermionian one
+65883,greek acrophonic epidaurean two
+65884,greek acrophonic thespian two
+65885,greek acrophonic cyrenaic two drachmas
+65886,greek acrophonic epidaurean two drachmas
+65887,greek acrophonic troezenian five
+65888,greek acrophonic troezenian ten
+65889,greek acrophonic troezenian ten alternate form
+65890,greek acrophonic hermionian ten
+65891,greek acrophonic messenian ten
+65892,greek acrophonic thespian ten
+65893,greek acrophonic thespian thirty
+65894,greek acrophonic troezenian fifty
+65895,greek acrophonic troezenian fifty alternate form
+65896,greek acrophonic hermionian fifty
+65897,greek acrophonic thespian fifty
+65898,greek acrophonic thespian one hundred
+65899,greek acrophonic thespian three hundred
+65900,greek acrophonic epidaurean five hundred
+65901,greek acrophonic troezenian five hundred
+65902,greek acrophonic thespian five hundred
+65903,greek acrophonic carystian five hundred
+65904,greek acrophonic naxian five hundred
+65905,greek acrophonic thespian one thousand
+65906,greek acrophonic thespian five thousand
+65907,greek acrophonic delphic five mnas
+65908,greek acrophonic stratian fifty mnas
+65909,greek one half sign
+65910,greek one half sign alternate form
+65911,greek two thirds sign
+65912,greek three quarters sign
+65913,greek year sign
+65914,greek talent sign
+65915,greek drachma sign
+65916,greek obol sign
+65917,greek two obols sign
+65918,greek three obols sign
+65919,greek four obols sign
+65920,greek five obols sign
+65921,greek metretes sign
+65922,greek kyathos base sign
+65923,greek litra sign
+65924,greek ounkia sign
+65925,greek xestes sign
+65926,greek artabe sign
+65927,greek aroura sign
+65928,greek gramma sign
+65929,greek tryblion base sign
+65930,greek zero sign
+65931,greek one quarter sign
+65932,greek sinusoid sign
+65933,greek indiction sign
+65934,nomisma sign

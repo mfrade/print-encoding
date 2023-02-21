@@ -1,0 +1,87 @@
+4256,georgian capital letter an
+4257,georgian capital letter ban
+4258,georgian capital letter gan
+4259,georgian capital letter don
+4260,georgian capital letter en
+4261,georgian capital letter vin
+4262,georgian capital letter zen
+4263,georgian capital letter tan
+4264,georgian capital letter in
+4265,georgian capital letter kan
+4266,georgian capital letter las
+4267,georgian capital letter man
+4268,georgian capital letter nar
+4269,georgian capital letter on
+4270,georgian capital letter par
+4271,georgian capital letter zhar
+4272,georgian capital letter rae
+4273,georgian capital letter san
+4274,georgian capital letter tar
+4275,georgian capital letter un
+4276,georgian capital letter phar
+4277,georgian capital letter khar
+4278,georgian capital letter ghan
+4279,georgian capital letter qar
+4280,georgian capital letter shin
+4281,georgian capital letter chin
+4282,georgian capital letter can
+4283,georgian capital letter jil
+4284,georgian capital letter cil
+4285,georgian capital letter char
+4286,georgian capital letter xan
+4287,georgian capital letter jhan
+4288,georgian capital letter hae
+4289,georgian capital letter he
+4290,georgian capital letter hie
+4291,georgian capital letter we
+4292,georgian capital letter har
+4293,georgian capital letter hoe
+4295,georgian capital letter yn
+4301,georgian capital letter aen
+4304,georgian letter an
+4305,georgian letter ban
+4306,georgian letter gan
+4307,georgian letter don
+4308,georgian letter en
+4309,georgian letter vin
+4310,georgian letter zen
+4311,georgian letter tan
+4312,georgian letter in
+4313,georgian letter kan
+4314,georgian letter las
+4315,georgian letter man
+4316,georgian letter nar
+4317,georgian letter on
+4318,georgian letter par
+4319,georgian letter zhar
+4320,georgian letter rae
+4321,georgian letter san
+4322,georgian letter tar
+4323,georgian letter un
+4324,georgian letter phar
+4325,georgian letter khar
+4326,georgian letter ghan
+4327,georgian letter qar
+4328,georgian letter shin
+4329,georgian letter chin
+4330,georgian letter can
+4331,georgian letter jil
+4332,georgian letter cil
+4333,georgian letter char
+4334,georgian letter xan
+4335,georgian letter jhan
+4336,georgian letter hae
+4337,georgian letter he
+4338,georgian letter hie
+4339,georgian letter we
+4340,georgian letter har
+4341,georgian letter hoe
+4342,georgian letter fi
+4343,georgian letter yn
+4344,georgian letter elifi
+4345,georgian letter turned gan
+4346,georgian letter ain
+4347,georgian paragraph separator
+4348,modifier letter georgian nar
+4349,georgian letter aen
+4350,georgian letter hard sign

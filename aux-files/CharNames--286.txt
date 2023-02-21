@@ -1,0 +1,671 @@
+120832,signwriting hand-fist index
+120833,signwriting hand-circle index
+120834,signwriting hand-cup index
+120835,signwriting hand-oval index
+120836,signwriting hand-hinge index
+120837,signwriting hand-angle index
+120838,signwriting hand-fist index bent
+120839,signwriting hand-circle index bent
+120840,signwriting hand-fist thumb under index bent
+120841,signwriting hand-fist index raised knuckle
+120842,signwriting hand-fist index cupped
+120843,signwriting hand-fist index hinged
+120844,signwriting hand-fist index hinged low
+120845,signwriting hand-circle index hinge
+120846,signwriting hand-fist index middle
+120847,signwriting hand-circle index middle
+120848,signwriting hand-fist index middle bent
+120849,signwriting hand-fist index middle raised knuckles
+120850,signwriting hand-fist index middle hinged
+120851,signwriting hand-fist index up middle hinged
+120852,signwriting hand-fist index hinged middle up
+120853,signwriting hand-fist index middle conjoined
+120854,signwriting hand-fist index middle conjoined index bent
+120855,signwriting hand-fist index middle conjoined middle bent
+120856,signwriting hand-fist index middle conjoined cupped
+120857,signwriting hand-fist index middle conjoined hinged
+120858,signwriting hand-fist index middle crossed
+120859,signwriting hand-circle index middle crossed
+120860,signwriting hand-fist middle bent over index
+120861,signwriting hand-fist index bent over middle
+120862,signwriting hand-fist index middle thumb
+120863,signwriting hand-circle index middle thumb
+120864,signwriting hand-fist index middle straight thumb bent
+120865,signwriting hand-fist index middle bent thumb straight
+120866,signwriting hand-fist index middle thumb bent
+120867,signwriting hand-fist index middle hinged spread thumb side
+120868,signwriting hand-fist index up middle hinged thumb side
+120869,signwriting hand-fist index up middle hinged thumb conjoined
+120870,signwriting hand-fist index hinged middle up thumb side
+120871,signwriting hand-fist index middle up spread thumb forward
+120872,signwriting hand-fist index middle thumb cupped
+120873,signwriting hand-fist index middle thumb circled
+120874,signwriting hand-fist index middle thumb hooked
+120875,signwriting hand-fist index middle thumb hinged
+120876,signwriting hand-fist thumb between index middle straight
+120877,signwriting hand-fist index middle conjoined thumb side
+120878,signwriting hand-fist index middle conjoined thumb side conjoined
+120879,signwriting hand-fist index middle conjoined thumb side bent
+120880,signwriting hand-fist middle thumb hooked index up
+120881,signwriting hand-fist index thumb hooked middle up
+120882,signwriting hand-fist index middle conjoined hinged thumb side
+120883,signwriting hand-fist index middle crossed thumb side
+120884,signwriting hand-fist index middle conjoined thumb forward
+120885,signwriting hand-fist index middle conjoined cupped thumb forward
+120886,signwriting hand-fist middle thumb cupped index up
+120887,signwriting hand-fist index thumb cupped middle up
+120888,signwriting hand-fist middle thumb circled index up
+120889,signwriting hand-fist middle thumb circled index hinged
+120890,signwriting hand-fist index thumb angled out middle up
+120891,signwriting hand-fist index thumb angled in middle up
+120892,signwriting hand-fist index thumb circled middle up
+120893,signwriting hand-fist index middle thumb conjoined hinged
+120894,signwriting hand-fist index middle thumb angled out
+120895,signwriting hand-fist index middle thumb angled
+120896,signwriting hand-fist middle thumb angled out index up
+120897,signwriting hand-fist middle thumb angled out index crossed
+120898,signwriting hand-fist middle thumb angled index up
+120899,signwriting hand-fist index thumb hooked middle hinged
+120900,signwriting hand-flat four fingers
+120901,signwriting hand-flat four fingers bent
+120902,signwriting hand-flat four fingers hinged
+120903,signwriting hand-flat four fingers conjoined
+120904,signwriting hand-flat four fingers conjoined split
+120905,signwriting hand-claw four fingers conjoined
+120906,signwriting hand-fist four fingers conjoined bent
+120907,signwriting hand-hinge four fingers conjoined
+120908,signwriting hand-flat five fingers spread
+120909,signwriting hand-flat heel five fingers spread
+120910,signwriting hand-flat five fingers spread four bent
+120911,signwriting hand-flat heel five fingers spread four bent
+120912,signwriting hand-flat five fingers spread bent
+120913,signwriting hand-flat heel five fingers spread bent
+120914,signwriting hand-flat five fingers spread thumb forward
+120915,signwriting hand-cup five fingers spread
+120916,signwriting hand-cup five fingers spread open
+120917,signwriting hand-hinge five fingers spread open
+120918,signwriting hand-oval five fingers spread
+120919,signwriting hand-flat five fingers spread hinged
+120920,signwriting hand-flat five fingers spread hinged thumb side
+120921,signwriting hand-flat five fingers spread hinged no thumb
+120922,signwriting hand-flat
+120923,signwriting hand-flat between palm facings
+120924,signwriting hand-flat heel
+120925,signwriting hand-flat thumb side
+120926,signwriting hand-flat heel thumb side
+120927,signwriting hand-flat thumb bent
+120928,signwriting hand-flat thumb forward
+120929,signwriting hand-flat split index thumb side
+120930,signwriting hand-flat split centre
+120931,signwriting hand-flat split centre thumb side
+120932,signwriting hand-flat split centre thumb side bent
+120933,signwriting hand-flat split little
+120934,signwriting hand-claw
+120935,signwriting hand-claw thumb side
+120936,signwriting hand-claw no thumb
+120937,signwriting hand-claw thumb forward
+120938,signwriting hand-hook curlicue
+120939,signwriting hand-hook
+120940,signwriting hand-cup open
+120941,signwriting hand-cup
+120942,signwriting hand-cup open thumb side
+120943,signwriting hand-cup thumb side
+120944,signwriting hand-cup open no thumb
+120945,signwriting hand-cup no thumb
+120946,signwriting hand-cup open thumb forward
+120947,signwriting hand-cup thumb forward
+120948,signwriting hand-curlicue open
+120949,signwriting hand-curlicue
+120950,signwriting hand-circle
+120951,signwriting hand-oval
+120952,signwriting hand-oval thumb side
+120953,signwriting hand-oval no thumb
+120954,signwriting hand-oval thumb forward
+120955,signwriting hand-hinge open
+120956,signwriting hand-hinge open thumb forward
+120957,signwriting hand-hinge
+120958,signwriting hand-hinge small
+120959,signwriting hand-hinge open thumb side
+120960,signwriting hand-hinge thumb side
+120961,signwriting hand-hinge open no thumb
+120962,signwriting hand-hinge no thumb
+120963,signwriting hand-hinge thumb side touching index
+120964,signwriting hand-hinge thumb between middle ring
+120965,signwriting hand-angle
+120966,signwriting hand-fist index middle ring
+120967,signwriting hand-circle index middle ring
+120968,signwriting hand-hinge index middle ring
+120969,signwriting hand-angle index middle ring
+120970,signwriting hand-hinge little
+120971,signwriting hand-fist index middle ring bent
+120972,signwriting hand-fist index middle ring conjoined
+120973,signwriting hand-hinge index middle ring conjoined
+120974,signwriting hand-fist little down
+120975,signwriting hand-fist little down ripple straight
+120976,signwriting hand-fist little down ripple curved
+120977,signwriting hand-fist little down others circled
+120978,signwriting hand-fist little up
+120979,signwriting hand-fist thumb under little up
+120980,signwriting hand-circle little up
+120981,signwriting hand-oval little up
+120982,signwriting hand-angle little up
+120983,signwriting hand-fist little raised knuckle
+120984,signwriting hand-fist little bent
+120985,signwriting hand-fist little touches thumb
+120986,signwriting hand-fist little thumb
+120987,signwriting hand-hinge little thumb
+120988,signwriting hand-fist little index thumb
+120989,signwriting hand-hinge little index thumb
+120990,signwriting hand-angle little index thumb index thumb out
+120991,signwriting hand-angle little index thumb index thumb
+120992,signwriting hand-fist little index
+120993,signwriting hand-circle little index
+120994,signwriting hand-hinge little index
+120995,signwriting hand-angle little index
+120996,signwriting hand-fist index middle little
+120997,signwriting hand-circle index middle little
+120998,signwriting hand-hinge index middle little
+120999,signwriting hand-hinge ring
+121000,signwriting hand-angle index middle little
+121001,signwriting hand-fist index middle cross little
+121002,signwriting hand-circle index middle cross little
+121003,signwriting hand-fist ring down
+121004,signwriting hand-hinge ring down index thumb hook middle
+121005,signwriting hand-angle ring down middle thumb index cross
+121006,signwriting hand-fist ring up
+121007,signwriting hand-fist ring raised knuckle
+121008,signwriting hand-fist ring little
+121009,signwriting hand-circle ring little
+121010,signwriting hand-oval ring little
+121011,signwriting hand-angle ring little
+121012,signwriting hand-fist ring middle
+121013,signwriting hand-fist ring middle conjoined
+121014,signwriting hand-fist ring middle raised knuckles
+121015,signwriting hand-fist ring index
+121016,signwriting hand-fist ring thumb
+121017,signwriting hand-hook ring thumb
+121018,signwriting hand-fist index ring little
+121019,signwriting hand-circle index ring little
+121020,signwriting hand-curlicue index ring little on
+121021,signwriting hand-hook index ring little out
+121022,signwriting hand-hook index ring little in
+121023,signwriting hand-hook index ring little under
+121024,signwriting hand-cup index ring little
+121025,signwriting hand-hinge index ring little
+121026,signwriting hand-angle index ring little out
+121027,signwriting hand-angle index ring little
+121028,signwriting hand-fist middle down
+121029,signwriting hand-hinge middle
+121030,signwriting hand-fist middle up
+121031,signwriting hand-circle middle up
+121032,signwriting hand-fist middle raised knuckle
+121033,signwriting hand-fist middle up thumb side
+121034,signwriting hand-hook middle thumb
+121035,signwriting hand-fist middle thumb little
+121036,signwriting hand-fist middle little
+121037,signwriting hand-fist middle ring little
+121038,signwriting hand-circle middle ring little
+121039,signwriting hand-curlicue middle ring little on
+121040,signwriting hand-cup middle ring little
+121041,signwriting hand-hinge middle ring little
+121042,signwriting hand-angle middle ring little out
+121043,signwriting hand-angle middle ring little in
+121044,signwriting hand-angle middle ring little
+121045,signwriting hand-circle middle ring little bent
+121046,signwriting hand-claw middle ring little conjoined
+121047,signwriting hand-claw middle ring little conjoined side
+121048,signwriting hand-hook middle ring little conjoined out
+121049,signwriting hand-hook middle ring little conjoined in
+121050,signwriting hand-hook middle ring little conjoined
+121051,signwriting hand-hinge index hinged
+121052,signwriting hand-fist index thumb side
+121053,signwriting hand-hinge index thumb side
+121054,signwriting hand-fist index thumb side thumb diagonal
+121055,signwriting hand-fist index thumb side thumb conjoined
+121056,signwriting hand-fist index thumb side thumb bent
+121057,signwriting hand-fist index thumb side index bent
+121058,signwriting hand-fist index thumb side both bent
+121059,signwriting hand-fist index thumb side index hinge
+121060,signwriting hand-fist index thumb forward index straight
+121061,signwriting hand-fist index thumb forward index bent
+121062,signwriting hand-fist index thumb hook
+121063,signwriting hand-fist index thumb curlicue
+121064,signwriting hand-fist index thumb curve thumb inside
+121065,signwriting hand-claw index thumb curve thumb inside
+121066,signwriting hand-fist index thumb curve thumb under
+121067,signwriting hand-fist index thumb circle
+121068,signwriting hand-cup index thumb
+121069,signwriting hand-cup index thumb open
+121070,signwriting hand-hinge index thumb open
+121071,signwriting hand-hinge index thumb large
+121072,signwriting hand-hinge index thumb
+121073,signwriting hand-hinge index thumb small
+121074,signwriting hand-angle index thumb out
+121075,signwriting hand-angle index thumb in
+121076,signwriting hand-angle index thumb
+121077,signwriting hand-fist thumb
+121078,signwriting hand-fist thumb heel
+121079,signwriting hand-fist thumb side diagonal
+121080,signwriting hand-fist thumb side conjoined
+121081,signwriting hand-fist thumb side bent
+121082,signwriting hand-fist thumb forward
+121083,signwriting hand-fist thumb between index middle
+121084,signwriting hand-fist thumb between middle ring
+121085,signwriting hand-fist thumb between ring little
+121086,signwriting hand-fist thumb under two fingers
+121087,signwriting hand-fist thumb over two fingers
+121088,signwriting hand-fist thumb under three fingers
+121089,signwriting hand-fist thumb under four fingers
+121090,signwriting hand-fist thumb over four raised knuckles
+121091,signwriting hand-fist
+121092,signwriting hand-fist heel
+121093,signwriting touch single
+121094,signwriting touch multiple
+121095,signwriting touch between
+121096,signwriting grasp single
+121097,signwriting grasp multiple
+121098,signwriting grasp between
+121099,signwriting strike single
+121100,signwriting strike multiple
+121101,signwriting strike between
+121102,signwriting brush single
+121103,signwriting brush multiple
+121104,signwriting brush between
+121105,signwriting rub single
+121106,signwriting rub multiple
+121107,signwriting rub between
+121108,signwriting surface symbols
+121109,signwriting surface between
+121110,signwriting squeeze large single
+121111,signwriting squeeze small single
+121112,signwriting squeeze large multiple
+121113,signwriting squeeze small multiple
+121114,signwriting squeeze sequential
+121115,signwriting flick large single
+121116,signwriting flick small single
+121117,signwriting flick large multiple
+121118,signwriting flick small multiple
+121119,signwriting flick sequential
+121120,signwriting squeeze flick alternating
+121121,signwriting movement-hinge up down large
+121122,signwriting movement-hinge up down small
+121123,signwriting movement-hinge up sequential
+121124,signwriting movement-hinge down sequential
+121125,signwriting movement-hinge up down alternating large
+121126,signwriting movement-hinge up down alternating small
+121127,signwriting movement-hinge side to side scissors
+121128,signwriting movement-wallplane finger contact
+121129,signwriting movement-floorplane finger contact
+121130,signwriting movement-wallplane single straight small
+121131,signwriting movement-wallplane single straight medium
+121132,signwriting movement-wallplane single straight large
+121133,signwriting movement-wallplane single straight largest
+121134,signwriting movement-wallplane single wrist flex
+121135,signwriting movement-wallplane double straight
+121136,signwriting movement-wallplane double wrist flex
+121137,signwriting movement-wallplane double alternating
+121138,signwriting movement-wallplane double alternating wrist flex
+121139,signwriting movement-wallplane cross
+121140,signwriting movement-wallplane triple straight movement
+121141,signwriting movement-wallplane triple wrist flex
+121142,signwriting movement-wallplane triple alternating
+121143,signwriting movement-wallplane triple alternating wrist flex
+121144,signwriting movement-wallplane bend small
+121145,signwriting movement-wallplane bend medium
+121146,signwriting movement-wallplane bend large
+121147,signwriting movement-wallplane corner small
+121148,signwriting movement-wallplane corner medium
+121149,signwriting movement-wallplane corner large
+121150,signwriting movement-wallplane corner rotation
+121151,signwriting movement-wallplane check small
+121152,signwriting movement-wallplane check medium
+121153,signwriting movement-wallplane check large
+121154,signwriting movement-wallplane box small
+121155,signwriting movement-wallplane box medium
+121156,signwriting movement-wallplane box large
+121157,signwriting movement-wallplane zigzag small
+121158,signwriting movement-wallplane zigzag medium
+121159,signwriting movement-wallplane zigzag large
+121160,signwriting movement-wallplane peaks small
+121161,signwriting movement-wallplane peaks medium
+121162,signwriting movement-wallplane peaks large
+121163,signwriting travel-wallplane rotation-wallplane single
+121164,signwriting travel-wallplane rotation-wallplane double
+121165,signwriting travel-wallplane rotation-wallplane alternating
+121166,signwriting travel-wallplane rotation-floorplane single
+121167,signwriting travel-wallplane rotation-floorplane double
+121168,signwriting travel-wallplane rotation-floorplane alternating
+121169,signwriting travel-wallplane shaking
+121170,signwriting travel-wallplane arm spiral single
+121171,signwriting travel-wallplane arm spiral double
+121172,signwriting travel-wallplane arm spiral triple
+121173,signwriting movement-diagonal away small
+121174,signwriting movement-diagonal away medium
+121175,signwriting movement-diagonal away large
+121176,signwriting movement-diagonal away largest
+121177,signwriting movement-diagonal towards small
+121178,signwriting movement-diagonal towards medium
+121179,signwriting movement-diagonal towards large
+121180,signwriting movement-diagonal towards largest
+121181,signwriting movement-diagonal between away small
+121182,signwriting movement-diagonal between away medium
+121183,signwriting movement-diagonal between away large
+121184,signwriting movement-diagonal between away largest
+121185,signwriting movement-diagonal between towards small
+121186,signwriting movement-diagonal between towards medium
+121187,signwriting movement-diagonal between towards large
+121188,signwriting movement-diagonal between towards largest
+121189,signwriting movement-floorplane single straight small
+121190,signwriting movement-floorplane single straight medium
+121191,signwriting movement-floorplane single straight large
+121192,signwriting movement-floorplane single straight largest
+121193,signwriting movement-floorplane single wrist flex
+121194,signwriting movement-floorplane double straight
+121195,signwriting movement-floorplane double wrist flex
+121196,signwriting movement-floorplane double alternating
+121197,signwriting movement-floorplane double alternating wrist flex
+121198,signwriting movement-floorplane cross
+121199,signwriting movement-floorplane triple straight movement
+121200,signwriting movement-floorplane triple wrist flex
+121201,signwriting movement-floorplane triple alternating movement
+121202,signwriting movement-floorplane triple alternating wrist flex
+121203,signwriting movement-floorplane bend
+121204,signwriting movement-floorplane corner small
+121205,signwriting movement-floorplane corner medium
+121206,signwriting movement-floorplane corner large
+121207,signwriting movement-floorplane check
+121208,signwriting movement-floorplane box small
+121209,signwriting movement-floorplane box medium
+121210,signwriting movement-floorplane box large
+121211,signwriting movement-floorplane zigzag small
+121212,signwriting movement-floorplane zigzag medium
+121213,signwriting movement-floorplane zigzag large
+121214,signwriting movement-floorplane peaks small
+121215,signwriting movement-floorplane peaks medium
+121216,signwriting movement-floorplane peaks large
+121217,signwriting travel-floorplane rotation-floorplane single
+121218,signwriting travel-floorplane rotation-floorplane double
+121219,signwriting travel-floorplane rotation-floorplane alternating
+121220,signwriting travel-floorplane rotation-wallplane single
+121221,signwriting travel-floorplane rotation-wallplane double
+121222,signwriting travel-floorplane rotation-wallplane alternating
+121223,signwriting travel-floorplane shaking
+121224,signwriting movement-wallplane curve quarter small
+121225,signwriting movement-wallplane curve quarter medium
+121226,signwriting movement-wallplane curve quarter large
+121227,signwriting movement-wallplane curve quarter largest
+121228,signwriting movement-wallplane curve half-circle small
+121229,signwriting movement-wallplane curve half-circle medium
+121230,signwriting movement-wallplane curve half-circle large
+121231,signwriting movement-wallplane curve half-circle largest
+121232,signwriting movement-wallplane curve three-quarter circle small
+121233,signwriting movement-wallplane curve three-quarter circle medium
+121234,signwriting movement-wallplane hump small
+121235,signwriting movement-wallplane hump medium
+121236,signwriting movement-wallplane hump large
+121237,signwriting movement-wallplane loop small
+121238,signwriting movement-wallplane loop medium
+121239,signwriting movement-wallplane loop large
+121240,signwriting movement-wallplane loop small double
+121241,signwriting movement-wallplane wave curve double small
+121242,signwriting movement-wallplane wave curve double medium
+121243,signwriting movement-wallplane wave curve double large
+121244,signwriting movement-wallplane wave curve triple small
+121245,signwriting movement-wallplane wave curve triple medium
+121246,signwriting movement-wallplane wave curve triple large
+121247,signwriting movement-wallplane curve then straight
+121248,signwriting movement-wallplane curved cross small
+121249,signwriting movement-wallplane curved cross medium
+121250,signwriting rotation-wallplane single
+121251,signwriting rotation-wallplane double
+121252,signwriting rotation-wallplane alternate
+121253,signwriting movement-wallplane shaking
+121254,signwriting movement-wallplane curve hitting front wall
+121255,signwriting movement-wallplane hump hitting front wall
+121256,signwriting movement-wallplane loop hitting front wall
+121257,signwriting movement-wallplane wave hitting front wall
+121258,signwriting rotation-wallplane single hitting front wall
+121259,signwriting rotation-wallplane double hitting front wall
+121260,signwriting rotation-wallplane alternating hitting front wall
+121261,signwriting movement-wallplane curve hitting chest
+121262,signwriting movement-wallplane hump hitting chest
+121263,signwriting movement-wallplane loop hitting chest
+121264,signwriting movement-wallplane wave hitting chest
+121265,signwriting rotation-wallplane single hitting chest
+121266,signwriting rotation-wallplane double hitting chest
+121267,signwriting rotation-wallplane alternating hitting chest
+121268,signwriting movement-wallplane wave diagonal path small
+121269,signwriting movement-wallplane wave diagonal path medium
+121270,signwriting movement-wallplane wave diagonal path large
+121271,signwriting movement-floorplane curve hitting ceiling small
+121272,signwriting movement-floorplane curve hitting ceiling large
+121273,signwriting movement-floorplane hump hitting ceiling small double
+121274,signwriting movement-floorplane hump hitting ceiling large double
+121275,signwriting movement-floorplane hump hitting ceiling small triple
+121276,signwriting movement-floorplane hump hitting ceiling large triple
+121277,signwriting movement-floorplane loop hitting ceiling small single
+121278,signwriting movement-floorplane loop hitting ceiling large single
+121279,signwriting movement-floorplane loop hitting ceiling small double
+121280,signwriting movement-floorplane loop hitting ceiling large double
+121281,signwriting movement-floorplane wave hitting ceiling small
+121282,signwriting movement-floorplane wave hitting ceiling large
+121283,signwriting rotation-floorplane single hitting ceiling
+121284,signwriting rotation-floorplane double hitting ceiling
+121285,signwriting rotation-floorplane alternating hitting ceiling
+121286,signwriting movement-floorplane curve hitting floor small
+121287,signwriting movement-floorplane curve hitting floor large
+121288,signwriting movement-floorplane hump hitting floor small double
+121289,signwriting movement-floorplane hump hitting floor large double
+121290,signwriting movement-floorplane hump hitting floor triple small triple
+121291,signwriting movement-floorplane hump hitting floor triple large triple
+121292,signwriting movement-floorplane loop hitting floor small single
+121293,signwriting movement-floorplane loop hitting floor large single
+121294,signwriting movement-floorplane loop hitting floor small double
+121295,signwriting movement-floorplane loop hitting floor large double
+121296,signwriting movement-floorplane wave hitting floor small
+121297,signwriting movement-floorplane wave hitting floor large
+121298,signwriting rotation-floorplane single hitting floor
+121299,signwriting rotation-floorplane double hitting floor
+121300,signwriting rotation-floorplane alternating hitting floor
+121301,signwriting movement-floorplane curve small
+121302,signwriting movement-floorplane curve medium
+121303,signwriting movement-floorplane curve large
+121304,signwriting movement-floorplane curve largest
+121305,signwriting movement-floorplane curve combined
+121306,signwriting movement-floorplane hump small
+121307,signwriting movement-floorplane loop small
+121308,signwriting movement-floorplane wave snake
+121309,signwriting movement-floorplane wave small
+121310,signwriting movement-floorplane wave large
+121311,signwriting rotation-floorplane single
+121312,signwriting rotation-floorplane double
+121313,signwriting rotation-floorplane alternating
+121314,signwriting movement-floorplane shaking parallel
+121315,signwriting movement-wallplane arm circle small single
+121316,signwriting movement-wallplane arm circle medium single
+121317,signwriting movement-wallplane arm circle small double
+121318,signwriting movement-wallplane arm circle medium double
+121319,signwriting movement-floorplane arm circle hitting wall small single
+121320,signwriting movement-floorplane arm circle hitting wall medium single
+121321,signwriting movement-floorplane arm circle hitting wall large single
+121322,signwriting movement-floorplane arm circle hitting wall small double
+121323,signwriting movement-floorplane arm circle hitting wall medium double
+121324,signwriting movement-floorplane arm circle hitting wall large double
+121325,signwriting movement-wallplane wrist circle front single
+121326,signwriting movement-wallplane wrist circle front double
+121327,signwriting movement-floorplane wrist circle hitting wall single
+121328,signwriting movement-floorplane wrist circle hitting wall double
+121329,signwriting movement-wallplane finger circles single
+121330,signwriting movement-wallplane finger circles double
+121331,signwriting movement-floorplane finger circles hitting wall single
+121332,signwriting movement-floorplane finger circles hitting wall double
+121333,signwriting dynamic arrowhead small
+121334,signwriting dynamic arrowhead large
+121335,signwriting dynamic fast
+121336,signwriting dynamic slow
+121337,signwriting dynamic tense
+121338,signwriting dynamic relaxed
+121339,signwriting dynamic simultaneous
+121340,signwriting dynamic simultaneous alternating
+121341,signwriting dynamic every other time
+121342,signwriting dynamic gradual
+121343,signwriting head
+121344,signwriting head rim
+121345,signwriting head movement-wallplane straight
+121346,signwriting head movement-wallplane tilt
+121347,signwriting head movement-floorplane straight
+121348,signwriting head movement-wallplane curve
+121349,signwriting head movement-floorplane curve
+121350,signwriting head movement circle
+121351,signwriting face direction position nose forward tilting
+121352,signwriting face direction position nose up or down
+121353,signwriting face direction position nose up or down tilting
+121354,signwriting eyebrows straight up
+121355,signwriting eyebrows straight neutral
+121356,signwriting eyebrows straight down
+121357,signwriting dreamy eyebrows neutral down
+121358,signwriting dreamy eyebrows down neutral
+121359,signwriting dreamy eyebrows up neutral
+121360,signwriting dreamy eyebrows neutral up
+121361,signwriting forehead neutral
+121362,signwriting forehead contact
+121363,signwriting forehead wrinkled
+121364,signwriting eyes open
+121365,signwriting eyes squeezed
+121366,signwriting eyes closed
+121367,signwriting eye blink single
+121368,signwriting eye blink multiple
+121369,signwriting eyes half open
+121370,signwriting eyes wide open
+121371,signwriting eyes half closed
+121372,signwriting eyes widening movement
+121373,signwriting eye wink
+121374,signwriting eyelashes up
+121375,signwriting eyelashes down
+121376,signwriting eyelashes fluttering
+121377,signwriting eyegaze-wallplane straight
+121378,signwriting eyegaze-wallplane straight double
+121379,signwriting eyegaze-wallplane straight alternating
+121380,signwriting eyegaze-floorplane straight
+121381,signwriting eyegaze-floorplane straight double
+121382,signwriting eyegaze-floorplane straight alternating
+121383,signwriting eyegaze-wallplane curved
+121384,signwriting eyegaze-floorplane curved
+121385,signwriting eyegaze-wallplane circling
+121386,signwriting cheeks puffed
+121387,signwriting cheeks neutral
+121388,signwriting cheeks sucked
+121389,signwriting tense cheeks high
+121390,signwriting tense cheeks middle
+121391,signwriting tense cheeks low
+121392,signwriting ears
+121393,signwriting nose neutral
+121394,signwriting nose contact
+121395,signwriting nose wrinkles
+121396,signwriting nose wiggles
+121397,signwriting air blowing out
+121398,signwriting air sucking in
+121399,signwriting air blow small rotations
+121400,signwriting air suck small rotations
+121401,signwriting breath inhale
+121402,signwriting breath exhale
+121403,signwriting mouth closed neutral
+121404,signwriting mouth closed forward
+121405,signwriting mouth closed contact
+121406,signwriting mouth smile
+121407,signwriting mouth smile wrinkled
+121408,signwriting mouth smile open
+121409,signwriting mouth frown
+121410,signwriting mouth frown wrinkled
+121411,signwriting mouth frown open
+121412,signwriting mouth open circle
+121413,signwriting mouth open forward
+121414,signwriting mouth open wrinkled
+121415,signwriting mouth open oval
+121416,signwriting mouth open oval wrinkled
+121417,signwriting mouth open oval yawn
+121418,signwriting mouth open rectangle
+121419,signwriting mouth open rectangle wrinkled
+121420,signwriting mouth open rectangle yawn
+121421,signwriting mouth kiss
+121422,signwriting mouth kiss forward
+121423,signwriting mouth kiss wrinkled
+121424,signwriting mouth tense
+121425,signwriting mouth tense forward
+121426,signwriting mouth tense sucked
+121427,signwriting lips pressed together
+121428,signwriting lip lower over upper
+121429,signwriting lip upper over lower
+121430,signwriting mouth corners
+121431,signwriting mouth wrinkles single
+121432,signwriting mouth wrinkles double
+121433,signwriting tongue sticking out far
+121434,signwriting tongue licking lips
+121435,signwriting tongue tip between lips
+121436,signwriting tongue tip touching inside mouth
+121437,signwriting tongue inside mouth relaxed
+121438,signwriting tongue moves against cheek
+121439,signwriting tongue centre sticking out
+121440,signwriting tongue centre inside mouth
+121441,signwriting teeth
+121442,signwriting teeth movement
+121443,signwriting teeth on tongue
+121444,signwriting teeth on tongue movement
+121445,signwriting teeth on lips
+121446,signwriting teeth on lips movement
+121447,signwriting teeth bite lips
+121448,signwriting movement-wallplane jaw
+121449,signwriting movement-floorplane jaw
+121450,signwriting neck
+121451,signwriting hair
+121452,signwriting excitement
+121453,signwriting shoulder hip spine
+121454,signwriting shoulder hip positions
+121455,signwriting wallplane shoulder hip move
+121456,signwriting floorplane shoulder hip move
+121457,signwriting shoulder tilting from waist
+121458,signwriting torso-wallplane straight stretch
+121459,signwriting torso-wallplane curved bend
+121460,signwriting torso-floorplane twisting
+121461,signwriting upper body tilting from hip joints
+121462,signwriting limb combination
+121463,signwriting limb length-1
+121464,signwriting limb length-2
+121465,signwriting limb length-3
+121466,signwriting limb length-4
+121467,signwriting limb length-5
+121468,signwriting limb length-6
+121469,signwriting limb length-7
+121470,signwriting finger
+121471,signwriting location-wallplane space
+121472,signwriting location-floorplane space
+121473,signwriting location height
+121474,signwriting location width
+121475,signwriting location depth
+121476,signwriting location head neck
+121477,signwriting location torso
+121478,signwriting location limbs digits
+121479,signwriting comma
+121480,signwriting full stop
+121481,signwriting semicolon
+121482,signwriting colon
+121483,signwriting parenthesis
+121499,signwriting fill modifier-2
+121500,signwriting fill modifier-3
+121501,signwriting fill modifier-4
+121502,signwriting fill modifier-5
+121503,signwriting fill modifier-6
+121505,signwriting rotation modifier-2
+121506,signwriting rotation modifier-3
+121507,signwriting rotation modifier-4
+121508,signwriting rotation modifier-5
+121509,signwriting rotation modifier-6
+121510,signwriting rotation modifier-7
+121511,signwriting rotation modifier-8
+121512,signwriting rotation modifier-9
+121513,signwriting rotation modifier-10
+121514,signwriting rotation modifier-11
+121515,signwriting rotation modifier-12
+121516,signwriting rotation modifier-13
+121517,signwriting rotation modifier-14
+121518,signwriting rotation modifier-15

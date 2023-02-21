@@ -1,0 +1,20 @@
+5952,buhid letter a
+5953,buhid letter i
+5954,buhid letter u
+5955,buhid letter ka
+5956,buhid letter ga
+5957,buhid letter nga
+5958,buhid letter ta
+5959,buhid letter da
+5960,buhid letter na
+5961,buhid letter pa
+5962,buhid letter ba
+5963,buhid letter ma
+5964,buhid letter ya
+5965,buhid letter ra
+5966,buhid letter la
+5967,buhid letter wa
+5968,buhid letter sa
+5969,buhid letter ha
+5970,buhid vowel sign i
+5971,buhid vowel sign u

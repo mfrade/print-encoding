@@ -1,0 +1,72 @@
+71936,dives akuru letter a
+71937,dives akuru letter aa
+71938,dives akuru letter i
+71939,dives akuru letter ii
+71940,dives akuru letter u
+71941,dives akuru letter uu
+71942,dives akuru letter e
+71945,dives akuru letter o
+71948,dives akuru letter ka
+71949,dives akuru letter kha
+71950,dives akuru letter ga
+71951,dives akuru letter gha
+71952,dives akuru letter nga
+71953,dives akuru letter ca
+71954,dives akuru letter cha
+71955,dives akuru letter ja
+71957,dives akuru letter nya
+71958,dives akuru letter tta
+71960,dives akuru letter dda
+71961,dives akuru letter ddha
+71962,dives akuru letter nna
+71963,dives akuru letter ta
+71964,dives akuru letter tha
+71965,dives akuru letter da
+71966,dives akuru letter dha
+71967,dives akuru letter na
+71968,dives akuru letter pa
+71969,dives akuru letter pha
+71970,dives akuru letter ba
+71971,dives akuru letter bha
+71972,dives akuru letter ma
+71973,dives akuru letter ya
+71974,dives akuru letter yya
+71975,dives akuru letter ra
+71976,dives akuru letter la
+71977,dives akuru letter va
+71978,dives akuru letter sha
+71979,dives akuru letter ssa
+71980,dives akuru letter sa
+71981,dives akuru letter ha
+71982,dives akuru letter lla
+71983,dives akuru letter za
+71984,dives akuru vowel sign aa
+71985,dives akuru vowel sign i
+71986,dives akuru vowel sign ii
+71987,dives akuru vowel sign u
+71988,dives akuru vowel sign uu
+71989,dives akuru vowel sign e
+71991,dives akuru vowel sign ai
+71992,dives akuru vowel sign o
+71995,dives akuru sign anusvara
+71996,dives akuru sign candrabindu
+71997,dives akuru sign halanta
+71998,dives akuru virama
+71999,dives akuru prefixed nasal sign
+72000,dives akuru medial ya
+72001,dives akuru initial ra
+72002,dives akuru medial ra
+72003,dives akuru sign nukta
+72004,dives akuru double danda
+72005,dives akuru gap filler
+72006,dives akuru end of text mark
+72016,dives akuru digit zero
+72017,dives akuru digit one
+72018,dives akuru digit two
+72019,dives akuru digit three
+72020,dives akuru digit four
+72021,dives akuru digit five
+72022,dives akuru digit six
+72023,dives akuru digit seven
+72024,dives akuru digit eight
+72025,dives akuru digit nine

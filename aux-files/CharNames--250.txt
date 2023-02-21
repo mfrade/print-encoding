@@ -1,0 +1,50 @@
+73664,tamil fraction one three-hundred-and-twentieth
+73665,tamil fraction one one-hundred-and-sixtieth
+73666,tamil fraction one eightieth
+73667,tamil fraction one sixty-fourth
+73668,tamil fraction one fortieth
+73669,tamil fraction one thirty-second
+73670,tamil fraction three eightieths
+73671,tamil fraction three sixty-fourths
+73672,tamil fraction one twentieth
+73673,tamil fraction one sixteenth-1
+73674,tamil fraction one sixteenth-2
+73675,tamil fraction one tenth
+73676,tamil fraction one eighth
+73677,tamil fraction three twentieths
+73678,tamil fraction three sixteenths
+73679,tamil fraction one fifth
+73680,tamil fraction one quarter
+73681,tamil fraction one half-1
+73682,tamil fraction one half-2
+73683,tamil fraction three quarters
+73684,tamil fraction downscaling factor kiizh
+73685,tamil sign nel
+73686,tamil sign cevitu
+73687,tamil sign aazhaakku
+73688,tamil sign uzhakku
+73689,tamil sign muuvuzhakku
+73690,tamil sign kuruni
+73691,tamil sign pathakku
+73692,tamil sign mukkuruni
+73693,tamil sign kaacu
+73694,tamil sign panam
+73695,tamil sign pon
+73696,tamil sign varaakan
+73697,tamil sign paaram
+73698,tamil sign kuzhi
+73699,tamil sign veli
+73700,tamil wet cultivation sign
+73701,tamil dry cultivation sign
+73702,tamil land sign
+73703,tamil salt pan sign
+73704,tamil traditional credit sign
+73705,tamil traditional number sign
+73706,tamil current sign
+73707,tamil and odd sign
+73708,tamil spent sign
+73709,tamil total sign
+73710,tamil in possession sign
+73711,tamil starting from sign
+73712,tamil sign muthaliya
+73713,tamil sign vakaiyaraa

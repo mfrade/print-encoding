@@ -1,0 +1,255 @@
+129280,circled cross formee with four dots
+129281,circled cross formee with two dots
+129282,circled cross formee
+129283,left half circle with four dots
+129284,left half circle with three dots
+129285,left half circle with two dots
+129286,left half circle with dot
+129287,left half circle
+129288,downward facing hook
+129289,downward facing notched hook
+129290,downward facing hook with dot
+129291,downward facing notched hook with dot
+129292,pinched fingers
+129293,white heart
+129294,brown heart
+129295,pinching hand
+129296,zipper-mouth face
+129297,money-mouth face
+129298,face with thermometer
+129299,nerd face
+129300,thinking face
+129301,face with head-bandage
+129302,robot face
+129303,hugging face
+129304,sign of the horns
+129305,call me hand
+129306,raised back of hand
+129307,left-facing fist
+129308,right-facing fist
+129309,handshake
+129310,hand with index and middle fingers crossed
+129311,i love you hand sign
+129312,face with cowboy hat
+129313,clown face
+129314,nauseated face
+129315,rolling on the floor laughing
+129316,drooling face
+129317,lying face
+129318,face palm
+129319,sneezing face
+129320,face with one eyebrow raised
+129321,grinning face with star eyes
+129322,grinning face with one large and one small eye
+129323,face with finger covering closed lips
+129324,serious face with symbols covering mouth
+129325,smiling face with smiling eyes and hand covering mouth
+129326,face with open mouth vomiting
+129327,shocked face with exploding head
+129328,pregnant woman
+129329,breast-feeding
+129330,palms up together
+129331,selfie
+129332,prince
+129333,man in tuxedo
+129334,mother christmas
+129335,shrug
+129336,person doing cartwheel
+129337,juggling
+129338,fencer
+129339,modern pentathlon
+129340,wrestlers
+129341,water polo
+129342,handball
+129343,diving mask
+129344,wilted flower
+129345,drum with drumsticks
+129346,clinking glasses
+129347,tumbler glass
+129348,spoon
+129349,goal net
+129350,rifle
+129351,first place medal
+129352,second place medal
+129353,third place medal
+129354,boxing glove
+129355,martial arts uniform
+129356,curling stone
+129357,lacrosse stick and ball
+129358,softball
+129359,flying disc
+129360,croissant
+129361,avocado
+129362,cucumber
+129363,bacon
+129364,potato
+129365,carrot
+129366,baguette bread
+129367,green salad
+129368,shallow pan of food
+129369,stuffed flatbread
+129370,egg
+129371,glass of milk
+129372,peanuts
+129373,kiwifruit
+129374,pancakes
+129375,dumpling
+129376,fortune cookie
+129377,takeout box
+129378,chopsticks
+129379,bowl with spoon
+129380,cup with straw
+129381,coconut
+129382,broccoli
+129383,pie
+129384,pretzel
+129385,cut of meat
+129386,sandwich
+129387,canned food
+129388,leafy green
+129389,mango
+129390,moon cake
+129391,bagel
+129392,smiling face with smiling eyes and three hearts
+129393,yawning face
+129394,smiling face with tear
+129395,face with party horn and party hat
+129396,face with uneven eyes and wavy mouth
+129397,overheated face
+129398,freezing face
+129399,ninja
+129400,disguised face
+129401,face holding back tears
+129402,face with pleading eyes
+129403,sari
+129404,lab coat
+129405,goggles
+129406,hiking boot
+129407,flat shoe
+129408,crab
+129409,lion face
+129410,scorpion
+129411,turkey
+129412,unicorn face
+129413,eagle
+129414,duck
+129415,bat
+129416,shark
+129417,owl
+129418,fox face
+129419,butterfly
+129420,deer
+129421,gorilla
+129422,lizard
+129423,rhinoceros
+129424,shrimp
+129425,squid
+129426,giraffe face
+129427,zebra face
+129428,hedgehog
+129429,sauropod
+129430,t-rex
+129431,cricket
+129432,kangaroo
+129433,llama
+129434,peacock
+129435,hippopotamus
+129436,parrot
+129437,raccoon
+129438,lobster
+129439,mosquito
+129440,microbe
+129441,badger
+129442,swan
+129443,mammoth
+129444,dodo
+129445,sloth
+129446,otter
+129447,orangutan
+129448,skunk
+129449,flamingo
+129450,oyster
+129451,beaver
+129452,bison
+129453,seal
+129454,guide dog
+129455,probing cane
+129456,emoji component red hair
+129457,emoji component curly hair
+129458,emoji component bald
+129459,emoji component white hair
+129460,bone
+129461,leg
+129462,foot
+129463,tooth
+129464,superhero
+129465,supervillain
+129466,safety vest
+129467,ear with hearing aid
+129468,motorized wheelchair
+129469,manual wheelchair
+129470,mechanical arm
+129471,mechanical leg
+129472,cheese wedge
+129473,cupcake
+129474,salt shaker
+129475,beverage box
+129476,garlic
+129477,onion
+129478,falafel
+129479,waffle
+129480,butter
+129481,mate drink
+129482,ice cube
+129483,bubble tea
+129484,troll
+129485,standing person
+129486,kneeling person
+129487,deaf person
+129488,face with monocle
+129489,adult
+129490,child
+129491,older adult
+129492,bearded person
+129493,person with headscarf
+129494,person in steamy room
+129495,person climbing
+129496,person in lotus position
+129497,mage
+129498,fairy
+129499,vampire
+129500,merperson
+129501,elf
+129502,genie
+129503,zombie
+129504,brain
+129505,orange heart
+129506,billed cap
+129507,scarf
+129508,gloves
+129509,coat
+129510,socks
+129511,red gift envelope
+129512,firecracker
+129513,jigsaw puzzle piece
+129514,test tube
+129515,petri dish
+129516,dna double helix
+129517,compass
+129518,abacus
+129519,fire extinguisher
+129520,toolbox
+129521,brick
+129522,magnet
+129523,luggage
+129524,lotion bottle
+129525,spool of thread
+129526,ball of yarn
+129527,safety pin
+129528,teddy bear
+129529,broom
+129530,basket
+129531,roll of paper
+129532,bar of soap
+129533,sponge
+129534,receipt

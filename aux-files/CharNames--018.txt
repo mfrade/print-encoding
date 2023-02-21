@@ -1,0 +1,61 @@
+2048,samaritan letter alaf
+2049,samaritan letter bit
+2050,samaritan letter gaman
+2051,samaritan letter dalat
+2052,samaritan letter iy
+2053,samaritan letter baa
+2054,samaritan letter zen
+2055,samaritan letter it
+2056,samaritan letter tit
+2057,samaritan letter yut
+2058,samaritan letter kaaf
+2059,samaritan letter labat
+2060,samaritan letter mim
+2061,samaritan letter nun
+2062,samaritan letter singaat
+2063,samaritan letter in
+2064,samaritan letter fi
+2065,samaritan letter tsaadiy
+2066,samaritan letter quf
+2067,samaritan letter rish
+2068,samaritan letter shan
+2069,samaritan letter taaf
+2070,samaritan mark in
+2071,samaritan mark in-alaf
+2072,samaritan mark occlusion
+2073,samaritan mark dagesh
+2074,samaritan modifier letter epenthetic yut
+2075,samaritan mark epenthetic yut
+2076,samaritan vowel sign long e
+2077,samaritan vowel sign e
+2078,samaritan vowel sign overlong aa
+2079,samaritan vowel sign long aa
+2080,samaritan vowel sign aa
+2081,samaritan vowel sign overlong a
+2082,samaritan vowel sign long a
+2083,samaritan vowel sign a
+2084,samaritan modifier letter short a
+2085,samaritan vowel sign short a
+2086,samaritan vowel sign long u
+2087,samaritan vowel sign u
+2088,samaritan modifier letter i
+2089,samaritan vowel sign long i
+2090,samaritan vowel sign i
+2091,samaritan vowel sign o
+2092,samaritan vowel sign sukun
+2093,samaritan mark nequdaa
+2096,samaritan punctuation nequdaa
+2097,samaritan punctuation afsaaq
+2098,samaritan punctuation anged
+2099,samaritan punctuation bau
+2100,samaritan punctuation atmaau
+2101,samaritan punctuation shiyyaalaa
+2102,samaritan abbreviation mark
+2103,samaritan punctuation melodic qitsa
+2104,samaritan punctuation ziqaa
+2105,samaritan punctuation qitsa
+2106,samaritan punctuation zaef
+2107,samaritan punctuation turu
+2108,samaritan punctuation arkaanu
+2109,samaritan punctuation sof mashfaat
+2110,samaritan punctuation annaau

@@ -1,0 +1,88 @@
+129648,ballet shoes
+129649,one-piece swimsuit
+129650,briefs
+129651,shorts
+129652,thong sandal
+129656,drop of blood
+129657,adhesive bandage
+129658,stethoscope
+129659,x-ray
+129660,crutch
+129664,yo-yo
+129665,kite
+129666,parachute
+129667,boomerang
+129668,magic wand
+129669,pinata
+129670,nesting dolls
+129680,ringed planet
+129681,chair
+129682,razor
+129683,axe
+129684,diya lamp
+129685,banjo
+129686,military helmet
+129687,accordion
+129688,long drum
+129689,coin
+129690,carpentry saw
+129691,screwdriver
+129692,ladder
+129693,hook
+129694,mirror
+129695,window
+129696,plunger
+129697,sewing needle
+129698,knot
+129699,bucket
+129700,mouse trap
+129701,toothbrush
+129702,headstone
+129703,placard
+129704,rock
+129705,mirror ball
+129706,identification card
+129707,low battery
+129708,hamsa
+129712,fly
+129713,worm
+129714,beetle
+129715,cockroach
+129716,potted plant
+129717,wood
+129718,feather
+129719,lotus
+129720,coral
+129721,empty nest
+129722,nest with eggs
+129728,anatomical heart
+129729,lungs
+129730,people hugging
+129731,pregnant man
+129732,pregnant person
+129733,person with crown
+129744,blueberries
+129745,bell pepper
+129746,olive
+129747,flatbread
+129748,tamale
+129749,fondue
+129750,teapot
+129751,pouring liquid
+129752,beans
+129753,jar
+129760,melting face
+129761,saluting face
+129762,face with open eyes and hand over mouth
+129763,face with peeking eye
+129764,face with diagonal mouth
+129765,dotted line face
+129766,biting lip
+129767,bubbles
+129776,hand with index finger and thumb crossed
+129777,rightwards hand
+129778,leftwards hand
+129779,palm down hand
+129780,palm up hand
+129781,index pointing at the viewer
+129782,heart hands

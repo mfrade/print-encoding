@@ -1,0 +1,150 @@
+129024,leftwards arrow with small triangle arrowhead
+129025,upwards arrow with small triangle arrowhead
+129026,rightwards arrow with small triangle arrowhead
+129027,downwards arrow with small triangle arrowhead
+129028,leftwards arrow with medium triangle arrowhead
+129029,upwards arrow with medium triangle arrowhead
+129030,rightwards arrow with medium triangle arrowhead
+129031,downwards arrow with medium triangle arrowhead
+129032,leftwards arrow with large triangle arrowhead
+129033,upwards arrow with large triangle arrowhead
+129034,rightwards arrow with large triangle arrowhead
+129035,downwards arrow with large triangle arrowhead
+129040,leftwards arrow with small equilateral arrowhead
+129041,upwards arrow with small equilateral arrowhead
+129042,rightwards arrow with small equilateral arrowhead
+129043,downwards arrow with small equilateral arrowhead
+129044,leftwards arrow with equilateral arrowhead
+129045,upwards arrow with equilateral arrowhead
+129046,rightwards arrow with equilateral arrowhead
+129047,downwards arrow with equilateral arrowhead
+129048,heavy leftwards arrow with equilateral arrowhead
+129049,heavy upwards arrow with equilateral arrowhead
+129050,heavy rightwards arrow with equilateral arrowhead
+129051,heavy downwards arrow with equilateral arrowhead
+129052,heavy leftwards arrow with large equilateral arrowhead
+129053,heavy upwards arrow with large equilateral arrowhead
+129054,heavy rightwards arrow with large equilateral arrowhead
+129055,heavy downwards arrow with large equilateral arrowhead
+129056,leftwards triangle-headed arrow with narrow shaft
+129057,upwards triangle-headed arrow with narrow shaft
+129058,rightwards triangle-headed arrow with narrow shaft
+129059,downwards triangle-headed arrow with narrow shaft
+129060,leftwards triangle-headed arrow with medium shaft
+129061,upwards triangle-headed arrow with medium shaft
+129062,rightwards triangle-headed arrow with medium shaft
+129063,downwards triangle-headed arrow with medium shaft
+129064,leftwards triangle-headed arrow with bold shaft
+129065,upwards triangle-headed arrow with bold shaft
+129066,rightwards triangle-headed arrow with bold shaft
+129067,downwards triangle-headed arrow with bold shaft
+129068,leftwards triangle-headed arrow with heavy shaft
+129069,upwards triangle-headed arrow with heavy shaft
+129070,rightwards triangle-headed arrow with heavy shaft
+129071,downwards triangle-headed arrow with heavy shaft
+129072,leftwards triangle-headed arrow with very heavy shaft
+129073,upwards triangle-headed arrow with very heavy shaft
+129074,rightwards triangle-headed arrow with very heavy shaft
+129075,downwards triangle-headed arrow with very heavy shaft
+129076,leftwards finger-post arrow
+129077,upwards finger-post arrow
+129078,rightwards finger-post arrow
+129079,downwards finger-post arrow
+129080,leftwards squared arrow
+129081,upwards squared arrow
+129082,rightwards squared arrow
+129083,downwards squared arrow
+129084,leftwards compressed arrow
+129085,upwards compressed arrow
+129086,rightwards compressed arrow
+129087,downwards compressed arrow
+129088,leftwards heavy compressed arrow
+129089,upwards heavy compressed arrow
+129090,rightwards heavy compressed arrow
+129091,downwards heavy compressed arrow
+129092,leftwards heavy arrow
+129093,upwards heavy arrow
+129094,rightwards heavy arrow
+129095,downwards heavy arrow
+129104,leftwards sans-serif arrow
+129105,upwards sans-serif arrow
+129106,rightwards sans-serif arrow
+129107,downwards sans-serif arrow
+129108,north west sans-serif arrow
+129109,north east sans-serif arrow
+129110,south east sans-serif arrow
+129111,south west sans-serif arrow
+129112,left right sans-serif arrow
+129113,up down sans-serif arrow
+129120,wide-headed leftwards light barb arrow
+129121,wide-headed upwards light barb arrow
+129122,wide-headed rightwards light barb arrow
+129123,wide-headed downwards light barb arrow
+129124,wide-headed north west light barb arrow
+129125,wide-headed north east light barb arrow
+129126,wide-headed south east light barb arrow
+129127,wide-headed south west light barb arrow
+129128,wide-headed leftwards barb arrow
+129129,wide-headed upwards barb arrow
+129130,wide-headed rightwards barb arrow
+129131,wide-headed downwards barb arrow
+129132,wide-headed north west barb arrow
+129133,wide-headed north east barb arrow
+129134,wide-headed south east barb arrow
+129135,wide-headed south west barb arrow
+129136,wide-headed leftwards medium barb arrow
+129137,wide-headed upwards medium barb arrow
+129138,wide-headed rightwards medium barb arrow
+129139,wide-headed downwards medium barb arrow
+129140,wide-headed north west medium barb arrow
+129141,wide-headed north east medium barb arrow
+129142,wide-headed south east medium barb arrow
+129143,wide-headed south west medium barb arrow
+129144,wide-headed leftwards heavy barb arrow
+129145,wide-headed upwards heavy barb arrow
+129146,wide-headed rightwards heavy barb arrow
+129147,wide-headed downwards heavy barb arrow
+129148,wide-headed north west heavy barb arrow
+129149,wide-headed north east heavy barb arrow
+129150,wide-headed south east heavy barb arrow
+129151,wide-headed south west heavy barb arrow
+129152,wide-headed leftwards very heavy barb arrow
+129153,wide-headed upwards very heavy barb arrow
+129154,wide-headed rightwards very heavy barb arrow
+129155,wide-headed downwards very heavy barb arrow
+129156,wide-headed north west very heavy barb arrow
+129157,wide-headed north east very heavy barb arrow
+129158,wide-headed south east very heavy barb arrow
+129159,wide-headed south west very heavy barb arrow
+129168,leftwards triangle arrowhead
+129169,upwards triangle arrowhead
+129170,rightwards triangle arrowhead
+129171,downwards triangle arrowhead
+129172,leftwards white arrow within triangle arrowhead
+129173,upwards white arrow within triangle arrowhead
+129174,rightwards white arrow within triangle arrowhead
+129175,downwards white arrow within triangle arrowhead
+129176,leftwards arrow with notched tail
+129177,upwards arrow with notched tail
+129178,rightwards arrow with notched tail
+129179,downwards arrow with notched tail
+129180,heavy arrow shaft width one
+129181,heavy arrow shaft width two thirds
+129182,heavy arrow shaft width one half
+129183,heavy arrow shaft width one third
+129184,leftwards bottom-shaded white arrow
+129185,rightwards bottom shaded white arrow
+129186,leftwards top shaded white arrow
+129187,rightwards top shaded white arrow
+129188,leftwards left-shaded white arrow
+129189,rightwards right-shaded white arrow
+129190,leftwards right-shaded white arrow
+129191,rightwards left-shaded white arrow
+129192,leftwards back-tilted shadowed white arrow
+129193,rightwards back-tilted shadowed white arrow
+129194,leftwards front-tilted shadowed white arrow
+129195,rightwards front-tilted shadowed white arrow
+129196,white arrow shaft width one
+129197,white arrow shaft width two thirds
+129200,arrow pointing upwards then north west
+129201,arrow pointing rightwards then curving south west

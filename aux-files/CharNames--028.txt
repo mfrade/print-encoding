@@ -1,0 +1,74 @@
+2946,tamil sign anusvara
+2947,tamil sign visarga
+2949,tamil letter a
+2950,tamil letter aa
+2951,tamil letter i
+2952,tamil letter ii
+2953,tamil letter u
+2954,tamil letter uu
+2958,tamil letter e
+2959,tamil letter ee
+2960,tamil letter ai
+2962,tamil letter o
+2963,tamil letter oo
+2964,tamil letter au
+2965,tamil letter ka
+2969,tamil letter nga
+2970,tamil letter ca
+2972,tamil letter ja
+2974,tamil letter nya
+2975,tamil letter tta
+2979,tamil letter nna
+2980,tamil letter ta
+2984,tamil letter na
+2985,tamil letter nnna
+2986,tamil letter pa
+2990,tamil letter ma
+2991,tamil letter ya
+2992,tamil letter ra
+2993,tamil letter rra
+2994,tamil letter la
+2995,tamil letter lla
+2996,tamil letter llla
+2997,tamil letter va
+2998,tamil letter sha
+2999,tamil letter ssa
+3000,tamil letter sa
+3001,tamil letter ha
+3006,tamil vowel sign aa
+3007,tamil vowel sign i
+3008,tamil vowel sign ii
+3009,tamil vowel sign u
+3010,tamil vowel sign uu
+3014,tamil vowel sign e
+3015,tamil vowel sign ee
+3016,tamil vowel sign ai
+3018,tamil vowel sign o
+3019,tamil vowel sign oo
+3020,tamil vowel sign au
+3021,tamil sign virama
+3024,tamil om
+3031,tamil au length mark
+3044,<reserved>
+3045,<reserved>
+3046,tamil digit zero
+3047,tamil digit one
+3048,tamil digit two
+3049,tamil digit three
+3050,tamil digit four
+3051,tamil digit five
+3052,tamil digit six
+3053,tamil digit seven
+3054,tamil digit eight
+3055,tamil digit nine
+3056,tamil number ten
+3057,tamil number one hundred
+3058,tamil number one thousand
+3059,tamil day sign
+3060,tamil month sign
+3061,tamil year sign
+3062,tamil debit sign
+3063,tamil credit sign
+3064,tamil as above sign
+3065,tamil rupee sign
+3066,tamil number sign

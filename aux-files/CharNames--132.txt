@@ -1,0 +1,56 @@
+43072,phags-pa letter ka
+43073,phags-pa letter kha
+43074,phags-pa letter ga
+43075,phags-pa letter nga
+43076,phags-pa letter ca
+43077,phags-pa letter cha
+43078,phags-pa letter ja
+43079,phags-pa letter nya
+43080,phags-pa letter ta
+43081,phags-pa letter tha
+43082,phags-pa letter da
+43083,phags-pa letter na
+43084,phags-pa letter pa
+43085,phags-pa letter pha
+43086,phags-pa letter ba
+43087,phags-pa letter ma
+43088,phags-pa letter tsa
+43089,phags-pa letter tsha
+43090,phags-pa letter dza
+43091,phags-pa letter wa
+43092,phags-pa letter zha
+43093,phags-pa letter za
+43094,phags-pa letter small a
+43095,phags-pa letter ya
+43096,phags-pa letter ra
+43097,phags-pa letter la
+43098,phags-pa letter sha
+43099,phags-pa letter sa
+43100,phags-pa letter ha
+43101,phags-pa letter a
+43102,phags-pa letter i
+43103,phags-pa letter u
+43104,phags-pa letter e
+43105,phags-pa letter o
+43106,phags-pa letter qa
+43107,phags-pa letter xa
+43108,phags-pa letter fa
+43109,phags-pa letter gga
+43110,phags-pa letter ee
+43111,phags-pa subjoined letter wa
+43112,phags-pa subjoined letter ya
+43113,phags-pa letter tta
+43114,phags-pa letter ttha
+43115,phags-pa letter dda
+43116,phags-pa letter nna
+43117,phags-pa letter alternate ya
+43118,phags-pa letter voiceless sha
+43119,phags-pa letter voiced ha
+43120,phags-pa letter aspirated fa
+43121,phags-pa subjoined letter ra
+43122,phags-pa superfixed letter ra
+43123,phags-pa letter candrabindu
+43124,phags-pa single head mark
+43125,phags-pa double head mark
+43126,phags-pa mark shad
+43127,phags-pa mark double shad

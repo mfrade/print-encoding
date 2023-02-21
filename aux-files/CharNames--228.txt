@@ -1,0 +1,82 @@
+70784,tirhuta anji
+70785,tirhuta letter a
+70786,tirhuta letter aa
+70787,tirhuta letter i
+70788,tirhuta letter ii
+70789,tirhuta letter u
+70790,tirhuta letter uu
+70791,tirhuta letter vocalic r
+70792,tirhuta letter vocalic rr
+70793,tirhuta letter vocalic l
+70794,tirhuta letter vocalic ll
+70795,tirhuta letter e
+70796,tirhuta letter ai
+70797,tirhuta letter o
+70798,tirhuta letter au
+70799,tirhuta letter ka
+70800,tirhuta letter kha
+70801,tirhuta letter ga
+70802,tirhuta letter gha
+70803,tirhuta letter nga
+70804,tirhuta letter ca
+70805,tirhuta letter cha
+70806,tirhuta letter ja
+70807,tirhuta letter jha
+70808,tirhuta letter nya
+70809,tirhuta letter tta
+70810,tirhuta letter ttha
+70811,tirhuta letter dda
+70812,tirhuta letter ddha
+70813,tirhuta letter nna
+70814,tirhuta letter ta
+70815,tirhuta letter tha
+70816,tirhuta letter da
+70817,tirhuta letter dha
+70818,tirhuta letter na
+70819,tirhuta letter pa
+70820,tirhuta letter pha
+70821,tirhuta letter ba
+70822,tirhuta letter bha
+70823,tirhuta letter ma
+70824,tirhuta letter ya
+70825,tirhuta letter ra
+70826,tirhuta letter la
+70827,tirhuta letter va
+70828,tirhuta letter sha
+70829,tirhuta letter ssa
+70830,tirhuta letter sa
+70831,tirhuta letter ha
+70832,tirhuta vowel sign aa
+70833,tirhuta vowel sign i
+70834,tirhuta vowel sign ii
+70835,tirhuta vowel sign u
+70836,tirhuta vowel sign uu
+70837,tirhuta vowel sign vocalic r
+70838,tirhuta vowel sign vocalic rr
+70839,tirhuta vowel sign vocalic l
+70840,tirhuta vowel sign vocalic ll
+70841,tirhuta vowel sign e
+70842,tirhuta vowel sign short e
+70843,tirhuta vowel sign ai
+70844,tirhuta vowel sign o
+70845,tirhuta vowel sign short o
+70846,tirhuta vowel sign au
+70847,tirhuta sign candrabindu
+70848,tirhuta sign anusvara
+70849,tirhuta sign visarga
+70850,tirhuta sign virama
+70851,tirhuta sign nukta
+70852,tirhuta sign avagraha
+70853,tirhuta gvang
+70854,tirhuta abbreviation sign
+70855,tirhuta om
+70864,tirhuta digit zero
+70865,tirhuta digit one
+70866,tirhuta digit two
+70867,tirhuta digit three
+70868,tirhuta digit four
+70869,tirhuta digit five
+70870,tirhuta digit six
+70871,tirhuta digit seven
+70872,tirhuta digit eight
+70873,tirhuta digit nine

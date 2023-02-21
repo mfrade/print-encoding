@@ -1,0 +1,91 @@
+3457,sinhala sign candrabindu
+3458,sinhala sign anusvaraya
+3459,sinhala sign visargaya
+3461,sinhala letter ayanna
+3462,sinhala letter aayanna
+3463,sinhala letter aeyanna
+3464,sinhala letter aeeyanna
+3465,sinhala letter iyanna
+3466,sinhala letter iiyanna
+3467,sinhala letter uyanna
+3468,sinhala letter uuyanna
+3469,sinhala letter iruyanna
+3470,sinhala letter iruuyanna
+3471,sinhala letter iluyanna
+3472,sinhala letter iluuyanna
+3473,sinhala letter eyanna
+3474,sinhala letter eeyanna
+3475,sinhala letter aiyanna
+3476,sinhala letter oyanna
+3477,sinhala letter ooyanna
+3478,sinhala letter auyanna
+3482,sinhala letter alpapraana kayanna
+3483,sinhala letter mahaapraana kayanna
+3484,sinhala letter alpapraana gayanna
+3485,sinhala letter mahaapraana gayanna
+3486,sinhala letter kantaja naasikyaya
+3487,sinhala letter sanyaka gayanna
+3488,sinhala letter alpapraana cayanna
+3489,sinhala letter mahaapraana cayanna
+3490,sinhala letter alpapraana jayanna
+3491,sinhala letter mahaapraana jayanna
+3492,sinhala letter taaluja naasikyaya
+3493,sinhala letter taaluja sanyooga naaksikyaya
+3494,sinhala letter sanyaka jayanna
+3495,sinhala letter alpapraana ttayanna
+3496,sinhala letter mahaapraana ttayanna
+3497,sinhala letter alpapraana ddayanna
+3498,sinhala letter mahaapraana ddayanna
+3499,sinhala letter muurdhaja nayanna
+3500,sinhala letter sanyaka ddayanna
+3501,sinhala letter alpapraana tayanna
+3502,sinhala letter mahaapraana tayanna
+3503,sinhala letter alpapraana dayanna
+3504,sinhala letter mahaapraana dayanna
+3505,sinhala letter dantaja nayanna
+3507,sinhala letter sanyaka dayanna
+3508,sinhala letter alpapraana payanna
+3509,sinhala letter mahaapraana payanna
+3510,sinhala letter alpapraana bayanna
+3511,sinhala letter mahaapraana bayanna
+3512,sinhala letter mayanna
+3513,sinhala letter amba bayanna
+3514,sinhala letter yayanna
+3515,sinhala letter rayanna
+3517,sinhala letter dantaja layanna
+3520,sinhala letter vayanna
+3521,sinhala letter taaluja sayanna
+3522,sinhala letter muurdhaja sayanna
+3523,sinhala letter dantaja sayanna
+3524,sinhala letter hayanna
+3525,sinhala letter muurdhaja layanna
+3526,sinhala letter fayanna
+3530,sinhala sign al-lakuna
+3535,sinhala vowel sign aela-pilla
+3536,sinhala vowel sign ketti aeda-pilla
+3537,sinhala vowel sign diga aeda-pilla
+3538,sinhala vowel sign ketti is-pilla
+3539,sinhala vowel sign diga is-pilla
+3540,sinhala vowel sign ketti paa-pilla
+3542,sinhala vowel sign diga paa-pilla
+3544,sinhala vowel sign gaetta-pilla
+3545,sinhala vowel sign kombuva
+3546,sinhala vowel sign diga kombuva
+3547,sinhala vowel sign kombu deka
+3548,sinhala vowel sign kombuva haa aela-pilla
+3549,sinhala vowel sign kombuva haa diga aela-pilla
+3550,sinhala vowel sign kombuva haa gayanukitta
+3551,sinhala vowel sign gayanukitta
+3558,sinhala lith digit zero
+3559,sinhala lith digit one
+3560,sinhala lith digit two
+3561,sinhala lith digit three
+3562,sinhala lith digit four
+3563,sinhala lith digit five
+3564,sinhala lith digit six
+3565,sinhala lith digit seven
+3566,sinhala lith digit eight
+3567,sinhala lith digit nine
+3570,sinhala vowel sign diga gaetta-pilla
+3571,sinhala vowel sign diga gayanukitta
+3572,sinhala punctuation kunddaliya

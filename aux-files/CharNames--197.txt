@@ -1,0 +1,68 @@
+68096,kharoshthi letter a
+68097,kharoshthi vowel sign i
+68098,kharoshthi vowel sign u
+68099,kharoshthi vowel sign vocalic r
+68101,kharoshthi vowel sign e
+68102,kharoshthi vowel sign o
+68108,kharoshthi vowel length mark
+68109,kharoshthi sign double ring below
+68110,kharoshthi sign anusvara
+68111,kharoshthi sign visarga
+68112,kharoshthi letter ka
+68113,kharoshthi letter kha
+68114,kharoshthi letter ga
+68115,kharoshthi letter gha
+68117,kharoshthi letter ca
+68118,kharoshthi letter cha
+68119,kharoshthi letter ja
+68121,kharoshthi letter nya
+68122,kharoshthi letter tta
+68123,kharoshthi letter ttha
+68124,kharoshthi letter dda
+68125,kharoshthi letter ddha
+68126,kharoshthi letter nna
+68127,kharoshthi letter ta
+68128,kharoshthi letter tha
+68129,kharoshthi letter da
+68130,kharoshthi letter dha
+68131,kharoshthi letter na
+68132,kharoshthi letter pa
+68133,kharoshthi letter pha
+68134,kharoshthi letter ba
+68135,kharoshthi letter bha
+68136,kharoshthi letter ma
+68137,kharoshthi letter ya
+68138,kharoshthi letter ra
+68139,kharoshthi letter la
+68140,kharoshthi letter va
+68141,kharoshthi letter sha
+68142,kharoshthi letter ssa
+68143,kharoshthi letter sa
+68144,kharoshthi letter za
+68145,kharoshthi letter ha
+68146,kharoshthi letter kka
+68147,kharoshthi letter tttha
+68148,kharoshthi letter ttta
+68149,kharoshthi letter vha
+68152,kharoshthi sign bar above
+68153,kharoshthi sign cauda
+68154,kharoshthi sign dot below
+68159,kharoshthi virama
+68160,kharoshthi digit one
+68161,kharoshthi digit two
+68162,kharoshthi digit three
+68163,kharoshthi digit four
+68164,kharoshthi number ten
+68165,kharoshthi number twenty
+68166,kharoshthi number one hundred
+68167,kharoshthi number one thousand
+68168,kharoshthi fraction one half
+68176,kharoshthi punctuation dot
+68177,kharoshthi punctuation small circle
+68178,kharoshthi punctuation circle
+68179,kharoshthi punctuation crescent bar
+68180,kharoshthi punctuation mangalam
+68181,kharoshthi punctuation lotus
+68182,kharoshthi punctuation danda
+68183,kharoshthi punctuation double danda
+68184,kharoshthi punctuation lines

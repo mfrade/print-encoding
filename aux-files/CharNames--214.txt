@@ -1,0 +1,28 @@
+69552,chorasmian letter aleph
+69553,chorasmian letter small aleph
+69554,chorasmian letter beth
+69555,chorasmian letter gimel
+69556,chorasmian letter daleth
+69557,chorasmian letter he
+69558,chorasmian letter waw
+69559,chorasmian letter curled waw
+69560,chorasmian letter zayin
+69561,chorasmian letter heth
+69562,chorasmian letter yodh
+69563,chorasmian letter kaph
+69564,chorasmian letter lamedh
+69565,chorasmian letter mem
+69566,chorasmian letter nun
+69567,chorasmian letter samekh
+69568,chorasmian letter ayin
+69569,chorasmian letter pe
+69570,chorasmian letter resh
+69571,chorasmian letter shin
+69572,chorasmian letter taw
+69573,chorasmian number one
+69574,chorasmian number two
+69575,chorasmian number three
+69576,chorasmian number four
+69577,chorasmian number ten
+69578,chorasmian number twenty
+69579,chorasmian number one hundred

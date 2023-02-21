@@ -1,0 +1,61 @@
+1984,nko digit zero
+1985,nko digit one
+1986,nko digit two
+1987,nko digit three
+1988,nko digit four
+1989,nko digit five
+1990,nko digit six
+1991,nko digit seven
+1992,nko digit eight
+1993,nko digit nine
+1994,nko letter a
+1995,nko letter ee
+1996,nko letter i
+1997,nko letter e
+1998,nko letter u
+1999,nko letter oo
+2000,nko letter o
+2001,nko letter dagbasinna
+2002,nko letter n
+2003,nko letter ba
+2004,nko letter pa
+2005,nko letter ta
+2006,nko letter ja
+2007,nko letter cha
+2008,nko letter da
+2009,nko letter ra
+2010,nko letter rra
+2011,nko letter sa
+2012,nko letter gba
+2013,nko letter fa
+2014,nko letter ka
+2015,nko letter la
+2016,nko letter na woloso
+2017,nko letter ma
+2018,nko letter nya
+2019,nko letter na
+2020,nko letter ha
+2021,nko letter wa
+2022,nko letter ya
+2023,nko letter nya woloso
+2024,nko letter jona ja
+2025,nko letter jona cha
+2026,nko letter jona ra
+2027,nko combining short high tone
+2028,nko combining short low tone
+2029,nko combining short rising tone
+2030,nko combining long descending tone
+2031,nko combining long high tone
+2032,nko combining long low tone
+2033,nko combining long rising tone
+2034,nko combining nasalization mark
+2035,nko combining double dot above
+2036,nko high tone apostrophe
+2037,nko low tone apostrophe
+2038,nko symbol oo dennen
+2039,nko symbol gbakurunen
+2040,nko comma
+2041,nko exclamation mark
+2042,nko lajanyalan
+2045,nko dantayalan
+2046,nko dorome sign

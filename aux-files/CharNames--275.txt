@@ -1,0 +1,142 @@
+113664,duployan letter h
+113665,duployan letter x
+113666,duployan letter p
+113667,duployan letter t
+113668,duployan letter f
+113669,duployan letter k
+113670,duployan letter l
+113671,duployan letter b
+113672,duployan letter d
+113673,duployan letter v
+113674,duployan letter g
+113675,duployan letter r
+113676,duployan letter p n
+113677,duployan letter d s
+113678,duployan letter f n
+113679,duployan letter k m
+113680,duployan letter r s
+113681,duployan letter th
+113682,duployan letter sloan dh
+113683,duployan letter dh
+113684,duployan letter kk
+113685,duployan letter sloan j
+113686,duployan letter hl
+113687,duployan letter lh
+113688,duployan letter rh
+113689,duployan letter m
+113690,duployan letter n
+113691,duployan letter j
+113692,duployan letter s
+113693,duployan letter m n
+113694,duployan letter n m
+113695,duployan letter j m
+113696,duployan letter s j
+113697,duployan letter m with dot
+113698,duployan letter n with dot
+113699,duployan letter j with dot
+113700,duployan letter j with dots inside and above
+113701,duployan letter s with dot
+113702,duployan letter s with dot below
+113703,duployan letter m s
+113704,duployan letter n s
+113705,duployan letter j s
+113706,duployan letter s s
+113707,duployan letter m n s
+113708,duployan letter n m s
+113709,duployan letter j m s
+113710,duployan letter s j s
+113711,duployan letter j s with dot
+113712,duployan letter j n
+113713,duployan letter j n s
+113714,duployan letter s t
+113715,duployan letter s t r
+113716,duployan letter s p
+113717,duployan letter s p r
+113718,duployan letter t s
+113719,duployan letter t r s
+113720,duployan letter w
+113721,duployan letter wh
+113722,duployan letter w r
+113723,duployan letter s n
+113724,duployan letter s m
+113725,duployan letter k r s
+113726,duployan letter g r s
+113727,duployan letter s k
+113728,duployan letter s k r
+113729,duployan letter a
+113730,duployan letter sloan ow
+113731,duployan letter oa
+113732,duployan letter o
+113733,duployan letter aou
+113734,duployan letter i
+113735,duployan letter e
+113736,duployan letter ie
+113737,duployan letter short i
+113738,duployan letter ui
+113739,duployan letter ee
+113740,duployan letter sloan eh
+113741,duployan letter romanian i
+113742,duployan letter sloan ee
+113743,duployan letter long i
+113744,duployan letter ye
+113745,duployan letter u
+113746,duployan letter eu
+113747,duployan letter xw
+113748,duployan letter u n
+113749,duployan letter long u
+113750,duployan letter romanian u
+113751,duployan letter uh
+113752,duployan letter sloan u
+113753,duployan letter ooh
+113754,duployan letter ow
+113755,duployan letter ou
+113756,duployan letter wa
+113757,duployan letter wo
+113758,duployan letter wi
+113759,duployan letter wei
+113760,duployan letter wow
+113761,duployan letter nasal u
+113762,duployan letter nasal o
+113763,duployan letter nasal i
+113764,duployan letter nasal a
+113765,duployan letter pernin an
+113766,duployan letter pernin am
+113767,duployan letter sloan en
+113768,duployan letter sloan an
+113769,duployan letter sloan on
+113770,duployan letter vocalic m
+113776,duployan affix left horizontal secant
+113777,duployan affix mid horizontal secant
+113778,duployan affix right horizontal secant
+113779,duployan affix low vertical secant
+113780,duployan affix mid vertical secant
+113781,duployan affix high vertical secant
+113782,duployan affix attached secant
+113783,duployan affix attached left-to-right secant
+113784,duployan affix attached tangent
+113785,duployan affix attached tail
+113786,duployan affix attached e hook
+113787,duployan affix attached i hook
+113788,duployan affix attached tangent hook
+113792,duployan affix high acute
+113793,duployan affix high tight acute
+113794,duployan affix high grave
+113795,duployan affix high long grave
+113796,duployan affix high dot
+113797,duployan affix high circle
+113798,duployan affix high line
+113799,duployan affix high wave
+113800,duployan affix high vertical
+113808,duployan affix low acute
+113809,duployan affix low tight acute
+113810,duployan affix low grave
+113811,duployan affix low long grave
+113812,duployan affix low dot
+113813,duployan affix low circle
+113814,duployan affix low line
+113815,duployan affix low wave
+113816,duployan affix low vertical
+113817,duployan affix low arrow
+113820,duployan sign o with cross
+113821,duployan thick letter selector
+113822,duployan double mark

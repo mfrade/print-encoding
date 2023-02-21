@@ -1,0 +1,26 @@
+4992,ethiopic syllable sebatbeit mwa
+4993,ethiopic syllable mwi
+4994,ethiopic syllable mwee
+4995,ethiopic syllable mwe
+4996,ethiopic syllable sebatbeit bwa
+4997,ethiopic syllable bwi
+4998,ethiopic syllable bwee
+4999,ethiopic syllable bwe
+5000,ethiopic syllable sebatbeit fwa
+5001,ethiopic syllable fwi
+5002,ethiopic syllable fwee
+5003,ethiopic syllable fwe
+5004,ethiopic syllable sebatbeit pwa
+5005,ethiopic syllable pwi
+5006,ethiopic syllable pwee
+5007,ethiopic syllable pwe
+5008,ethiopic tonal mark yizet
+5009,ethiopic tonal mark deret
+5010,ethiopic tonal mark rikrik
+5011,ethiopic tonal mark short rikrik
+5012,ethiopic tonal mark difat
+5013,ethiopic tonal mark kenat
+5014,ethiopic tonal mark chiret
+5015,ethiopic tonal mark hidet
+5016,ethiopic tonal mark deret-hidet
+5017,ethiopic tonal mark kurt

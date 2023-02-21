@@ -1,0 +1,90 @@
+43392,javanese sign panyangga
+43393,javanese sign cecak
+43394,javanese sign layar
+43395,javanese sign wignyan
+43396,javanese letter a
+43397,javanese letter i kawi
+43398,javanese letter i
+43399,javanese letter ii
+43400,javanese letter u
+43401,javanese letter pa cerek
+43402,javanese letter nga lelet
+43403,javanese letter nga lelet raswadi
+43404,javanese letter e
+43405,javanese letter ai
+43406,javanese letter o
+43407,javanese letter ka
+43408,javanese letter ka sasak
+43409,javanese letter ka murda
+43410,javanese letter ga
+43411,javanese letter ga murda
+43412,javanese letter nga
+43413,javanese letter ca
+43414,javanese letter ca murda
+43415,javanese letter ja
+43416,javanese letter nya murda
+43417,javanese letter ja mahaprana
+43418,javanese letter nya
+43419,javanese letter tta
+43420,javanese letter tta mahaprana
+43421,javanese letter dda
+43422,javanese letter dda mahaprana
+43423,javanese letter na murda
+43424,javanese letter ta
+43425,javanese letter ta murda
+43426,javanese letter da
+43427,javanese letter da mahaprana
+43428,javanese letter na
+43429,javanese letter pa
+43430,javanese letter pa murda
+43431,javanese letter ba
+43432,javanese letter ba murda
+43433,javanese letter ma
+43434,javanese letter ya
+43435,javanese letter ra
+43436,javanese letter ra agung
+43437,javanese letter la
+43438,javanese letter wa
+43439,javanese letter sa murda
+43440,javanese letter sa mahaprana
+43441,javanese letter sa
+43442,javanese letter ha
+43443,javanese sign cecak telu
+43444,javanese vowel sign tarung
+43445,javanese vowel sign tolong
+43446,javanese vowel sign wulu
+43447,javanese vowel sign wulu melik
+43448,javanese vowel sign suku
+43449,javanese vowel sign suku mendut
+43450,javanese vowel sign taling
+43451,javanese vowel sign dirga mure
+43452,javanese vowel sign pepet
+43453,javanese consonant sign keret
+43454,javanese consonant sign pengkal
+43455,javanese consonant sign cakra
+43456,javanese pangkon
+43457,javanese left rerenggan
+43458,javanese right rerenggan
+43459,javanese pada andap
+43460,javanese pada madya
+43461,javanese pada luhur
+43462,javanese pada windu
+43463,javanese pada pangkat
+43464,javanese pada lingsa
+43465,javanese pada lungsi
+43466,javanese pada adeg
+43467,javanese pada adeg adeg
+43468,javanese pada piseleh
+43469,javanese turned pada piseleh
+43471,javanese pangrangkep
+43472,javanese digit zero
+43473,javanese digit one
+43474,javanese digit two
+43475,javanese digit three
+43476,javanese digit four
+43477,javanese digit five
+43478,javanese digit six
+43479,javanese digit seven
+43480,javanese digit eight
+43481,javanese digit nine
+43486,javanese pada tirta tumetes

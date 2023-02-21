@@ -1,0 +1,60 @@
+8528,vulgar fraction one seventh
+8529,vulgar fraction one ninth
+8530,vulgar fraction one tenth
+8531,vulgar fraction one third
+8532,vulgar fraction two thirds
+8533,vulgar fraction one fifth
+8534,vulgar fraction two fifths
+8535,vulgar fraction three fifths
+8536,vulgar fraction four fifths
+8537,vulgar fraction one sixth
+8538,vulgar fraction five sixths
+8539,vulgar fraction one eighth
+8540,vulgar fraction three eighths
+8541,vulgar fraction five eighths
+8542,vulgar fraction seven eighths
+8543,fraction numerator one
+8544,roman numeral one
+8545,roman numeral two
+8546,roman numeral three
+8547,roman numeral four
+8548,roman numeral five
+8549,roman numeral six
+8550,roman numeral seven
+8551,roman numeral eight
+8552,roman numeral nine
+8553,roman numeral ten
+8554,roman numeral eleven
+8555,roman numeral twelve
+8556,roman numeral fifty
+8557,roman numeral one hundred
+8558,roman numeral five hundred
+8559,roman numeral one thousand
+8560,small roman numeral one
+8561,small roman numeral two
+8562,small roman numeral three
+8563,small roman numeral four
+8564,small roman numeral five
+8565,small roman numeral six
+8566,small roman numeral seven
+8567,small roman numeral eight
+8568,small roman numeral nine
+8569,small roman numeral ten
+8570,small roman numeral eleven
+8571,small roman numeral twelve
+8572,small roman numeral fifty
+8573,small roman numeral one hundred
+8574,small roman numeral five hundred
+8575,small roman numeral one thousand
+8576,roman numeral one thousand c d
+8577,roman numeral five thousand
+8578,roman numeral ten thousand
+8579,roman numeral reversed one hundred
+8580,latin small letter reversed c
+8581,roman numeral six late form
+8582,roman numeral fifty early form
+8583,roman numeral fifty thousand
+8584,roman numeral one hundred thousand
+8585,vulgar fraction zero thirds
+8586,turned digit two
+8587,turned digit three

@@ -1,0 +1,116 @@
+128768,alchemical symbol for quintessence
+128769,alchemical symbol for air
+128770,alchemical symbol for fire
+128771,alchemical symbol for earth
+128772,alchemical symbol for water
+128773,alchemical symbol for aquafortis
+128774,alchemical symbol for aqua regia
+128775,alchemical symbol for aqua regia-2
+128776,alchemical symbol for aqua vitae
+128777,alchemical symbol for aqua vitae-2
+128778,alchemical symbol for vinegar
+128779,alchemical symbol for vinegar-2
+128780,alchemical symbol for vinegar-3
+128781,alchemical symbol for sulfur
+128782,alchemical symbol for philosophers sulfur
+128783,alchemical symbol for black sulfur
+128784,alchemical symbol for mercury sublimate
+128785,alchemical symbol for mercury sublimate-2
+128786,alchemical symbol for mercury sublimate-3
+128787,alchemical symbol for cinnabar
+128788,alchemical symbol for salt
+128789,alchemical symbol for nitre
+128790,alchemical symbol for vitriol
+128791,alchemical symbol for vitriol-2
+128792,alchemical symbol for rock salt
+128793,alchemical symbol for rock salt-2
+128794,alchemical symbol for gold
+128795,alchemical symbol for silver
+128796,alchemical symbol for iron ore
+128797,alchemical symbol for iron ore-2
+128798,alchemical symbol for crocus of iron
+128799,alchemical symbol for regulus of iron
+128800,alchemical symbol for copper ore
+128801,alchemical symbol for iron-copper ore
+128802,alchemical symbol for sublimate of copper
+128803,alchemical symbol for crocus of copper
+128804,alchemical symbol for crocus of copper-2
+128805,alchemical symbol for copper antimoniate
+128806,alchemical symbol for salt of copper antimoniate
+128807,alchemical symbol for sublimate of salt of copper
+128808,alchemical symbol for verdigris
+128809,alchemical symbol for tin ore
+128810,alchemical symbol for lead ore
+128811,alchemical symbol for antimony ore
+128812,alchemical symbol for sublimate of antimony
+128813,alchemical symbol for salt of antimony
+128814,alchemical symbol for sublimate of salt of antimony
+128815,alchemical symbol for vinegar of antimony
+128816,alchemical symbol for regulus of antimony
+128817,alchemical symbol for regulus of antimony-2
+128818,alchemical symbol for regulus
+128819,alchemical symbol for regulus-2
+128820,alchemical symbol for regulus-3
+128821,alchemical symbol for regulus-4
+128822,alchemical symbol for alkali
+128823,alchemical symbol for alkali-2
+128824,alchemical symbol for marcasite
+128825,alchemical symbol for sal-ammoniac
+128826,alchemical symbol for arsenic
+128827,alchemical symbol for realgar
+128828,alchemical symbol for realgar-2
+128829,alchemical symbol for auripigment
+128830,alchemical symbol for bismuth ore
+128831,alchemical symbol for tartar
+128832,alchemical symbol for tartar-2
+128833,alchemical symbol for quick lime
+128834,alchemical symbol for borax
+128835,alchemical symbol for borax-2
+128836,alchemical symbol for borax-3
+128837,alchemical symbol for alum
+128838,alchemical symbol for oil
+128839,alchemical symbol for spirit
+128840,alchemical symbol for tincture
+128841,alchemical symbol for gum
+128842,alchemical symbol for wax
+128843,alchemical symbol for powder
+128844,alchemical symbol for calx
+128845,alchemical symbol for tutty
+128846,alchemical symbol for caput mortuum
+128847,alchemical symbol for scepter of jove
+128848,alchemical symbol for caduceus
+128849,alchemical symbol for trident
+128850,alchemical symbol for starred trident
+128851,alchemical symbol for lodestone
+128852,alchemical symbol for soap
+128853,alchemical symbol for urine
+128854,alchemical symbol for horse dung
+128855,alchemical symbol for ashes
+128856,alchemical symbol for pot ashes
+128857,alchemical symbol for brick
+128858,alchemical symbol for powdered brick
+128859,alchemical symbol for amalgam
+128860,alchemical symbol for stratum super stratum
+128861,alchemical symbol for stratum super stratum-2
+128862,alchemical symbol for sublimation
+128863,alchemical symbol for precipitate
+128864,alchemical symbol for distill
+128865,alchemical symbol for dissolve
+128866,alchemical symbol for dissolve-2
+128867,alchemical symbol for purify
+128868,alchemical symbol for putrefaction
+128869,alchemical symbol for crucible
+128870,alchemical symbol for crucible-2
+128871,alchemical symbol for crucible-3
+128872,alchemical symbol for crucible-4
+128873,alchemical symbol for crucible-5
+128874,alchemical symbol for alembic
+128875,alchemical symbol for bath of mary
+128876,alchemical symbol for bath of vapours
+128877,alchemical symbol for retort
+128878,alchemical symbol for hour
+128879,alchemical symbol for night
+128880,alchemical symbol for day-night
+128881,alchemical symbol for month
+128882,alchemical symbol for half dram
+128883,alchemical symbol for half ounce

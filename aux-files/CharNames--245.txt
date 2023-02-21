@@ -1,0 +1,75 @@
+72960,masaram gondi letter a
+72961,masaram gondi letter aa
+72962,masaram gondi letter i
+72963,masaram gondi letter ii
+72964,masaram gondi letter u
+72965,masaram gondi letter uu
+72966,masaram gondi letter e
+72968,masaram gondi letter ai
+72969,masaram gondi letter o
+72971,masaram gondi letter au
+72972,masaram gondi letter ka
+72973,masaram gondi letter kha
+72974,masaram gondi letter ga
+72975,masaram gondi letter gha
+72976,masaram gondi letter nga
+72977,masaram gondi letter ca
+72978,masaram gondi letter cha
+72979,masaram gondi letter ja
+72980,masaram gondi letter jha
+72981,masaram gondi letter nya
+72982,masaram gondi letter tta
+72983,masaram gondi letter ttha
+72984,masaram gondi letter dda
+72985,masaram gondi letter ddha
+72986,masaram gondi letter nna
+72987,masaram gondi letter ta
+72988,masaram gondi letter tha
+72989,masaram gondi letter da
+72990,masaram gondi letter dha
+72991,masaram gondi letter na
+72992,masaram gondi letter pa
+72993,masaram gondi letter pha
+72994,masaram gondi letter ba
+72995,masaram gondi letter bha
+72996,masaram gondi letter ma
+72997,masaram gondi letter ya
+72998,masaram gondi letter ra
+72999,masaram gondi letter la
+73000,masaram gondi letter va
+73001,masaram gondi letter sha
+73002,masaram gondi letter ssa
+73003,masaram gondi letter sa
+73004,masaram gondi letter ha
+73005,masaram gondi letter lla
+73006,masaram gondi letter kssa
+73007,masaram gondi letter jnya
+73008,masaram gondi letter tra
+73009,masaram gondi vowel sign aa
+73010,masaram gondi vowel sign i
+73011,masaram gondi vowel sign ii
+73012,masaram gondi vowel sign u
+73013,masaram gondi vowel sign uu
+73014,masaram gondi vowel sign vocalic r
+73018,masaram gondi vowel sign e
+73020,masaram gondi vowel sign ai
+73021,masaram gondi vowel sign o
+73023,masaram gondi vowel sign au
+73024,masaram gondi sign anusvara
+73025,masaram gondi sign visarga
+73026,masaram gondi sign nukta
+73027,masaram gondi sign candra
+73028,masaram gondi sign halanta
+73029,masaram gondi virama
+73030,masaram gondi repha
+73031,masaram gondi ra-kara
+73040,masaram gondi digit zero
+73041,masaram gondi digit one
+73042,masaram gondi digit two
+73043,masaram gondi digit three
+73044,masaram gondi digit four
+73045,masaram gondi digit five
+73046,masaram gondi digit six
+73047,masaram gondi digit seven
+73048,masaram gondi digit eight
+73049,masaram gondi digit nine

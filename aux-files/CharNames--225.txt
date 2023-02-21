@@ -1,0 +1,69 @@
+70320,khudawadi letter a
+70321,khudawadi letter aa
+70322,khudawadi letter i
+70323,khudawadi letter ii
+70324,khudawadi letter u
+70325,khudawadi letter uu
+70326,khudawadi letter e
+70327,khudawadi letter ai
+70328,khudawadi letter o
+70329,khudawadi letter au
+70330,khudawadi letter ka
+70331,khudawadi letter kha
+70332,khudawadi letter ga
+70333,khudawadi letter gga
+70334,khudawadi letter gha
+70335,khudawadi letter nga
+70336,khudawadi letter ca
+70337,khudawadi letter cha
+70338,khudawadi letter ja
+70339,khudawadi letter jja
+70340,khudawadi letter jha
+70341,khudawadi letter nya
+70342,khudawadi letter tta
+70343,khudawadi letter ttha
+70344,khudawadi letter dda
+70345,khudawadi letter ddda
+70346,khudawadi letter rra
+70347,khudawadi letter ddha
+70348,khudawadi letter nna
+70349,khudawadi letter ta
+70350,khudawadi letter tha
+70351,khudawadi letter da
+70352,khudawadi letter dha
+70353,khudawadi letter na
+70354,khudawadi letter pa
+70355,khudawadi letter pha
+70356,khudawadi letter ba
+70357,khudawadi letter bba
+70358,khudawadi letter bha
+70359,khudawadi letter ma
+70360,khudawadi letter ya
+70361,khudawadi letter ra
+70362,khudawadi letter la
+70363,khudawadi letter va
+70364,khudawadi letter sha
+70365,khudawadi letter sa
+70366,khudawadi letter ha
+70367,khudawadi sign anusvara
+70368,khudawadi vowel sign aa
+70369,khudawadi vowel sign i
+70370,khudawadi vowel sign ii
+70371,khudawadi vowel sign u
+70372,khudawadi vowel sign uu
+70373,khudawadi vowel sign e
+70374,khudawadi vowel sign ai
+70375,khudawadi vowel sign o
+70376,khudawadi vowel sign au
+70377,khudawadi sign nukta
+70378,khudawadi sign virama
+70384,khudawadi digit zero
+70385,khudawadi digit one
+70386,khudawadi digit two
+70387,khudawadi digit three
+70388,khudawadi digit four
+70389,khudawadi digit five
+70390,khudawadi digit six
+70391,khudawadi digit seven
+70392,khudawadi digit eight
+70393,khudawadi digit nine

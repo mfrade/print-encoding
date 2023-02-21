@@ -1,0 +1,44 @@
+126976,mahjong tile east wind
+126977,mahjong tile south wind
+126978,mahjong tile west wind
+126979,mahjong tile north wind
+126980,mahjong tile red dragon
+126981,mahjong tile green dragon
+126982,mahjong tile white dragon
+126983,mahjong tile one of characters
+126984,mahjong tile two of characters
+126985,mahjong tile three of characters
+126986,mahjong tile four of characters
+126987,mahjong tile five of characters
+126988,mahjong tile six of characters
+126989,mahjong tile seven of characters
+126990,mahjong tile eight of characters
+126991,mahjong tile nine of characters
+126992,mahjong tile one of bamboos
+126993,mahjong tile two of bamboos
+126994,mahjong tile three of bamboos
+126995,mahjong tile four of bamboos
+126996,mahjong tile five of bamboos
+126997,mahjong tile six of bamboos
+126998,mahjong tile seven of bamboos
+126999,mahjong tile eight of bamboos
+127000,mahjong tile nine of bamboos
+127001,mahjong tile one of circles
+127002,mahjong tile two of circles
+127003,mahjong tile three of circles
+127004,mahjong tile four of circles
+127005,mahjong tile five of circles
+127006,mahjong tile six of circles
+127007,mahjong tile seven of circles
+127008,mahjong tile eight of circles
+127009,mahjong tile nine of circles
+127010,mahjong tile plum
+127011,mahjong tile orchid
+127012,mahjong tile bamboo
+127013,mahjong tile chrysanthemum
+127014,mahjong tile spring
+127015,mahjong tile summer
+127016,mahjong tile autumn
+127017,mahjong tile winter
+127018,mahjong tile joker
+127019,mahjong tile back

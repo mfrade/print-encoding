@@ -1,0 +1,123 @@
+65664,linear b ideogram b100 man
+65665,linear b ideogram b102 woman
+65666,linear b ideogram b104 deer
+65667,linear b ideogram b105 equid
+65668,linear b ideogram b105f mare
+65669,linear b ideogram b105m stallion
+65670,linear b ideogram b106f ewe
+65671,linear b ideogram b106m ram
+65672,linear b ideogram b107f she-goat
+65673,linear b ideogram b107m he-goat
+65674,linear b ideogram b108f sow
+65675,linear b ideogram b108m boar
+65676,linear b ideogram b109f cow
+65677,linear b ideogram b109m bull
+65678,linear b ideogram b120 wheat
+65679,linear b ideogram b121 barley
+65680,linear b ideogram b122 olive
+65681,linear b ideogram b123 spice
+65682,linear b ideogram b125 cyperus
+65683,linear b monogram b127 kapo
+65684,linear b monogram b128 kanako
+65685,linear b ideogram b130 oil
+65686,linear b ideogram b131 wine
+65687,linear b ideogram b132
+65688,linear b monogram b133 arepa
+65689,linear b monogram b135 meri
+65690,linear b ideogram b140 bronze
+65691,linear b ideogram b141 gold
+65692,linear b ideogram b142
+65693,linear b ideogram b145 wool
+65694,linear b ideogram b146
+65695,linear b ideogram b150
+65696,linear b ideogram b151 horn
+65697,linear b ideogram b152
+65698,linear b ideogram b153
+65699,linear b ideogram b154
+65700,linear b monogram b156 turo2
+65701,linear b ideogram b157
+65702,linear b ideogram b158
+65703,linear b ideogram b159 cloth
+65704,linear b ideogram b160
+65705,linear b ideogram b161
+65706,linear b ideogram b162 garment
+65707,linear b ideogram b163 armour
+65708,linear b ideogram b164
+65709,linear b ideogram b165
+65710,linear b ideogram b166
+65711,linear b ideogram b167
+65712,linear b ideogram b168
+65713,linear b ideogram b169
+65714,linear b ideogram b170
+65715,linear b ideogram b171
+65716,linear b ideogram b172
+65717,linear b ideogram b173 month
+65718,linear b ideogram b174
+65719,linear b ideogram b176 tree
+65720,linear b ideogram b177
+65721,linear b ideogram b178
+65722,linear b ideogram b179
+65723,linear b ideogram b180
+65724,linear b ideogram b181
+65725,linear b ideogram b182
+65726,linear b ideogram b183
+65727,linear b ideogram b184
+65728,linear b ideogram b185
+65729,linear b ideogram b189
+65730,linear b ideogram b190
+65731,linear b ideogram b191 helmet
+65732,linear b ideogram b220 footstool
+65733,linear b ideogram b225 bathtub
+65734,linear b ideogram b230 spear
+65735,linear b ideogram b231 arrow
+65736,linear b ideogram b232
+65737,linear b ideogram b233 sword
+65738,linear b ideogram b234
+65739,linear b ideogram b236
+65740,linear b ideogram b240 wheeled chariot
+65741,linear b ideogram b241 chariot
+65742,linear b ideogram b242 chariot frame
+65743,linear b ideogram b243 wheel
+65744,linear b ideogram b245
+65745,linear b ideogram b246
+65746,linear b monogram b247 dipte
+65747,linear b ideogram b248
+65748,linear b ideogram b249
+65749,linear b ideogram b251
+65750,linear b ideogram b252
+65751,linear b ideogram b253
+65752,linear b ideogram b254 dart
+65753,linear b ideogram b255
+65754,linear b ideogram b256
+65755,linear b ideogram b257
+65756,linear b ideogram b258
+65757,linear b ideogram b259
+65758,linear b ideogram vessel b155
+65759,linear b ideogram vessel b200
+65760,linear b ideogram vessel b201
+65761,linear b ideogram vessel b202
+65762,linear b ideogram vessel b203
+65763,linear b ideogram vessel b204
+65764,linear b ideogram vessel b205
+65765,linear b ideogram vessel b206
+65766,linear b ideogram vessel b207
+65767,linear b ideogram vessel b208
+65768,linear b ideogram vessel b209
+65769,linear b ideogram vessel b210
+65770,linear b ideogram vessel b211
+65771,linear b ideogram vessel b212
+65772,linear b ideogram vessel b213
+65773,linear b ideogram vessel b214
+65774,linear b ideogram vessel b215
+65775,linear b ideogram vessel b216
+65776,linear b ideogram vessel b217
+65777,linear b ideogram vessel b218
+65778,linear b ideogram vessel b219
+65779,linear b ideogram vessel b221
+65780,linear b ideogram vessel b222
+65781,linear b ideogram vessel b226
+65782,linear b ideogram vessel b227
+65783,linear b ideogram vessel b228
+65784,linear b ideogram vessel b229
+65785,linear b ideogram vessel b250
+65786,linear b ideogram vessel b305

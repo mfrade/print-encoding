@@ -1,0 +1,148 @@
+93952,miao letter pa
+93953,miao letter ba
+93954,miao letter yi pa
+93955,miao letter pla
+93956,miao letter ma
+93957,miao letter mha
+93958,miao letter archaic ma
+93959,miao letter fa
+93960,miao letter va
+93961,miao letter vfa
+93962,miao letter ta
+93963,miao letter da
+93964,miao letter yi tta
+93965,miao letter yi ta
+93966,miao letter tta
+93967,miao letter dda
+93968,miao letter na
+93969,miao letter nha
+93970,miao letter yi nna
+93971,miao letter archaic na
+93972,miao letter nna
+93973,miao letter nnha
+93974,miao letter la
+93975,miao letter lya
+93976,miao letter lha
+93977,miao letter lhya
+93978,miao letter tlha
+93979,miao letter dlha
+93980,miao letter tlhya
+93981,miao letter dlhya
+93982,miao letter ka
+93983,miao letter ga
+93984,miao letter yi ka
+93985,miao letter qa
+93986,miao letter qga
+93987,miao letter nga
+93988,miao letter ngha
+93989,miao letter archaic nga
+93990,miao letter ha
+93991,miao letter xa
+93992,miao letter gha
+93993,miao letter ghha
+93994,miao letter tssa
+93995,miao letter dzza
+93996,miao letter nya
+93997,miao letter nyha
+93998,miao letter tsha
+93999,miao letter dzha
+94000,miao letter yi tsha
+94001,miao letter yi dzha
+94002,miao letter reformed tsha
+94003,miao letter sha
+94004,miao letter ssa
+94005,miao letter zha
+94006,miao letter zsha
+94007,miao letter tsa
+94008,miao letter dza
+94009,miao letter yi tsa
+94010,miao letter sa
+94011,miao letter za
+94012,miao letter zsa
+94013,miao letter zza
+94014,miao letter zzsa
+94015,miao letter archaic zza
+94016,miao letter zzya
+94017,miao letter zzsya
+94018,miao letter wa
+94019,miao letter ah
+94020,miao letter hha
+94021,miao letter bri
+94022,miao letter syi
+94023,miao letter dzyi
+94024,miao letter te
+94025,miao letter tse
+94026,miao letter rte
+94031,miao sign consonant modifier bar
+94032,miao letter nasalization
+94033,miao sign aspiration
+94034,miao sign reformed voicing
+94035,miao sign reformed aspiration
+94036,miao vowel sign a
+94037,miao vowel sign aa
+94038,miao vowel sign ahh
+94039,miao vowel sign an
+94040,miao vowel sign ang
+94041,miao vowel sign o
+94042,miao vowel sign oo
+94043,miao vowel sign wo
+94044,miao vowel sign w
+94045,miao vowel sign e
+94046,miao vowel sign en
+94047,miao vowel sign eng
+94048,miao vowel sign oey
+94049,miao vowel sign i
+94050,miao vowel sign ia
+94051,miao vowel sign ian
+94052,miao vowel sign iang
+94053,miao vowel sign io
+94054,miao vowel sign ie
+94055,miao vowel sign ii
+94056,miao vowel sign iu
+94057,miao vowel sign ing
+94058,miao vowel sign u
+94059,miao vowel sign ua
+94060,miao vowel sign uan
+94061,miao vowel sign uang
+94062,miao vowel sign uu
+94063,miao vowel sign uei
+94064,miao vowel sign ung
+94065,miao vowel sign y
+94066,miao vowel sign yi
+94067,miao vowel sign ae
+94068,miao vowel sign aee
+94069,miao vowel sign err
+94070,miao vowel sign rounded err
+94071,miao vowel sign er
+94072,miao vowel sign rounded er
+94073,miao vowel sign ai
+94074,miao vowel sign ei
+94075,miao vowel sign au
+94076,miao vowel sign ou
+94077,miao vowel sign n
+94078,miao vowel sign ng
+94079,miao vowel sign uog
+94080,miao vowel sign yui
+94081,miao vowel sign og
+94082,miao vowel sign oer
+94083,miao vowel sign vw
+94084,miao vowel sign ig
+94085,miao vowel sign ea
+94086,miao vowel sign iong
+94087,miao vowel sign ui
+94095,miao tone right
+94096,miao tone top right
+94097,miao tone above
+94098,miao tone below
+94099,miao letter tone-2
+94100,miao letter tone-3
+94101,miao letter tone-4
+94102,miao letter tone-5
+94103,miao letter tone-6
+94104,miao letter tone-7
+94105,miao letter tone-8
+94106,miao letter reformed tone-1
+94107,miao letter reformed tone-2
+94108,miao letter reformed tone-4
+94109,miao letter reformed tone-5
+94110,miao letter reformed tone-6

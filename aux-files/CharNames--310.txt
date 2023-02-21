@@ -1,0 +1,102 @@
+128896,black left-pointing isosceles right triangle
+128897,black up-pointing isosceles right triangle
+128898,black right-pointing isosceles right triangle
+128899,black down-pointing isosceles right triangle
+128900,black slightly small circle
+128901,medium bold white circle
+128902,bold white circle
+128903,heavy white circle
+128904,very heavy white circle
+128905,extremely heavy white circle
+128906,white circle containing black small circle
+128907,round target
+128908,black tiny square
+128909,black slightly small square
+128910,light white square
+128911,medium white square
+128912,bold white square
+128913,heavy white square
+128914,very heavy white square
+128915,extremely heavy white square
+128916,white square containing black very small square
+128917,white square containing black medium square
+128918,square target
+128919,black tiny diamond
+128920,black very small diamond
+128921,black medium small diamond
+128922,white diamond containing black very small diamond
+128923,white diamond containing black medium diamond
+128924,diamond target
+128925,black tiny lozenge
+128926,black very small lozenge
+128927,black medium small lozenge
+128928,white lozenge containing black small lozenge
+128929,thin greek cross
+128930,light greek cross
+128931,medium greek cross
+128932,bold greek cross
+128933,very bold greek cross
+128934,very heavy greek cross
+128935,extremely heavy greek cross
+128936,thin saltire
+128937,light saltire
+128938,medium saltire
+128939,bold saltire
+128940,heavy saltire
+128941,very heavy saltire
+128942,extremely heavy saltire
+128943,light five spoked asterisk
+128944,medium five spoked asterisk
+128945,bold five spoked asterisk
+128946,heavy five spoked asterisk
+128947,very heavy five spoked asterisk
+128948,extremely heavy five spoked asterisk
+128949,light six spoked asterisk
+128950,medium six spoked asterisk
+128951,bold six spoked asterisk
+128952,heavy six spoked asterisk
+128953,very heavy six spoked asterisk
+128954,extremely heavy six spoked asterisk
+128955,light eight spoked asterisk
+128956,medium eight spoked asterisk
+128957,bold eight spoked asterisk
+128958,heavy eight spoked asterisk
+128959,very heavy eight spoked asterisk
+128960,light three pointed black star
+128961,medium three pointed black star
+128962,three pointed black star
+128963,medium three pointed pinwheel star
+128964,light four pointed black star
+128965,medium four pointed black star
+128966,four pointed black star
+128967,medium four pointed pinwheel star
+128968,reverse light four pointed pinwheel star
+128969,light five pointed black star
+128970,heavy five pointed black star
+128971,medium six pointed black star
+128972,heavy six pointed black star
+128973,six pointed pinwheel star
+128974,medium eight pointed black star
+128975,heavy eight pointed black star
+128976,very heavy eight pointed black star
+128977,heavy eight pointed pinwheel star
+128978,light twelve pointed black star
+128979,heavy twelve pointed black star
+128980,heavy twelve pointed pinwheel star
+128981,circled triangle
+128982,negative circled triangle
+128983,circled square
+128984,negative circled square
+128992,large orange circle
+128993,large yellow circle
+128994,large green circle
+128995,large purple circle
+128996,large brown circle
+128997,large red square
+128998,large blue square
+128999,large orange square
+129000,large yellow square
+129001,large green square
+129002,large purple square
+129003,large brown square
+129008,heavy equals sign

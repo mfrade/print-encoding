@@ -1,0 +1,95 @@
+32,space
+33,exclamation mark
+34,quotation mark
+35,number sign
+36,dollar sign
+37,percent sign
+38,ampersand
+39,apostrophe
+40,left parenthesis
+41,right parenthesis
+42,asterisk
+43,plus sign
+44,comma
+45,hyphen-minus
+46,full stop
+47,solidus
+48,digit zero
+49,digit one
+50,digit two
+51,digit three
+52,digit four
+53,digit five
+54,digit six
+55,digit seven
+56,digit eight
+57,digit nine
+58,colon
+59,semicolon
+60,less-than sign
+61,equals sign
+62,greater-than sign
+63,question mark
+64,commercial at
+65,latin capital letter a
+66,latin capital letter b
+67,latin capital letter c
+68,latin capital letter d
+69,latin capital letter e
+70,latin capital letter f
+71,latin capital letter g
+72,latin capital letter h
+73,latin capital letter i
+74,latin capital letter j
+75,latin capital letter k
+76,latin capital letter l
+77,latin capital letter m
+78,latin capital letter n
+79,latin capital letter o
+80,latin capital letter p
+81,latin capital letter q
+82,latin capital letter r
+83,latin capital letter s
+84,latin capital letter t
+85,latin capital letter u
+86,latin capital letter v
+87,latin capital letter w
+88,latin capital letter x
+89,latin capital letter y
+90,latin capital letter z
+91,left square bracket
+92,reverse solidus
+93,right square bracket
+94,circumflex accent
+95,low line
+96,grave accent
+97,latin small letter a
+98,latin small letter b
+99,latin small letter c
+100,latin small letter d
+101,latin small letter e
+102,latin small letter f
+103,latin small letter g
+104,latin small letter h
+105,latin small letter i
+106,latin small letter j
+107,latin small letter k
+108,latin small letter l
+109,latin small letter m
+110,latin small letter n
+111,latin small letter o
+112,latin small letter p
+113,latin small letter q
+114,latin small letter r
+115,latin small letter s
+116,latin small letter t
+117,latin small letter u
+118,latin small letter v
+119,latin small letter w
+120,latin small letter x
+121,latin small letter y
+122,latin small letter z
+123,left curly bracket
+124,vertical line
+125,right curly bracket
+126,tilde

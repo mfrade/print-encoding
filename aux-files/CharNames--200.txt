@@ -1,0 +1,51 @@
+68288,manichaean letter aleph
+68289,manichaean letter beth
+68290,manichaean letter bheth
+68291,manichaean letter gimel
+68292,manichaean letter ghimel
+68293,manichaean letter daleth
+68294,manichaean letter he
+68295,manichaean letter waw
+68296,manichaean sign ud
+68297,manichaean letter zayin
+68298,manichaean letter zhayin
+68299,manichaean letter jayin
+68300,manichaean letter jhayin
+68301,manichaean letter heth
+68302,manichaean letter teth
+68303,manichaean letter yodh
+68304,manichaean letter kaph
+68305,manichaean letter xaph
+68306,manichaean letter khaph
+68307,manichaean letter lamedh
+68308,manichaean letter dhamedh
+68309,manichaean letter thamedh
+68310,manichaean letter mem
+68311,manichaean letter nun
+68312,manichaean letter samekh
+68313,manichaean letter ayin
+68314,manichaean letter aayin
+68315,manichaean letter pe
+68316,manichaean letter fe
+68317,manichaean letter sadhe
+68318,manichaean letter qoph
+68319,manichaean letter xoph
+68320,manichaean letter qhoph
+68321,manichaean letter resh
+68322,manichaean letter shin
+68323,manichaean letter sshin
+68324,manichaean letter taw
+68325,manichaean abbreviation mark above
+68326,manichaean abbreviation mark below
+68331,manichaean number one
+68332,manichaean number five
+68333,manichaean number ten
+68334,manichaean number twenty
+68335,manichaean number one hundred
+68336,manichaean punctuation star
+68337,manichaean punctuation fleuron
+68338,manichaean punctuation double dot within dot
+68339,manichaean punctuation dot within dot
+68340,manichaean punctuation dot
+68341,manichaean punctuation two dots
+68342,manichaean punctuation line filler

@@ -1,0 +1,15 @@
+72368,canadian syllabics nattilik hi
+72369,canadian syllabics nattilik hii
+72370,canadian syllabics nattilik ho
+72371,canadian syllabics nattilik hoo
+72372,canadian syllabics nattilik ha
+72373,canadian syllabics nattilik haa
+72374,canadian syllabics nattilik shri
+72375,canadian syllabics nattilik shrii
+72376,canadian syllabics nattilik shro
+72377,canadian syllabics nattilik shroo
+72378,canadian syllabics nattilik shra
+72379,canadian syllabics nattilik shraa
+72380,canadian syllabics spe
+72381,canadian syllabics spi
+72382,canadian syllabics spo

@@ -1,0 +1,67 @@
+6400,limbu vowel-carrier letter
+6401,limbu letter ka
+6402,limbu letter kha
+6403,limbu letter ga
+6404,limbu letter gha
+6405,limbu letter nga
+6406,limbu letter ca
+6407,limbu letter cha
+6408,limbu letter ja
+6409,limbu letter jha
+6410,limbu letter yan
+6411,limbu letter ta
+6412,limbu letter tha
+6413,limbu letter da
+6414,limbu letter dha
+6415,limbu letter na
+6416,limbu letter pa
+6417,limbu letter pha
+6418,limbu letter ba
+6419,limbu letter bha
+6420,limbu letter ma
+6421,limbu letter ya
+6422,limbu letter ra
+6423,limbu letter la
+6424,limbu letter wa
+6425,limbu letter sha
+6426,limbu letter ssa
+6427,limbu letter sa
+6428,limbu letter ha
+6429,limbu letter gyan
+6430,limbu letter tra
+6432,limbu vowel sign a
+6433,limbu vowel sign i
+6434,limbu vowel sign u
+6435,limbu vowel sign ee
+6436,limbu vowel sign ai
+6437,limbu vowel sign oo
+6438,limbu vowel sign au
+6439,limbu vowel sign e
+6440,limbu vowel sign o
+6441,limbu subjoined letter ya
+6442,limbu subjoined letter ra
+6443,limbu subjoined letter wa
+6448,limbu small letter ka
+6449,limbu small letter nga
+6450,limbu small letter anusvara
+6451,limbu small letter ta
+6452,limbu small letter na
+6453,limbu small letter pa
+6454,limbu small letter ma
+6455,limbu small letter ra
+6456,limbu small letter la
+6457,limbu sign mukphreng
+6458,limbu sign kemphreng
+6459,limbu sign sa-i
+6464,limbu sign loo
+6468,limbu exclamation mark
+6469,limbu question mark
+6470,limbu digit zero
+6471,limbu digit one
+6472,limbu digit two
+6473,limbu digit three
+6474,limbu digit four
+6475,limbu digit five
+6476,limbu digit six
+6477,limbu digit seven
+6478,limbu digit eight

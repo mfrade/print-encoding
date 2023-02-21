@@ -1,0 +1,82 @@
+2561,gurmukhi sign adak bindi
+2562,gurmukhi sign bindi
+2563,gurmukhi sign visarga
+2565,gurmukhi letter a
+2566,gurmukhi letter aa
+2567,gurmukhi letter i
+2568,gurmukhi letter ii
+2569,gurmukhi letter u
+2570,gurmukhi letter uu
+2575,gurmukhi letter ee
+2576,gurmukhi letter ai
+2579,gurmukhi letter oo
+2580,gurmukhi letter au
+2581,gurmukhi letter ka
+2582,gurmukhi letter kha
+2583,gurmukhi letter ga
+2584,gurmukhi letter gha
+2585,gurmukhi letter nga
+2586,gurmukhi letter ca
+2587,gurmukhi letter cha
+2588,gurmukhi letter ja
+2589,gurmukhi letter jha
+2590,gurmukhi letter nya
+2591,gurmukhi letter tta
+2592,gurmukhi letter ttha
+2593,gurmukhi letter dda
+2594,gurmukhi letter ddha
+2595,gurmukhi letter nna
+2596,gurmukhi letter ta
+2597,gurmukhi letter tha
+2598,gurmukhi letter da
+2599,gurmukhi letter dha
+2600,gurmukhi letter na
+2602,gurmukhi letter pa
+2603,gurmukhi letter pha
+2604,gurmukhi letter ba
+2605,gurmukhi letter bha
+2606,gurmukhi letter ma
+2607,gurmukhi letter ya
+2608,gurmukhi letter ra
+2610,gurmukhi letter la
+2611,gurmukhi letter lla
+2613,gurmukhi letter va
+2614,gurmukhi letter sha
+2616,gurmukhi letter sa
+2617,gurmukhi letter ha
+2620,gurmukhi sign nukta
+2622,gurmukhi vowel sign aa
+2623,gurmukhi vowel sign i
+2624,gurmukhi vowel sign ii
+2625,gurmukhi vowel sign u
+2626,gurmukhi vowel sign uu
+2631,gurmukhi vowel sign ee
+2632,gurmukhi vowel sign ai
+2635,gurmukhi vowel sign oo
+2636,gurmukhi vowel sign au
+2637,gurmukhi sign virama
+2641,gurmukhi sign udaat
+2649,gurmukhi letter khha
+2650,gurmukhi letter ghha
+2651,gurmukhi letter za
+2652,gurmukhi letter rra
+2654,gurmukhi letter fa
+2660,<reserved>
+2661,<reserved>
+2662,gurmukhi digit zero
+2663,gurmukhi digit one
+2664,gurmukhi digit two
+2665,gurmukhi digit three
+2666,gurmukhi digit four
+2667,gurmukhi digit five
+2668,gurmukhi digit six
+2669,gurmukhi digit seven
+2670,gurmukhi digit eight
+2671,gurmukhi digit nine
+2672,gurmukhi tippi
+2673,gurmukhi addak
+2674,gurmukhi iri
+2675,gurmukhi ura
+2676,gurmukhi ek onkar
+2677,gurmukhi sign yakash
+2678,gurmukhi abbreviation sign

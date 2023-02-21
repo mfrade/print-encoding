@@ -1,0 +1,39 @@
+9216,symbol for null
+9217,symbol for start of heading
+9218,symbol for start of text
+9219,symbol for end of text
+9220,symbol for end of transmission
+9221,symbol for enquiry
+9222,symbol for acknowledge
+9223,symbol for bell
+9224,symbol for backspace
+9225,symbol for horizontal tabulation
+9226,symbol for line feed
+9227,symbol for vertical tabulation
+9228,symbol for form feed
+9229,symbol for carriage return
+9230,symbol for shift out
+9231,symbol for shift in
+9232,symbol for data link escape
+9233,symbol for device control one
+9234,symbol for device control two
+9235,symbol for device control three
+9236,symbol for device control four
+9237,symbol for negative acknowledge
+9238,symbol for synchronous idle
+9239,symbol for end of transmission block
+9240,symbol for cancel
+9241,symbol for end of medium
+9242,symbol for substitute
+9243,symbol for escape
+9244,symbol for file separator
+9245,symbol for group separator
+9246,symbol for record separator
+9247,symbol for unit separator
+9248,symbol for space
+9249,symbol for delete
+9250,blank symbol
+9251,open box
+9252,symbol for newline
+9253,symbol for delete form two
+9254,symbol for substitute form two

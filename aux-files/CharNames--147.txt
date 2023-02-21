@@ -1,0 +1,56 @@
+43968,meetei mayek letter kok
+43969,meetei mayek letter sam
+43970,meetei mayek letter lai
+43971,meetei mayek letter mit
+43972,meetei mayek letter pa
+43973,meetei mayek letter na
+43974,meetei mayek letter chil
+43975,meetei mayek letter til
+43976,meetei mayek letter khou
+43977,meetei mayek letter ngou
+43978,meetei mayek letter thou
+43979,meetei mayek letter wai
+43980,meetei mayek letter yang
+43981,meetei mayek letter huk
+43982,meetei mayek letter un
+43983,meetei mayek letter i
+43984,meetei mayek letter pham
+43985,meetei mayek letter atiya
+43986,meetei mayek letter gok
+43987,meetei mayek letter jham
+43988,meetei mayek letter rai
+43989,meetei mayek letter ba
+43990,meetei mayek letter jil
+43991,meetei mayek letter dil
+43992,meetei mayek letter ghou
+43993,meetei mayek letter dhou
+43994,meetei mayek letter bham
+43995,meetei mayek letter kok lonsum
+43996,meetei mayek letter lai lonsum
+43997,meetei mayek letter mit lonsum
+43998,meetei mayek letter pa lonsum
+43999,meetei mayek letter na lonsum
+44000,meetei mayek letter til lonsum
+44001,meetei mayek letter ngou lonsum
+44002,meetei mayek letter i lonsum
+44003,meetei mayek vowel sign onap
+44004,meetei mayek vowel sign inap
+44005,meetei mayek vowel sign anap
+44006,meetei mayek vowel sign yenap
+44007,meetei mayek vowel sign sounap
+44008,meetei mayek vowel sign unap
+44009,meetei mayek vowel sign cheinap
+44010,meetei mayek vowel sign nung
+44011,meetei mayek cheikhei
+44012,meetei mayek lum iyek
+44013,meetei mayek apun iyek
+44016,meetei mayek digit zero
+44017,meetei mayek digit one
+44018,meetei mayek digit two
+44019,meetei mayek digit three
+44020,meetei mayek digit four
+44021,meetei mayek digit five
+44022,meetei mayek digit six
+44023,meetei mayek digit seven
+44024,meetei mayek digit eight
+44025,meetei mayek digit nine

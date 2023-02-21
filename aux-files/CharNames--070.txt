@@ -1,0 +1,63 @@
+7616,combining dotted grave accent
+7617,combining dotted acute accent
+7618,combining snake below
+7619,combining suspension mark
+7620,combining macron-acute
+7621,combining grave-macron
+7622,combining macron-grave
+7623,combining acute-macron
+7624,combining grave-acute-grave
+7625,combining acute-grave-acute
+7626,combining latin small letter r below
+7627,combining breve-macron
+7628,combining macron-breve
+7629,combining double circumflex above
+7630,combining ogonek above
+7631,combining zigzag below
+7632,combining is below
+7633,combining ur above
+7634,combining us above
+7635,combining latin small letter flattened open a above
+7636,combining latin small letter ae
+7637,combining latin small letter ao
+7638,combining latin small letter av
+7639,combining latin small letter c cedilla
+7640,combining latin small letter insular d
+7641,combining latin small letter eth
+7642,combining latin small letter g
+7643,combining latin letter small capital g
+7644,combining latin small letter k
+7645,combining latin small letter l
+7646,combining latin letter small capital l
+7647,combining latin letter small capital m
+7648,combining latin small letter n
+7649,combining latin letter small capital n
+7650,combining latin letter small capital r
+7651,combining latin small letter r rotunda
+7652,combining latin small letter s
+7653,combining latin small letter long s
+7654,combining latin small letter z
+7655,combining latin small letter alpha
+7656,combining latin small letter b
+7657,combining latin small letter beta
+7658,combining latin small letter schwa
+7659,combining latin small letter f
+7660,combining latin small letter l with double middle tilde
+7661,combining latin small letter o with light centralization stroke
+7662,combining latin small letter p
+7663,combining latin small letter esh
+7664,combining latin small letter u with light centralization stroke
+7665,combining latin small letter w
+7666,combining latin small letter a with diaeresis
+7667,combining latin small letter o with diaeresis
+7668,combining latin small letter u with diaeresis
+7669,combining up tack above
+7670,combining kavyka above right
+7671,combining kavyka above left
+7672,combining dot above left
+7673,combining wide inverted bridge below
+7674,combining dot below left
+7675,combining deletion mark
+7676,combining double inverted breve below
+7677,combining almost equal to below
+7678,combining left arrowhead above

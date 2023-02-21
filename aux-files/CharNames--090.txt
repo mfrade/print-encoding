@@ -1,0 +1,47 @@
+10176,three dimensional angle
+10177,white triangle containing small white triangle
+10178,perpendicular
+10179,open subset
+10180,open superset
+10181,left s-shaped bag delimiter
+10182,right s-shaped bag delimiter
+10183,or with dot inside
+10184,reverse solidus preceding subset
+10185,superset preceding solidus
+10186,vertical bar with horizontal stroke
+10187,mathematical rising diagonal
+10188,long division
+10189,mathematical falling diagonal
+10190,squared logical and
+10191,squared logical or
+10192,white diamond with centred dot
+10193,and with dot
+10194,element of opening upwards
+10195,lower right corner with dot
+10196,upper left corner with dot
+10197,left outer join
+10198,right outer join
+10199,full outer join
+10200,large up tack
+10201,large down tack
+10202,left and right double turnstile
+10203,left and right tack
+10204,left multimap
+10205,long right tack
+10206,long left tack
+10207,up tack with circle above
+10208,lozenge divided by horizontal rule
+10209,white concave-sided diamond
+10210,white concave-sided diamond with leftwards tick
+10211,white concave-sided diamond with rightwards tick
+10212,white square with leftwards tick
+10213,white square with rightwards tick
+10214,mathematical left white square bracket
+10215,mathematical right white square bracket
+10216,mathematical left angle bracket
+10217,mathematical right angle bracket
+10218,mathematical left double angle bracket
+10219,mathematical right double angle bracket
+10220,mathematical left white tortoise shell bracket
+10221,mathematical right white tortoise shell bracket
+10222,mathematical left flattened parenthesis

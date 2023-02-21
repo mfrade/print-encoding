@@ -1,0 +1,212 @@
+129792,block sextant-1
+129793,block sextant-2
+129794,block sextant-12
+129795,block sextant-3
+129796,block sextant-13
+129797,block sextant-23
+129798,block sextant-123
+129799,block sextant-4
+129800,block sextant-14
+129801,block sextant-24
+129802,block sextant-124
+129803,block sextant-34
+129804,block sextant-134
+129805,block sextant-234
+129806,block sextant-1234
+129807,block sextant-5
+129808,block sextant-15
+129809,block sextant-25
+129810,block sextant-125
+129811,block sextant-35
+129812,block sextant-235
+129813,block sextant-1235
+129814,block sextant-45
+129815,block sextant-145
+129816,block sextant-245
+129817,block sextant-1245
+129818,block sextant-345
+129819,block sextant-1345
+129820,block sextant-2345
+129821,block sextant-12345
+129822,block sextant-6
+129823,block sextant-16
+129824,block sextant-26
+129825,block sextant-126
+129826,block sextant-36
+129827,block sextant-136
+129828,block sextant-236
+129829,block sextant-1236
+129830,block sextant-46
+129831,block sextant-146
+129832,block sextant-1246
+129833,block sextant-346
+129834,block sextant-1346
+129835,block sextant-2346
+129836,block sextant-12346
+129837,block sextant-56
+129838,block sextant-156
+129839,block sextant-256
+129840,block sextant-1256
+129841,block sextant-356
+129842,block sextant-1356
+129843,block sextant-2356
+129844,block sextant-12356
+129845,block sextant-456
+129846,block sextant-1456
+129847,block sextant-2456
+129848,block sextant-12456
+129849,block sextant-3456
+129850,block sextant-13456
+129851,block sextant-23456
+129852,lower left block diagonal lower middle left to lower centre
+129853,lower left block diagonal lower middle left to lower right
+129854,lower left block diagonal upper middle left to lower centre
+129855,lower left block diagonal upper middle left to lower right
+129856,lower left block diagonal upper left to lower centre
+129857,lower right block diagonal upper middle left to upper centre
+129858,lower right block diagonal upper middle left to upper right
+129859,lower right block diagonal lower middle left to upper centre
+129860,lower right block diagonal lower middle left to upper right
+129861,lower right block diagonal lower left to upper centre
+129862,lower right block diagonal lower middle left to upper middle right
+129863,lower right block diagonal lower centre to lower middle right
+129864,lower right block diagonal lower left to lower middle right
+129865,lower right block diagonal lower centre to upper middle right
+129866,lower right block diagonal lower left to upper middle right
+129867,lower right block diagonal lower centre to upper right
+129868,lower left block diagonal upper centre to upper middle right
+129869,lower left block diagonal upper left to upper middle right
+129870,lower left block diagonal upper centre to lower middle right
+129871,lower left block diagonal upper left to lower middle right
+129872,lower left block diagonal upper centre to lower right
+129873,lower left block diagonal upper middle left to lower middle right
+129874,upper right block diagonal lower middle left to lower centre
+129875,upper right block diagonal lower middle left to lower right
+129876,upper right block diagonal upper middle left to lower centre
+129877,upper right block diagonal upper middle left to lower right
+129878,upper right block diagonal upper left to lower centre
+129879,upper left block diagonal upper middle left to upper centre
+129880,upper left block diagonal upper middle left to upper right
+129881,upper left block diagonal lower middle left to upper centre
+129882,upper left block diagonal lower middle left to upper right
+129883,upper left block diagonal lower left to upper centre
+129884,upper left block diagonal lower middle left to upper middle right
+129885,upper left block diagonal lower centre to lower middle right
+129886,upper left block diagonal lower left to lower middle right
+129887,upper left block diagonal lower centre to upper middle right
+129888,upper left block diagonal lower left to upper middle right
+129889,upper left block diagonal lower centre to upper right
+129890,upper right block diagonal upper centre to upper middle right
+129891,upper right block diagonal upper left to upper middle right
+129892,upper right block diagonal upper centre to lower middle right
+129893,upper right block diagonal upper left to lower middle right
+129894,upper right block diagonal upper centre to lower right
+129895,upper right block diagonal upper middle left to lower middle right
+129896,upper and right and lower triangular three quarters block
+129897,left and lower and right triangular three quarters block
+129898,upper and left and lower triangular three quarters block
+129899,left and upper and right triangular three quarters block
+129900,left triangular one quarter block
+129901,upper triangular one quarter block
+129902,right triangular one quarter block
+129903,lower triangular one quarter block
+129904,vertical one eighth block-2
+129905,vertical one eighth block-3
+129906,vertical one eighth block-4
+129907,vertical one eighth block-5
+129908,vertical one eighth block-6
+129909,vertical one eighth block-7
+129910,horizontal one eighth block-2
+129911,horizontal one eighth block-3
+129912,horizontal one eighth block-4
+129913,horizontal one eighth block-5
+129914,horizontal one eighth block-6
+129915,horizontal one eighth block-7
+129916,left and lower one eighth block
+129917,left and upper one eighth block
+129918,right and upper one eighth block
+129919,right and lower one eighth block
+129920,upper and lower one eighth block
+129921,horizontal one eighth block-1358
+129922,upper one quarter block
+129923,upper three eighths block
+129924,upper five eighths block
+129925,upper three quarters block
+129926,upper seven eighths block
+129927,right one quarter block
+129928,right three eighths block
+129929,right five eighths block
+129930,right three quarters block
+129931,right seven eighths block
+129932,left half medium shade
+129933,right half medium shade
+129934,upper half medium shade
+129935,lower half medium shade
+129936,inverse medium shade
+129937,upper half block and lower half inverse medium shade
+129938,upper half inverse medium shade and lower half block
+129940,left half inverse medium shade and right half block
+129941,checker board fill
+129942,inverse checker board fill
+129943,heavy horizontal fill
+129944,upper left to lower right fill
+129945,upper right to lower left fill
+129946,upper and lower triangular half block
+129947,left and right triangular half block
+129948,upper left triangular medium shade
+129949,upper right triangular medium shade
+129950,lower right triangular medium shade
+129951,lower left triangular medium shade
+129952,box drawings light diagonal upper centre to middle left
+129953,box drawings light diagonal upper centre to middle right
+129954,box drawings light diagonal middle left to lower centre
+129955,box drawings light diagonal middle right to lower centre
+129956,box drawings light diagonal upper centre to middle left to lower centre
+129957,box drawings light diagonal upper centre to middle right to lower centre
+129958,box drawings light diagonal middle left to lower centre to middle right
+129959,box drawings light diagonal middle left to upper centre to middle right
+129960,box drawings light diagonal upper centre to middle left and middle right to lower centre
+129961,box drawings light diagonal upper centre to middle right and middle left to lower centre
+129962,box drawings light diagonal upper centre to middle right to lower centre to middle left
+129963,box drawings light diagonal upper centre to middle left to lower centre to middle right
+129964,box drawings light diagonal middle left to upper centre to middle right to lower centre
+129965,box drawings light diagonal middle right to upper centre to middle left to lower centre
+129966,box drawings light diagonal diamond
+129967,box drawings light horizontal with vertical stroke
+129968,arrowhead-shaped pointer
+129969,inverse check mark
+129970,left half running man
+129971,right half running man
+129972,inverse downwards arrow with tip leftwards
+129973,leftwards arrow and upper and lower one eighth block
+129974,rightwards arrow and upper and lower one eighth block
+129975,downwards arrow and right one eighth block
+129976,upwards arrow and right one eighth block
+129977,left half folder
+129978,right half folder
+129979,voided greek cross
+129980,right open squared dot
+129981,negative diagonal cross
+129982,negative diagonal middle right to lower centre
+129983,negative diagonal diamond
+129984,white heavy saltire with rounded corners
+129985,left third white right pointing index
+129986,middle third white right pointing index
+129987,right third white right pointing index
+129988,negative squared question mark
+129989,stick figure
+129990,stick figure with arms raised
+129991,stick figure leaning left
+129992,stick figure leaning right
+129993,stick figure with dress
+129994,white up-pointing chevron
+130032,segmented digit zero
+130033,segmented digit one
+130034,segmented digit two
+130035,segmented digit three
+130036,segmented digit four
+130037,segmented digit five
+130038,segmented digit six
+130039,segmented digit seven
+130040,segmented digit eight
+130041,segmented digit nine

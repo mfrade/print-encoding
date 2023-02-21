@@ -1,0 +1,93 @@
+2817,oriya sign candrabindu
+2818,oriya sign anusvara
+2819,oriya sign visarga
+2821,oriya letter a
+2822,oriya letter aa
+2823,oriya letter i
+2824,oriya letter ii
+2825,oriya letter u
+2826,oriya letter uu
+2827,oriya letter vocalic r
+2828,oriya letter vocalic l
+2831,oriya letter e
+2832,oriya letter ai
+2835,oriya letter o
+2836,oriya letter au
+2837,oriya letter ka
+2838,oriya letter kha
+2839,oriya letter ga
+2840,oriya letter gha
+2841,oriya letter nga
+2842,oriya letter ca
+2843,oriya letter cha
+2844,oriya letter ja
+2845,oriya letter jha
+2846,oriya letter nya
+2847,oriya letter tta
+2848,oriya letter ttha
+2849,oriya letter dda
+2850,oriya letter ddha
+2851,oriya letter nna
+2852,oriya letter ta
+2853,oriya letter tha
+2854,oriya letter da
+2855,oriya letter dha
+2856,oriya letter na
+2858,oriya letter pa
+2859,oriya letter pha
+2860,oriya letter ba
+2861,oriya letter bha
+2862,oriya letter ma
+2863,oriya letter ya
+2864,oriya letter ra
+2866,oriya letter la
+2867,oriya letter lla
+2869,oriya letter va
+2870,oriya letter sha
+2871,oriya letter ssa
+2872,oriya letter sa
+2873,oriya letter ha
+2876,oriya sign nukta
+2877,oriya sign avagraha
+2878,oriya vowel sign aa
+2879,oriya vowel sign i
+2880,oriya vowel sign ii
+2881,oriya vowel sign u
+2882,oriya vowel sign uu
+2883,oriya vowel sign vocalic r
+2884,oriya vowel sign vocalic rr
+2887,oriya vowel sign e
+2888,oriya vowel sign ai
+2891,oriya vowel sign o
+2892,oriya vowel sign au
+2893,oriya sign virama
+2901,oriya sign overline
+2902,oriya ai length mark
+2903,oriya au length mark
+2908,oriya letter rra
+2909,oriya letter rha
+2911,oriya letter yya
+2912,oriya letter vocalic rr
+2913,oriya letter vocalic ll
+2914,oriya vowel sign vocalic l
+2915,oriya vowel sign vocalic ll
+2916,<reserved>
+2917,<reserved>
+2918,oriya digit zero
+2919,oriya digit one
+2920,oriya digit two
+2921,oriya digit three
+2922,oriya digit four
+2923,oriya digit five
+2924,oriya digit six
+2925,oriya digit seven
+2926,oriya digit eight
+2927,oriya digit nine
+2928,oriya isshar
+2929,oriya letter wa
+2930,oriya fraction one quarter
+2931,oriya fraction one half
+2932,oriya fraction three quarters
+2933,oriya fraction one sixteenth
+2934,oriya fraction one eighth
+2935,oriya fraction three sixteenths

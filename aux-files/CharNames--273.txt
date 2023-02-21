@@ -1,0 +1,7 @@
+110928,hiragana letter small wi
+110929,hiragana letter small we
+110930,hiragana letter small wo
+110948,katakana letter small wi
+110949,katakana letter small we
+110950,katakana letter small wo
+110951,katakana letter small n

@@ -1,0 +1,79 @@
+8448,account of
+8449,addressed to the subject
+8450,double-struck capital c
+8451,degree celsius
+8452,centre line symbol
+8453,care of
+8454,cada una
+8455,euler constant
+8456,scruple
+8457,degree fahrenheit
+8458,script small g
+8459,script capital h
+8460,black-letter capital h
+8461,double-struck capital h
+8462,planck constant
+8463,planck constant over two pi
+8464,script capital i
+8465,black-letter capital i
+8466,script capital l
+8467,script small l
+8468,l b bar symbol
+8469,double-struck capital n
+8470,numero sign
+8471,sound recording copyright
+8472,script capital p
+8473,double-struck capital p
+8474,double-struck capital q
+8475,script capital r
+8476,black-letter capital r
+8477,double-struck capital r
+8478,prescription take
+8479,response
+8480,service mark
+8481,telephone sign
+8482,trade mark sign
+8483,versicle
+8484,double-struck capital z
+8485,ounce sign
+8486,ohm sign
+8487,inverted ohm sign
+8488,black-letter capital z
+8489,turned greek small letter iota
+8490,kelvin sign
+8491,angstrom sign
+8492,script capital b
+8493,black-letter capital c
+8494,estimated symbol
+8495,script small e
+8496,script capital e
+8497,script capital f
+8498,turned capital f
+8499,script capital m
+8500,script small o
+8501,alef symbol
+8502,bet symbol
+8503,gimel symbol
+8504,dalet symbol
+8505,information source
+8506,rotated capital q
+8507,facsimile sign
+8508,double-struck small pi
+8509,double-struck small gamma
+8510,double-struck capital gamma
+8511,double-struck capital pi
+8512,double-struck n-ary summation
+8513,turned sans-serif capital g
+8514,turned sans-serif capital l
+8515,reversed sans-serif capital l
+8516,turned sans-serif capital y
+8517,double-struck italic capital d
+8518,double-struck italic small d
+8519,double-struck italic small e
+8520,double-struck italic small i
+8521,double-struck italic small j
+8522,property line
+8523,turned ampersand
+8524,per sign
+8525,aktieselskab
+8526,turned small f

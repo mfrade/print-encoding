@@ -1,0 +1,15 @@
+10224,upwards quadruple arrow
+10225,downwards quadruple arrow
+10226,anticlockwise gapped circle arrow
+10227,clockwise gapped circle arrow
+10228,right arrow with circled plus
+10229,long leftwards arrow
+10230,long rightwards arrow
+10231,long left right arrow
+10232,long leftwards double arrow
+10233,long rightwards double arrow
+10234,long left right double arrow
+10235,long leftwards arrow from bar
+10236,long rightwards arrow from bar
+10237,long leftwards double arrow from bar
+10238,long rightwards double arrow from bar

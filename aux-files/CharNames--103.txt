@@ -1,0 +1,31 @@
+11744,combining cyrillic letter be
+11745,combining cyrillic letter ve
+11746,combining cyrillic letter ghe
+11747,combining cyrillic letter de
+11748,combining cyrillic letter zhe
+11749,combining cyrillic letter ze
+11750,combining cyrillic letter ka
+11751,combining cyrillic letter el
+11752,combining cyrillic letter em
+11753,combining cyrillic letter en
+11754,combining cyrillic letter o
+11755,combining cyrillic letter pe
+11756,combining cyrillic letter er
+11757,combining cyrillic letter es
+11758,combining cyrillic letter te
+11759,combining cyrillic letter ha
+11760,combining cyrillic letter tse
+11761,combining cyrillic letter che
+11762,combining cyrillic letter sha
+11763,combining cyrillic letter shcha
+11764,combining cyrillic letter fita
+11765,combining cyrillic letter es-te
+11766,combining cyrillic letter a
+11767,combining cyrillic letter ie
+11768,combining cyrillic letter djerv
+11769,combining cyrillic letter monograph uk
+11770,combining cyrillic letter yat
+11771,combining cyrillic letter yu
+11772,combining cyrillic letter iotified a
+11773,combining cyrillic letter little yus
+11774,combining cyrillic letter big yus

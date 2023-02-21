@@ -1,0 +1,13 @@
+110576,katakana letter minnan tone-2
+110577,katakana letter minnan tone-3
+110578,katakana letter minnan tone-4
+110579,katakana letter minnan tone-5
+110581,katakana letter minnan tone-7
+110582,katakana letter minnan tone-8
+110583,katakana letter minnan nasalized tone-1
+110584,katakana letter minnan nasalized tone-2
+110585,katakana letter minnan nasalized tone-3
+110586,katakana letter minnan nasalized tone-4
+110587,katakana letter minnan nasalized tone-5
+110589,katakana letter minnan nasalized tone-7
+110590,katakana letter minnan nasalized tone-8

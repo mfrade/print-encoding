@@ -1,0 +1,60 @@
+71680,dogra letter a
+71681,dogra letter aa
+71682,dogra letter i
+71683,dogra letter ii
+71684,dogra letter u
+71685,dogra letter uu
+71686,dogra letter e
+71687,dogra letter ai
+71688,dogra letter o
+71689,dogra letter au
+71690,dogra letter ka
+71691,dogra letter kha
+71692,dogra letter ga
+71693,dogra letter gha
+71694,dogra letter nga
+71695,dogra letter ca
+71696,dogra letter cha
+71697,dogra letter ja
+71698,dogra letter jha
+71699,dogra letter nya
+71700,dogra letter tta
+71701,dogra letter ttha
+71702,dogra letter dda
+71703,dogra letter ddha
+71704,dogra letter nna
+71705,dogra letter ta
+71706,dogra letter tha
+71707,dogra letter da
+71708,dogra letter dha
+71709,dogra letter na
+71710,dogra letter pa
+71711,dogra letter pha
+71712,dogra letter ba
+71713,dogra letter bha
+71714,dogra letter ma
+71715,dogra letter ya
+71716,dogra letter ra
+71717,dogra letter la
+71718,dogra letter va
+71719,dogra letter sha
+71720,dogra letter ssa
+71721,dogra letter sa
+71722,dogra letter ha
+71723,dogra letter rra
+71724,dogra vowel sign aa
+71725,dogra vowel sign i
+71726,dogra vowel sign ii
+71727,dogra vowel sign u
+71728,dogra vowel sign uu
+71729,dogra vowel sign vocalic r
+71730,dogra vowel sign vocalic rr
+71731,dogra vowel sign e
+71732,dogra vowel sign ai
+71733,dogra vowel sign o
+71734,dogra vowel sign au
+71735,dogra sign anusvara
+71736,dogra sign visarga
+71737,dogra sign virama
+71738,dogra sign nukta
+71739,dogra abbreviation sign

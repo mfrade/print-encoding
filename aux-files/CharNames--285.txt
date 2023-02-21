@@ -1,0 +1,1019 @@
+119808,mathematical bold capital a
+119809,mathematical bold capital b
+119810,mathematical bold capital c
+119811,mathematical bold capital d
+119812,mathematical bold capital e
+119813,mathematical bold capital f
+119814,mathematical bold capital g
+119815,mathematical bold capital h
+119816,mathematical bold capital i
+119817,mathematical bold capital j
+119818,mathematical bold capital k
+119819,mathematical bold capital l
+119820,mathematical bold capital m
+119821,mathematical bold capital n
+119822,mathematical bold capital o
+119823,mathematical bold capital p
+119824,mathematical bold capital q
+119825,mathematical bold capital r
+119826,mathematical bold capital s
+119827,mathematical bold capital t
+119828,mathematical bold capital u
+119829,mathematical bold capital v
+119830,mathematical bold capital w
+119831,mathematical bold capital x
+119832,mathematical bold capital y
+119833,mathematical bold capital z
+119834,mathematical bold small a
+119835,mathematical bold small b
+119836,mathematical bold small c
+119837,mathematical bold small d
+119838,mathematical bold small e
+119839,mathematical bold small f
+119840,mathematical bold small g
+119841,mathematical bold small h
+119842,mathematical bold small i
+119843,mathematical bold small j
+119844,mathematical bold small k
+119845,mathematical bold small l
+119846,mathematical bold small m
+119847,mathematical bold small n
+119848,mathematical bold small o
+119849,mathematical bold small p
+119850,mathematical bold small q
+119851,mathematical bold small r
+119852,mathematical bold small s
+119853,mathematical bold small t
+119854,mathematical bold small u
+119855,mathematical bold small v
+119856,mathematical bold small w
+119857,mathematical bold small x
+119858,mathematical bold small y
+119859,mathematical bold small z
+119860,mathematical italic capital a
+119861,mathematical italic capital b
+119862,mathematical italic capital c
+119863,mathematical italic capital d
+119864,mathematical italic capital e
+119865,mathematical italic capital f
+119866,mathematical italic capital g
+119867,mathematical italic capital h
+119868,mathematical italic capital i
+119869,mathematical italic capital j
+119870,mathematical italic capital k
+119871,mathematical italic capital l
+119872,mathematical italic capital m
+119873,mathematical italic capital n
+119874,mathematical italic capital o
+119875,mathematical italic capital p
+119876,mathematical italic capital q
+119877,mathematical italic capital r
+119878,mathematical italic capital s
+119879,mathematical italic capital t
+119880,mathematical italic capital u
+119881,mathematical italic capital v
+119882,mathematical italic capital w
+119883,mathematical italic capital x
+119884,mathematical italic capital y
+119885,mathematical italic capital z
+119886,mathematical italic small a
+119887,mathematical italic small b
+119888,mathematical italic small c
+119889,mathematical italic small d
+119890,mathematical italic small e
+119891,mathematical italic small f
+119892,mathematical italic small g
+119893,<reserved>
+119894,mathematical italic small i
+119895,mathematical italic small j
+119896,mathematical italic small k
+119897,mathematical italic small l
+119898,mathematical italic small m
+119899,mathematical italic small n
+119900,mathematical italic small o
+119901,mathematical italic small p
+119902,mathematical italic small q
+119903,mathematical italic small r
+119904,mathematical italic small s
+119905,mathematical italic small t
+119906,mathematical italic small u
+119907,mathematical italic small v
+119908,mathematical italic small w
+119909,mathematical italic small x
+119910,mathematical italic small y
+119911,mathematical italic small z
+119912,mathematical bold italic capital a
+119913,mathematical bold italic capital b
+119914,mathematical bold italic capital c
+119915,mathematical bold italic capital d
+119916,mathematical bold italic capital e
+119917,mathematical bold italic capital f
+119918,mathematical bold italic capital g
+119919,mathematical bold italic capital h
+119920,mathematical bold italic capital i
+119921,mathematical bold italic capital j
+119922,mathematical bold italic capital k
+119923,mathematical bold italic capital l
+119924,mathematical bold italic capital m
+119925,mathematical bold italic capital n
+119926,mathematical bold italic capital o
+119927,mathematical bold italic capital p
+119928,mathematical bold italic capital q
+119929,mathematical bold italic capital r
+119930,mathematical bold italic capital s
+119931,mathematical bold italic capital t
+119932,mathematical bold italic capital u
+119933,mathematical bold italic capital v
+119934,mathematical bold italic capital w
+119935,mathematical bold italic capital x
+119936,mathematical bold italic capital y
+119937,mathematical bold italic capital z
+119938,mathematical bold italic small a
+119939,mathematical bold italic small b
+119940,mathematical bold italic small c
+119941,mathematical bold italic small d
+119942,mathematical bold italic small e
+119943,mathematical bold italic small f
+119944,mathematical bold italic small g
+119945,mathematical bold italic small h
+119946,mathematical bold italic small i
+119947,mathematical bold italic small j
+119948,mathematical bold italic small k
+119949,mathematical bold italic small l
+119950,mathematical bold italic small m
+119951,mathematical bold italic small n
+119952,mathematical bold italic small o
+119953,mathematical bold italic small p
+119954,mathematical bold italic small q
+119955,mathematical bold italic small r
+119956,mathematical bold italic small s
+119957,mathematical bold italic small t
+119958,mathematical bold italic small u
+119959,mathematical bold italic small v
+119960,mathematical bold italic small w
+119961,mathematical bold italic small x
+119962,mathematical bold italic small y
+119963,mathematical bold italic small z
+119964,mathematical script capital a
+119965,<reserved>
+119966,mathematical script capital c
+119967,mathematical script capital d
+119968,<reserved>
+119969,<reserved>
+119970,mathematical script capital g
+119971,<reserved>
+119972,<reserved>
+119973,mathematical script capital j
+119974,mathematical script capital k
+119975,<reserved>
+119976,<reserved>
+119977,mathematical script capital n
+119978,mathematical script capital o
+119979,mathematical script capital p
+119980,mathematical script capital q
+119981,<reserved>
+119982,mathematical script capital s
+119983,mathematical script capital t
+119984,mathematical script capital u
+119985,mathematical script capital v
+119986,mathematical script capital w
+119987,mathematical script capital x
+119988,mathematical script capital y
+119989,mathematical script capital z
+119990,mathematical script small a
+119991,mathematical script small b
+119992,mathematical script small c
+119993,mathematical script small d
+119994,<reserved>
+119995,mathematical script small f
+119996,<reserved>
+119997,mathematical script small h
+119998,mathematical script small i
+119999,mathematical script small j
+120000,mathematical script small k
+120001,mathematical script small l
+120002,mathematical script small m
+120003,mathematical script small n
+120004,<reserved>
+120005,mathematical script small p
+120006,mathematical script small q
+120007,mathematical script small r
+120008,mathematical script small s
+120009,mathematical script small t
+120010,mathematical script small u
+120011,mathematical script small v
+120012,mathematical script small w
+120013,mathematical script small x
+120014,mathematical script small y
+120015,mathematical script small z
+120016,mathematical bold script capital a
+120017,mathematical bold script capital b
+120018,mathematical bold script capital c
+120019,mathematical bold script capital d
+120020,mathematical bold script capital e
+120021,mathematical bold script capital f
+120022,mathematical bold script capital g
+120023,mathematical bold script capital h
+120024,mathematical bold script capital i
+120025,mathematical bold script capital j
+120026,mathematical bold script capital k
+120027,mathematical bold script capital l
+120028,mathematical bold script capital m
+120029,mathematical bold script capital n
+120030,mathematical bold script capital o
+120031,mathematical bold script capital p
+120032,mathematical bold script capital q
+120033,mathematical bold script capital r
+120034,mathematical bold script capital s
+120035,mathematical bold script capital t
+120036,mathematical bold script capital u
+120037,mathematical bold script capital v
+120038,mathematical bold script capital w
+120039,mathematical bold script capital x
+120040,mathematical bold script capital y
+120041,mathematical bold script capital z
+120042,mathematical bold script small a
+120043,mathematical bold script small b
+120044,mathematical bold script small c
+120045,mathematical bold script small d
+120046,mathematical bold script small e
+120047,mathematical bold script small f
+120048,mathematical bold script small g
+120049,mathematical bold script small h
+120050,mathematical bold script small i
+120051,mathematical bold script small j
+120052,mathematical bold script small k
+120053,mathematical bold script small l
+120054,mathematical bold script small m
+120055,mathematical bold script small n
+120056,mathematical bold script small o
+120057,mathematical bold script small p
+120058,mathematical bold script small q
+120059,mathematical bold script small r
+120060,mathematical bold script small s
+120061,mathematical bold script small t
+120062,mathematical bold script small u
+120063,mathematical bold script small v
+120064,mathematical bold script small w
+120065,mathematical bold script small x
+120066,mathematical bold script small y
+120067,mathematical bold script small z
+120068,mathematical fraktur capital a
+120069,mathematical fraktur capital b
+120070,<reserved>
+120071,mathematical fraktur capital d
+120072,mathematical fraktur capital e
+120073,mathematical fraktur capital f
+120074,mathematical fraktur capital g
+120075,<reserved>
+120076,<reserved>
+120077,mathematical fraktur capital j
+120078,mathematical fraktur capital k
+120079,mathematical fraktur capital l
+120080,mathematical fraktur capital m
+120081,mathematical fraktur capital n
+120082,mathematical fraktur capital o
+120083,mathematical fraktur capital p
+120084,mathematical fraktur capital q
+120085,<reserved>
+120086,mathematical fraktur capital s
+120087,mathematical fraktur capital t
+120088,mathematical fraktur capital u
+120089,mathematical fraktur capital v
+120090,mathematical fraktur capital w
+120091,mathematical fraktur capital x
+120092,mathematical fraktur capital y
+120093,<reserved>
+120094,mathematical fraktur small a
+120095,mathematical fraktur small b
+120096,mathematical fraktur small c
+120097,mathematical fraktur small d
+120098,mathematical fraktur small e
+120099,mathematical fraktur small f
+120100,mathematical fraktur small g
+120101,mathematical fraktur small h
+120102,mathematical fraktur small i
+120103,mathematical fraktur small j
+120104,mathematical fraktur small k
+120105,mathematical fraktur small l
+120106,mathematical fraktur small m
+120107,mathematical fraktur small n
+120108,mathematical fraktur small o
+120109,mathematical fraktur small p
+120110,mathematical fraktur small q
+120111,mathematical fraktur small r
+120112,mathematical fraktur small s
+120113,mathematical fraktur small t
+120114,mathematical fraktur small u
+120115,mathematical fraktur small v
+120116,mathematical fraktur small w
+120117,mathematical fraktur small x
+120118,mathematical fraktur small y
+120119,mathematical fraktur small z
+120120,mathematical double-struck capital a
+120121,mathematical double-struck capital b
+120122,<reserved>
+120123,mathematical double-struck capital d
+120124,mathematical double-struck capital e
+120125,mathematical double-struck capital f
+120126,mathematical double-struck capital g
+120127,<reserved>
+120128,mathematical double-struck capital i
+120129,mathematical double-struck capital j
+120130,mathematical double-struck capital k
+120131,mathematical double-struck capital l
+120132,mathematical double-struck capital m
+120133,<reserved>
+120134,mathematical double-struck capital o
+120135,<reserved>
+120136,<reserved>
+120137,<reserved>
+120138,mathematical double-struck capital s
+120139,mathematical double-struck capital t
+120140,mathematical double-struck capital u
+120141,mathematical double-struck capital v
+120142,mathematical double-struck capital w
+120143,mathematical double-struck capital x
+120144,mathematical double-struck capital y
+120145,<reserved>
+120146,mathematical double-struck small a
+120147,mathematical double-struck small b
+120148,mathematical double-struck small c
+120149,mathematical double-struck small d
+120150,mathematical double-struck small e
+120151,mathematical double-struck small f
+120152,mathematical double-struck small g
+120153,mathematical double-struck small h
+120154,mathematical double-struck small i
+120155,mathematical double-struck small j
+120156,mathematical double-struck small k
+120157,mathematical double-struck small l
+120158,mathematical double-struck small m
+120159,mathematical double-struck small n
+120160,mathematical double-struck small o
+120161,mathematical double-struck small p
+120162,mathematical double-struck small q
+120163,mathematical double-struck small r
+120164,mathematical double-struck small s
+120165,mathematical double-struck small t
+120166,mathematical double-struck small u
+120167,mathematical double-struck small v
+120168,mathematical double-struck small w
+120169,mathematical double-struck small x
+120170,mathematical double-struck small y
+120171,mathematical double-struck small z
+120172,mathematical bold fraktur capital a
+120173,mathematical bold fraktur capital b
+120174,mathematical bold fraktur capital c
+120175,mathematical bold fraktur capital d
+120176,mathematical bold fraktur capital e
+120177,mathematical bold fraktur capital f
+120178,mathematical bold fraktur capital g
+120179,mathematical bold fraktur capital h
+120180,mathematical bold fraktur capital i
+120181,mathematical bold fraktur capital j
+120182,mathematical bold fraktur capital k
+120183,mathematical bold fraktur capital l
+120184,mathematical bold fraktur capital m
+120185,mathematical bold fraktur capital n
+120186,mathematical bold fraktur capital o
+120187,mathematical bold fraktur capital p
+120188,mathematical bold fraktur capital q
+120189,mathematical bold fraktur capital r
+120190,mathematical bold fraktur capital s
+120191,mathematical bold fraktur capital t
+120192,mathematical bold fraktur capital u
+120193,mathematical bold fraktur capital v
+120194,mathematical bold fraktur capital w
+120195,mathematical bold fraktur capital x
+120196,mathematical bold fraktur capital y
+120197,mathematical bold fraktur capital z
+120198,mathematical bold fraktur small a
+120199,mathematical bold fraktur small b
+120200,mathematical bold fraktur small c
+120201,mathematical bold fraktur small d
+120202,mathematical bold fraktur small e
+120203,mathematical bold fraktur small f
+120204,mathematical bold fraktur small g
+120205,mathematical bold fraktur small h
+120206,mathematical bold fraktur small i
+120207,mathematical bold fraktur small j
+120208,mathematical bold fraktur small k
+120209,mathematical bold fraktur small l
+120210,mathematical bold fraktur small m
+120211,mathematical bold fraktur small n
+120212,mathematical bold fraktur small o
+120213,mathematical bold fraktur small p
+120214,mathematical bold fraktur small q
+120215,mathematical bold fraktur small r
+120216,mathematical bold fraktur small s
+120217,mathematical bold fraktur small t
+120218,mathematical bold fraktur small u
+120219,mathematical bold fraktur small v
+120220,mathematical bold fraktur small w
+120221,mathematical bold fraktur small x
+120222,mathematical bold fraktur small y
+120223,mathematical bold fraktur small z
+120224,mathematical sans-serif capital a
+120225,mathematical sans-serif capital b
+120226,mathematical sans-serif capital c
+120227,mathematical sans-serif capital d
+120228,mathematical sans-serif capital e
+120229,mathematical sans-serif capital f
+120230,mathematical sans-serif capital g
+120231,mathematical sans-serif capital h
+120232,mathematical sans-serif capital i
+120233,mathematical sans-serif capital j
+120234,mathematical sans-serif capital k
+120235,mathematical sans-serif capital l
+120236,mathematical sans-serif capital m
+120237,mathematical sans-serif capital n
+120238,mathematical sans-serif capital o
+120239,mathematical sans-serif capital p
+120240,mathematical sans-serif capital q
+120241,mathematical sans-serif capital r
+120242,mathematical sans-serif capital s
+120243,mathematical sans-serif capital t
+120244,mathematical sans-serif capital u
+120245,mathematical sans-serif capital v
+120246,mathematical sans-serif capital w
+120247,mathematical sans-serif capital x
+120248,mathematical sans-serif capital y
+120249,mathematical sans-serif capital z
+120250,mathematical sans-serif small a
+120251,mathematical sans-serif small b
+120252,mathematical sans-serif small c
+120253,mathematical sans-serif small d
+120254,mathematical sans-serif small e
+120255,mathematical sans-serif small f
+120256,mathematical sans-serif small g
+120257,mathematical sans-serif small h
+120258,mathematical sans-serif small i
+120259,mathematical sans-serif small j
+120260,mathematical sans-serif small k
+120261,mathematical sans-serif small l
+120262,mathematical sans-serif small m
+120263,mathematical sans-serif small n
+120264,mathematical sans-serif small o
+120265,mathematical sans-serif small p
+120266,mathematical sans-serif small q
+120267,mathematical sans-serif small r
+120268,mathematical sans-serif small s
+120269,mathematical sans-serif small t
+120270,mathematical sans-serif small u
+120271,mathematical sans-serif small v
+120272,mathematical sans-serif small w
+120273,mathematical sans-serif small x
+120274,mathematical sans-serif small y
+120275,mathematical sans-serif small z
+120276,mathematical sans-serif bold capital a
+120277,mathematical sans-serif bold capital b
+120278,mathematical sans-serif bold capital c
+120279,mathematical sans-serif bold capital d
+120280,mathematical sans-serif bold capital e
+120281,mathematical sans-serif bold capital f
+120282,mathematical sans-serif bold capital g
+120283,mathematical sans-serif bold capital h
+120284,mathematical sans-serif bold capital i
+120285,mathematical sans-serif bold capital j
+120286,mathematical sans-serif bold capital k
+120287,mathematical sans-serif bold capital l
+120288,mathematical sans-serif bold capital m
+120289,mathematical sans-serif bold capital n
+120290,mathematical sans-serif bold capital o
+120291,mathematical sans-serif bold capital p
+120292,mathematical sans-serif bold capital q
+120293,mathematical sans-serif bold capital r
+120294,mathematical sans-serif bold capital s
+120295,mathematical sans-serif bold capital t
+120296,mathematical sans-serif bold capital u
+120297,mathematical sans-serif bold capital v
+120298,mathematical sans-serif bold capital w
+120299,mathematical sans-serif bold capital x
+120300,mathematical sans-serif bold capital y
+120301,mathematical sans-serif bold capital z
+120302,mathematical sans-serif bold small a
+120303,mathematical sans-serif bold small b
+120304,mathematical sans-serif bold small c
+120305,mathematical sans-serif bold small d
+120306,mathematical sans-serif bold small e
+120307,mathematical sans-serif bold small f
+120308,mathematical sans-serif bold small g
+120309,mathematical sans-serif bold small h
+120310,mathematical sans-serif bold small i
+120311,mathematical sans-serif bold small j
+120312,mathematical sans-serif bold small k
+120313,mathematical sans-serif bold small l
+120314,mathematical sans-serif bold small m
+120315,mathematical sans-serif bold small n
+120316,mathematical sans-serif bold small o
+120317,mathematical sans-serif bold small p
+120318,mathematical sans-serif bold small q
+120319,mathematical sans-serif bold small r
+120320,mathematical sans-serif bold small s
+120321,mathematical sans-serif bold small t
+120322,mathematical sans-serif bold small u
+120323,mathematical sans-serif bold small v
+120324,mathematical sans-serif bold small w
+120325,mathematical sans-serif bold small x
+120326,mathematical sans-serif bold small y
+120327,mathematical sans-serif bold small z
+120328,mathematical sans-serif italic capital a
+120329,mathematical sans-serif italic capital b
+120330,mathematical sans-serif italic capital c
+120331,mathematical sans-serif italic capital d
+120332,mathematical sans-serif italic capital e
+120333,mathematical sans-serif italic capital f
+120334,mathematical sans-serif italic capital g
+120335,mathematical sans-serif italic capital h
+120336,mathematical sans-serif italic capital i
+120337,mathematical sans-serif italic capital j
+120338,mathematical sans-serif italic capital k
+120339,mathematical sans-serif italic capital l
+120340,mathematical sans-serif italic capital m
+120341,mathematical sans-serif italic capital n
+120342,mathematical sans-serif italic capital o
+120343,mathematical sans-serif italic capital p
+120344,mathematical sans-serif italic capital q
+120345,mathematical sans-serif italic capital r
+120346,mathematical sans-serif italic capital s
+120347,mathematical sans-serif italic capital t
+120348,mathematical sans-serif italic capital u
+120349,mathematical sans-serif italic capital v
+120350,mathematical sans-serif italic capital w
+120351,mathematical sans-serif italic capital x
+120352,mathematical sans-serif italic capital y
+120353,mathematical sans-serif italic capital z
+120354,mathematical sans-serif italic small a
+120355,mathematical sans-serif italic small b
+120356,mathematical sans-serif italic small c
+120357,mathematical sans-serif italic small d
+120358,mathematical sans-serif italic small e
+120359,mathematical sans-serif italic small f
+120360,mathematical sans-serif italic small g
+120361,mathematical sans-serif italic small h
+120362,mathematical sans-serif italic small i
+120363,mathematical sans-serif italic small j
+120364,mathematical sans-serif italic small k
+120365,mathematical sans-serif italic small l
+120366,mathematical sans-serif italic small m
+120367,mathematical sans-serif italic small n
+120368,mathematical sans-serif italic small o
+120369,mathematical sans-serif italic small p
+120370,mathematical sans-serif italic small q
+120371,mathematical sans-serif italic small r
+120372,mathematical sans-serif italic small s
+120373,mathematical sans-serif italic small t
+120374,mathematical sans-serif italic small u
+120375,mathematical sans-serif italic small v
+120376,mathematical sans-serif italic small w
+120377,mathematical sans-serif italic small x
+120378,mathematical sans-serif italic small y
+120379,mathematical sans-serif italic small z
+120380,mathematical sans-serif bold italic capital a
+120381,mathematical sans-serif bold italic capital b
+120382,mathematical sans-serif bold italic capital c
+120383,mathematical sans-serif bold italic capital d
+120384,mathematical sans-serif bold italic capital e
+120385,mathematical sans-serif bold italic capital f
+120386,mathematical sans-serif bold italic capital g
+120387,mathematical sans-serif bold italic capital h
+120388,mathematical sans-serif bold italic capital i
+120389,mathematical sans-serif bold italic capital j
+120390,mathematical sans-serif bold italic capital k
+120391,mathematical sans-serif bold italic capital l
+120392,mathematical sans-serif bold italic capital m
+120393,mathematical sans-serif bold italic capital n
+120394,mathematical sans-serif bold italic capital o
+120395,mathematical sans-serif bold italic capital p
+120396,mathematical sans-serif bold italic capital q
+120397,mathematical sans-serif bold italic capital r
+120398,mathematical sans-serif bold italic capital s
+120399,mathematical sans-serif bold italic capital t
+120400,mathematical sans-serif bold italic capital u
+120401,mathematical sans-serif bold italic capital v
+120402,mathematical sans-serif bold italic capital w
+120403,mathematical sans-serif bold italic capital x
+120404,mathematical sans-serif bold italic capital y
+120405,mathematical sans-serif bold italic capital z
+120406,mathematical sans-serif bold italic small a
+120407,mathematical sans-serif bold italic small b
+120408,mathematical sans-serif bold italic small c
+120409,mathematical sans-serif bold italic small d
+120410,mathematical sans-serif bold italic small e
+120411,mathematical sans-serif bold italic small f
+120412,mathematical sans-serif bold italic small g
+120413,mathematical sans-serif bold italic small h
+120414,mathematical sans-serif bold italic small i
+120415,mathematical sans-serif bold italic small j
+120416,mathematical sans-serif bold italic small k
+120417,mathematical sans-serif bold italic small l
+120418,mathematical sans-serif bold italic small m
+120419,mathematical sans-serif bold italic small n
+120420,mathematical sans-serif bold italic small o
+120421,mathematical sans-serif bold italic small p
+120422,mathematical sans-serif bold italic small q
+120423,mathematical sans-serif bold italic small r
+120424,mathematical sans-serif bold italic small s
+120425,mathematical sans-serif bold italic small t
+120426,mathematical sans-serif bold italic small u
+120427,mathematical sans-serif bold italic small v
+120428,mathematical sans-serif bold italic small w
+120429,mathematical sans-serif bold italic small x
+120430,mathematical sans-serif bold italic small y
+120431,mathematical sans-serif bold italic small z
+120432,mathematical monospace capital a
+120433,mathematical monospace capital b
+120434,mathematical monospace capital c
+120435,mathematical monospace capital d
+120436,mathematical monospace capital e
+120437,mathematical monospace capital f
+120438,mathematical monospace capital g
+120439,mathematical monospace capital h
+120440,mathematical monospace capital i
+120441,mathematical monospace capital j
+120442,mathematical monospace capital k
+120443,mathematical monospace capital l
+120444,mathematical monospace capital m
+120445,mathematical monospace capital n
+120446,mathematical monospace capital o
+120447,mathematical monospace capital p
+120448,mathematical monospace capital q
+120449,mathematical monospace capital r
+120450,mathematical monospace capital s
+120451,mathematical monospace capital t
+120452,mathematical monospace capital u
+120453,mathematical monospace capital v
+120454,mathematical monospace capital w
+120455,mathematical monospace capital x
+120456,mathematical monospace capital y
+120457,mathematical monospace capital z
+120458,mathematical monospace small a
+120459,mathematical monospace small b
+120460,mathematical monospace small c
+120461,mathematical monospace small d
+120462,mathematical monospace small e
+120463,mathematical monospace small f
+120464,mathematical monospace small g
+120465,mathematical monospace small h
+120466,mathematical monospace small i
+120467,mathematical monospace small j
+120468,mathematical monospace small k
+120469,mathematical monospace small l
+120470,mathematical monospace small m
+120471,mathematical monospace small n
+120472,mathematical monospace small o
+120473,mathematical monospace small p
+120474,mathematical monospace small q
+120475,mathematical monospace small r
+120476,mathematical monospace small s
+120477,mathematical monospace small t
+120478,mathematical monospace small u
+120479,mathematical monospace small v
+120480,mathematical monospace small w
+120481,mathematical monospace small x
+120482,mathematical monospace small y
+120483,mathematical monospace small z
+120484,mathematical italic small dotless i
+120485,mathematical italic small dotless j
+120488,mathematical bold capital alpha
+120489,mathematical bold capital beta
+120490,mathematical bold capital gamma
+120491,mathematical bold capital delta
+120492,mathematical bold capital epsilon
+120493,mathematical bold capital zeta
+120494,mathematical bold capital eta
+120495,mathematical bold capital theta
+120496,mathematical bold capital iota
+120497,mathematical bold capital kappa
+120498,mathematical bold capital lamda
+120499,mathematical bold capital mu
+120500,mathematical bold capital nu
+120501,mathematical bold capital xi
+120502,mathematical bold capital omicron
+120503,mathematical bold capital pi
+120504,mathematical bold capital rho
+120505,mathematical bold capital theta symbol
+120506,mathematical bold capital sigma
+120507,mathematical bold capital tau
+120508,mathematical bold capital upsilon
+120509,mathematical bold capital phi
+120510,mathematical bold capital chi
+120511,mathematical bold capital psi
+120512,mathematical bold capital omega
+120513,mathematical bold nabla
+120514,mathematical bold small alpha
+120515,mathematical bold small beta
+120516,mathematical bold small gamma
+120517,mathematical bold small delta
+120518,mathematical bold small epsilon
+120519,mathematical bold small zeta
+120520,mathematical bold small eta
+120521,mathematical bold small theta
+120522,mathematical bold small iota
+120523,mathematical bold small kappa
+120524,mathematical bold small lamda
+120525,mathematical bold small mu
+120526,mathematical bold small nu
+120527,mathematical bold small xi
+120528,mathematical bold small omicron
+120529,mathematical bold small pi
+120530,mathematical bold small rho
+120531,mathematical bold small final sigma
+120532,mathematical bold small sigma
+120533,mathematical bold small tau
+120534,mathematical bold small upsilon
+120535,mathematical bold small phi
+120536,mathematical bold small chi
+120537,mathematical bold small psi
+120538,mathematical bold small omega
+120539,mathematical bold partial differential
+120540,mathematical bold epsilon symbol
+120541,mathematical bold theta symbol
+120542,mathematical bold kappa symbol
+120543,mathematical bold phi symbol
+120544,mathematical bold rho symbol
+120545,mathematical bold pi symbol
+120546,mathematical italic capital alpha
+120547,mathematical italic capital beta
+120548,mathematical italic capital gamma
+120549,mathematical italic capital delta
+120550,mathematical italic capital epsilon
+120551,mathematical italic capital zeta
+120552,mathematical italic capital eta
+120553,mathematical italic capital theta
+120554,mathematical italic capital iota
+120555,mathematical italic capital kappa
+120556,mathematical italic capital lamda
+120557,mathematical italic capital mu
+120558,mathematical italic capital nu
+120559,mathematical italic capital xi
+120560,mathematical italic capital omicron
+120561,mathematical italic capital pi
+120562,mathematical italic capital rho
+120563,mathematical italic capital theta symbol
+120564,mathematical italic capital sigma
+120565,mathematical italic capital tau
+120566,mathematical italic capital upsilon
+120567,mathematical italic capital phi
+120568,mathematical italic capital chi
+120569,mathematical italic capital psi
+120570,mathematical italic capital omega
+120571,mathematical italic nabla
+120572,mathematical italic small alpha
+120573,mathematical italic small beta
+120574,mathematical italic small gamma
+120575,mathematical italic small delta
+120576,mathematical italic small epsilon
+120577,mathematical italic small zeta
+120578,mathematical italic small eta
+120579,mathematical italic small theta
+120580,mathematical italic small iota
+120581,mathematical italic small kappa
+120582,mathematical italic small lamda
+120583,mathematical italic small mu
+120584,mathematical italic small nu
+120585,mathematical italic small xi
+120586,mathematical italic small omicron
+120587,mathematical italic small pi
+120588,mathematical italic small rho
+120589,mathematical italic small final sigma
+120590,mathematical italic small sigma
+120591,mathematical italic small tau
+120592,mathematical italic small upsilon
+120593,mathematical italic small phi
+120594,mathematical italic small chi
+120595,mathematical italic small psi
+120596,mathematical italic small omega
+120597,mathematical italic partial differential
+120598,mathematical italic epsilon symbol
+120599,mathematical italic theta symbol
+120600,mathematical italic kappa symbol
+120601,mathematical italic phi symbol
+120602,mathematical italic rho symbol
+120603,mathematical italic pi symbol
+120604,mathematical bold italic capital alpha
+120605,mathematical bold italic capital beta
+120606,mathematical bold italic capital gamma
+120607,mathematical bold italic capital delta
+120608,mathematical bold italic capital epsilon
+120609,mathematical bold italic capital zeta
+120610,mathematical bold italic capital eta
+120611,mathematical bold italic capital theta
+120612,mathematical bold italic capital iota
+120613,mathematical bold italic capital kappa
+120614,mathematical bold italic capital lamda
+120615,mathematical bold italic capital mu
+120616,mathematical bold italic capital nu
+120617,mathematical bold italic capital xi
+120618,mathematical bold italic capital omicron
+120619,mathematical bold italic capital pi
+120620,mathematical bold italic capital rho
+120621,mathematical bold italic capital theta symbol
+120622,mathematical bold italic capital sigma
+120623,mathematical bold italic capital tau
+120624,mathematical bold italic capital upsilon
+120625,mathematical bold italic capital phi
+120626,mathematical bold italic capital chi
+120627,mathematical bold italic capital psi
+120628,mathematical bold italic capital omega
+120629,mathematical bold italic nabla
+120630,mathematical bold italic small alpha
+120631,mathematical bold italic small beta
+120632,mathematical bold italic small gamma
+120633,mathematical bold italic small delta
+120634,mathematical bold italic small epsilon
+120635,mathematical bold italic small zeta
+120636,mathematical bold italic small eta
+120637,mathematical bold italic small theta
+120638,mathematical bold italic small iota
+120639,mathematical bold italic small kappa
+120640,mathematical bold italic small lamda
+120641,mathematical bold italic small mu
+120642,mathematical bold italic small nu
+120643,mathematical bold italic small xi
+120644,mathematical bold italic small omicron
+120645,mathematical bold italic small pi
+120646,mathematical bold italic small rho
+120647,mathematical bold italic small final sigma
+120648,mathematical bold italic small sigma
+120649,mathematical bold italic small tau
+120650,mathematical bold italic small upsilon
+120651,mathematical bold italic small phi
+120652,mathematical bold italic small chi
+120653,mathematical bold italic small psi
+120654,mathematical bold italic small omega
+120655,mathematical bold italic partial differential
+120656,mathematical bold italic epsilon symbol
+120657,mathematical bold italic theta symbol
+120658,mathematical bold italic kappa symbol
+120659,mathematical bold italic phi symbol
+120660,mathematical bold italic rho symbol
+120661,mathematical bold italic pi symbol
+120662,mathematical sans-serif bold capital alpha
+120663,mathematical sans-serif bold capital beta
+120664,mathematical sans-serif bold capital gamma
+120665,mathematical sans-serif bold capital delta
+120666,mathematical sans-serif bold capital epsilon
+120667,mathematical sans-serif bold capital zeta
+120668,mathematical sans-serif bold capital eta
+120669,mathematical sans-serif bold capital theta
+120670,mathematical sans-serif bold capital iota
+120671,mathematical sans-serif bold capital kappa
+120672,mathematical sans-serif bold capital lamda
+120673,mathematical sans-serif bold capital mu
+120674,mathematical sans-serif bold capital nu
+120675,mathematical sans-serif bold capital xi
+120676,mathematical sans-serif bold capital omicron
+120677,mathematical sans-serif bold capital pi
+120678,mathematical sans-serif bold capital rho
+120679,mathematical sans-serif bold capital theta symbol
+120680,mathematical sans-serif bold capital sigma
+120681,mathematical sans-serif bold capital tau
+120682,mathematical sans-serif bold capital upsilon
+120683,mathematical sans-serif bold capital phi
+120684,mathematical sans-serif bold capital chi
+120685,mathematical sans-serif bold capital psi
+120686,mathematical sans-serif bold capital omega
+120687,mathematical sans-serif bold nabla
+120688,mathematical sans-serif bold small alpha
+120689,mathematical sans-serif bold small beta
+120690,mathematical sans-serif bold small gamma
+120691,mathematical sans-serif bold small delta
+120692,mathematical sans-serif bold small epsilon
+120693,mathematical sans-serif bold small zeta
+120694,mathematical sans-serif bold small eta
+120695,mathematical sans-serif bold small theta
+120696,mathematical sans-serif bold small iota
+120697,mathematical sans-serif bold small kappa
+120698,mathematical sans-serif bold small lamda
+120699,mathematical sans-serif bold small mu
+120700,mathematical sans-serif bold small nu
+120701,mathematical sans-serif bold small xi
+120702,mathematical sans-serif bold small omicron
+120703,mathematical sans-serif bold small pi
+120704,mathematical sans-serif bold small rho
+120705,mathematical sans-serif bold small final sigma
+120706,mathematical sans-serif bold small sigma
+120707,mathematical sans-serif bold small tau
+120708,mathematical sans-serif bold small upsilon
+120709,mathematical sans-serif bold small phi
+120710,mathematical sans-serif bold small chi
+120711,mathematical sans-serif bold small psi
+120712,mathematical sans-serif bold small omega
+120713,mathematical sans-serif bold partial differential
+120714,mathematical sans-serif bold epsilon symbol
+120715,mathematical sans-serif bold theta symbol
+120716,mathematical sans-serif bold kappa symbol
+120717,mathematical sans-serif bold phi symbol
+120718,mathematical sans-serif bold rho symbol
+120719,mathematical sans-serif bold pi symbol
+120720,mathematical sans-serif bold italic capital alpha
+120721,mathematical sans-serif bold italic capital beta
+120722,mathematical sans-serif bold italic capital gamma
+120723,mathematical sans-serif bold italic capital delta
+120724,mathematical sans-serif bold italic capital epsilon
+120725,mathematical sans-serif bold italic capital zeta
+120726,mathematical sans-serif bold italic capital eta
+120727,mathematical sans-serif bold italic capital theta
+120728,mathematical sans-serif bold italic capital iota
+120729,mathematical sans-serif bold italic capital kappa
+120730,mathematical sans-serif bold italic capital lamda
+120731,mathematical sans-serif bold italic capital mu
+120732,mathematical sans-serif bold italic capital nu
+120733,mathematical sans-serif bold italic capital xi
+120734,mathematical sans-serif bold italic capital omicron
+120735,mathematical sans-serif bold italic capital pi
+120736,mathematical sans-serif bold italic capital rho
+120737,mathematical sans-serif bold italic capital theta symbol
+120738,mathematical sans-serif bold italic capital sigma
+120739,mathematical sans-serif bold italic capital tau
+120740,mathematical sans-serif bold italic capital upsilon
+120741,mathematical sans-serif bold italic capital phi
+120742,mathematical sans-serif bold italic capital chi
+120743,mathematical sans-serif bold italic capital psi
+120744,mathematical sans-serif bold italic capital omega
+120745,mathematical sans-serif bold italic nabla
+120746,mathematical sans-serif bold italic small alpha
+120747,mathematical sans-serif bold italic small beta
+120748,mathematical sans-serif bold italic small gamma
+120749,mathematical sans-serif bold italic small delta
+120750,mathematical sans-serif bold italic small epsilon
+120751,mathematical sans-serif bold italic small zeta
+120752,mathematical sans-serif bold italic small eta
+120753,mathematical sans-serif bold italic small theta
+120754,mathematical sans-serif bold italic small iota
+120755,mathematical sans-serif bold italic small kappa
+120756,mathematical sans-serif bold italic small lamda
+120757,mathematical sans-serif bold italic small mu
+120758,mathematical sans-serif bold italic small nu
+120759,mathematical sans-serif bold italic small xi
+120760,mathematical sans-serif bold italic small omicron
+120761,mathematical sans-serif bold italic small pi
+120762,mathematical sans-serif bold italic small rho
+120763,mathematical sans-serif bold italic small final sigma
+120764,mathematical sans-serif bold italic small sigma
+120765,mathematical sans-serif bold italic small tau
+120766,mathematical sans-serif bold italic small upsilon
+120767,mathematical sans-serif bold italic small phi
+120768,mathematical sans-serif bold italic small chi
+120769,mathematical sans-serif bold italic small psi
+120770,mathematical sans-serif bold italic small omega
+120771,mathematical sans-serif bold italic partial differential
+120772,mathematical sans-serif bold italic epsilon symbol
+120773,mathematical sans-serif bold italic theta symbol
+120774,mathematical sans-serif bold italic kappa symbol
+120775,mathematical sans-serif bold italic phi symbol
+120776,mathematical sans-serif bold italic rho symbol
+120777,mathematical sans-serif bold italic pi symbol
+120778,mathematical bold capital digamma
+120779,mathematical bold small digamma
+120782,mathematical bold digit zero
+120783,mathematical bold digit one
+120784,mathematical bold digit two
+120785,mathematical bold digit three
+120786,mathematical bold digit four
+120787,mathematical bold digit five
+120788,mathematical bold digit six
+120789,mathematical bold digit seven
+120790,mathematical bold digit eight
+120791,mathematical bold digit nine
+120792,mathematical double-struck digit zero
+120793,mathematical double-struck digit one
+120794,mathematical double-struck digit two
+120795,mathematical double-struck digit three
+120796,mathematical double-struck digit four
+120797,mathematical double-struck digit five
+120798,mathematical double-struck digit six
+120799,mathematical double-struck digit seven
+120800,mathematical double-struck digit eight
+120801,mathematical double-struck digit nine
+120802,mathematical sans-serif digit zero
+120803,mathematical sans-serif digit one
+120804,mathematical sans-serif digit two
+120805,mathematical sans-serif digit three
+120806,mathematical sans-serif digit four
+120807,mathematical sans-serif digit five
+120808,mathematical sans-serif digit six
+120809,mathematical sans-serif digit seven
+120810,mathematical sans-serif digit eight
+120811,mathematical sans-serif digit nine
+120812,mathematical sans-serif bold digit zero
+120813,mathematical sans-serif bold digit one
+120814,mathematical sans-serif bold digit two
+120815,mathematical sans-serif bold digit three
+120816,mathematical sans-serif bold digit four
+120817,mathematical sans-serif bold digit five
+120818,mathematical sans-serif bold digit six
+120819,mathematical sans-serif bold digit seven
+120820,mathematical sans-serif bold digit eight
+120821,mathematical sans-serif bold digit nine
+120822,mathematical monospace digit zero
+120823,mathematical monospace digit one
+120824,mathematical monospace digit two
+120825,mathematical monospace digit three
+120826,mathematical monospace digit four
+120827,mathematical monospace digit five
+120828,mathematical monospace digit six
+120829,mathematical monospace digit seven
+120830,mathematical monospace digit eight

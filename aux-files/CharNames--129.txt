@@ -1,0 +1,192 @@
+42784,modifier letter stress and high tone
+42785,modifier letter stress and low tone
+42786,latin capital letter egyptological alef
+42787,latin small letter egyptological alef
+42788,latin capital letter egyptological ain
+42789,latin small letter egyptological ain
+42790,latin capital letter heng
+42791,latin small letter heng
+42792,latin capital letter tz
+42793,latin small letter tz
+42794,latin capital letter tresillo
+42795,latin small letter tresillo
+42796,latin capital letter cuatrillo
+42797,latin small letter cuatrillo
+42798,latin capital letter cuatrillo with comma
+42799,latin small letter cuatrillo with comma
+42800,latin letter small capital f
+42801,latin letter small capital s
+42802,latin capital letter aa
+42803,latin small letter aa
+42804,latin capital letter ao
+42805,latin small letter ao
+42806,latin capital letter au
+42807,latin small letter au
+42808,latin capital letter av
+42809,latin small letter av
+42810,latin capital letter av with horizontal bar
+42811,latin small letter av with horizontal bar
+42812,latin capital letter ay
+42813,latin small letter ay
+42814,latin capital letter reversed c with dot
+42815,latin small letter reversed c with dot
+42816,latin capital letter k with stroke
+42817,latin small letter k with stroke
+42818,latin capital letter k with diagonal stroke
+42819,latin small letter k with diagonal stroke
+42820,latin capital letter k with stroke and diagonal stroke
+42821,latin small letter k with stroke and diagonal stroke
+42822,latin capital letter broken l
+42823,latin small letter broken l
+42824,latin capital letter l with high stroke
+42825,latin small letter l with high stroke
+42826,latin capital letter o with long stroke overlay
+42827,latin small letter o with long stroke overlay
+42828,latin capital letter o with loop
+42829,latin small letter o with loop
+42830,latin capital letter oo
+42831,latin small letter oo
+42832,latin capital letter p with stroke through descender
+42833,latin small letter p with stroke through descender
+42834,latin capital letter p with flourish
+42835,latin small letter p with flourish
+42836,latin capital letter p with squirrel tail
+42837,latin small letter p with squirrel tail
+42838,latin capital letter q with stroke through descender
+42839,latin small letter q with stroke through descender
+42840,latin capital letter q with diagonal stroke
+42841,latin small letter q with diagonal stroke
+42842,latin capital letter r rotunda
+42843,latin small letter r rotunda
+42844,latin capital letter rum rotunda
+42845,latin small letter rum rotunda
+42846,latin capital letter v with diagonal stroke
+42847,latin small letter v with diagonal stroke
+42848,latin capital letter vy
+42849,latin small letter vy
+42850,latin capital letter visigothic z
+42851,latin small letter visigothic z
+42852,latin capital letter thorn with stroke
+42853,latin small letter thorn with stroke
+42854,latin capital letter thorn with stroke through descender
+42855,latin small letter thorn with stroke through descender
+42856,latin capital letter vend
+42857,latin small letter vend
+42858,latin capital letter et
+42859,latin small letter et
+42860,latin capital letter is
+42861,latin small letter is
+42862,latin capital letter con
+42863,latin small letter con
+42864,modifier letter us
+42865,latin small letter dum
+42866,latin small letter lum
+42867,latin small letter mum
+42868,latin small letter num
+42869,latin small letter rum
+42870,latin letter small capital rum
+42871,latin small letter tum
+42872,latin small letter um
+42873,latin capital letter insular d
+42874,latin small letter insular d
+42875,latin capital letter insular f
+42876,latin small letter insular f
+42877,latin capital letter insular g
+42878,latin capital letter turned insular g
+42879,latin small letter turned insular g
+42880,latin capital letter turned l
+42881,latin small letter turned l
+42882,latin capital letter insular r
+42883,latin small letter insular r
+42884,latin capital letter insular s
+42885,latin small letter insular s
+42886,latin capital letter insular t
+42887,latin small letter insular t
+42888,modifier letter low circumflex accent
+42889,modifier letter colon
+42890,modifier letter short equals sign
+42891,latin capital letter saltillo
+42892,latin small letter saltillo
+42893,latin capital letter turned h
+42894,latin small letter l with retroflex hook and belt
+42895,latin letter sinological dot
+42896,latin capital letter n with descender
+42897,latin small letter n with descender
+42898,latin capital letter c with bar
+42899,latin small letter c with bar
+42900,latin small letter c with palatal hook
+42901,latin small letter h with palatal hook
+42902,latin capital letter b with flourish
+42903,latin small letter b with flourish
+42904,latin capital letter f with stroke
+42905,latin small letter f with stroke
+42906,latin capital letter volapuk ae
+42907,latin small letter volapuk ae
+42908,latin capital letter volapuk oe
+42909,latin small letter volapuk oe
+42910,latin capital letter volapuk ue
+42911,latin small letter volapuk ue
+42912,latin capital letter g with oblique stroke
+42913,latin small letter g with oblique stroke
+42914,latin capital letter k with oblique stroke
+42915,latin small letter k with oblique stroke
+42916,latin capital letter n with oblique stroke
+42917,latin small letter n with oblique stroke
+42918,latin capital letter r with oblique stroke
+42919,latin small letter r with oblique stroke
+42920,latin capital letter s with oblique stroke
+42921,latin small letter s with oblique stroke
+42922,latin capital letter h with hook
+42923,latin capital letter reversed open e
+42924,latin capital letter script g
+42925,latin capital letter l with belt
+42926,latin capital letter small capital i
+42927,latin letter small capital q
+42928,latin capital letter turned k
+42929,latin capital letter turned t
+42930,latin capital letter j with crossed-tail
+42931,latin capital letter chi
+42932,latin capital letter beta
+42933,latin small letter beta
+42934,latin capital letter omega
+42935,latin small letter omega
+42936,latin capital letter u with stroke
+42937,latin small letter u with stroke
+42938,latin capital letter glottal a
+42939,latin small letter glottal a
+42940,latin capital letter glottal i
+42941,latin small letter glottal i
+42942,latin capital letter glottal u
+42943,latin small letter glottal u
+42944,latin capital letter old polish o
+42945,latin small letter old polish o
+42946,latin capital letter anglicana w
+42947,latin small letter anglicana w
+42948,latin capital letter c with palatal hook
+42949,latin capital letter s with hook
+42950,latin capital letter z with palatal hook
+42951,latin capital letter d with short stroke overlay
+42952,latin small letter d with short stroke overlay
+42953,latin capital letter s with short stroke overlay
+42954,latin small letter s with short stroke overlay
+42960,latin capital letter closed insular g
+42961,latin small letter closed insular g
+42963,latin small letter double thorn
+42965,latin small letter double wynn
+42966,latin capital letter middle scots s
+42967,latin small letter middle scots s
+42968,latin capital letter sigmoid s
+42969,latin small letter sigmoid s
+42994,modifier letter capital c
+42995,modifier letter capital f
+42996,modifier letter capital q
+42997,latin capital letter reversed half h
+42998,latin small letter reversed half h
+42999,latin epigraphic letter sideways i
+43000,modifier letter capital h with stroke
+43001,modifier letter small ligature oe
+43002,latin letter small capital turned m
+43003,latin epigraphic letter reversed f
+43004,latin epigraphic letter reversed p
+43005,latin epigraphic letter inverted m
+43006,latin epigraphic letter i longa

@@ -1,0 +1,92 @@
+12353,hiragana letter small a
+12354,hiragana letter a
+12355,hiragana letter small i
+12356,hiragana letter i
+12357,hiragana letter small u
+12358,hiragana letter u
+12359,hiragana letter small e
+12360,hiragana letter e
+12361,hiragana letter small o
+12362,hiragana letter o
+12363,hiragana letter ka
+12364,hiragana letter ga
+12365,hiragana letter ki
+12366,hiragana letter gi
+12367,hiragana letter ku
+12368,hiragana letter gu
+12369,hiragana letter ke
+12370,hiragana letter ge
+12371,hiragana letter ko
+12372,hiragana letter go
+12373,hiragana letter sa
+12374,hiragana letter za
+12375,hiragana letter si
+12376,hiragana letter zi
+12377,hiragana letter su
+12378,hiragana letter zu
+12379,hiragana letter se
+12380,hiragana letter ze
+12381,hiragana letter so
+12382,hiragana letter zo
+12383,hiragana letter ta
+12384,hiragana letter da
+12385,hiragana letter ti
+12386,hiragana letter di
+12387,hiragana letter small tu
+12388,hiragana letter tu
+12389,hiragana letter du
+12390,hiragana letter te
+12391,hiragana letter de
+12392,hiragana letter to
+12393,hiragana letter do
+12394,hiragana letter na
+12395,hiragana letter ni
+12396,hiragana letter nu
+12397,hiragana letter ne
+12398,hiragana letter no
+12399,hiragana letter ha
+12400,hiragana letter ba
+12401,hiragana letter pa
+12402,hiragana letter hi
+12403,hiragana letter bi
+12404,hiragana letter pi
+12405,hiragana letter hu
+12406,hiragana letter bu
+12407,hiragana letter pu
+12408,hiragana letter he
+12409,hiragana letter be
+12410,hiragana letter pe
+12411,hiragana letter ho
+12412,hiragana letter bo
+12413,hiragana letter po
+12414,hiragana letter ma
+12415,hiragana letter mi
+12416,hiragana letter mu
+12417,hiragana letter me
+12418,hiragana letter mo
+12419,hiragana letter small ya
+12420,hiragana letter ya
+12421,hiragana letter small yu
+12422,hiragana letter yu
+12423,hiragana letter small yo
+12424,hiragana letter yo
+12425,hiragana letter ra
+12426,hiragana letter ri
+12427,hiragana letter ru
+12428,hiragana letter re
+12429,hiragana letter ro
+12430,hiragana letter small wa
+12431,hiragana letter wa
+12432,hiragana letter wi
+12433,hiragana letter we
+12434,hiragana letter wo
+12435,hiragana letter n
+12436,hiragana letter vu
+12437,hiragana letter small ka
+12438,hiragana letter small ke
+12441,combining katakana-hiragana voiced sound mark
+12442,combining katakana-hiragana semi-voiced sound mark
+12443,katakana-hiragana voiced sound mark
+12444,katakana-hiragana semi-voiced sound mark
+12445,hiragana iteration mark
+12446,hiragana voiced iteration mark

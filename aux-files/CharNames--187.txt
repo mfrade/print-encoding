@@ -1,0 +1,57 @@
+67456,modifier letter small capital aa
+67457,modifier letter superscript triangular colon
+67458,modifier letter superscript half triangular colon
+67459,modifier letter small ae
+67460,modifier letter small capital b
+67461,modifier letter small b with hook
+67463,modifier letter small dz digraph
+67464,modifier letter small dz digraph with retroflex hook
+67465,modifier letter small dz digraph with curl
+67466,modifier letter small dezh digraph
+67467,modifier letter small d with tail
+67468,modifier letter small d with hook
+67469,modifier letter small d with hook and tail
+67470,modifier letter small reversed e
+67471,modifier letter small closed reversed open e
+67472,modifier letter small feng digraph
+67473,modifier letter small rams horn
+67474,modifier letter small capital g
+67475,modifier letter small g with hook
+67476,modifier letter small capital g with hook
+67477,modifier letter small h with stroke
+67478,modifier letter small capital h
+67479,modifier letter small heng with hook
+67480,modifier letter small dotless j with stroke and hook
+67481,modifier letter small ls digraph
+67482,modifier letter small lz digraph
+67483,modifier letter small l with belt
+67484,modifier letter small capital l with belt
+67485,modifier letter small l with retroflex hook and belt
+67486,modifier letter small lezh
+67487,modifier letter small lezh with retroflex hook
+67488,modifier letter small turned y
+67489,modifier letter small turned y with belt
+67490,modifier letter small o with stroke
+67491,modifier letter small capital oe
+67492,modifier letter small closed omega
+67493,modifier letter small q
+67494,modifier letter small turned r with long leg
+67495,modifier letter small turned r with long leg and retroflex hook
+67496,modifier letter small r with tail
+67497,modifier letter small r with fishhook
+67498,modifier letter small capital r
+67499,modifier letter small tc digraph with curl
+67500,modifier letter small ts digraph
+67501,modifier letter small ts digraph with retroflex hook
+67502,modifier letter small tesh digraph
+67503,modifier letter small t with retroflex hook
+67504,modifier letter small v with right hook
+67506,modifier letter small capital y
+67507,modifier letter glottal stop with stroke
+67508,modifier letter reversed glottal stop with stroke
+67509,modifier letter bilabial click
+67510,modifier letter dental click
+67511,modifier letter lateral click
+67512,modifier letter alveolar click
+67513,modifier letter retroflex click with retroflex hook
+67514,modifier letter small s with curl

@@ -1,0 +1,60 @@
+43824,latin small letter barred alpha
+43825,latin small letter a reversed-schwa
+43826,latin small letter blackletter e
+43827,latin small letter barred e
+43828,latin small letter e with flourish
+43829,latin small letter lenis f
+43830,latin small letter script g with crossed-tail
+43831,latin small letter l with inverted lazy s
+43832,latin small letter l with double middle tilde
+43833,latin small letter l with middle ring
+43834,latin small letter m with crossed-tail
+43835,latin small letter n with crossed-tail
+43836,latin small letter eng with crossed-tail
+43837,latin small letter blackletter o
+43838,latin small letter blackletter o with stroke
+43839,latin small letter open o with stroke
+43840,latin small letter inverted oe
+43841,latin small letter turned oe with stroke
+43842,latin small letter turned oe with horizontal stroke
+43843,latin small letter turned o open-o
+43844,latin small letter turned o open-o with stroke
+43845,latin small letter stirrup r
+43846,latin letter small capital r with right leg
+43847,latin small letter r without handle
+43848,latin small letter double r
+43849,latin small letter r with crossed-tail
+43850,latin small letter double r with crossed-tail
+43851,latin small letter script r
+43852,latin small letter script r with ring
+43853,latin small letter baseline esh
+43854,latin small letter u with short right leg
+43855,latin small letter u bar with short right leg
+43856,latin small letter ui
+43857,latin small letter turned ui
+43858,latin small letter u with left hook
+43859,latin small letter chi
+43860,latin small letter chi with low right ring
+43861,latin small letter chi with low left serif
+43862,latin small letter x with low right ring
+43863,latin small letter x with long left leg
+43864,latin small letter x with long left leg and low right ring
+43865,latin small letter x with long left leg with serif
+43866,latin small letter y with short right leg
+43867,modifier breve with inverted breve
+43868,modifier letter small heng
+43869,modifier letter small l with inverted lazy s
+43870,modifier letter small l with middle tilde
+43871,modifier letter small u with left hook
+43872,latin small letter sakha yat
+43873,latin small letter iotified e
+43874,latin small letter open oe
+43875,latin small letter uo
+43876,latin small letter inverted alpha
+43877,greek letter small capital omega
+43878,latin small letter dz digraph with retroflex hook
+43879,latin small letter ts digraph with retroflex hook
+43880,latin small letter turned r with middle tilde
+43881,modifier letter small turned w
+43882,modifier letter left tack
+43883,modifier letter right tack

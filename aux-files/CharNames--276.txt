@@ -1,0 +1,4 @@
+113824,shorthand format letter overlap
+113825,shorthand format continuing overlap
+113826,shorthand format down step
+113827,shorthand format up step

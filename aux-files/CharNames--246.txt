@@ -1,0 +1,63 @@
+73056,gunjala gondi letter a
+73057,gunjala gondi letter aa
+73058,gunjala gondi letter i
+73059,gunjala gondi letter ii
+73060,gunjala gondi letter u
+73061,gunjala gondi letter uu
+73063,gunjala gondi letter ee
+73064,gunjala gondi letter ai
+73066,gunjala gondi letter oo
+73067,gunjala gondi letter au
+73068,gunjala gondi letter ya
+73069,gunjala gondi letter va
+73070,gunjala gondi letter ba
+73071,gunjala gondi letter bha
+73072,gunjala gondi letter ma
+73073,gunjala gondi letter ka
+73074,gunjala gondi letter kha
+73075,gunjala gondi letter ta
+73076,gunjala gondi letter tha
+73077,gunjala gondi letter la
+73078,gunjala gondi letter ga
+73079,gunjala gondi letter gha
+73080,gunjala gondi letter da
+73081,gunjala gondi letter dha
+73082,gunjala gondi letter na
+73083,gunjala gondi letter ca
+73084,gunjala gondi letter cha
+73085,gunjala gondi letter tta
+73086,gunjala gondi letter ttha
+73087,gunjala gondi letter lla
+73088,gunjala gondi letter ja
+73089,gunjala gondi letter jha
+73090,gunjala gondi letter dda
+73091,gunjala gondi letter ddha
+73092,gunjala gondi letter nga
+73093,gunjala gondi letter pa
+73094,gunjala gondi letter pha
+73095,gunjala gondi letter ha
+73096,gunjala gondi letter ra
+73097,gunjala gondi letter sa
+73098,gunjala gondi vowel sign aa
+73099,gunjala gondi vowel sign i
+73100,gunjala gondi vowel sign ii
+73101,gunjala gondi vowel sign u
+73102,gunjala gondi vowel sign uu
+73104,gunjala gondi vowel sign ee
+73105,gunjala gondi vowel sign ai
+73107,gunjala gondi vowel sign oo
+73108,gunjala gondi vowel sign au
+73109,gunjala gondi sign anusvara
+73110,gunjala gondi sign visarga
+73111,gunjala gondi virama
+73112,gunjala gondi om
+73120,gunjala gondi digit zero
+73121,gunjala gondi digit one
+73122,gunjala gondi digit two
+73123,gunjala gondi digit three
+73124,gunjala gondi digit four
+73125,gunjala gondi digit five
+73126,gunjala gondi digit six
+73127,gunjala gondi digit seven
+73128,gunjala gondi digit eight
+73129,gunjala gondi digit nine

@@ -1,0 +1,341 @@
+67072,linear a sign ab001
+67073,linear a sign ab002
+67074,linear a sign ab003
+67075,linear a sign ab004
+67076,linear a sign ab005
+67077,linear a sign ab006
+67078,linear a sign ab007
+67079,linear a sign ab008
+67080,linear a sign ab009
+67081,linear a sign ab010
+67082,linear a sign ab011
+67083,linear a sign ab013
+67084,linear a sign ab016
+67085,linear a sign ab017
+67086,linear a sign ab020
+67087,linear a sign ab021
+67088,linear a sign ab021f
+67089,linear a sign ab021m
+67090,linear a sign ab022
+67091,linear a sign ab022f
+67092,linear a sign ab022m
+67093,linear a sign ab023
+67094,linear a sign ab023m
+67095,linear a sign ab024
+67096,linear a sign ab026
+67097,linear a sign ab027
+67098,linear a sign ab028
+67099,linear a sign a028b
+67100,linear a sign ab029
+67101,linear a sign ab030
+67102,linear a sign ab031
+67103,linear a sign ab034
+67104,linear a sign ab037
+67105,linear a sign ab038
+67106,linear a sign ab039
+67107,linear a sign ab040
+67108,linear a sign ab041
+67109,linear a sign ab044
+67110,linear a sign ab045
+67111,linear a sign ab046
+67112,linear a sign ab047
+67113,linear a sign ab048
+67114,linear a sign ab049
+67115,linear a sign ab050
+67116,linear a sign ab051
+67117,linear a sign ab053
+67118,linear a sign ab054
+67119,linear a sign ab055
+67120,linear a sign ab056
+67121,linear a sign ab057
+67122,linear a sign ab058
+67123,linear a sign ab059
+67124,linear a sign ab060
+67125,linear a sign ab061
+67126,linear a sign ab065
+67127,linear a sign ab066
+67128,linear a sign ab067
+67129,linear a sign ab069
+67130,linear a sign ab070
+67131,linear a sign ab073
+67132,linear a sign ab074
+67133,linear a sign ab076
+67134,linear a sign ab077
+67135,linear a sign ab078
+67136,linear a sign ab079
+67137,linear a sign ab080
+67138,linear a sign ab081
+67139,linear a sign ab082
+67140,linear a sign ab085
+67141,linear a sign ab086
+67142,linear a sign ab087
+67143,linear a sign a100-102
+67144,linear a sign ab118
+67145,linear a sign ab120
+67146,linear a sign a120b
+67147,linear a sign ab122
+67148,linear a sign ab123
+67149,linear a sign ab131a
+67150,linear a sign ab131b
+67151,linear a sign a131c
+67152,linear a sign ab164
+67153,linear a sign ab171
+67154,linear a sign ab180
+67155,linear a sign ab188
+67156,linear a sign ab191
+67157,linear a sign a301
+67158,linear a sign a302
+67159,linear a sign a303
+67160,linear a sign a304
+67161,linear a sign a305
+67162,linear a sign a306
+67163,linear a sign a307
+67164,linear a sign a308
+67165,linear a sign a309a
+67166,linear a sign a309b
+67167,linear a sign a309c
+67168,linear a sign a310
+67169,linear a sign a311
+67170,linear a sign a312
+67171,linear a sign a313a
+67172,linear a sign a313b
+67173,linear a sign a313c
+67174,linear a sign a314
+67175,linear a sign a315
+67176,linear a sign a316
+67177,linear a sign a317
+67178,linear a sign a318
+67179,linear a sign a319
+67180,linear a sign a320
+67181,linear a sign a321
+67182,linear a sign a322
+67183,linear a sign a323
+67184,linear a sign a324
+67185,linear a sign a325
+67186,linear a sign a326
+67187,linear a sign a327
+67188,linear a sign a328
+67189,linear a sign a329
+67190,linear a sign a330
+67191,linear a sign a331
+67192,linear a sign a332
+67193,linear a sign a333
+67194,linear a sign a334
+67195,linear a sign a335
+67196,linear a sign a336
+67197,linear a sign a337
+67198,linear a sign a338
+67199,linear a sign a339
+67200,linear a sign a340
+67201,linear a sign a341
+67202,linear a sign a342
+67203,linear a sign a343
+67204,linear a sign a344
+67205,linear a sign a345
+67206,linear a sign a346
+67207,linear a sign a347
+67208,linear a sign a348
+67209,linear a sign a349
+67210,linear a sign a350
+67211,linear a sign a351
+67212,linear a sign a352
+67213,linear a sign a353
+67214,linear a sign a354
+67215,linear a sign a355
+67216,linear a sign a356
+67217,linear a sign a357
+67218,linear a sign a358
+67219,linear a sign a359
+67220,linear a sign a360
+67221,linear a sign a361
+67222,linear a sign a362
+67223,linear a sign a363
+67224,linear a sign a364
+67225,linear a sign a365
+67226,linear a sign a366
+67227,linear a sign a367
+67228,linear a sign a368
+67229,linear a sign a369
+67230,linear a sign a370
+67231,linear a sign a371
+67232,linear a sign a400-vas
+67233,linear a sign a401-vas
+67234,linear a sign a402-vas
+67235,linear a sign a403-vas
+67236,linear a sign a404-vas
+67237,linear a sign a405-vas
+67238,linear a sign a406-vas
+67239,linear a sign a407-vas
+67240,linear a sign a408-vas
+67241,linear a sign a409-vas
+67242,linear a sign a410-vas
+67243,linear a sign a411-vas
+67244,linear a sign a412-vas
+67245,linear a sign a413-vas
+67246,linear a sign a414-vas
+67247,linear a sign a415-vas
+67248,linear a sign a416-vas
+67249,linear a sign a417-vas
+67250,linear a sign a418-vas
+67251,linear a sign a501
+67252,linear a sign a502
+67253,linear a sign a503
+67254,linear a sign a504
+67255,linear a sign a505
+67256,linear a sign a506
+67257,linear a sign a508
+67258,linear a sign a509
+67259,linear a sign a510
+67260,linear a sign a511
+67261,linear a sign a512
+67262,linear a sign a513
+67263,linear a sign a515
+67264,linear a sign a516
+67265,linear a sign a520
+67266,linear a sign a521
+67267,linear a sign a523
+67268,linear a sign a524
+67269,linear a sign a525
+67270,linear a sign a526
+67271,linear a sign a527
+67272,linear a sign a528
+67273,linear a sign a529
+67274,linear a sign a530
+67275,linear a sign a531
+67276,linear a sign a532
+67277,linear a sign a534
+67278,linear a sign a535
+67279,linear a sign a536
+67280,linear a sign a537
+67281,linear a sign a538
+67282,linear a sign a539
+67283,linear a sign a540
+67284,linear a sign a541
+67285,linear a sign a542
+67286,linear a sign a545
+67287,linear a sign a547
+67288,linear a sign a548
+67289,None
+67290,None
+67291,None
+67292,None
+67293,None
+67294,None
+67295,None
+67296,None
+67297,None
+67298,None
+67299,None
+67300,None
+67301,None
+67302,None
+67303,None
+67304,None
+67305,None
+67306,None
+67307,None
+67308,None
+67309,None
+67310,None
+67311,None
+67312,None
+67313,None
+67314,None
+67315,None
+67316,None
+67317,None
+67318,None
+67319,None
+67320,None
+67321,None
+67322,None
+67323,None
+67324,None
+67325,None
+67326,None
+67327,None
+67328,None
+67329,linear a sign a596
+67330,linear a sign a598
+67331,linear a sign a600
+67332,linear a sign a601
+67333,linear a sign a602
+67334,linear a sign a603
+67335,linear a sign a604
+67336,linear a sign a606
+67337,linear a sign a608
+67338,linear a sign a609
+67339,linear a sign a610
+67340,linear a sign a611
+67341,linear a sign a612
+67342,linear a sign a613
+67343,linear a sign a614
+67344,linear a sign a615
+67345,linear a sign a616
+67346,linear a sign a617
+67347,linear a sign a618
+67348,linear a sign a619
+67349,linear a sign a620
+67350,linear a sign a621
+67351,linear a sign a622
+67352,linear a sign a623
+67353,linear a sign a624
+67354,linear a sign a626
+67355,linear a sign a627
+67356,linear a sign a628
+67357,linear a sign a629
+67358,linear a sign a634
+67359,linear a sign a637
+67360,linear a sign a638
+67361,linear a sign a640
+67362,linear a sign a642
+67363,linear a sign a643
+67364,linear a sign a644
+67365,linear a sign a645
+67366,linear a sign a646
+67367,linear a sign a648
+67368,linear a sign a649
+67369,linear a sign a651
+67370,linear a sign a652
+67371,linear a sign a653
+67372,linear a sign a654
+67373,linear a sign a655
+67374,linear a sign a656
+67375,linear a sign a657
+67376,linear a sign a658
+67377,linear a sign a659
+67378,linear a sign a660
+67379,linear a sign a661
+67380,linear a sign a662
+67381,linear a sign a663
+67382,linear a sign a664
+67392,linear a sign a701 a
+67393,linear a sign a702 b
+67394,linear a sign a703 d
+67395,linear a sign a704 e
+67396,linear a sign a705 f
+67397,linear a sign a706 h
+67398,linear a sign a707 j
+67399,linear a sign a708 k
+67400,linear a sign a709 l
+67401,linear a sign a709-2 l2
+67402,linear a sign a709-3 l3
+67403,linear a sign a709-4 l4
+67404,linear a sign a709-6 l6
+67405,linear a sign a710 w
+67406,linear a sign a711 x
+67407,linear a sign a712 y
+67408,linear a sign a713 omega
+67409,linear a sign a714 abb
+67410,linear a sign a715 bb
+67411,linear a sign a717 dd
+67412,linear a sign a726 eyyy
+67413,linear a sign a732 je
+67424,linear a sign a800
+67425,linear a sign a801
+67426,linear a sign a802
+67427,linear a sign a803
+67428,linear a sign a804
+67429,linear a sign a805
+67430,linear a sign a806
+67431,linear a sign a807

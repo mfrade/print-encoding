@@ -1,0 +1,91 @@
+93760,medefaidrin capital letter m
+93761,medefaidrin capital letter s
+93762,medefaidrin capital letter v
+93763,medefaidrin capital letter w
+93764,medefaidrin capital letter atiu
+93765,medefaidrin capital letter z
+93766,medefaidrin capital letter kp
+93767,medefaidrin capital letter p
+93768,medefaidrin capital letter t
+93769,medefaidrin capital letter g
+93770,medefaidrin capital letter f
+93771,medefaidrin capital letter i
+93772,medefaidrin capital letter k
+93773,medefaidrin capital letter a
+93774,medefaidrin capital letter j
+93775,medefaidrin capital letter e
+93776,medefaidrin capital letter b
+93777,medefaidrin capital letter c
+93778,medefaidrin capital letter u
+93779,medefaidrin capital letter yu
+93780,medefaidrin capital letter l
+93781,medefaidrin capital letter q
+93782,medefaidrin capital letter hp
+93783,medefaidrin capital letter ny
+93784,medefaidrin capital letter x
+93785,medefaidrin capital letter d
+93786,medefaidrin capital letter oe
+93787,medefaidrin capital letter n
+93788,medefaidrin capital letter r
+93789,medefaidrin capital letter o
+93790,medefaidrin capital letter ai
+93791,medefaidrin capital letter y
+93792,medefaidrin small letter m
+93793,medefaidrin small letter s
+93794,medefaidrin small letter v
+93795,medefaidrin small letter w
+93796,medefaidrin small letter atiu
+93797,medefaidrin small letter z
+93798,medefaidrin small letter kp
+93799,medefaidrin small letter p
+93800,medefaidrin small letter t
+93801,medefaidrin small letter g
+93802,medefaidrin small letter f
+93803,medefaidrin small letter i
+93804,medefaidrin small letter k
+93805,medefaidrin small letter a
+93806,medefaidrin small letter j
+93807,medefaidrin small letter e
+93808,medefaidrin small letter b
+93809,medefaidrin small letter c
+93810,medefaidrin small letter u
+93811,medefaidrin small letter yu
+93812,medefaidrin small letter l
+93813,medefaidrin small letter q
+93814,medefaidrin small letter hp
+93815,medefaidrin small letter ny
+93816,medefaidrin small letter x
+93817,medefaidrin small letter d
+93818,medefaidrin small letter oe
+93819,medefaidrin small letter n
+93820,medefaidrin small letter r
+93821,medefaidrin small letter o
+93822,medefaidrin small letter ai
+93823,medefaidrin small letter y
+93824,medefaidrin digit zero
+93825,medefaidrin digit one
+93826,medefaidrin digit two
+93827,medefaidrin digit three
+93828,medefaidrin digit four
+93829,medefaidrin digit five
+93830,medefaidrin digit six
+93831,medefaidrin digit seven
+93832,medefaidrin digit eight
+93833,medefaidrin digit nine
+93834,medefaidrin number ten
+93835,medefaidrin number eleven
+93836,medefaidrin number twelve
+93837,medefaidrin number thirteen
+93838,medefaidrin number fourteen
+93839,medefaidrin number fifteen
+93840,medefaidrin number sixteen
+93841,medefaidrin number seventeen
+93842,medefaidrin number eighteen
+93843,medefaidrin number nineteen
+93844,medefaidrin digit one alternate form
+93845,medefaidrin digit two alternate form
+93846,medefaidrin digit three alternate form
+93847,medefaidrin comma
+93848,medefaidrin full stop
+93849,medefaidrin symbol aiva
+93850,medefaidrin exclamation oh

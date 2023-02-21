@@ -1,0 +1,68 @@
+69760,kaithi sign candrabindu
+69761,kaithi sign anusvara
+69762,kaithi sign visarga
+69763,kaithi letter a
+69764,kaithi letter aa
+69765,kaithi letter i
+69766,kaithi letter ii
+69767,kaithi letter u
+69768,kaithi letter uu
+69769,kaithi letter e
+69770,kaithi letter ai
+69771,kaithi letter o
+69772,kaithi letter au
+69773,kaithi letter ka
+69774,kaithi letter kha
+69775,kaithi letter ga
+69776,kaithi letter gha
+69777,kaithi letter nga
+69778,kaithi letter ca
+69779,kaithi letter cha
+69780,kaithi letter ja
+69781,kaithi letter jha
+69782,kaithi letter nya
+69783,kaithi letter tta
+69784,kaithi letter ttha
+69785,kaithi letter dda
+69786,kaithi letter dddha
+69787,kaithi letter ddha
+69788,kaithi letter rha
+69789,kaithi letter nna
+69790,kaithi letter ta
+69791,kaithi letter tha
+69792,kaithi letter da
+69793,kaithi letter dha
+69794,kaithi letter na
+69795,kaithi letter pa
+69796,kaithi letter pha
+69797,kaithi letter ba
+69798,kaithi letter bha
+69799,kaithi letter ma
+69800,kaithi letter ya
+69801,kaithi letter ra
+69802,kaithi letter la
+69803,kaithi letter va
+69804,kaithi letter sha
+69805,kaithi letter ssa
+69806,kaithi letter sa
+69807,kaithi letter ha
+69808,kaithi vowel sign aa
+69809,kaithi vowel sign i
+69810,kaithi vowel sign ii
+69811,kaithi vowel sign u
+69812,kaithi vowel sign uu
+69813,kaithi vowel sign e
+69814,kaithi vowel sign ai
+69815,kaithi vowel sign o
+69816,kaithi vowel sign au
+69817,kaithi sign virama
+69818,kaithi sign nukta
+69819,kaithi abbreviation sign
+69820,kaithi enumeration sign
+69821,kaithi number sign
+69822,kaithi section mark
+69823,kaithi double section mark
+69824,kaithi danda
+69825,kaithi double danda
+69826,kaithi vowel sign vocalic r
+69837,kaithi number sign above

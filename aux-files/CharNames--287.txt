@@ -1,0 +1,31 @@
+122624,latin small letter feng digraph with trill
+122625,latin small letter reversed script g
+122626,latin letter small capital turned g
+122627,latin small letter reversed k
+122628,latin letter small capital l with belt
+122629,latin small letter lezh with retroflex hook
+122630,latin small letter turned y with belt
+122631,latin small letter reversed eng
+122632,latin small letter turned r with long leg and retroflex hook
+122633,latin small letter t with hook and retroflex hook
+122634,latin letter retroflex click with retroflex hook
+122635,latin small letter esh with double bar
+122636,latin small letter esh with double bar and curl
+122637,latin small letter turned t with curl
+122638,latin letter inverted glottal stop with curl
+122639,latin letter stretched c with curl
+122640,latin letter small capital turned k
+122641,latin small letter l with fishhook
+122642,latin small letter dezh digraph with palatal hook
+122643,latin small letter l with belt and palatal hook
+122644,latin small letter eng with palatal hook
+122645,latin small letter turned r with palatal hook
+122646,latin small letter r with fishhook and palatal hook
+122647,latin small letter tesh digraph with palatal hook
+122648,latin small letter ezh with palatal hook
+122649,latin small letter dezh digraph with retroflex hook
+122650,latin small letter i with stroke and retroflex hook
+122651,latin small letter o with retroflex hook
+122652,latin small letter tesh digraph with retroflex hook
+122653,latin small letter c with retroflex hook
+122654,latin small letter s with curl
