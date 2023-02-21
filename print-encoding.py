@@ -83,7 +83,7 @@ def read_unicode_blocks_file(filename):
 #########
 def read_charnames_file(filename):
     if not os.path.exists(filename):
-        url = "https://www.unic"
+        url = "https://github.com/mfrade/print-encoding/raw/charnames/Charnames.txt"
         download_file(url, filename)
     with open(filename, "r") as file:
 
@@ -153,7 +153,7 @@ def print_header():
           'UTF-16LE'.rjust(column_width),
           'Char'.rjust(column_width-3),
           'Block'.rjust(column_width-1),
-          '   Block description')
+          '   Block - char description')
 
 def print_seperator():
     column_width = 9
@@ -163,7 +163,7 @@ def print_seperator():
           '────────'.rjust(column_width),
           '──────'.rjust(column_width-2),
           '───────'.rjust(column_width-1),
-          ' ────────────────────────')
+          ' ──────────────────────────')
 
 def print_header_top():
     print("")

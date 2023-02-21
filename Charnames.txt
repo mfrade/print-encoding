@@ -93,6 +93,7 @@
 124,vertical line
 125,right curly bracket
 126,tilde
+127,delete
 128,<control>
 129,<control>
 130,break permitted here
@@ -220,6 +221,7 @@
 252,latin small letter u with diaeresis
 253,latin small letter y with acute
 254,latin small letter thorn
+255,latin small letter y with diaeresis
 256,latin capital letter a with macron
 257,latin small letter a with macron
 258,latin capital letter a with breve
@@ -347,6 +349,7 @@
 380,latin small letter z with dot above
 381,latin capital letter z with caron
 382,latin small letter z with caron
+383,latin small letter long s
 384,latin small letter b with stroke
 385,latin capital letter b with hook
 386,latin capital letter b with topbar
@@ -554,6 +557,7 @@
 588,latin capital letter r with stroke
 589,latin small letter r with stroke
 590,latin capital letter y with stroke
+591,latin small letter y with stroke
 592,latin small letter turned a
 593,latin small letter alpha
 594,latin small letter turned alpha
@@ -649,6 +653,7 @@
 684,latin letter bilabial percussive
 685,latin letter bidental percussive
 686,latin small letter turned h with fishhook
+687,latin small letter turned h with fishhook and tail
 688,modifier letter small h
 689,modifier letter small h with hook
 690,modifier letter small j
@@ -728,6 +733,7 @@
 764,modifier letter end low tone
 765,modifier letter shelf
 766,modifier letter open shelf
+767,modifier letter low left arrow
 768,combining grave accent
 769,combining acute accent
 770,combining circumflex accent
@@ -839,6 +845,7 @@
 876,combining latin small letter r
 877,combining latin small letter t
 878,combining latin small letter v
+879,combining latin small letter x
 880,greek capital letter heta
 881,greek small letter heta
 882,greek capital letter archaic sampi
@@ -973,6 +980,7 @@
 1020,greek rho with stroke symbol
 1021,greek capital reversed lunate sigma symbol
 1022,greek capital dotted lunate sigma symbol
+1023,greek capital reversed dotted lunate sigma symbol
 1024,cyrillic capital letter ie with grave
 1025,cyrillic capital letter io
 1026,cyrillic capital letter dje
@@ -1228,6 +1236,7 @@
 1276,cyrillic capital letter ha with hook
 1277,cyrillic small letter ha with hook
 1278,cyrillic capital letter ha with stroke
+1279,cyrillic small letter ha with stroke
 1280,cyrillic capital letter komi de
 1281,cyrillic small letter komi de
 1282,cyrillic capital letter komi dje
@@ -1275,6 +1284,7 @@
 1324,cyrillic capital letter dche
 1325,cyrillic small letter dche
 1326,cyrillic capital letter el with descender
+1327,cyrillic small letter el with descender
 1329,armenian capital letter ayb
 1330,armenian capital letter ben
 1331,armenian capital letter gim
@@ -1365,6 +1375,7 @@
 1418,armenian hyphen
 1421,right-facing armenian eternity sign
 1422,left-facing armenian eternity sign
+1423,armenian dram sign
 1425,hebrew accent etnahta
 1426,hebrew accent segol
 1427,hebrew accent shalshelet
@@ -1708,6 +1719,7 @@
 1788,arabic letter ghain with dot below
 1789,arabic sign sindhi ampersand
 1790,arabic sign sindhi postposition men
+1791,arabic letter heh with inverted v
 1792,syriac end of paragraph
 1793,syriac supralinear full stop
 1794,syriac sublinear full stop
@@ -1784,6 +1796,7 @@
 1866,syriac barrekh
 1869,syriac letter sogdian zhain
 1870,syriac letter sogdian khaph
+1871,syriac letter sogdian fe
 1872,arabic letter beh with three dots horizontally below
 1873,arabic letter beh with dot below and three dots above
 1874,arabic letter beh with three dots pointing upwards below
@@ -1831,6 +1844,7 @@
 1916,arabic letter hah with extended arabic-indic digit four below
 1917,arabic letter seen with extended arabic-indic digit four above
 1918,arabic letter seen with inverted v
+1919,arabic letter kaf with two dots above
 1920,thaana letter haa
 1921,thaana letter shaviyani
 1922,thaana letter noonu
@@ -1942,6 +1956,7 @@
 2042,nko lajanyalan
 2045,nko dantayalan
 2046,nko dorome sign
+2047,nko taman sign
 2048,samaritan letter alaf
 2049,samaritan letter bit
 2050,samaritan letter gaman
@@ -2083,6 +2098,7 @@
 2204,arabic madda waajib
 2205,arabic superscript alef mokhassas
 2206,arabic doubled madda
+2207,arabic half madda over madda
 2208,arabic letter beh with small v below
 2209,arabic letter beh with hamza above
 2210,arabic letter jeem with two dots above
@@ -2178,6 +2194,7 @@
 2300,arabic double right arrowhead above with dot
 2301,arabic right arrowhead above with dot
 2302,arabic damma with dot
+2303,arabic mark sideways noon ghunna
 2304,devanagari sign inverted candrabindu
 2305,devanagari sign candrabindu
 2306,devanagari sign anusvara
@@ -2305,6 +2322,7 @@
 2428,devanagari letter jja
 2429,devanagari letter glottal stop
 2430,devanagari letter ddda
+2431,devanagari letter bba
 2432,bengali anji
 2433,bengali sign candrabindu
 2434,bengali sign anusvara
@@ -2577,6 +2595,7 @@
 2812,gujarati sign maddah
 2813,gujarati sign three-dot nukta above
 2814,gujarati sign circle nukta above
+2815,gujarati sign two-circle nukta above
 2817,oriya sign candrabindu
 2818,oriya sign anusvara
 2819,oriya sign visarga
@@ -2845,6 +2864,7 @@
 3196,telugu fraction digit one for even powers of four
 3197,telugu fraction digit two for even powers of four
 3198,telugu fraction digit three for even powers of four
+3199,telugu sign tuumu
 3200,kannada sign spacing candrabindu
 3201,kannada sign candrabindu
 3202,kannada sign anusvara
@@ -3056,6 +3076,7 @@
 3452,malayalam letter chillu rr
 3453,malayalam letter chillu l
 3454,malayalam letter chillu ll
+3455,malayalam letter chillu k
 3457,sinhala sign candrabindu
 3458,sinhala sign anusvaraya
 3459,sinhala sign visargaya
@@ -3686,6 +3707,7 @@
 4252,myanmar vowel sign aiton a
 4253,myanmar vowel sign aiton ai
 4254,myanmar symbol shan one
+4255,myanmar symbol shan exclamation
 4256,georgian capital letter an
 4257,georgian capital letter ban
 4258,georgian capital letter gan
@@ -3773,6 +3795,7 @@
 4348,modifier letter georgian nar
 4349,georgian letter aen
 4350,georgian letter hard sign
+4351,georgian letter labial sign
 4352,hangul choseong kiyeok
 4353,hangul choseong ssangkiyeok
 4354,hangul choseong nieun
@@ -4028,6 +4051,7 @@
 4604,hangul jongseong kiyeok-chieuch
 4605,hangul jongseong kiyeok-khieukh
 4606,hangul jongseong kiyeok-hieuh
+4607,hangul jongseong ssangnieun
 4608,ethiopic syllable ha
 4609,ethiopic syllable hu
 4610,ethiopic syllable hi
@@ -5143,6 +5167,7 @@
 5756,canadian syllabics woods-cree thwa
 5757,canadian syllabics woods-cree thwaa
 5758,canadian syllabics woods-cree final th
+5759,canadian syllabics blackfoot w
 5760,ogham space mark
 5761,ogham letter beith
 5762,ogham letter luis
@@ -5283,6 +5308,7 @@
 5907,tagalog vowel sign u
 5908,tagalog sign virama
 5909,tagalog sign pamudpod
+5919,tagalog letter archaic ra
 5920,hanunoo letter a
 5921,hanunoo letter i
 5922,hanunoo letter u
@@ -5753,6 +5779,7 @@
 6476,limbu digit six
 6477,limbu digit seven
 6478,limbu digit eight
+6479,limbu digit nine
 6480,tai le letter ka
 6481,tai le letter xa
 6482,tai le letter nga
@@ -5870,6 +5897,7 @@
 6617,new tai lue digit nine
 6618,new tai lue tham digit one
 6622,new tai lue sign lae
+6623,new tai lue sign laev
 6624,khmer symbol pathamasat
 6625,khmer symbol muoy koet
 6626,khmer symbol pii koet
@@ -5901,6 +5929,7 @@
 6652,khmer symbol dap-pii roc
 6653,khmer symbol dap-bei roc
 6654,khmer symbol dap-buon roc
+6655,khmer symbol dap-pram roc
 6656,buginese letter ka
 6657,buginese letter ga
 6658,buginese letter nga
@@ -5930,6 +5959,7 @@
 6682,buginese vowel sign o
 6683,buginese vowel sign ae
 6686,buginese pallawa
+6687,buginese end of section
 6688,tai tham letter high ka
 6689,tai tham letter high kha
 6690,tai tham letter high kxa
@@ -6275,6 +6305,7 @@
 7100,sundanese letter leu
 7101,sundanese letter bha
 7102,sundanese letter final k
+7103,sundanese letter final m
 7104,batak letter a
 7105,batak letter simalungun a
 7106,batak letter ha
@@ -6330,6 +6361,7 @@
 7164,batak symbol bindu na metek
 7165,batak symbol bindu pinarboras
 7166,batak symbol bindu judul
+7167,batak symbol bindu pangolat
 7168,lepcha letter ka
 7169,lepcha letter kla
 7170,lepcha letter kha
@@ -6403,6 +6435,7 @@
 7241,lepcha digit nine
 7245,lepcha letter tta
 7246,lepcha letter ttha
+7247,lepcha letter dda
 7248,ol chiki digit zero
 7249,ol chiki digit one
 7250,ol chiki digit two
@@ -6450,6 +6483,7 @@
 7292,ol chiki phaarkaa
 7293,ol chiki ahad
 7294,ol chiki punctuation mucaad
+7295,ol chiki punctuation double mucaad
 7296,cyrillic small letter rounded ve
 7297,cyrillic small letter long-legged de
 7298,cyrillic small letter narrow o
@@ -6504,6 +6538,7 @@
 7354,georgian mtavruli capital letter ain
 7357,georgian mtavruli capital letter aen
 7358,georgian mtavruli capital letter hard sign
+7359,georgian mtavruli capital letter labial sign
 7360,sundanese punctuation bindu surya
 7361,sundanese punctuation bindu panglong
 7362,sundanese punctuation bindu purnama
@@ -6682,6 +6717,7 @@
 7548,latin small letter iota with stroke
 7549,latin small letter p with stroke
 7550,latin small capital letter u with stroke
+7551,latin small letter upsilon with stroke
 7552,latin small letter b with palatal hook
 7553,latin small letter d with palatal hook
 7554,latin small letter f with palatal hook
@@ -6745,6 +6781,7 @@
 7612,modifier letter small z with retroflex hook
 7613,modifier letter small z with curl
 7614,modifier letter small ezh
+7615,modifier letter small theta
 7616,combining dotted grave accent
 7617,combining dotted acute accent
 7618,combining snake below
@@ -6808,6 +6845,7 @@
 7676,combining double inverted breve below
 7677,combining almost equal to below
 7678,combining left arrowhead above
+7679,combining right arrowhead and down arrowhead below
 7680,latin capital letter a with ring below
 7681,latin small letter a with ring below
 7682,latin capital letter b with dot above
@@ -7063,6 +7101,7 @@
 7932,latin capital letter middle-welsh v
 7933,latin small letter middle-welsh v
 7934,latin capital letter y with loop
+7935,latin small letter y with loop
 7936,greek small letter alpha with psili
 7937,greek small letter alpha with dasia
 7938,greek small letter alpha with psili and varia
@@ -7406,6 +7445,7 @@
 8300,inhibit arabic form shaping
 8301,activate arabic form shaping
 8302,national digit shapes
+8303,nominal digit shapes
 8304,superscript zero
 8305,superscript latin small letter i
 8306,<reserved>
@@ -7595,6 +7635,7 @@
 8524,per sign
 8525,aktieselskab
 8526,turned small f
+8527,symbol for samaritan source
 8528,vulgar fraction one seventh
 8529,vulgar fraction one ninth
 8530,vulgar fraction one tenth
@@ -7766,6 +7807,7 @@
 8700,left right arrow with double vertical stroke
 8701,leftwards open-headed arrow
 8702,rightwards open-headed arrow
+8703,left right open-headed arrow
 8704,for all
 8705,complement
 8706,partial differential
@@ -8021,6 +8063,7 @@
 8956,small contains with vertical bar at end of horizontal stroke
 8957,contains with overbar
 8958,small contains with overbar
+8959,z notation bag membership
 8960,diameter sign
 8961,electric arrow
 8962,house
@@ -8276,6 +8319,7 @@
 9212,power on-off symbol
 9213,power on symbol
 9214,power sleep symbol
+9215,observer eye symbol
 9216,symbol for null
 9217,symbol for start of heading
 9218,symbol for start of text
@@ -8485,6 +8529,7 @@
 9468,double circled digit eight
 9469,double circled digit nine
 9470,double circled number ten
+9471,negative circled digit zero
 9472,box drawings light horizontal
 9473,box drawings heavy horizontal
 9474,box drawings light vertical
@@ -8612,6 +8657,7 @@
 9596,box drawings light left and heavy right
 9597,box drawings light up and heavy down
 9598,box drawings heavy left and light right
+9599,box drawings heavy up and light down
 9600,upper half block
 9601,lower one eighth block
 9602,lower one quarter block
@@ -8643,6 +8689,7 @@
 9628,quadrant upper left and upper right and lower right
 9629,quadrant upper right
 9630,quadrant upper right and lower left
+9631,quadrant upper right and lower left and lower right
 9632,black square
 9633,white square
 9634,white square with rounded corners
@@ -8738,6 +8785,7 @@
 9724,black medium square
 9725,white medium small square
 9726,black medium small square
+9727,lower right triangle
 9728,black sun with rays
 9729,cloud
 9730,umbrella
@@ -8993,6 +9041,7 @@
 9980,headstone graveyard symbol
 9981,fuel pump
 9982,cup on black square
+9983,white flag with horizontal middle black stripe
 9984,black safety scissors
 9985,upper blade scissors
 9986,black scissors
@@ -9184,6 +9233,7 @@
 10172,wedge-tailed rightwards arrow
 10173,heavy wedge-tailed rightwards arrow
 10174,open-outlined rightwards arrow
+10175,double curly loop
 10176,three dimensional angle
 10177,white triangle containing small white triangle
 10178,perpendicular
@@ -9231,6 +9281,7 @@
 10220,mathematical left white tortoise shell bracket
 10221,mathematical right white tortoise shell bracket
 10222,mathematical left flattened parenthesis
+10223,mathematical right flattened parenthesis
 10224,upwards quadruple arrow
 10225,downwards quadruple arrow
 10226,anticlockwise gapped circle arrow
@@ -9246,6 +9297,7 @@
 10236,long rightwards arrow from bar
 10237,long leftwards double arrow from bar
 10238,long rightwards double arrow from bar
+10239,long rightwards squiggle arrow
 10240,braille pattern blank
 10241,braille pattern dots-1
 10242,braille pattern dots-2
@@ -9501,6 +9553,7 @@
 10492,braille pattern dots-345678
 10493,braille pattern dots-1345678
 10494,braille pattern dots-2345678
+10495,braille pattern dots-12345678
 10496,rightwards two-headed arrow with vertical stroke
 10497,rightwards two-headed arrow with double vertical stroke
 10498,leftwards double arrow with vertical stroke
@@ -9628,6 +9681,7 @@
 10620,left fish tail
 10621,right fish tail
 10622,up fish tail
+10623,down fish tail
 10624,triple vertical bar delimiter
 10625,z notation spot
 10626,z notation type colon
@@ -9755,6 +9809,7 @@
 10748,left-pointing curved angle bracket
 10749,right-pointing curved angle bracket
 10750,tiny
+10751,miny
 10752,n-ary circled dot operator
 10753,n-ary circled plus operator
 10754,n-ary circled times operator
@@ -10010,6 +10065,7 @@
 11004,large triple vertical bar operator
 11005,double solidus operator
 11006,white vertical bar
+11007,n-ary white vertical bar
 11008,north east white arrow
 11009,north west white arrow
 11010,south east white arrow
@@ -10262,6 +10318,7 @@
 11260,doubled symbol
 11261,passed symbol
 11262,reversed right angle
+11263,hellschreiber pause symbol
 11264,glagolitic capital letter azu
 11265,glagolitic capital letter buky
 11266,glagolitic capital letter vede
@@ -10357,6 +10414,7 @@
 11356,glagolitic small letter shtapic
 11357,glagolitic small letter trokutasti a
 11358,glagolitic small letter latinate myslite
+11359,glagolitic small letter caudate chrivi
 11360,latin capital letter l with double bar
 11361,latin small letter l with double bar
 11362,latin capital letter l with middle tilde
@@ -10388,6 +10446,7 @@
 11388,latin subscript small letter j
 11389,modifier letter capital v
 11390,latin capital letter s with swash tail
+11391,latin capital letter z with swash tail
 11392,coptic capital letter alfa
 11393,coptic small letter alfa
 11394,coptic capital letter vida
@@ -10510,6 +10569,7 @@
 11516,coptic old nubian verse divider
 11517,coptic fraction one half
 11518,coptic full stop
+11519,coptic morphological divider
 11520,georgian small letter an
 11521,georgian small letter ban
 11522,georgian small letter gan
@@ -10608,6 +10668,7 @@
 11623,tifinagh letter yo
 11631,tifinagh modifier letter labialization mark
 11632,tifinagh separator mark
+11647,tifinagh consonant joiner
 11648,ethiopic syllable loa
 11649,ethiopic syllable moa
 11650,ethiopic syllable roa
@@ -10718,6 +10779,7 @@
 11772,combining cyrillic letter iotified a
 11773,combining cyrillic letter little yus
 11774,combining cyrillic letter big yus
+11775,combining cyrillic letter iotified big yus
 11776,right angle substitution marker
 11777,right angle dotted substitution marker
 11778,left substitution bracket
@@ -11216,6 +11278,7 @@
 12348,masu mark
 12349,part alternation mark
 12350,ideographic variation indicator
+12351,ideographic half fill space
 12353,hiragana letter small a
 12354,hiragana letter a
 12355,hiragana letter small i
@@ -11308,6 +11371,7 @@
 12444,katakana-hiragana semi-voiced sound mark
 12445,hiragana iteration mark
 12446,hiragana voiced iteration mark
+12447,hiragana digraph yori
 12448,katakana-hiragana double hyphen
 12449,katakana letter small a
 12450,katakana letter a
@@ -11403,6 +11467,7 @@
 12540,katakana-hiragana prolonged sound mark
 12541,katakana iteration mark
 12542,katakana voiced iteration mark
+12543,katakana digraph koto
 12549,bopomofo letter b
 12550,bopomofo letter p
 12551,bopomofo letter m
@@ -11445,6 +11510,7 @@
 12588,bopomofo letter gn
 12589,bopomofo letter ih
 12590,bopomofo letter o with dot above
+12591,bopomofo letter nn
 12593,hangul letter kiyeok
 12594,hangul letter ssangkiyeok
 12595,hangul letter kiyeok-sios
@@ -11554,6 +11620,7 @@
 12700,ideographic annotation fourth mark
 12701,ideographic annotation heaven mark
 12702,ideographic annotation earth mark
+12703,ideographic annotation man mark
 12704,bopomofo letter bu
 12705,bopomofo letter zi
 12706,bopomofo letter ji
@@ -11585,6 +11652,7 @@
 12732,bopomofo letter gw
 12733,bopomofo letter kw
 12734,bopomofo letter oe
+12735,bopomofo letter ah
 12736,cjk stroke t
 12737,cjk stroke wg
 12738,cjk stroke xg
@@ -11636,6 +11704,7 @@
 12796,katakana letter small ri
 12797,katakana letter small ru
 12798,katakana letter small re
+12799,katakana letter small ro
 12800,parenthesized hangul kiyeok
 12801,parenthesized hangul nieun
 12802,parenthesized hangul tikeut
@@ -11890,6 +11959,7 @@
 13052,circled katakana wi
 13053,circled katakana we
 13054,circled katakana wo
+13055,square era name reiwa
 13056,square apaato
 13057,square aruhua
 13058,square anpea
@@ -12145,6 +12215,7 @@
 13308,ideographic telegraph symbol for day twenty-nine
 13309,ideographic telegraph symbol for day thirty
 13310,ideographic telegraph symbol for day thirty-one
+13311,square gal
 13312,(same as u+4e18 丘) hillock or mound | cjk ideograph
 13313,to lick; to taste, a mat, bamboo bark | cjk ideograph
 13314,(j) non-standard form of u+559c 喜, to like, love, enjoy; a joyful thing | cjk ideograph
@@ -18240,6 +18311,7 @@
 19964,hexagram for inner truth
 19965,hexagram for small preponderance
 19966,hexagram for after completion
+19967,hexagram for before completion
 19968,one; a, an; alone | cjk ideograph
 19969,male adult; robust, vigorous; 4th heavenly stem | cjk ideograph
 19970,obstruction of breath (qi) as it seeks release; variant of other characters | cjk ideograph
@@ -23473,47 +23545,33 @@
 26922,machilus nanmu, variety of evergreen | cjk ideograph
 26925,oval-shaped, elliptical, tubular | cjk ideograph
 26928,palm tree, coconut palm | cjk ideograph
-26929,None
-26930,None
-26931,None
-26932,None
-26933,None
-26934,None
-26935,None
-26936,None
-26937,None
-26938,None
-26939,None
-26940,None
-26941,None
-26942,None
-26943,None
-26944,None
-26945,None
-26946,None
-26947,None
-26948,None
-26949,None
-26950,None
-26951,None
-26953,None
-26954,None
-26955,None
+26931,the pivots, at the top and bottom of a chinese door, on which the door turns | cjk ideograph
+26932,poplar, aspen | cjk ideograph
+26933,pompelmous; canque (breech, rump, buttock) | cjk ideograph
+26934,palm tree | cjk ideograph
+26935,box; casket; letter; envelope | cjk ideograph
+26936,rack | cjk ideograph
+26937,a chopping board | cjk ideograph
+26938,beam of a house | cjk ideograph
+26941,beams, rafters, supports | cjk ideograph
+26942,variant of 箋|笺[jian1] | cjk ideograph
+26943,father; a plant with white flowers | cjk ideograph
+26944,name of tree; surname | cjk ideograph
+26946,a raft, to hew, to fell trees | cjk ideograph
+26948,block | cjk ideograph
+26949,wooden board | cjk ideograph
+26954,willow, poplar, aspen; surname | cjk ideograph
+26955,to plant trees (old) | cjk ideograph
 26957,old variant of 本[ben3] | cjk ideograph
 26958,peg | cjk ideograph
-26959,None
-26960,None
-26961,None
-26962,None
-26963,None
-26964,None
-26965,None
-26966,None
-26967,None
-26968,None
-26969,None
+26963,maple tree | cjk ideograph
+26964,wedge; gatepost; foreword | cjk ideograph
+26965,oval-shaped, elliptical, tubular | cjk ideograph
+26967,bar of door, bolt of lock | cjk ideograph
+26968,band | cjk ideograph
+26969,name of plant; lush | cjk ideograph
 26970,name of feudal state; clear | cjk ideograph
-26971,None
+26971,coarse, crude; plant | cjk ideograph
 26973,melia japonica | cjk ideograph
 26974,used for ceylon in buddhist texts | cjk ideograph
 26975,tree | cjk ideograph
@@ -30179,52 +30237,45 @@
 36462,to whirl, pirouette | cjk ideograph
 36463,an animal's paws | cjk ideograph
 36464,hesitate, waver, falter | cjk ideograph
-36465,None
-36466,None
-36467,None
-36468,None
-36469,None
-36470,None
-36471,None
-36472,None
-36473,None
-36474,None
-36475,None
-36476,None
-36477,None
-36478,None
-36479,None
-36480,None
-36481,None
-36482,None
-36483,None
-36484,None
-36485,None
-36486,None
-36487,None
-36489,None
-36490,None
-36491,None
-36492,None
-36493,None
-36494,None
-36495,None
-36496,None
-36497,None
-36498,None
-36499,None
-36500,None
-36501,None
-36502,None
-36503,None
-36504,None
-36505,None
-36506,None
+36465,to stagger along; to fall | cjk ideograph
+36466,squat, crouch; idle about | cjk ideograph
+36468,kick; tread on; leap; solemn | cjk ideograph
+36469,to tread on; to kick | cjk ideograph
+36470,stumble, fall down; trample | cjk ideograph
+36471,to kick back; to stumble, slip, fall | cjk ideograph
+36473,to tread on; to stamp; to walk | cjk ideograph
+36474,raise one's foot | cjk ideograph
+36475,to raise the feet; to cross the legs; brave; sandals | cjk ideograph
+36476,webbed feet of waterfowl | cjk ideograph
+36477,to run/to slip away/to stride | cjk ideograph
+36478,to squat; to crouch | cjk ideograph
+36479,leap; to jump; to spurt out | cjk ideograph
+36480,(cant.) to stumble over, to fall | cjk ideograph
+36481,tense, excited, irritable | cjk ideograph
+36482,stumble, slip | cjk ideograph
+36483,variant of 躄[bi4] | cjk ideograph
+36484,cripple, lame | cjk ideograph
+36485,walk carefully; hesitate, falter | cjk ideograph
+36487,hesitate, falter, be undecided | cjk ideograph
+36489,sell or buy wholesale; store | cjk ideograph
+36490,hesitate, falter; smug, self-satisfied | cjk ideograph
+36491,ascend, go up, rise | cjk ideograph
+36493,skip, jump, frolic | cjk ideograph
+36495,trample down, oppress, overrun | cjk ideograph
+36496,to stride over; to step across | cjk ideograph
+36497,waver, hesitate, be irresolute | cjk ideograph
+36498,walk, move | cjk ideograph
+36499,stumble, totter; fail, be frustrated | cjk ideograph
+36500,follow in, imitate; rut, path | cjk ideograph
+36501,hesitate, waver, falter | cjk ideograph
+36503,exaggerate | cjk ideograph
+36504,to walk | cjk ideograph
+36505,trample down, oppress, overrun | cjk ideograph
+36506,wander about, walk around; revolve | cjk ideograph
 36507,exaggerate | cjk ideograph
 36508,to jump | cjk ideograph
 36509,to pass/to step over/to creep/to twine round | cjk ideograph
 36510,to walk | cjk ideograph
-36511,None
 36512,to limp | cjk ideograph
 36513,tread, step on; follow, track | cjk ideograph
 36515,(manner of walking) | cjk ideograph
@@ -34713,6 +34764,7 @@
 42236,lisu letter tone mya na
 42237,lisu letter tone mya jeu
 42238,lisu punctuation comma
+42239,lisu punctuation full stop
 42240,vai syllable ee
 42241,vai syllable een
 42242,vai syllable hee
@@ -35108,6 +35160,7 @@
 42652,modifier letter cyrillic hard sign
 42653,modifier letter cyrillic soft sign
 42654,combining cyrillic letter ef
+42655,combining cyrillic letter iotified e
 42656,bamum letter a
 42657,bamum letter ka
 42658,bamum letter u
@@ -35227,6 +35280,7 @@
 42780,modifier letter raised down arrow
 42781,modifier letter raised exclamation mark
 42782,modifier letter raised inverted exclamation mark
+42783,modifier letter low inverted exclamation mark
 42784,modifier letter stress and high tone
 42785,modifier letter stress and low tone
 42786,latin capital letter egyptological alef
@@ -35419,6 +35473,7 @@
 43004,latin epigraphic letter reversed p
 43005,latin epigraphic letter inverted m
 43006,latin epigraphic letter i longa
+43007,latin epigraphic letter archaic m
 43008,syloti nagri letter a
 43009,syloti nagri letter i
 43010,syloti nagri sign dvisvara
@@ -35643,6 +35698,7 @@
 43260,devanagari sign siddham
 43261,devanagari jain om
 43262,devanagari letter ay
+43263,devanagari vowel sign ay
 43264,kayah li digit zero
 43265,kayah li digit one
 43266,kayah li digit two
@@ -35690,6 +35746,7 @@
 43308,kayah li tone calya
 43309,kayah li tone calya plophu
 43310,kayah li sign cwi
+43311,kayah li sign shya
 43312,rejang letter ka
 43313,rejang letter ga
 43314,rejang letter nga
@@ -35726,6 +35783,7 @@
 43345,rejang consonant sign r
 43346,rejang consonant sign h
 43347,rejang virama
+43359,rejang section mark
 43360,hangul choseong tikeut-mieum
 43361,hangul choseong tikeut-pieup
 43362,hangul choseong tikeut-sios
@@ -35845,6 +35903,7 @@
 43480,javanese digit eight
 43481,javanese digit nine
 43486,javanese pada tirta tumetes
+43487,javanese pada isen-isen
 43488,myanmar letter shan gha
 43489,myanmar letter shan cha
 43490,myanmar letter shan jha
@@ -35958,6 +36017,7 @@
 43612,cham punctuation spiral
 43613,cham punctuation danda
 43614,cham punctuation double danda
+43615,cham punctuation triple danda
 43616,myanmar letter khamti ga
 43617,myanmar letter khamti ca
 43618,myanmar letter khamti cha
@@ -35989,6 +36049,7 @@
 43644,myanmar sign tai laing tone-2
 43645,myanmar sign tai laing tone-5
 43646,myanmar letter shwe palaung cha
+43647,myanmar letter shwe palaung sha
 43648,tai viet letter low ko
 43649,tai viet letter high ko
 43650,tai viet letter low kho
@@ -36060,6 +36121,7 @@
 43740,tai viet symbol nueng
 43741,tai viet symbol sam
 43742,tai viet symbol ho hoi
+43743,tai viet symbol koi koi
 43744,meetei mayek letter e
 43745,meetei mayek letter o
 43746,meetei mayek letter cha
@@ -36254,6 +36316,7 @@
 43964,cherokee small letter wo
 43965,cherokee small letter wu
 43966,cherokee small letter wv
+43967,cherokee small letter ya
 43968,meetei mayek letter kok
 43969,meetei mayek letter sam
 43970,meetei mayek letter lai
@@ -38676,57 +38739,57 @@
 46395,hangul syllable ddalb
 46396,hangul syllable ddals
 46397,hangul syllable ddalt
-46398,None
-46399,None
-46400,None
-46401,None
-46402,None
-46403,None
-46404,None
-46405,None
-46406,None
-46407,None
-46408,None
-46409,None
-46410,None
-46411,None
-46412,None
-46413,None
-46414,None
-46415,None
-46416,None
-46417,None
-46418,None
-46419,None
-46420,None
-46421,None
-46422,None
-46423,None
-46424,None
-46425,None
-46426,None
-46427,None
-46428,None
-46429,None
-46430,None
-46431,None
-46432,None
-46433,None
-46434,None
-46435,None
-46436,None
-46437,None
+46398,hangul syllable ddalp
+46399,hangul syllable ddalh
+46400,hangul syllable ddam
+46401,hangul syllable ddab
+46402,hangul syllable ddabs
+46403,hangul syllable ddas
+46404,hangul syllable ddass
+46405,hangul syllable ddang
+46406,hangul syllable ddaj
+46407,hangul syllable ddac
+46408,hangul syllable ddak
+46409,hangul syllable ddat
+46410,hangul syllable ddap
+46411,hangul syllable ddah
+46412,hangul syllable ddae
+46413,hangul syllable ddaeg
+46414,hangul syllable ddaegg
+46415,hangul syllable ddaegs
+46416,hangul syllable ddaen
+46417,hangul syllable ddaenj
+46418,hangul syllable ddaenh
+46419,hangul syllable ddaed
+46420,hangul syllable ddael
+46421,hangul syllable ddaelg
+46422,hangul syllable ddaelm
+46423,hangul syllable ddaelb
+46424,hangul syllable ddaels
+46425,hangul syllable ddaelt
+46426,hangul syllable ddaelp
+46427,hangul syllable ddaelh
+46428,hangul syllable ddaem
+46429,hangul syllable ddaeb
+46430,hangul syllable ddaebs
+46431,hangul syllable ddaes
+46432,hangul syllable ddaess
+46433,hangul syllable ddaeng
+46434,hangul syllable ddaej
+46435,hangul syllable ddaec
+46436,hangul syllable ddaek
+46437,hangul syllable ddaet
 46438,hangul syllable ddaep
-46439,None
+46439,hangul syllable ddaeh
 46440,hangul syllable ddya
-46441,None
+46441,hangul syllable ddyag
 46442,hangul syllable ddyagg
 46443,hangul syllable ddyags
 46444,hangul syllable ddyan
 46445,hangul syllable ddyanj
 46446,hangul syllable ddyanh
 46447,hangul syllable ddyad
-46448,None
+46448,hangul syllable ddyal
 46449,hangul syllable ddyalg
 46450,hangul syllable ddyalm
 46451,hangul syllable ddyalb
@@ -48083,6 +48146,7 @@
 64332,hebrew letter bet with rafe
 64333,hebrew letter kaf with rafe
 64334,hebrew letter pe with rafe
+64335,hebrew ligature alef lamed
 64336,arabic letter alef wasla isolated form
 64337,arabic letter alef wasla final form
 64338,arabic letter beeh isolated form
@@ -48745,6 +48809,7 @@
 65020,rial sign
 65021,arabic ligature bismillah ar-rahman ar-raheem
 65022,arabic ligature subhaanahu wa taaalaa
+65023,arabic ligature azza wa jall
 65024,variation selector-1
 65025,variation selector-2
 65026,variation selector-3
@@ -48760,6 +48825,7 @@
 65036,variation selector-13
 65037,variation selector-14
 65038,variation selector-15
+65039,variation selector-16
 65040,presentation form for vertical comma
 65041,presentation form for vertical ideographic comma
 65042,presentation form for vertical ideographic full stop
@@ -48785,6 +48851,7 @@
 65068,combining macron right half below
 65069,combining conjoining macron below
 65070,combining cyrillic titlo left half
+65071,combining cyrillic titlo right half
 65072,presentation form for vertical two dot leader
 65073,presentation form for vertical em dash
 65074,presentation form for vertical en dash
@@ -48816,6 +48883,7 @@
 65100,double wavy overline
 65101,dashed low line
 65102,centreline low line
+65103,wavy low line
 65104,small comma
 65105,small ideographic comma
 65106,small full stop
@@ -48982,6 +49050,7 @@
 65274,arabic ligature lam with alef with hamza below final form
 65275,arabic ligature lam with alef isolated form
 65276,arabic ligature lam with alef final form
+65279,zero width no-break space
 65281,fullwidth exclamation mark
 65282,fullwidth quotation mark
 65283,fullwidth number sign
@@ -49213,6 +49282,7 @@
 65532,object replacement character
 65533,replacement character
 65534,<not a character>
+65535,<not a character>
 65536,linear b syllable b008 a
 65537,linear b syllable b038 e
 65538,linear b syllable b028 i
@@ -49480,6 +49550,7 @@
 65852,aegean dry measure first subunit
 65853,aegean liquid measure first subunit
 65854,aegean measure second subunit
+65855,aegean measure third subunit
 65856,greek acrophonic attic one quarter
 65857,greek acrophonic attic one half
 65858,greek acrophonic attic one drachma
@@ -49763,6 +49834,7 @@
 66339,old italic numeral fifty
 66349,old italic letter ye
 66350,old italic letter northern tse
+66351,old italic letter southern tse
 66352,gothic letter ahsa
 66353,gothic letter bairkan
 66354,gothic letter giba
@@ -49863,6 +49935,7 @@
 66459,ugaritic letter i
 66460,ugaritic letter u
 66461,ugaritic letter ssu
+66463,ugaritic word divider
 66464,old persian sign a
 66465,old persian sign i
 66466,old persian sign u
@@ -49992,6 +50065,7 @@
 66636,deseret small letter en
 66637,deseret small letter eng
 66638,deseret small letter oi
+66639,deseret small letter ew
 66640,shavian letter peep
 66641,shavian letter tot
 66642,shavian letter kick
@@ -50039,6 +50113,7 @@
 66684,shavian letter array
 66685,shavian letter ear
 66686,shavian letter ian
+66687,shavian letter yew
 66688,osmanya letter alef
 66689,osmanya letter ba
 66690,osmanya letter ta
@@ -50243,6 +50318,7 @@
 66913,caucasian albanian letter yayd
 66914,caucasian albanian letter piwr
 66915,caucasian albanian letter kiw
+66927,caucasian albanian citation mark
 66928,vithkuqi capital letter a
 66929,vithkuqi capital letter bbe
 66930,vithkuqi capital letter be
@@ -50530,46 +50606,46 @@
 67286,linear a sign a545
 67287,linear a sign a547
 67288,linear a sign a548
-67289,None
-67290,None
-67291,None
-67292,None
-67293,None
-67294,None
-67295,None
-67296,None
-67297,None
-67298,None
-67299,None
-67300,None
-67301,None
-67302,None
-67303,None
-67304,None
-67305,None
-67306,None
-67307,None
-67308,None
-67309,None
-67310,None
-67311,None
-67312,None
-67313,None
-67314,None
-67315,None
-67316,None
-67317,None
-67318,None
-67319,None
-67320,None
-67321,None
-67322,None
-67323,None
-67324,None
-67325,None
-67326,None
-67327,None
-67328,None
+67289,linear a sign a549
+67290,linear a sign a550
+67291,linear a sign a551
+67292,linear a sign a552
+67293,linear a sign a553
+67294,linear a sign a554
+67295,linear a sign a555
+67296,linear a sign a556
+67297,linear a sign a557
+67298,linear a sign a559
+67299,linear a sign a563
+67300,linear a sign a564
+67301,linear a sign a565
+67302,linear a sign a566
+67303,linear a sign a568
+67304,linear a sign a569
+67305,linear a sign a570
+67306,linear a sign a571
+67307,linear a sign a572
+67308,linear a sign a573
+67309,linear a sign a574
+67310,linear a sign a575
+67311,linear a sign a576
+67312,linear a sign a577
+67313,linear a sign a578
+67314,linear a sign a579
+67315,linear a sign a580
+67316,linear a sign a581
+67317,linear a sign a582
+67318,linear a sign a583
+67319,linear a sign a584
+67320,linear a sign a585
+67321,linear a sign a586
+67322,linear a sign a587
+67323,linear a sign a588
+67324,linear a sign a589
+67325,linear a sign a591
+67326,linear a sign a592
+67327,linear a sign a594
+67328,linear a sign a595
 67329,linear a sign a596
 67330,linear a sign a598
 67331,linear a sign a600
@@ -50765,6 +50841,7 @@
 67639,cypriot syllable xa
 67640,cypriot syllable xe
 67644,cypriot syllable za
+67647,cypriot syllable zo
 67648,imperial aramaic letter aleph
 67649,imperial aramaic letter beth
 67650,imperial aramaic letter gimel
@@ -50795,6 +50872,7 @@
 67676,imperial aramaic number twenty
 67677,imperial aramaic number one hundred
 67678,imperial aramaic number one thousand
+67679,imperial aramaic number ten thousand
 67680,palmyrene letter aleph
 67681,palmyrene letter beth
 67682,palmyrene letter gimel
@@ -50826,6 +50904,7 @@
 67708,palmyrene number four
 67709,palmyrene number five
 67710,palmyrene number ten
+67711,palmyrene number twenty
 67712,nabataean letter final aleph
 67713,nabataean letter aleph
 67714,nabataean letter final beth
@@ -50833,46 +50912,39 @@
 67716,nabataean letter gimel
 67717,nabataean letter daleth
 67718,nabataean letter final he
-67719,None
-67720,None
-67721,None
-67722,None
-67723,None
-67724,None
-67725,None
-67726,None
-67727,None
-67728,None
-67729,None
-67730,None
-67731,None
-67732,None
-67733,None
-67734,None
-67735,None
-67736,None
-67737,None
-67738,None
-67739,None
-67740,None
-67741,None
-67742,None
-67743,None
-67744,None
-67745,None
-67746,None
-67747,None
-67748,None
-67749,None
-67750,None
-67751,None
-67752,None
-67753,None
-67754,None
-67755,None
-67756,None
-67757,None
-67758,None
+67719,nabataean letter he
+67720,nabataean letter waw
+67721,nabataean letter zayin
+67722,nabataean letter heth
+67723,nabataean letter teth
+67724,nabataean letter final yodh
+67725,nabataean letter yodh
+67726,nabataean letter final kaph
+67727,nabataean letter kaph
+67728,nabataean letter final lamedh
+67729,nabataean letter lamedh
+67730,nabataean letter final mem
+67731,nabataean letter mem
+67732,nabataean letter final nun
+67733,nabataean letter nun
+67734,nabataean letter samekh
+67735,nabataean letter ayin
+67736,nabataean letter pe
+67737,nabataean letter sadhe
+67738,nabataean letter qoph
+67739,nabataean letter resh
+67740,nabataean letter final shin
+67741,nabataean letter shin
+67742,nabataean letter taw
+67751,nabataean number one
+67752,nabataean number two
+67753,nabataean number three
+67754,nabataean number four
+67755,nabataean cruciform number four
+67756,nabataean number five
+67757,nabataean number ten
+67758,nabataean number twenty
+67759,nabataean number one hundred
 67808,hatran letter aleph
 67809,hatran letter beth
 67810,hatran letter gimel
@@ -50898,6 +50970,7 @@
 67836,hatran number five
 67837,hatran number ten
 67838,hatran number twenty
+67839,hatran number one hundred
 67840,phoenician letter alf
 67841,phoenician letter bet
 67842,phoenician letter gaml
@@ -50926,6 +50999,7 @@
 67865,phoenician number one hundred
 67866,phoenician number two
 67867,phoenician number three
+67871,phoenician word separator
 67872,lydian letter a
 67873,lydian letter b
 67874,lydian letter g
@@ -50952,6 +51026,7 @@
 67895,lydian letter ly
 67896,lydian letter nn
 67897,lydian letter c
+67903,lydian triangular mark
 67968,meroitic hieroglyphic letter a
 67969,meroitic hieroglyphic letter e
 67970,meroitic hieroglyphic letter i
@@ -50983,6 +51058,7 @@
 67996,meroitic hieroglyphic letter to
 67997,meroitic hieroglyphic letter da
 67998,meroitic hieroglyphic symbol vidj
+67999,meroitic hieroglyphic symbol vidj-2
 68000,meroitic cursive letter a
 68001,meroitic cursive letter e
 68002,meroitic cursive letter i
@@ -51072,6 +51148,7 @@
 68092,meroitic cursive fraction seven twelfths
 68093,meroitic cursive fraction eight twelfths
 68094,meroitic cursive fraction nine twelfths
+68095,meroitic cursive fraction ten twelfths
 68096,kharoshthi letter a
 68097,kharoshthi vowel sign i
 68098,kharoshthi vowel sign u
@@ -51171,6 +51248,7 @@
 68220,old south arabian letter theth
 68221,old south arabian number one
 68222,old south arabian number fifty
+68223,old south arabian numeric indicator
 68224,old north arabian letter heh
 68225,old north arabian letter lam
 68226,old north arabian letter hah
@@ -51202,6 +51280,7 @@
 68252,old north arabian letter zah
 68253,old north arabian number one
 68254,old north arabian number ten
+68255,old north arabian number twenty
 68288,manichaean letter aleph
 68289,manichaean letter beth
 68290,manichaean letter bheth
@@ -51313,6 +51392,7 @@
 68412,large two dots over one dot punctuation
 68413,large one dot over two dots punctuation
 68414,large two rings over one ring punctuation
+68415,large one ring over two rings punctuation
 68416,inscriptional parthian letter aleph
 68417,inscriptional parthian letter beth
 68418,inscriptional parthian letter gimel
@@ -51342,6 +51422,7 @@
 68444,inscriptional parthian number ten
 68445,inscriptional parthian number twenty
 68446,inscriptional parthian number one hundred
+68447,inscriptional parthian number one thousand
 68448,inscriptional pahlavi letter aleph
 68449,inscriptional pahlavi letter beth
 68450,inscriptional pahlavi letter gimel
@@ -51368,6 +51449,7 @@
 68476,inscriptional pahlavi number ten
 68477,inscriptional pahlavi number twenty
 68478,inscriptional pahlavi number one hundred
+68479,inscriptional pahlavi number one thousand
 68480,psalter pahlavi letter aleph
 68481,psalter pahlavi letter beth
 68482,psalter pahlavi letter gimel
@@ -51396,6 +51478,7 @@
 68524,psalter pahlavi number four
 68525,psalter pahlavi number ten
 68526,psalter pahlavi number twenty
+68527,psalter pahlavi number one hundred
 68608,old turkic letter orkhon a
 68609,old turkic letter yenisei a
 68610,old turkic letter yenisei ae
@@ -51576,6 +51659,7 @@
 68860,old hungarian number ten
 68861,old hungarian number fifty
 68862,old hungarian number one hundred
+68863,old hungarian number one thousand
 68864,hanifi rohingya letter a
 68865,hanifi rohingya letter ba
 68866,hanifi rohingya letter pa
@@ -51977,6 +52061,7 @@
 69747,brahmi vowel sign old tamil short e
 69748,brahmi vowel sign old tamil short o
 69749,brahmi letter old tamil lla
+69759,brahmi number joiner
 69760,kaithi sign candrabindu
 69761,kaithi sign anusvara
 69762,kaithi sign visarga
@@ -52285,6 +52370,7 @@
 70108,sharada headstroke
 70109,sharada continuation sign
 70110,sharada section mark-1
+70111,sharada section mark-2
 70113,sinhala archaic digit one
 70114,sinhala archaic digit two
 70115,sinhala archaic digit three
@@ -53199,6 +53285,7 @@
 71920,warang citi number seventy
 71921,warang citi number eighty
 71922,warang citi number ninety
+71935,warang citi om
 71936,dives akuru letter a
 71937,dives akuru letter aa
 71938,dives akuru letter i
@@ -53506,6 +53593,7 @@
 72380,canadian syllabics spe
 72381,canadian syllabics spi
 72382,canadian syllabics spo
+72383,canadian syllabics spa
 72384,pau cin hau letter pa
 72385,pau cin hau letter ka
 72386,pau cin hau letter la
@@ -53942,6 +54030,7 @@
 73711,tamil starting from sign
 73712,tamil sign muthaliya
 73713,tamil sign vakaiyaraa
+73727,tamil punctuation end of text
 73728,cuneiform sign a
 73729,cuneiform sign a times a
 73730,cuneiform sign a times bad
@@ -57549,6 +57638,7 @@
 92776,mro digit eight
 92777,mro digit nine
 92782,mro danda
+92783,mro double danda
 92784,tangsa letter oz
 92785,tangsa letter oc
 92786,tangsa letter oq
@@ -57800,6 +57890,7 @@
 93068,pahawh hmong clan sign yaj
 93069,pahawh hmong clan sign tswb
 93070,pahawh hmong clan sign kwm
+93071,pahawh hmong clan sign vwj
 93760,medefaidrin capital letter m
 93761,medefaidrin capital letter s
 93762,medefaidrin capital letter v
@@ -58039,6 +58130,7 @@
 94108,miao letter reformed tone-4
 94109,miao letter reformed tone-5
 94110,miao letter reformed tone-6
+94111,miao letter reformed tone-8
 94176,tangut iteration mark
 94177,nushu iteration mark
 94178,old chinese hook mark
@@ -58813,6 +58905,7 @@
 101116,tangut component-765
 101117,tangut component-766
 101118,tangut component-767
+101119,tangut component-768
 101120,khitan small script character-18b00
 101121,khitan small script character-18b01
 101122,khitan small script character-18b02
@@ -59551,6 +59644,7 @@
 110844,hentaigana letter ru-5
 110845,hentaigana letter ru-6
 110846,hentaigana letter re-1
+110847,hentaigana letter re-2
 110848,hentaigana letter re-3
 110849,hentaigana letter re-4
 110850,hentaigana letter ro-1
@@ -60131,6 +60225,7 @@
 113820,duployan sign o with cross
 113821,duployan thick letter selector
 113822,duployan double mark
+113823,duployan punctuation chinook full stop
 113824,shorthand format letter overlap
 113825,shorthand format continuing overlap
 113826,shorthand format down step
@@ -62020,6 +62115,7 @@
 120828,mathematical monospace digit six
 120829,mathematical monospace digit seven
 120830,mathematical monospace digit eight
+120831,mathematical monospace digit nine
 120832,signwriting hand-fist index
 120833,signwriting hand-circle index
 120834,signwriting hand-cup index
@@ -62691,6 +62787,7 @@
 121516,signwriting rotation modifier-13
 121517,signwriting rotation modifier-14
 121518,signwriting rotation modifier-15
+121519,signwriting rotation modifier-16
 122624,latin small letter feng digraph with trill
 122625,latin small letter reversed script g
 122626,latin letter small capital turned g
@@ -62830,6 +62927,7 @@
 123208,nyiakeng puachue hmong digit eight
 123209,nyiakeng puachue hmong digit nine
 123214,nyiakeng puachue hmong logogram nyaj
+123215,nyiakeng puachue hmong circled ca
 123536,toto letter pa
 123537,toto letter ba
 123538,toto letter ta
@@ -62919,6 +63017,7 @@
 123639,wancho digit seven
 123640,wancho digit eight
 123641,wancho digit nine
+123647,wancho ngun sign
 124896,ethiopic syllable hhya
 124897,ethiopic syllable hhyu
 124898,ethiopic syllable hhyi
@@ -63247,6 +63346,7 @@
 125272,adlam digit eight
 125273,adlam digit nine
 125278,adlam initial exclamation mark
+125279,adlam initial question mark
 126065,indic siyaq number one
 126066,indic siyaq number two
 126067,indic siyaq number three
@@ -63944,6 +64044,7 @@
 127484,regional indicator symbol letter w
 127485,regional indicator symbol letter x
 127486,regional indicator symbol letter y
+127487,regional indicator symbol letter z
 127488,square hiragana hoka
 127489,squared katakana koko
 127490,squared katakana sa
@@ -64775,6 +64876,7 @@
 128508,tokyo tower
 128509,statue of liberty
 128510,silhouette of japan
+128511,moyai
 128512,grinning face
 128513,grinning face with smiling eyes
 128514,face with tears of joy
@@ -64854,6 +64956,7 @@
 128588,person raising both hands in celebration
 128589,person frowning
 128590,person with pouting face
+128591,person with folded hands
 128592,north west pointing leaf
 128593,south west pointing leaf
 128594,north east pointing leaf
@@ -64901,6 +65004,7 @@
 128636,very heavy solidus
 128637,very heavy reverse solidus
 128638,checker board
+128639,reverse checker board
 128640,rocket
 128641,helicopter
 128642,steam locomotive
@@ -65641,6 +65745,7 @@
 129532,bar of soap
 129533,sponge
 129534,receipt
+129535,nazar amulet
 129536,neutral chess king
 129537,neutral chess queen
 129538,neutral chess rook
@@ -66325,46 +66430,7 @@
 140159,spike | cjk ideograph
 140275,pulled taut | cjk ideograph
 140327,a stand, frame | cjk ideograph
-140411,None
-140412,None
-140413,None
-140414,None
-140415,None
-140416,None
-140417,None
-140418,None
-140419,None
-140420,None
-140421,None
-140422,None
-140423,None
-140424,None
-140425,None
-140426,None
-140427,None
-140428,None
-140429,None
-140430,None
-140431,None
-140432,None
-140433,None
-140434,None
-140435,None
-140436,None
-140437,None
-140438,None
-140439,None
-140440,None
-140441,None
-140442,None
-140443,None
-140444,None
-140445,None
-140446,None
-140447,None
-140448,None
-140449,None
-140450,None
+140425,a surname | cjk ideograph
 140473,surname | cjk ideograph
 140752,sincere, enthusiastic | cjk ideograph
 140805,(cant.) flurried, flustered; arbitrarily | cjk ideograph
@@ -66619,42 +66685,6 @@
 155359,glutinous rice | cjk ideograph
 155391,to stick; sticky | cjk ideograph
 155480,broken grain, bran | cjk ideograph
-155599,None
-155600,None
-155601,None
-155602,None
-155603,None
-155604,None
-155605,None
-155606,None
-155607,None
-155608,None
-155609,None
-155610,None
-155611,None
-155612,None
-155613,None
-155614,None
-155615,None
-155616,None
-155617,None
-155618,None
-155619,None
-155620,None
-155621,None
-155622,None
-155624,None
-155626,None
-155627,None
-155628,None
-155629,None
-155630,None
-155631,None
-155633,None
-155634,None
-155635,None
-155636,None
-155639,None
 155655,the past; a classic | cjk ideograph
 155799,(cant.) to tighten | cjk ideograph
 155813,(cant.) to drop down | cjk ideograph
@@ -66863,46 +66893,7 @@
 169460,(cant.) classifier for odors | cjk ideograph
 169735,thin wafers in which meat and other foods are rolled and eaten | cjk ideograph
 169760,(cant.) soft rice for a small child | cjk ideograph
-169795,None
-169796,None
-169797,None
-169798,None
-169799,None
-169800,None
-169801,None
-169802,None
-169803,None
-169804,None
-169805,None
-169806,None
-169807,None
-169808,None
-169809,None
-169810,None
-169811,None
-169812,None
-169813,None
-169814,None
-169815,None
-169816,None
-169817,None
-169818,None
-169820,None
-169821,None
-169822,None
-169823,None
-169824,None
-169825,None
-169826,None
-169827,None
-169828,None
-169829,None
-169830,None
-169831,None
-169833,None
-169834,None
-169835,None
-169837,None
+169824,spoiled provisions | cjk ideograph
 169924,sacrificial grain | cjk ideograph
 169940,(cant., vulg.) to eat | cjk ideograph
 170001,top, head, summit | cjk ideograph
@@ -67077,44 +67068,6 @@
 184068,ounce (apothecary symbol ℥) | cjk ideograph
 184342,manage, control; thousandth part of tael | cjk ideograph
 185218,a kind of edible mushroom | cjk ideograph
-188950,None
-188951,None
-188952,None
-188953,None
-188954,None
-188955,None
-188956,None
-188957,None
-188958,None
-188959,None
-188960,None
-188961,None
-188962,None
-188963,None
-188964,None
-188965,None
-188966,None
-188967,None
-188968,None
-188969,None
-188970,None
-188971,None
-188972,None
-188973,None
-188974,None
-188975,None
-188977,None
-188978,None
-188979,None
-188980,None
-188981,None
-188982,None
-188983,None
-188984,None
-188985,None
-188986,None
-188988,None
-188989,None
 194560,cjk compatibility ideograph-2f800
 194561,cjk compatibility ideograph-2f801
 194562,cjk compatibility ideograph-2f802
@@ -67660,45 +67613,6 @@
 197149,(cant.) awry; slanting; askew | cjk ideograph
 197928,(cant.) to put down | cjk ideograph
 197946,(cant.) to poke | cjk ideograph
-198063,None
-198064,None
-198065,None
-198066,None
-198067,None
-198068,None
-198069,None
-198070,None
-198071,None
-198072,None
-198073,None
-198074,None
-198075,None
-198076,None
-198077,None
-198078,None
-198079,None
-198080,None
-198081,None
-198082,None
-198083,None
-198084,None
-198085,None
-198086,None
-198088,None
-198089,None
-198090,None
-198091,None
-198092,None
-198093,None
-198094,None
-198095,None
-198096,None
-198097,None
-198098,None
-198099,None
-198100,None
-198101,None
-198102,None
 200413,biangbiang noodles | cjk ideograph
 200414,biangbiang noodles | cjk ideograph
 200822,swing | cjk ideograph
@@ -67799,6 +67713,7 @@
 917628,tag vertical line
 917629,tag right curly bracket
 917630,tag tilde
+917631,cancel tag
 917760,variation selector-17
 917761,variation selector-18
 917762,variation selector-19
@@ -68038,141 +67953,6 @@
 917996,variation selector-253
 917997,variation selector-254
 917998,variation selector-255
-127,delete
-255,latin small letter y with diaeresis
-383,latin small letter long s
-591,latin small letter y with stroke
-687,latin small letter turned h with fishhook and tail
-767,modifier letter low left arrow
-879,combining latin small letter x
-1023,greek capital reversed dotted lunate sigma symbol
-1279,cyrillic small letter ha with stroke
-1327,cyrillic small letter el with descender
-1423,armenian dram sign
-1791,arabic letter heh with inverted v
-1871,syriac letter sogdian fe
-1919,arabic letter kaf with two dots above
-2047,nko taman sign
-2207,arabic half madda over madda
-2303,arabic mark sideways noon ghunna
-2431,devanagari letter bba
-2815,gujarati sign two-circle nukta above
-3199,telugu sign tuumu
-3455,malayalam letter chillu k
-4255,myanmar symbol shan exclamation
-4351,georgian letter labial sign
-4607,hangul jongseong ssangnieun
-5759,canadian syllabics blackfoot w
-5919,tagalog letter archaic ra
-6479,limbu digit nine
-6623,new tai lue sign laev
-6655,khmer symbol dap-pram roc
-6687,buginese end of section
-7103,sundanese letter final m
-7167,batak symbol bindu pangolat
-7247,lepcha letter dda
-7295,ol chiki punctuation double mucaad
-7359,georgian mtavruli capital letter labial sign
-7551,latin small letter upsilon with stroke
-7615,modifier letter small theta
-7679,combining right arrowhead and down arrowhead below
-7935,latin small letter y with loop
-8303,nominal digit shapes
-8527,symbol for samaritan source
-8703,left right open-headed arrow
-8959,z notation bag membership
-9215,observer eye symbol
-9471,negative circled digit zero
-9599,box drawings heavy up and light down
-9631,quadrant upper right and lower left and lower right
-9727,lower right triangle
-9983,white flag with horizontal middle black stripe
-10175,double curly loop
-10223,mathematical right flattened parenthesis
-10239,long rightwards squiggle arrow
-10495,braille pattern dots-12345678
-10623,down fish tail
-10751,miny
-11007,n-ary white vertical bar
-11263,hellschreiber pause symbol
-11359,glagolitic small letter caudate chrivi
-11391,latin capital letter z with swash tail
-11519,coptic morphological divider
-11647,tifinagh consonant joiner
-11775,combining cyrillic letter iotified big yus
-12351,ideographic half fill space
-12447,hiragana digraph yori
-12543,katakana digraph koto
-12591,bopomofo letter nn
-12703,ideographic annotation man mark
-12735,bopomofo letter ah
-12799,katakana letter small ro
-13055,square era name reiwa
-13311,square gal
-19967,hexagram for before completion
-42239,lisu punctuation full stop
-42655,combining cyrillic letter iotified e
-42783,modifier letter low inverted exclamation mark
-43007,latin epigraphic letter archaic m
-43263,devanagari vowel sign ay
-43311,kayah li sign shya
-43359,rejang section mark
-43487,javanese pada isen-isen
-43615,cham punctuation triple danda
-43647,myanmar letter shwe palaung sha
-43743,tai viet symbol koi koi
-43967,cherokee small letter ya
-64335,hebrew ligature alef lamed
-65023,arabic ligature azza wa jall
-65039,variation selector-16
-65071,combining cyrillic titlo right half
-65103,wavy low line
-65279,zero width no-break space
-65535,<not a character>
-65855,aegean measure third subunit
-66351,old italic letter southern tse
-66463,ugaritic word divider
-66639,deseret small letter ew
-66687,shavian letter yew
-66927,caucasian albanian citation mark
-67647,cypriot syllable zo
-67679,imperial aramaic number ten thousand
-67711,palmyrene number twenty
-67759,nabataean number one hundred
-67839,hatran number one hundred
-67871,phoenician word separator
-67903,lydian triangular mark
-67999,meroitic hieroglyphic symbol vidj-2
-68095,meroitic cursive fraction ten twelfths
-68223,old south arabian numeric indicator
-68255,old north arabian number twenty
-68415,large one ring over two rings punctuation
-68447,inscriptional parthian number one thousand
-68479,inscriptional pahlavi number one thousand
-68527,psalter pahlavi number one hundred
-68863,old hungarian number one thousand
-69759,brahmi number joiner
-70111,sharada section mark-2
-71935,warang citi om
-72383,canadian syllabics spa
-73727,tamil punctuation end of text
-92783,mro double danda
-93071,pahawh hmong clan sign vwj
-94111,miao letter reformed tone-8
-101119,tangut component-768
-110847,hentaigana letter re-2
-113823,duployan punctuation chinook full stop
-120831,mathematical monospace digit nine
-121519,signwriting rotation modifier-16
-123215,nyiakeng puachue hmong circled ca
-123647,wancho ngun sign
-125279,adlam initial question mark
-127487,regional indicator symbol letter z
-128511,moyai
-128591,person with folded hands
-128639,reverse checker board
-129535,nazar amulet
-917631,cancel tag
 917999,variation selector-256
 1048575,<not a character>
 1114111,<not a character>
