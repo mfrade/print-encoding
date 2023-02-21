@@ -30,8 +30,7 @@ def process_arguments():
 
 
 #########
-def download_file(filename):
-    url = "https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
+def download_file(url, filename):
 
     print(f"Downloading file from:", url)
     try:
@@ -75,9 +74,35 @@ def read_file(filename):
 #########
 def read_unicode_blocks_file(filename):
     if not os.path.exists(filename):
-        download_file(filename)
+        url = "https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
+        download_file(url, filename)
     ranges = read_file(filename)
     return ranges
+
+
+#########
+def read_charnames_file(filename):
+    if not os.path.exists(filename):
+        url = "https://www.unic"
+        download_file(url, filename)
+    with open(filename, "r") as file:
+
+        # Create an empty dictionary
+        hashtable = {}
+
+        # Loop through each line in the file
+        for line in file:
+
+            # Split the line by comma
+            fields = line.strip().split(",")
+
+            # Extract the ID and name fields
+            id = int(fields[0].strip())
+            name = fields[1].strip()
+
+            # Store the data in the dictionary
+            hashtable[id] = name
+        return hashtable
 
 
 #########
@@ -87,13 +112,26 @@ def print_unicode_blocks(ranges):
 
 
 #########
+def get_charname(id, hashtable):
+    """
+    Given an ID and a hashtable, returns the name associated with the ID.
+    Returns None if the ID is not found in the hashtable.
+    """
+    if id in hashtable:
+        return hashtable[id]
+    else:
+        return "<unknown>"
+
+
+#########
 def print_encodings(ranges, decimal):
-    char=chr(decimal)
+    char = chr(decimal)
     utf8_hex = codecs.encode(char, 'utf-8').hex()
     utf16le_hex = codecs.encode(char, 'utf-16le').hex()
     utf32be_hex = codecs.encode(char, 'utf-32be').hex()
     order, description = get_range_description(ranges, decimal)
-    str_order=str(order).zfill(3)
+    str_order = str(order).zfill(3)
+    charname = get_charname(decimal, charnames)
 
     column_width = 9
     print(f'{decimal}'.rjust(column_width),
@@ -102,7 +140,8 @@ def print_encodings(ranges, decimal):
           f'{utf16le_hex}'.rjust(column_width),
           f'{char}'.rjust(4),
           f'\t   {str_order}'.rjust(7),
-          f'    {description}')
+          f'    {description} -',
+          f'{charname}')
 
     #print(f'd:{decimal}\tUTF-32BE:{utf32be_hex}\tUTF-8:{utf8_hex}\tUTF-16LE:{utf16le_hex}\t Char: {char}\t{order}. {description}')
 
@@ -190,9 +229,13 @@ def get_range_description(ranges: List[Range], D: int) -> None:
 home = os.path.expanduser("~")
 basedir = home + "/.local/share/"
 filename = basedir + "Unicode-Blocks.txt"
+charnamesfile = basedir + "Charnames.txt"
+
 
 args = process_arguments()
 ranges = read_unicode_blocks_file(filename)
+charnames = read_charnames_file(charnamesfile)
+
 
 if args.list:
     print_unicode_blocks(ranges)
