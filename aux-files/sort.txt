@@ -1,0 +1,2 @@
+# sort command to produce the final Charnames.txt file
+sort -t ',' -k1n Charnames.txt -o output.txt
