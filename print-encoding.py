@@ -15,7 +15,8 @@ import argparse
 
 
 Range = namedtuple('Range', ['begin', 'end', 'description', 'order'])
-
+url_block = "https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
+url_charnames = "https://github.com/mfrade/print-encoding/raw/charnames/Charnames.txt"
 
 #########
 def process_arguments():
@@ -74,8 +75,8 @@ def read_file(filename):
 #########
 def read_unicode_blocks_file(filename):
     if not os.path.exists(filename):
-        url = "https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
-        download_file(url, filename)
+        #url = "https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt"
+        download_file(url_block, filename)
     ranges = read_file(filename)
     return ranges
 
@@ -83,8 +84,8 @@ def read_unicode_blocks_file(filename):
 #########
 def read_charnames_file(filename):
     if not os.path.exists(filename):
-        url = "https://github.com/mfrade/print-encoding/raw/charnames/Charnames.txt"
-        download_file(url, filename)
+        #url = "https://github.com/mfrade/print-encoding/raw/charnames/Charnames.txt"
+        download_file(url_charnames, filename)
     with open(filename, "r") as file:
 
         # Create an empty dictionary
@@ -237,11 +238,14 @@ ranges = read_unicode_blocks_file(filename)
 charnames = read_charnames_file(charnamesfile)
 
 
+
 if args.list:
     print_unicode_blocks(ranges)
 
 if args.redownload:
-    download_file(filename)
+    download_file(url_block, filename)
+    download_file(url_charnames, charnamesfile)
+
 
 if args.block:
     print_unicode_block_n(ranges, args.block)
