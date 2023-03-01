@@ -1,6 +1,11 @@
 # print-encoding
 A script to print characters to and from unicode.
 
+## Install
+
+```Shell
+pip install print-encoding
+```
 
 ## Usage
 
