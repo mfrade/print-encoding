@@ -10,7 +10,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='print-encoding',
-     version='1.2',
+     version='1.3',
      scripts=['print-encoding'] ,
      author="Miguel Frade",
      #author_email="deepak.kumar.iet@gmail.com",
