@@ -6,7 +6,7 @@ A script to print characters to and from unicode.
 
 ```Shell
 print-encoding -h
-usage: print-encoding.py [-h] [-l] [-r] [-b BLOCK] [-u UNICODE] [-d DECIMAL] [CHARACTERS ...]
+usage: print-encoding [-h] [-l] [-r] [-b BLOCK] [-u UNICODE] [-d DECIMAL] [CHARACTERS ...]
 
 A script to print characters to and from unicode.
 
